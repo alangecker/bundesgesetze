@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 1477
 
-Geändert durch
-:   § 103 G v. 24.8.1976 I 2485
+Zuletzt geändert durch
+:   Art. 21 G v. 8.7.2016 I 1594
 
 
 ## Art 1
@@ -34,12 +34,8 @@ Geändert durch
 -
 
 
-## Art 4 Erstattung von Aufwendungen
+## Art 4 (weggefallen)
 
-Die Bundesregierung regelt durch Rechtsverordnung mit Zustimmung des
-Bundesrates das Nähere über die Berechnung und Durchführung der
-Erstattung nach § 1304b Abs. 2 Satz 2 der Reichsversicherungsordnung
-und § 83b Abs. 2 Satz 2 des Angestelltenversicherungsgesetzes.
 
 
 ## Art 5
@@ -47,12 +43,8 @@ und § 83b Abs. 2 Satz 2 des Angestelltenversicherungsgesetzes.
 -
 
 
-## Art 6 Berlin-Klausel
+## Art 6 (weggefallen)
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. dieses
-Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
 
 
 ## Art 7 Inkrafttreten

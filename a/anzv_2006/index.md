@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 2006, 3245
 
 Zuletzt geändert durch
-:   Art. 2 V v. 20.3.2009 I 562
+:   Art. 24 Abs. 30 G v. 23.6.2017 I 1693
 
+Stand: Berichtigung vom 3.4.2017 I 793 ist berücksichtigt
 Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute
@@ -59,146 +60,396 @@ S. 3187) geändert worden ist:
 (1) Die Anzeigen und die Unterlagen, die nach dem Kreditwesengesetz zu
 erstatten oder vorzulegen sind und durch diese Verordnung näher
 bestimmt werden, sind vorbehaltlich abweichender Bestimmungen in
-dieser Verordnung jeweils in einfacher Ausfertigung der Bundesanstalt
-für Finanzdienstleistungsaufsicht (Bundesanstalt) und der für das
-Institut zuständigen Hauptverwaltung der Deutschen Bundesbank
-einzureichen. Anzeigen und Vorlagen von Unterlagen von Finanzholding-
-Gesellschaften und gemischten Finanzholding-Gesellschaften nach § 12a
-Abs. 1 Satz 3, Abs. 3 und § 24 Abs. 3a des Kreditwesengesetzes sind
-der Hauptverwaltung, in deren Bereich das übergeordnete Unternehmen
-nach § 10a Abs. 3 Satz 4 des Kreditwesengesetzes in der ab dem 1.
-Januar 2007 geltenden Fassung oder das konglomeratsangehörige
-Unternehmen aus der Banken- und Wertpapierdienstleistungsbranche mit
-der höchsten Bilanzsumme seinen Sitz hat, einzureichen.
+dieser Verordnung jeweils in einfacher Ausfertigung der
+Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes
+(Aufsichtsbehörde) und der für das Institut zuständigen
+Hauptverwaltung der Deutschen Bundesbank einzureichen. Anzeigen und
+Vorlagen von Unterlagen von Finanzholding-Gesellschaften und
+gemischten Finanzholding-Gesellschaften nach § 12a Absatz 1 Satz 3 und
+§ 24 Absatz 3a des Kreditwesengesetzes sind der Hauptverwaltung, in
+deren Bereich das übergeordnete Unternehmen nach § 10a Absatz 2 Satz 1
+des Kreditwesengesetzes oder das konglomeratsangehörige Unternehmen
+aus der Banken- und Wertpapierdienstleistungsbranche mit der höchsten
+Bilanzsumme seinen Sitz hat, einzureichen.
 
-(2) Kreditinstitute, die einem genossenschaftlichen Prüfungsverband
+(2) Sofern die Bundesanstalt für Finanzdienstleistungsaufsicht
+(Bundesanstalt) Aufsichtsbehörde ist und der Bundesanstalt eine
+entsprechende Einverständniserklärung des Verbandes vorliegt, haben
+Kreditinstitute, die einem genossenschaftlichen Prüfungsverband
 angeschlossen sind oder durch die Prüfungsstelle eines Sparkassen- und
-Giroverbandes geprüft werden, haben, sofern der Bundesanstalt eine
-entsprechende Einverständniserklärung des Verbandes vorliegt, die nach
-dieser Verordnung zu erstattenden Anzeigen und vorzulegenden
-Unterlagen, mit Ausnahme der Anzeige nach § 24 Abs. 1a Nr. 4 des
-Kreditwesengesetzes, über ihren Verband mit je einer weiteren, für
-diesen bestimmten Ausfertigung einzureichen. Der Verband hat die
-Anzeigen und Unterlagen an die Bundesanstalt und die für das
-betroffene Institut zuständige Hauptverwaltung der Deutschen
-Bundesbank in der in dieser Verordnung jeweils bestimmten Anzahl von
-Ausfertigungen mit seiner Stellungnahme, bei Sparkassen zusammen mit
-der Stellungnahme der Prüfungsstelle, unverzüglich weiterzuleiten. Die
-Bundesanstalt kann auf die gesonderte Stellungnahme der Prüfungsstelle
-verzichten.
+Giroverbandes geprüft werden, die nach dieser Verordnung zu
+erstattenden Anzeigen und vorzulegenden Unterlagen, mit Ausnahme der
+Anzeige nach § 24 Absatz 1a Nummer 4 des Kreditwesengesetzes, über
+ihren Verband mit je einer weiteren, für diesen bestimmten
+Ausfertigung einzureichen. Der Verband hat die Anzeigen und Unterlagen
+an die Bundesanstalt und die für das betroffene Institut zuständige
+Hauptverwaltung der Deutschen Bundesbank in der in dieser Verordnung
+jeweils bestimmten Anzahl von Ausfertigungen mit seiner Stellungnahme,
+bei Sparkassen zusammen mit der Stellungnahme der Prüfungsstelle,
+unverzüglich weiterzuleiten. Die Bundesanstalt kann auf die gesonderte
+Stellungnahme der Prüfungsstelle verzichten.
+
+(3) Soweit die Europäische Zentralbank Aufsichtsbehörde im Sinne des §
+1 Absatz 5 Nummer 1 des Kreditwesengesetzes ist, sind § 24 Absatz 3c
+und § 24a Absatz 4a des Kreditwesengesetzes zu beachten.
 
 
-## § 2 (weggefallen)
+## § 2 Rechtsträgerkennung
 
--
+(1) Zur Identifizierung im Meldewesen benötigen die folgenden
+Unternehmen eine Rechtsträgerkennung:
 
-
-## § 3 Anzeigen nach § 10 Abs. 4a Satz 4 und Abs. 4b Satz 4 des Kreditwesengesetzes in Verbindung mit § 77 Abs. 2 und 3 des Investmentgesetzes (nicht realisierte Reserven, Sachverständigenausschuss)
-
-(1) Anzeigen nach § 10 Abs. 4a Satz 4 des Kreditwesengesetzes sind mit
-dem Formular "Anzeige nach § 10 Abs. 4a Satz 4 KWG" nach Anlage 2
-dieser Verordnung auf Verlangen der Bundesanstalt einzureichen. Ferner
-sind auf Verlangen der Bundesanstalt die Bewertungsunterlagen
-vorzulegen.
-
-(2) Anzeigen über die Bestellung der Mitglieder von
-Sachverständigenausschüssen nach § 10 Abs. 4b Satz 4 des
-Kreditwesengesetzes in Verbindung mit § 77 Abs. 3 Satz 1 des
-Investmentgesetzes, über das Ausscheiden eines Sachverständigen oder
-über Änderungen der Angaben nach Satz 2 sind der Bundesanstalt in
-zweifacher Ausfertigung einzureichen. Den Anzeigen über die Bestellung
-der Mitglieder von Sachverständigenausschüssen sind folgende
-Unterlagen beizufügen:
-
-1.  ein lückenloser, unterzeichneter Lebenslauf des Sachverständigen, der
-    sämtliche Vornamen, den Geburtsnamen, den Geburtstag, den Geburtsort,
-    die Privatanschrift und die Staatsangehörigkeit, eine eingehende
-    Darlegung der fachlichen Vorbildung mit Nachweisen ausreichender
-    theoretischer und praktischer Kenntnisse im Immobilienwesen und auf
-    dem Gebiet der Beleihungswertermittlung von Grundstücken enthält,
+1.  Kreditinstitute,
 
 
-2.  eine Erklärung entsprechend § 5 Abs. 1 Satz 1 Nr. 2 und Satz 2 sowie
+2.  CRR-Wertpapierfirmen,
 
 
-3.  eine Erklärung des Sachverständigen, ob er Angestellter des Instituts
-    oder eines mit diesem verbundenen Unternehmens ist, Mitglied eines
-    Aufsichtsorgans des Instituts oder eines mit diesem verbundenen
-    Unternehmens ist, aus sonstigen Gründen von dem Institut oder einem
-    mit diesem verbundenen Unternehmen wirtschaftlich abhängig ist, in
-    engen Beziehungen persönlicher oder verwandtschaftlicher Art zu
-    Angehörigen des Instituts oder eines mit diesem verbundenen
-    Unternehmens steht, welche die Gefahr sachfremder Beeinflussung des
-    Sachverständigen begründen können, oder Kapitalanteile an dem Institut
-    oder einem mit diesem verbundenen Unternehmen hält und welchen Wert
-    diese Kapitalanteile haben.
+3.  Finanzholding-Gesellschaften im Sinne des Artikels 4 Absatz 1 Nummer
+    20 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und
+    des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an
+    Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung
+    (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1, L 208 vom 2.8.2013,
+    S. 68, L 321 vom 30.11.2013, S. 6, L 193 vom 21.7.2015, S. 166), die
+    zuletzt durch die Verordnung (EU) 2016/1014 (ABl. L 171 vom 29.6.2016,
+    S. 153) geändert worden ist,
+
+
+4.  gemischte Finanzholding-Gesellschaften im Sinne des Artikels 4 Absatz
+    1 Nummer 21 der Verordnung (EU) Nr. 575/2013 und
+
+
+5.  Unternehmen gemäß § 2 Absatz 1 Nummer 2 oder Nummer 6 des
+    Kreditwesengesetzes.
 
 
 
 
+(2) Die Rechtsträgerkennung muss von einer Vergabestelle ausgegeben
+sein, die einem international von Aufsichtsbehörden anerkannten System
+zur Identifizierung von Rechtsträgern angehört.
 
-## § 4 Anzeigen nach § 10 Abs. 8 Satz 1 und 3 des Kreditwesengesetzes (Abzugskredite)
+(3) Die Rechtsträgerkennung ist der Bundesanstalt und der Deutschen
+Bundesbank unverzüglich nach ihrem Erwerb schriftlich mitzuteilen.
 
-Anzeigen nach § 10 Abs. 8 Satz 1 und 3 des Kreditwesengesetzes müssen
-Angaben über die Höhe und die Art der Berechnung des nach § 10 Abs. 2a
-Satz 2 Nr. 4 oder 5 des Kreditwesengesetzes maßgeblichen
-Prozentsatzes, die Kreditbedingungen sowie die gestellten Sicherheiten
-enthalten. Anzeigen nach § 10 Abs. 8 Satz 3 des Kreditwesengesetzes
-sind als Änderungsanzeigen zu kennzeichnen. Nach § 10 Abs. 8 Satz 1
-des Kreditwesengesetzes angezeigte Kredite sind nicht erneut nach § 10
-Abs. 8 Satz 3 des Kreditwesengesetzes anzuzeigen, wenn sich die
-rechtsgeschäftliche Änderung der Kreditbedingungen auf eine Anpassung
-des Zinssatzes entsprechend der Entwicklung des Marktzinses
-beschränkt.
+(4) Unternehmen, die gemäß Absatz 1 eine Rechtsträgerkennung
+benötigen, sind verpflichtet, die Gültigkeit der ihnen zugeteilten
+Rechtsträgerkennung aufrechtzuerhalten, insbesondere durch die
+Bezahlung des dafür erforderlichen Entgelts.
 
+(5) Ändern sich Firma, juristischer Sitz, Anschrift der
+Hauptniederlassung, Rechtsform, zuständiges Handelsregister oder
+Handelsregister-Nummer, so sind die neuen Angaben unverzüglich der für
+die Rechtsträgerkennung zuständigen Vergabestelle zu melden.
 
-## § 5 Anzeigen nach § 24 Abs. 1 Nr. 1 des Kreditwesengesetzes (Personelle Veränderungen)
-
-(1) Den Anzeigen nach § 24 Abs. 1 Nr. 1 des Kreditwesengesetzes über
-die Absicht der Bestellung eines Geschäftsleiters und der Ermächtigung
-einer Person zur Einzelvertretung des Instituts in dessen gesamtem
-Geschäftsbereich sind folgende Unterlagen beizufügen:
-
-1.  ein lückenloser, eigenhändig unterzeichneter Lebenslauf, der sämtliche
-    Vornamen, den Geburtsnamen, den Geburtstag, den Geburtsort, die
-    Privatanschrift und die Staatsangehörigkeit, eine eingehende Darlegung
-    der fachlichen Vorbildung, die Namen aller Unternehmen, für die diese
-    Person tätig gewesen ist, und Angaben zur Art der jeweiligen
-    Tätigkeit, einschließlich Nebentätigkeiten, mit Ausnahme
-    ehrenamtlicher, enthalten muss; bei der Art der jeweiligen Tätigkeit
-    sind insbesondere die Vertretungsmacht dieser Person, ihre internen
-    Entscheidungskompetenzen und die ihr innerhalb des Unternehmens
-    unterstellten Geschäftsbereiche darzulegen und
+(6) Übergeordnete Unternehmen einer Gruppe im Sinne des § 10a Absatz 1
+Satz 1 des Kreditwesengesetzes haben sicherzustellen, dass alle
+Mitglieder ihrer Gruppe, für die sie nach der Verordnung (EU) Nr.
+575/2013 oder nach dem Kreditwesengesetz Informationen an die
+Bundesanstalt oder an die Deutsche Bundesbank zu melden haben, die
+Pflichten nach den Absätzen 1 und 3 bis 5 erfüllen.
 
 
-2.  eine eigenhändig unterzeichnete Erklärung dieser Person, ob derzeit
-    gegen sie ein Strafverfahren geführt wird, ob zu einem früheren
-    Zeitpunkt ein Strafverfahren wegen eines Verbrechens oder Vergehens
-    gegen sie geführt worden ist oder ob sie oder ein von ihr geleitetes
-    Unternehmen als Schuldnerin in ein Insolvenzverfahren oder in ein
-    Verfahren zur Abgabe einer eidesstattlichen Versicherung oder ein
-    vergleichbares Verfahren verwickelt ist oder war.
+## § 3 (weggefallen)
 
 
 
-In der Erklärung nach Satz 1 Nr. 2 können Strafverfahren
-unberücksichtigt bleiben, die mangels hinreichenden Tatverdachts oder
-wegen eines Verfahrenshindernisses eingestellt oder mit einem
-Freispruch beendet worden sind oder bei denen eine ergangene
-Eintragung im Bundeszentralregister entfernt oder getilgt wurde.
+## § 4 Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des Kreditwesengesetzes
 
-(2) Auf Verlangen der Bundesanstalt sind weitere Auskünfte,
-insbesondere über bestehende Tätigkeiten als Geschäftsleiter,
-Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens
-oder über bestehende unmittelbare Beteiligungen des Geschäftsleiters
-im Sinne des § 24 Abs. 3 Satz 2 des Kreditwesengesetzes, wobei jeweils
-§ 11 entsprechend gilt, zu erteilen und weitere Unterlagen,
-insbesondere Arbeitszeugnisse, die die im Lebenslauf angegebenen
-Vortätigkeiten belegen, vorzulegen.
+(1) Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des
+Kreditwesengesetzes müssen enthalten:
 
-(3) Die vorstehenden Bestimmungen gelten auch für die Bestellung eines
-Geschäftsleiter-Vertreters, der im Fall der Verhinderung eines
-Geschäftsleiters dessen Funktion ausüben soll.
+1.  Angaben über die Höhe und die Art der Berechnung des nach § 24 Absatz
+    1 Nummer 17 des Kreditwesengesetzes maßgeblichen Prozentsatzes,
+
+
+2.  die Kreditbedingungen sowie
+
+
+3.  die gestellten Sicherheiten.
+
+
+
+
+(2) Anzeigen nach § 24 Absatz 1b Satz 2 des Kreditwesengesetzes sind
+als Änderungsanzeigen zu kennzeichnen.
+
+(3) Kredite sind nicht nach § 24 Absatz 1b Satz 2 des
+Kreditwesengesetzes anzuzeigen, wenn
+
+1.  sie bereits nach § 24 Absatz 1 Nummer 17 des Kreditwesengesetzes
+    angezeigt wurden und
+
+
+2.  sich die rechtsgeschäftliche Änderung der Kreditbedingungen auf eine
+    Anpassung des Zinssatzes entsprechend der Entwicklung des Marktzinses
+    beschränkt.
+
+
+
+
+
+## § 5 Anzeigen nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes (Bestellung von Personen)
+
+(1) Für Anzeigen nach § 24 Absatz 1 Nummer 1 des Kreditwesengesetzes
+über die Absicht, einen Geschäftsleiter zu bestellen und eine Person
+zur Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich
+zu ermächtigen, sowie den Vollzug, die Aufgabe oder die Änderung einer
+solchen Absicht ist das Formular „Personelle Veränderungen bei den
+Geschäftsleitern“ nach Anlage 1 zu verwenden.
+
+(2) Für Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes
+über die Bestellung eines Mitglieds und stellvertretender Mitglieder
+des Verwaltungs- oder Aufsichtsorgans ist das Formular „Personelle
+Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 2 zu
+verwenden.
+
+(3) Auf Verlangen der Bundesanstalt sind weitere Auskünfte zu erteilen
+und weitere Unterlagen vorzulegen.
+
+(4) Wenn eine Anzeige nach § 24 Absatz 1 Nummer 1 des
+Kreditwesengesetzes über den Vollzug der Bestellung eines
+Geschäftsleiters oder der Ermächtigung einer Person zur
+Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich
+länger als 12 Monate nach der Anzeige einer solchen Absicht abgegeben
+wird, sind die nach den §§ 5a bis 5d beizufügenden Unterlagen und
+Erklärungen in aktualisierter Form erneut einzureichen. Die
+Bundesanstalt kann im Einzelfall darauf verzichten.
+
+(5) Mit Einreichung der nach den §§ 5a und 5b der Anzeige
+beizufügenden Unterlagen bestätigt das anzeigende Institut, dass die
+Unterlagen nach seinem Kenntnisstand richtig sind.
+
+
+## § 5a Lebenslauf der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+
+(1) Den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach §
+24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des
+Kreditwesengesetzes ist ein aussagekräftiger Lebenslauf der genannten
+Personen beizufügen. Der Lebenslauf muss lückenlos, vollständig und
+wahr sein. Er muss eigenhändig unterzeichnet und mit einem Datum
+versehen sein.
+
+(2) Der Lebenslauf hat folgende Angaben zu enthalten:
+
+1.  den Namen, sämtliche Vornamen und den Geburtsnamen,
+
+
+2.  den Geburtstag,
+
+
+3.  den Geburtsort,
+
+
+4.  den Wohnsitz,
+
+
+5.  die Staatsangehörigkeit,
+
+
+6.  eine eingehende Darlegung der fachlichen Vorbildung,
+
+
+7.  die Namen aller Unternehmen, für die diese Person tätig ist oder
+    gewesen ist und
+
+
+8.  Angaben zur Art und Dauer der jeweiligen Tätigkeit einschließlich
+    Nebentätigkeiten.
+
+
+
+Der Schwerpunkt des Lebenslaufs hat auf den Stationen des Berufslebens
+zu liegen. Bei den einzelnen Stationen ist nicht nur das Jahr, sondern
+auch der Monat des Beginns und des Endes einer Tätigkeit anzugeben.
+
+(3) Bei einer Anzeige nach § 24 Absatz 1 Nummer 1 des
+Kreditwesengesetzes sind in dem Lebenslauf bei der Art der jeweiligen
+Tätigkeit insbesondere der Umfang der Vertretungsmacht dieser Person,
+ihre internen Entscheidungskompetenzen und die ihr innerhalb des
+Unternehmens unterstellten Geschäftsbereiche darzulegen. Sofern
+vorhanden, sind dem Lebenslauf Arbeitszeugnisse über unselbständige
+Tätigkeiten, die in den letzten drei Jahren vor Abgabe der Anzeige
+ausgeübt wurden, beizufügen.
+
+
+## § 5b Erklärung der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+
+(1) Den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach §
+24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des
+Kreditwesengesetzes ist eine Erklärung der dort genannten Personen
+beizufügen, ob nach ihrer Kenntnis
+
+1.  gegen sie ein Strafverfahren wegen eines Verbrechens oder Vergehens
+    geführt wird oder geführt wurde,
+
+
+2.  gegen sie im Zusammenhang mit einer unternehmerischen oder sonstigen
+    beruflichen Tätigkeit ein Ordnungswidrigkeitsverfahren oder
+    vergleichbares Verfahren geführt wird oder mit einer Geldbuße oder
+    sonstigen Sanktion abgeschlossen wurde,
+
+
+3.  gegen sie eine Aufsichtsbehörde eine gewerberechtliche
+    Zuverlässigkeits- oder Eignungsprüfung oder ein aufsichtliches
+    Verfahren zum Erlass von Maßnahmen eingeleitet oder durchgeführt hat,
+
+
+4.  durch eine öffentliche Stelle eine auf sie oder auf ein von ihr
+    geleitetes Unternehmen oder Gewerbe lautende Zulassung, Mitgliedschaft
+    oder Registereintragung versagt, aufgehoben, zurückgenommen,
+    widerrufen oder gelöscht wurde oder in sonstiger Weise die Ausübung
+    eines Berufes, der Betrieb eines Gewerbes oder die Vertretung oder
+    Führung der Geschäfte untersagt wurde oder ein entsprechendes
+    Verfahren geführt wird oder
+
+
+5.  sie oder ein von ihr geleitetes Unternehmen als Schuldner in ein
+    Insolvenzverfahren, in ein Verfahren zur Abgabe einer eidesstattlichen
+    Versicherung oder in ein vergleichbares Verfahren verwickelt ist oder
+    war.
+
+
+
+In der Erklärung können Strafverfahren unberücksichtigt bleiben, die
+mangels hinreichenden Tatverdachts oder wegen eines
+Verfahrenshindernisses eingestellt oder mit einem Freispruch beendet
+worden sind oder bei denen eine ergangene Eintragung im
+Bundeszentralregister entfernt oder getilgt worden ist oder die gemäß
+§ 53 des Bundeszentralregistergesetzes nicht angegeben werden müssen.
+Eintragungen, die gemäß § 153 der Gewerbeordnung aus dem
+Gewerbezentralregister zu tilgen sind, können unerwähnt bleiben. Die
+nach den §§ 153 und 153a der Strafprozessordnung eingestellten
+Strafverfahren sind anzugeben. Die gemäß Satz 1 und 4 anzugebenden
+Sachverhalte sind gegebenenfalls zu erläutern. Kopien der Urteile,
+Beschlüsse, Sanktionen oder sonstiger Dokumente über den Abschluss der
+Verfahren sind beizufügen.
+
+(2) Den in Absatz 1 genannten Anzeigen sind beizufügen:
+
+1.  eine Erklärung dieser Person, ob sie in einem Angehörigkeitsverhältnis
+    im Sinne des § 11 Absatz 1 Nummer 1 des Strafgesetzbuches steht mit
+
+    a)  einem Mitglied der Geschäftsleitung des anzeigenden Unternehmens oder
+        der Geschäftsleitung von dessen Mutter- oder eines Tochterunternehmens
+        oder
+
+
+    b)  einem Mitglied des Verwaltungs- oder Aufsichtsorgans des anzeigenden
+        Unternehmens oder des Verwaltungs- oder Aufsichtsorgans von dessen
+        Mutter- oder Tochterunternehmen;
+
+
+
+
+
+2.  eine Erklärung dieser Person über Geschäftsbeziehungen zu dem
+    anzeigenden Unternehmen oder zu dessen Mutter- oder eines
+    Tochterunternehmens, die die Person selbst, ein naher Angehöriger der
+    Person oder ein von der Person geleitetes Unternehmen unterhält und
+    aus denen sich eine wirtschaftliche Abhängigkeit zu dem Unternehmen
+    ergeben kann; nahe Angehörige sind der Ehepartner, der eingetragene
+    Lebenspartner, der Partner in einer Lebensgemeinschaft, Kinder, Eltern
+    sowie andere Verwandte, mit denen die Person in einem Haushalt lebt;
+
+
+3.  eine Erklärung dieser Person über weitere Mandate als Geschäftsleiter
+    oder als Mitglied des Verwaltungs- oder Aufsichtsorgans eines oder
+    mehrerer anderer Unternehmen;
+
+
+4.  eine Aufstellung aller weiteren Tätigkeiten der Person, die sie als
+    Geschäftsleiter eines Unternehmens oder als Mitglied eines
+    Verwaltungs- oder Aufsichtsorgans eines oder mehrerer anderer
+    Unternehmen ausführt;
+
+
+5.  Angaben zu den Tatsachen, die für die Beurteilung der ausreichenden
+    zeitlichen Verfügbarkeit für die Wahrnehmung der Aufgaben wesentlich
+    sind; dabei ist der zeitliche Aufwand für die einzelnen Tätigkeiten
+    und Mandate, die die Person ausübt, zu schätzen und in seiner
+    geschätzten Summe anzugeben; reine Ehrenämter und Tätigkeiten, die dem
+    Privatleben zuzuordnen sind, brauchen grundsätzlich nicht
+    berücksichtigt zu werden.
+
+
+
+
+(3) Für die Erklärungen nach den Absätzen 1 und 2 ist das Formular
+„Angaben zur Zuverlässigkeit, zeitlichen Verfügbarkeit und zu weiteren
+Mandaten“ nach Anlage 2a zu verwenden. Das Formular ist vollständig
+auszufüllen und von der anzuzeigenden Person eigenhändig zu
+unterzeichnen.
+
+
+## § 5c Führungszeugnis der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+
+(1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung
+nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer
+15 des Kreditwesengesetzes genannten Personen haben bei der
+Bundesanstalt ein Führungszeugnis zur Vorlage bei einer Behörde gemäß
+§ 30 Absatz 5 oder § 30b des Bundeszentralregistergesetzes
+einzureichen.
+
+(2) Das Führungszeugnis darf zum Zeitpunkt der Erstattung der Anzeige
+nach § 24 Absatz 1 Nummer 1 oder zum Zeitpunkt der Bestellung nach §
+24 Absatz 1 Nummer 15 des Kreditwesengesetzes nicht älter als drei
+Monate sein. Maßgeblich ist das Datum der Ausstellung des
+Führungszeugnisses.
+
+(3) Personen, die einem Staat angehören oder ihren Wohnsitz in einem
+Staat haben, der kein Führungszeugnis ausstellt, haben Dokumente aus
+dem Herkunfts- oder Wohnsitzstaat einzureichen, die dem
+Führungszeugnis entsprechen. Werden dort auch derartige Dokumente
+nicht ausgestellt, so ist der Umfang der einzureichenden
+Ersatzunterlagen mit der Bundesanstalt im Einzelfall abzustimmen.
+
+(4) Personen, die in den letzten zehn Jahren Wohnsitze in
+verschiedenen Staaten hatten, müssen die Führungszeugnisse und
+Unterlagen aus jedem dieser Staaten einreichen.
+
+(5) Sofern die Dokumente nicht in deutscher Sprache ausgestellt sind,
+bedarf es grundsätzlich zusätzlich zum Original einer Übersetzung in
+die deutsche Sprache. Die Übersetzung muss beglaubigt oder von einem
+öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer
+angefertigt sein. Die Bundesanstalt kann auf die Übersetzung von
+Unterlagen in englischer Sprache verzichten.
+
+
+## § 5d Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+
+(1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung
+nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer
+15 des Kreditwesengesetzes genannten Personen haben bei der
+Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150
+der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person
+keinen Wohnsitz in Deutschland hat oder gehabt hat oder keine
+berufliche Tätigkeit in Deutschland ausübt oder ausgeübt hat.
+
+(2) Der Registerauszug darf zum Zeitpunkt der Erstattung der Anzeige
+nach § 24 Absatz 1 Nummer 1 oder zum Zeitpunkt der Bestellung nach §
+24 Absatz 1 Nummer 15 des Kreditwesengesetzes nicht älter als drei
+Monate sein. Maßgeblich ist das Datum der Ausstellung des
+Registerauszuges.
+
+
+## § 5e Anzeigen nach § 24 Absatz 1 Nummer 2 und 15a des Kreditwesengesetzes (Ausscheiden von Personen)
+
+(1) Für Anzeigen nach § 24 Absatz 1 Nummer 2 des Kreditwesengesetzes
+ist das Formular nach Anlage 1 zu verwenden. In dem Formular sind die
+Gründe für das Ausscheiden oder für die Entziehung der Befugnis
+anzugeben.
+
+(2) Für Anzeigen nach § 24 Absatz 1 Nummer 15a des Kreditwesengesetzes
+ist das Formular nach Anlage 2 zu verwenden. In dem Formular sind die
+Gründe für das Ausscheiden anzugeben.
+
+
+## § 5f Geschäftsleiter-Vertreter im Verhinderungsfall
+
+Die Bestimmungen nach den §§ 5 bis 5e gelten auch für die Bestellung
+und das Ausscheiden eines Geschäftsleiter-Vertreters, der im Fall der
+Verhinderung eines Geschäftsleiters dessen Funktion ausüben soll.
 
 
 ## § 6 Anzeigen nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes (Zweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat)
@@ -226,16 +477,14 @@ Anzeige zusammengefasst werden, solange deren Übersichtlichkeit
 erhalten bleibt.
 
 
-## § 7 Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 Satz 2 des Kreditwesengesetzes (qualifizierte Beteiligungen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)
+## § 7 Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 des Kreditwesengesetzes (bedeutende Beteiligungen an anderen Unternehmen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)
 
 (1) Einzelanzeigen von Instituten über aktivische
-Beteiligungsverhältnisse nach § 12a Absatz 1 Satz 3 des
-Kreditwesengesetzes, § 24 Absatz 1 Nummer 12 und 13 des
-Kreditwesengesetzes sowie nach § 31 Absatz 3 Satz 2 des
-Kreditwesengesetzes sind mit dem Formular „Aktivische
-Beteiligungsanzeige“ nach Anlage 3 dieser Verordnung einzureichen. Bei
-Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen
-einzureichen, wenn
+Beteiligungsverhältnisse nach § 12a Absatz 1 Satz 3, § 24 Absatz 1
+Nummer 12 und 13 und § 31 Absatz 3 des Kreditwesengesetzes sind mit
+dem Formular „Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser
+Verordnung einzureichen. Bei Änderungen des Beteiligungsverhältnisses
+sind Einzelanzeigen einzureichen, wenn
 
 1.  durch die Änderung 20 Prozent, 30 Prozent oder 50 Prozent des Kapitals
     oder der Stimmrechte des Unternehmens erreicht, über- oder
@@ -245,9 +494,10 @@ einzureichen, wenn
 2.  das Unternehmen ein Tochterunternehmen wird oder nicht mehr ist,
 
 
-3.  die gehaltenen Anteile an dem Unternehmen nicht mehr oder nunmehr dazu
-    bestimmt sind, durch die Herstellung einer dauernden Verbindung dem
-    eigenen Geschäftsbetrieb zu dienen,
+3.  die gehaltenen Anteile an dem Unternehmen nicht mehr oder nunmehr die
+    Voraussetzungen des § 1 Absatz 9 Satz 3 des Kreditwesengesetzes oder
+    des Artikels 91 Absatz 2 der Verordnung (EU) Nr. 575/2013 in ihrer
+    jeweils geltenden Fassung erfüllen,
 
 
 4.  unmittelbar gehaltene Anteile ganz oder teilweise auf ein
@@ -260,23 +510,24 @@ einzureichen, wenn
     oder unter den Beteiligten umverteilt werden oder
 
 
-6.  für das Unternehmen die Befreiung des § 31 Absatz 3 Satz 1 des
+6.  für das Unternehmen die Befreiung des § 31 Absatz 3 des
     Kreditwesengesetzes in Anspruch genommen wird.
 
 
 
 
 (2) Sammelanzeigen von Instituten über aktivische
-Beteiligungsverhältnisse nach § 24 Abs. 1a Nr. 1 und 2 des
-Kreditwesengesetzes und § 31 Absatz 3 Satz 2 des Kreditwesengesetzes
-sind nach dem Stand vom 31. Dezember des Vorjahres bis zum 15. Juni
-des Folgejahres als Sammlung fortlaufend nummerierter Teilanzeigen mit
-dem Formular "Aktivische Beteiligungsanzeige" nach Anlage 3 dieser
+Beteiligungsverhältnisse nach § 24 Absatz 1a Nummer 1 und 2 des
+Kreditwesengesetzes und § 31 Absatz 3 des Kreditwesengesetzes sind
+nach dem Stand vom 31. Dezember des Vorjahres bis zum 15. Juni des
+Folgejahres als Sammlung fortlaufend nummerierter Teilanzeigen mit dem
+Formular "Aktivische Beteiligungsanzeige" nach Anlage 3 dieser
 Verordnung einzureichen.
 
-(3) Die mittelbar gehaltenen Kapitalanteile oder Stimmrechtsanteile
-sind den mittelbar beteiligten Unternehmen jeweils in vollem Umfang
-zuzurechnen.
+(3) Für die Berechnung des Anteils der Stimmrechte gelten § 21 Absatz
+1 in Verbindung mit einer Rechtsverordnung nach Absatz 3, § 22 Absatz
+1 und 2, § 22a Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung
+nach Absatz 6 und § 23 des Wertpapierhandelsgesetzes entsprechend.
 
 (4) Erfüllt ein Beteiligungsverhältnis mehrere Anzeigetatbestände, ist
 nur ein Formular zu verwenden. Für jedes weitere anzeigepflichtige
@@ -286,13 +537,12 @@ Beteiligungsstrukturen ist der Anzeige zusätzlich das Formular "Anlage
 für komplexe Beteiligungsstrukturen" nach Anlage 4 dieser Verordnung
 beizufügen. Komplexe Beteiligungsstrukturen liegen insbesondere vor
 bei Treuhandverhältnissen sowie bei Beteiligungen, die gleichzeitig
-unmittelbar und mittelbar über ein oder mehrere Tochterunternehmen
-oder ein gleichartiges Verhältnis oder über mehrere Beteiligungsketten
-gehalten werden.
+unmittelbar und mittelbar über ein oder mehrere Unternehmen oder über
+mehrere Beteiligungsketten gehalten werden.
 
-(5) Auf Verlangen der Bundesanstalt oder der zuständigen
-Hauptverwaltung der Deutschen Bundesbank sind weitere Angaben,
-insbesondere zu Buchwert, Übernahmepreis und Veräußerungserlös,
+(5) Auf Verlangen der Europäischen Zentralbank, der Bundesanstalt oder
+der zuständigen Hauptverwaltung der Deutschen Bundesbank sind weitere
+Angaben, insbesondere zu Übernahmepreis und Veräußerungserlös,
 einzureichen.
 
 (6) Die Einzelanzeigen und Sammelanzeigen sollen im papierlosen
@@ -313,7 +563,7 @@ gilt § 1.
 (7) (weggefallen)
 
 
-## § 8 Anzeigen nach § 24 Abs. 1 Nr. 10 und 12 und § 24 Abs. 1a Nr. 1 und 3 des Kreditwesengesetzes (bedeutende Beteiligungen und passivische enge Verbindungen)
+## § 8 Anzeigen nach § 24 Abs. 1 Nr. 10 und 12 und § 24 Abs. 1a Nr. 1 und 3 des Kreditwesengesetzes (bedeutende Beteiligungen an dem eigenen Institut und passivische enge Verbindungen)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 24
 Abs. 1 Nr. 10 und 12 des Kreditwesengesetzes sind mit dem Formular
@@ -359,7 +609,7 @@ darstellt.
 (1) Die Anzeige der Anzahl inländischer Zweigstellen nach § 24 Abs. 1a
 Nr. 4 des Kreditwesengesetzes ist jährlich bis zum 31. Januar des
 Folgejahres nach dem Stand vom 31. Dezember des Vorjahres
-einzureichen. Der Bundesanstalt ist die Anzeige nur auf Verlangen
+einzureichen. Der Aufsichtsbehörde ist die Anzeige nur auf Verlangen
 einzureichen.
 
 (2) Bei der Berechnung der Anzahl der Zweigstellen sind auch
@@ -392,7 +642,19 @@ erfolgreichen Fusionsverhandlungen für den rechtlichen Vollzug der
 Vereinigung.
 
 
-## § 11 Anzeigen nach § 24 Abs. 3 Satz 1 des Kreditwesengesetzes (Geschäftsleiter)
+## § 10a Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes (Weitere Tätigkeiten der Mitglieder eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts von erheblicher Bedeutung)
+
+Für Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes betreffend
+die Aufnahme und die Beendigung einer Tätigkeit von Mitgliedern eines
+Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das von
+erheblicher Bedeutung im Sinne des § 25d Absatz 3 Satz 8 ist, einer
+Finanzholding-Gesellschaft oder einer gemischten Finanzholding-
+Gesellschaft ist das Formular „Weitere Tätigkeiten von Mitgliedern
+eines Verwaltungs- oder Aufsichtsorgans“ nach Anlage 6 dieser
+Verordnung zu verwenden.
+
+
+## § 11 Anzeigen nach § 24 Abs. 3 Satz 1 des Kreditwesengesetzes (Geschäftsleiter und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen)
 
 (1) Anzeigen nach § 24 Abs. 3 Satz 1 Nr. 1 des Kreditwesengesetzes
 sind mit dem Formular "Nebentätigkeiten von Geschäftsleitern und
@@ -415,7 +677,7 @@ Abs. 5 und 6 gilt entsprechend.
 (1) Anzeigen nach § 24a Abs. 1, 3 und 4 des Kreditwesengesetzes sind
 für jeden Staat des Europäischen Wirtschaftsraums gesondert
 einzureichen. Den Anzeigen nach § 24a Abs. 1 und 3 des
-Kreditwesengesetzes an die Bundesanstalt sind im Fall der
+Kreditwesengesetzes an die Aufsichtsbehörde sind im Fall der
 Aufnahmestaaten Österreich, Liechtenstein und Luxemburg eine zweite
 Ausfertigung und im Fall der übrigen Staaten des Europäischen
 Wirtschaftsraums eine Übersetzung in eine Amtssprache des
@@ -429,19 +691,31 @@ Amtssprache beizufügen.
 ist auch einzureichen, wenn die Zweigstelle geschlossen oder die
 erbrachte grenzüberschreitende Dienstleistung eingestellt wird.
 
-(3) Der Geschäftsplan muss die vorgesehenen geschäftlichen Aktivitäten
-typenmäßig entsprechend den Vorgaben des Anhangs 1 der Richtlinie
-2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
-über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute
-(Neufassung) (ABl. EU Nr. L 177 S. 1) und des Anhangs I der Richtlinie
-2004/39/EG des Europäischen Parlaments und des Rates vom 21. April
-2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien
-85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des
-Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie
-93/22/EWG des Rates (ABl. EU Nr. L 145 S. 1, 2005 Nr. L 45 S. 18), die
-durch die Richtlinie 2006/31/EG des Europäischen Parlaments und des
-Rates vom 5. April 2006 (ABl. EU Nr. L 114 S. 60) geändert worden ist,
-bezeichnen.
+(3) Im Geschäftsplan müssen die vorgesehenen geschäftlichen
+Aktivitäten typenmäßig bezeichnet werden entsprechend den Vorgaben in:
+
+1.  Anhang I der Richtlinie 2013/36/EU des Europäischen Parlaments und des
+    Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von
+    Kreditinstituten und die Beaufsichtigung von Kreditinstituten und
+    Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur
+    Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom
+    27\.6.2013, S. 338, L 208 vom 2.8.2013, S. 73), die zuletzt durch die
+    Richtlinie 2014/59/EU (ABl. L 173 vom 12.6.2014, S. 190) geändert
+    worden ist, und
+
+
+2.  Anhang I der Richtlinie 2004/39/EG des Europäischen Parlaments und des
+    Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur
+    Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der
+    Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und
+    zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. L 145 vom
+    30\.4.2004, S. 1, L 45 vom 16.2.2005, S. 18, L 54 vom 22.2.2014, S.
+    23), die zuletzt durch die Richtlinie 2010/78/EU (ABl. L 331 vom
+    15\.12.2010, S. 120, L 170 vom 30.6.2011, S. 43, L 54 vom 22.2.2014, S.
+    23) geändert worden ist.
+
+
+
 
 (4) Für Anzeigen nach § 24a Abs. 1 des Kreditwesengesetzes gelten
 zudem folgende Bestimmungen:
@@ -498,27 +772,30 @@ Finanzdienstleistungen die Erlaubnis beantragt wird. Den Anträgen sind
 beglaubigte Ablichtungen der Gründungsunterlagen, des
 Gesellschaftsvertrags oder der Satzung sowie die vorgesehene
 Geschäftsordnung für die Geschäftsleitung beizufügen. Ferner sind die
-vorgesehenen Geschäftsleiter zu benennen.
+vorgesehenen Geschäftsleiter und Mitglieder des Verwaltungs- oder
+Aufsichtsorgans zu benennen.
 
 (3) Zum Nachweis der zum Geschäftsbetrieb erforderlichen Mittel nach §
 32 Abs. 1 Satz 2 Nr. 1 des Kreditwesengesetzes ist eine Bestätigung
-eines Einlagenkreditinstituts mit Sitz in einem Staat des Europäischen
+eines CRR-Kreditinstituts mit Sitz in einem Staat des Europäischen
 Wirtschaftsraums darüber vorzulegen, dass das Anfangskapital
 eingezahlt sowie frei von Rechten Dritter ist und zur freien Verfügung
 der Geschäftsleiter steht. Der Nachweis kann mit Zustimmung der
-Bundesanstalt auch erbracht werden durch eine schriftliche Bestätigung
-eines Prüfers, der im Falle der Erlaubniserteilung zur Prüfung des
-Jahresabschlusses des Antragstellers berechtigt wäre, über das
-vorhandene Eigenkapital, das nach den für Institute geltenden
-Grundsätzen ermittelt worden sein muss.
+Bundesanstalt auch erbracht werden durch eine schriftliche oder
+elektronische Bestätigung eines Prüfers, der im Falle der
+Erlaubniserteilung zur Prüfung des Jahresabschlusses des
+Antragstellers berechtigt wäre, über die vorhandenen Eigenmittel, die
+nach den für Institute geltenden Grundsätzen ermittelt worden sein
+müssen.
 
-(4) Zur Beurteilung der Zuverlässigkeit der Geschäftsleiter sind die
-in § 5 Abs. 1 Satz 1 Nr. 2 und Satz 2 vorgesehenen Erklärungen
-abzugeben.
+(4) Zur Beurteilung der Zuverlässigkeit der Geschäftsleiter und der
+Mitglieder des Verwaltungs- oder Aufsichtsorgans sind die in § 5b
+Absatz 1 und 2 Nummer 2 und in den §§ 5c, 5d und 5f vorgesehenen
+Erklärungen, Angaben und Unterlagen einzureichen.
 
 (5) Zur Beurteilung der Zuverlässigkeit der Antragsteller und der
 Inhaber bedeutender Beteiligungen sowie zur Prüfung, ob die Erlaubnis
-nach § 33 Absatz 1 Satz 1 Nummer 3 oder Absatz 3 des
+nach § 33 Absatz 1 Satz 1 Nummer 3 oder Absatz 2 des
 Kreditwesengesetzes zu versagen ist, sind dem Antrag die in § 8 Nummer
 1 bis 5, §§ 9 bis 11 und 14 der Inhaberkontrollverordnung genannten
 Erklärungen und Unterlagen beizufügen und auf Verlangen der
@@ -527,8 +804,16 @@ Inhaberkontrollverordnung ist eigenhändig zu unterzeichnen. Die §§ 4,
 5 und 16 der Inhaberkontrollverordnung sind entsprechend anzuwenden.
 
 (6) Zur Beurteilung der zur Leitung des Instituts erforderlichen
-fachlichen Eignung der Inhaber und der Geschäftsleiter sind die in § 5
-Abs. 1 Satz 1 Nr. 1 genannten Unterlagen einzureichen.
+fachlichen Eignung der Inhaber und der Geschäftsleiter und zur
+Beurteilung der erforderlichen Sachkunde der Mitglieder des
+Verwaltungs- oder Aufsichtsorgans sind die in § 5a genannten
+Unterlagen einzureichen.
+
+(6a) Zur Beurteilung der ausreichenden zeitlichen Verfügbarkeit und
+der Einhaltung der Mandatsbegrenzungen der Geschäftsleiter und der
+Mitglieder des Verwaltungs- oder Aufsichtsorgans nach § 25c Absatz 2
+und § 25d Absatz 3 oder Absatz 3a des Kreditwesengesetzes sind die in
+§ 5b Absatz 2 Nummer 4 und 5 genannten Angaben zu machen.
 
 (7) Der dem Antrag nach § 32 Abs. 1 Satz 2 Nr. 5 des
 Kreditwesengesetzes beizufügende Geschäftsplan hat folgende Angaben zu
@@ -605,11 +890,25 @@ folgenden Unterlagen beizufügen:
     2 benannten Personen mit der Leitung der Repräsentanz betraut hat,
 
 
-2.  eine Erklärung, dass keine Bankgeschäfte im Sinne des § 1 Abs. 1 Satz
-    2 des Kreditwesengesetzes betrieben und keine Finanzdienstleistungen
-    im Sinne des § 1 Abs. 1a Satz 2 des Kreditwesengesetzes erbracht
-    werden und im Inland der Name oder die Firma des Instituts nur mit dem
-    Zusatz "Repräsentanz" verwendet wird,
+2.  eine Erklärung, dass folgende Tätigkeiten nicht ausgeübt werden:
+
+    a)  Bankgeschäfte im Sinne des § 1 Absatz 1 Satz 2 des
+        Kreditwesengesetzes,
+
+
+    b)  Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 des
+        Kreditwesengesetzes sowie
+
+
+    c)  Zahlungsdienste im Sinne des § 1 Absatz 2 des
+        Zahlungsdiensteaufsichtsgesetzes,
+
+
+
+
+
+2a. eine Erklärung, dass im Inland der Name oder die Firma des Instituts
+    nur mit dem Zusatz „Repräsentanz“ verwendet wird,
 
 
 3.  der letzte Jahresabschluss und Lagebericht des Instituts und
@@ -658,32 +957,35 @@ Repräsentanz gegenüber den Angaben in der Errichtungsanzeige nach §
 53a Satz 2 des Kreditwesengesetzes ergeben, einzureichen.
 
 
-## § 16 Anzeigen von Finanzholding-Gesellschaften und gemischten Finanzholding- Gesellschaften nach § 12a Abs. 1 Satz 3, auch in Verbindung mit Abs. 3, sowie nach § 24 Abs. 3a des Kreditwesengesetzes (Anzeigepflichten für Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften)
+## § 16 Anzeigen nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a des Kreditwesengesetzes (Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften)
 
-(1) Einzelanzeigen der Finanzholding-Gesellschaft oder der gemischten
-Finanzholding-Gesellschaft nach § 12a Abs. 1 Satz 3, auch in
-Verbindung mit Abs. 3, des Kreditwesengesetzes sowie nach § 24 Abs. 3a
-Satz 4 und 5 Halbsatz 2 des Kreditwesengesetzes sind mit dem Formular
-"Aktivische Beteiligungsanzeige" nach Anlage 3 dieser Verordnung
-einzureichen. Sammelanzeigen nach § 24 Abs. 3a Satz 2 und 5 Halbsatz 2
-des Kreditwesengesetzes sind nach dem Stand vom 31. Dezember des
+(1) Für Einzelanzeigen einer Finanzholding-Gesellschaft oder einer
+gemischten Finanzholding-Gesellschaft nach § 12a Absatz 1 Satz 3 und
+nach § 24 Absatz 3a Satz 4 und 5 des Kreditwesengesetzes ist das
+Formular „Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser
+Verordnung zu verwenden. Sammelanzeigen nach § 24 Absatz 3a Satz 2 und
+5 des Kreditwesengesetzes sind nach dem Stand vom 31. Dezember des
 Vorjahres bis zum 15. Juni des Folgejahres als Sammlung fortlaufend
 nummerierter Teilanzeigen mit dem Formular "Aktivische
 Beteiligungsanzeige" nach Anlage 3 dieser Verordnung einzureichen. § 7
 Abs. 1 Satz 2 und Abs. 3 bis 6 gilt entsprechend.
 
-(2) Für die Anzeigen nach § 24 Abs. 3a Satz 1 Nr. 1 und Satz 5
-Halbsatz 1 des Kreditwesengesetzes über die Absicht der Bestellung
+(2) Für die Anzeigen nach § 24 Absatz 3a Satz 1 Nummer 1, 2, 4 und 5
+und Satz 5 des Kreditwesengesetzes über die Absicht der Bestellung
 einer Person, die die Geschäfte der Finanzholding-Gesellschaft oder
-der gemischten Finanzholding-Gesellschaft tatsächlich führen soll,
-gilt § 5 entsprechend.
+gemischten Finanzholding-Gesellschaft tatsächlich führen soll oder das
+Ausscheiden dieser Person und über die Bestellung oder das Ausscheiden
+eines Mitglieds oder stellvertretenden Mitglieds des Verwaltungs-oder
+Aufsichtsorgans gelten die §§ 5 bis 5f entsprechend.
 
 
 ## § 16a Übergangsvorschrift
 
-§ 2 dieser Verordnung in der bis zum 24. März 2009 geltenden Fassung
-ist auf Anzeigen nach § 2c des Kreditwesengesetzes in der bis zum 17.
-März 2009 geltenden Fassung weiterhin anzuwenden.
+Unternehmen im Sinne des § 2 Absatz 1, für die das international von
+Aufsichtsbehörden anerkannte System zur Identifizierung von
+Rechtsträgern noch keine Vergabe einer Kennung ermöglicht, müssen die
+Rechtsträgerkennung erst erwerben, sobald die Vergabe auch für diese
+Unternehmen zugelassen ist.
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
@@ -691,45 +993,3400 @@ März 2009 geltenden Fassung weiterhin anzuwenden.
 Diese Verordnung tritt am 31. Dezember 2006 in Kraft.
 
 
-## Anlage 1 (weggefallen)
+## Anlage 1 (zu § 5 AnzV)
 
--
+(Fundstelle: BGBl. I 2016, 2802 — 2803)
 
+## **PVG**
 
-## Anlage 2 (zu § 3 Abs. 1) Anzeige nach § 10 Abs. 4a Satz 4 KWG (Nicht realisierte Reserven)
-
-(Inhalt: nicht darstellbares Muster einer Anzeige,
-Fundstelle: BGBl. I 2006, 3256)
-
-
-## Anlage 3 (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1) Aktivische Beteiligungsanzeige
-
-(Inhalt: nicht darstellbares Muster einer Anzeige,
-Fundstelle: BGBl. I 2006, 3257 - 3259;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+Personelle Veränderungen
+bei den Geschäftsleitern von Instituten und bei Personen, die die
+Geschäfte
+**einer Finanzholding-Gesellschaft oder einer gemischten
+Finanzholding-Gesellschaft tatsächlich führen**
+## (Anzeigen nach § 24 Abs. 1 Nr. 1 und 2 KWG und nach § 24 Abs. 3a
+Satz 1 Nr. 1 und 2, Satz 5 KWG)
 
 
-## Anlage 4 (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1) Anlage für komplexe Beteiligungsstrukturen
+*    *
+    *
+    *
 
-(Inhalt: nicht darstellbares Muster einer Anlage,
-Fundstelle: BGBl. I 2006, 3260)
+*    *   Bundesanstalt für
+        **Finanzdienstleistungsaufsicht**
+
+    *
+    *   Deutsche Bundesbank
+        **Hauptverwaltung**
+
+    *
+    *   wird durch die BBk ausgefüllt
+
+    *
+
+*    *
+    *   Identnummer
+[^F796418_F101_BJNR324500006BJNE001903118]
+        Geschäftsleiter/in
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *[^F796418_F102_BJNR324500006BJNE001903118]
+   Identnummer des Instituts
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 
-## Anlage 5 (zu § 8 Abs. 1 und 2) Passivische Beteiligungsanzeige
+   **1.  Institut/Finanzholding-Gesellschaft/gemischte Finanzholding-
+Gesellschaft**
 
-(Inhalt: nicht darstellbares Muster einer Anzeige,
-Fundstelle: BGBl. I 2006, 3261 - 3263;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+*    *
+    *
+    *
+
+*    *   Firma, Rechtsform und Sitz (lt. Registereintragung) mit PLZ
+
+    *
+    *   BAK-Nr. (sechsstellig); Identnr. (achtstellig)
 
 
-## Anlage 6 (zu § 11 Abs. 1) Nebentätigkeiten von Geschäftsleitern und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 1 KWG)
-
-(Inhalt: nicht darstellbares Muster einer Anzeige,
-Fundstelle: BGBl. I 2006, 3264)
 
 
-## Anlage 7 (zu § 11 Abs. 2) Beteiligungen von Geschäftsleitern und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 2 KWG)
+**2.  Angaben zur Person**
 
-(Inhalt: nicht darstellbares Muster einer Anzeige,
-Fundstelle: BGBl. I 2006, 3265 - 3266)
 
+*    *   *                      Herr*                      Frau
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Nachname, sämtliche Vornamen
+
+    *
+    *   Geburtsname
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Geburtsdatum
+
+    *
+    *   Geburtsort
+
+    *
+    *   Staatsangehörigkeit
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Wohnsitz (Straße, Hausnummer, PLZ, Ort, Staat)
+
+    *
+    *
+
+
+   **3.  Angaben zur Tätigkeit**
+
+*    *
+    *
+    *
+
+*    *[^F796418_F103_BJNR324500006BJNE001903118]
+   Gesellschaftsrechtliche Funktion
+
+    *
+    *
+
+
+
+   **4.  Absicht der Bestellung**
+
+
+*    *   Beschluss des
+
+    *
+    *
+    *   vom:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   *
+
+    *   –
+
+    *   Absicht der Bestellung eines/einer Geschäftsleiters/in (§ 24 Abs. 1
+        Nr. 1 KWG),
+
+
+*    *   –
+
+    *   Absicht der Ermächtigung einer Person zur Einzelvertretung des
+        Instituts (§ 24 Abs. 1 Nr. 1 KWG) oder
+
+
+*    *   –
+
+    *   Absicht der Bestellung einer Person, die die Geschäfte der
+        Finanzholding-Gesellschaft oder der gemischten Finanzholding-
+        Gesellschaft tatsächlich führen soll (§ 24 Abs. 3a Satz 1 Nr. 1 oder
+        Satz 5 KWG)
+
+
+*    *
+    *   mit Wirkung vom
+
+    *
+    *
+    *
+    *
+
+*    *   *
+
+    *   –
+
+    *   Änderung der Absicht der Bestellung eines/einer Geschäftsleiters/in (§
+        24 Abs. 1 Nr. 1 KWG) oder
+
+
+*    *   –
+
+    *   Änderung der Absicht der Ermächtigung einer Person zur
+        Einzelvertretung des Instituts (§ 24 Abs. 1 Nr. 1 KWG)
+
+
+*    *
+    *   neuer Zeitpunkt:
+
+    *
+    *
+    *
+    *
+
+*    *   *
+
+    *   –
+
+    *   Aufgabe der Absicht der Bestellung eines/einer Geschäftsleiters/in (§
+        24 Abs. 1 Nr. 1 KWG) oder
+
+
+*    *   –
+
+    *   Aufgabe der Absicht der Ermächtigung einer Person zur Einzelvertretung
+        des Instituts (§ 24 Abs. 1 Nr. 1 KWG)
+
+
+*    *
+    *   Zeitpunkt der Aufgabe:
+
+    *
+    *
+    *   Grund der Aufgabe:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   **5.  Vollzug der Bestellung**
+
+
+*    *   *
+
+    *   –
+
+    *   Vollzug der Bestellung eines/einer Geschäftsleiters/in (§ 24 Abs. 1
+        Nr. 1 KWG),
+
+
+*    *   –
+
+    *   Vollzug der Ermächtigung einer Person zur Einzelvertretung des
+        Instituts (§ 24 Abs. 1 Nr. 1 KWG) oder
+
+
+*    *   –
+
+    *   Vollzug der Bestellung einer Person, die die Geschäfte der
+        Finanzholding-Gesellschaft oder der gemischten Finanzholding-
+        Gesellschaft tatsächlich führen soll (§ 24 Abs. 3a Satz 1 Nr. 1 oder
+        Satz 5 KWG)
+
+
+*    *
+    *   mit Wirkung vom
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   **6.  Ausscheiden**
+
+
+*    *   *
+
+    *   –
+
+    *   Ausscheiden eines/einer Geschäftsleiters/in (§ 24 Abs. 1 Nr. 2 KWG),
+
+
+*    *   –
+
+    *   Entziehung der Befugnis zur Einzelvertretung des Instituts (§ 24 Abs.
+        1 Nr. 2 KWG) oder
+
+
+*    *   –
+
+    *   Ausscheiden einer Person, die die Geschäfte der Finanzholding-
+        Gesellschaft oder der gemischten Finanzholding-Gesellschaft
+        tatsächlich geführt hat (§ 24 Abs. 3a Satz 1 Nr. 2 oder Satz 5 KWG)
+
+
+*    *
+    *   mit Wirkung vom
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Grund des Ausscheidens:
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   **7.  Bemerkungen**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Sachbearbeiter/in
+
+    *
+    *   Telefon-Nr.
+
+    *
+    *   E-Mail
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Ort/Datum
+
+    *
+    *
+    *
+    *   Firma/Unterschrift
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+Fußnoten:
+
+    oder der einzelvertretungsberechtigten Person oder der Person, die die
+    Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten
+    Finanzholding-Gesellschaft tatsächlich führt.
+[^F796418_F101_BJNR324500006BJNE001903118]:     oder der Finanzholding-Gesellschaft/der gemischten Finanzholding-
+    Gesellschaft.
+[^F796418_F102_BJNR324500006BJNE001903118]:     beispielsweise Vorstandsmitglied, Geschäftsführer, persönlich
+    haftender Gesellschafter, Geschäftsleiter-Vertreter im
+    Verhinderungsfall, Prokurist.
+[^F796418_F103_BJNR324500006BJNE001903118]: 
+
+## Anlage 2 (zu § 5 AnzV)
+
+(Fundstelle: BGBl. I 2016, 2804 — 2805)
+
+## **PVVA**
+
+Personelle Veränderungen
+des Verwaltungs- oder Aufsichtsorgans von Instituten und
+**Finanzholding-Gesellschaften oder gemischten Finanzholding-
+Gesellschaften**
+## (Anzeigen nach § 24 Abs. 1 Nr. 15 und 15a KWG und § 24 Abs. 3a Satz
+1 Nr. 4 und 5, Satz 5 KWG)
+
+
+*    *
+    *
+    *
+
+*    *   Bundesanstalt für
+        **Finanzdienstleistungsaufsicht**
+
+    *
+    *   Deutsche Bundesbank
+        **Hauptverwaltung**
+
+    *
+    *   wird durch die BBk ausgefüllt
+
+    *
+
+*    *
+    *[^F796418_F201_BJNR324500006BJNE002001118]
+   Identnummer Aufsichtsrat/rätin
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *[^F796418_F202_BJNR324500006BJNE002001118]
+   Identnummer des Instituts
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   **1.  Institut/Finanzholding-Gesellschaft/gemischte Finanzholding-
+Gesellschaft**
+
+*    *
+    *
+    *
+
+*    *   Firma, Rechtsform und Sitz (lt. Registereintragung) mit PLZ
+
+    *
+    *   BAK-Nummer (sechsstellig); Identnr. (achtstellig)
+
+
+
+
+**2.  Art der Anzeige**
+
+
+*    *   *
+
+    *   –
+
+    *   Bestellung eines Mitglieds oder stellvertretenden Mitglieds des
+        Verwaltungs- oder Aufsichtsorgans eines Instituts
+        (§ 24 Abs. 1 Nr. 15 KWG)
+
+
+*    *   –
+
+    *   Bestellung eines Mitglieds oder stellvertretenden Mitglieds des
+        Verwaltungs- oder Aufsichtsorgans einer Finanzholding-Gesellschaft
+        oder einer gemischten Finanzholding-Gesellschaft (§ 24 Abs. 3a Satz 1
+        Nr. 4 KWG)
+
+
+*    *   *
+
+    *   –
+
+    *   Ausscheiden eines Mitglieds oder stellvertretenden Mitglieds des
+        Verwaltungs- oder Aufsichtsorgans eines Instituts
+        (§ 24 Abs. 1 Nr. 15a KWG)
+
+
+*    *   –
+
+    *   Ausscheiden eines Mitglieds oder stellvertretenden Mitglieds des
+        Verwaltungs- oder Aufsichtsorgans einer Finanzholding-Gesellschaft
+        oder einer gemischten Finanzholding-Gesellschaft (§ 24 Abs. 3a Satz 1
+        Nr. 5 KWG)
+
+
+
+**3.  Angaben zur Person**
+
+
+*    *   *                      Herr*                      Frau
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Nachname, sämtliche Vornamen
+
+    *
+    *   Geburtsname
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Geburtsdatum
+
+    *
+    *   Geburtsort
+
+    *
+    *   Staatsangehörigkeit
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Wohnsitz (Straße, Hausnummer, PLZ, Ort, Staat)
+
+    *
+    *
+
+
+   **4.  Angaben zur Tätigkeit**
+
+
+*    *   *
+
+    *   Wurde bestellt mit Wirkung vom
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   *
+
+    *   Scheidet aus mit Wirkung vom
+
+    *
+    *
+    *
+
+*    *   zum/als:
+
+
+*    *
+
+*    *[^F796418_F203_BJNR324500006BJNE002001118]
+   Gesellschaftsrechtliche Funktion
+
+
+*    *
+
+*    *   Grund des Ausscheidens
+
+
+
+**5.  Bemerkungen**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Sachbearbeiter/in
+
+    *
+    *   Telefon-Nr.
+
+    *
+    *   E-Mail
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Ort/Datum
+
+    *
+    *
+    *
+    *   Firma/Unterschrift
+
+
+*    *
+    *
+    *
+    *
+    *
+
+
+   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\_
+
+Fußnoten:
+
+    oder Verwaltungsrat/rätin oder Beiratsmitglied.
+[^F796418_F201_BJNR324500006BJNE002001118]:     oder Finanzholding-Gesellschaft/gemischte Finanzholding-Gesellschaft.
+[^F796418_F202_BJNR324500006BJNE002001118]:     beispielsweise Aufsichtsrat/rätin, Verwaltungsrat/rätin,
+    Aufsichtsratsvorsitzende/er, Verwaltungsratsvorsitzende/er,
+    Beiratsmitglied.
+[^F796418_F203_BJNR324500006BJNE002001118]: 
+
+## Anlage 2a (zu § 5 Abs. 3 bis 5, § 5b AnzV)
+
+(Fundstelle: BGBl. I 2016, 2806 — 2808)
+
+## **PVZ**
+
+Angaben zur Zuverlässigkeit, zeitlichen Verfügbarkeit
+und zu weiteren Mandaten im Geltungsbereich des Kreditwesengesetzes
+der Geschäftsleiterin/des Geschäftsleiters, der zur Einzelvertretung
+des Instituts ermächtigten Person,
+der Person, die die Geschäfte der Finanzholding-Gesellschaft oder der
+gemischten Finanzholding-
+## **Gesellschaft tatsächlich führen soll oder des Mitglieds des
+Verwaltungs- oder Aufsichtsorgans**
+
+**1.  Institut/Finanzholding-Gesellschaft/gemischte Finanzholding-
+Gesellschaft**
+
+*    *
+    *
+
+*    *   Firma und Sitz (lt. Registereintragung) mit PLZ
+
+    *   BAK-Nr. (sechsstellig); Identnr. (achtstellig)
+
+
+
+
+**2.  Angaben zur Person**
+
+*              Herr*              Frau
+
+*    *
+    *
+
+*    *   Nachname, sämtliche Vornamen
+
+    *   Geburtsname
+
+    *
+
+*    *
+    *
+    *
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+    *   Staatsangehörigkeit
+
+
+*    *
+    *
+    *
+
+*    *   Wohnsitz (Straße, Hausnummer, PLZ, Ort, Staat)
+
+    *
+    *
+
+
+
+   **3.  Angaben zur Tätigkeit**
+
+*    *   *
+
+    *   –
+
+    *   Geschäftsleiter/in
+
+
+*    *   –
+
+    *   zur Einzelvertretung des Instituts ermächtigte Person
+
+
+*    *   –
+
+    *   Person, die die Geschäfte der Finanzholding-Gesellschaft tatsächlich
+        führen soll
+
+
+*    *   –
+
+    *   Person, die die Geschäfte der gemischten Finanzholding-Gesellschaft
+        tatsächlich führen soll
+
+
+*    *
+    *
+    *
+
+*    *   *
+
+    *   –
+
+    *   Mitglied des Verwaltungsrates
+
+
+*    *   –
+
+    *   Mitglied des Aufsichtsrates
+
+
+*    *   –
+
+    *   Mitglied des Beirats
+
+
+
+
+**4.  Angaben zur Zuverlässigkeit**
+
+Ich erkläre hiermit, dass nach meiner Kenntnis
+
+a)  weder derzeit gegen mich ein Strafverfahren (umfasst
+    Ermittlungsverfahren, Zwischenverfahren, Hauptverfahren) wegen eines
+    Verbrechens oder Vergehens geführt wird noch zu einem früheren
+    Zeitpunkt ein derartiges Verfahren geführt und mit einer Verurteilung
+    oder Einstellung gemäß den §§ 153 und 153a StPO abgeschlossen wurde;
+
+
+b)  weder derzeit gegen mich ein Ordnungswidrigkeitenverfahren oder
+    vergleichbares Verfahren im Zusammenhang mit einer unternehmerischen
+    oder sonstigen beruflichen Tätigkeit geführt wird noch zu einem
+    früheren Zeitpunkt ein derartiges Verfahren mit einer Geldbuße oder
+    sonstigen Sanktion abgeschlossen wurde;
+
+
+c)  gegen mich keine Aufsichtsbehörde eine gewerberechtliche
+    Zuverlässigkeits- oder Eignungsprüfung oder ein aufsichtliches
+    Verfahren zum Erlass von Maßnahmen eingeleitet oder durchgeführt hat;
+
+
+d)  weder eine durch eine öffentliche Stelle auf mich oder auf ein von mir
+    geleitetes Unternehmen oder Gewerbe lautende Zulassung (Erlaubnis,
+    Genehmigung, Konzession, Bewilligung), Mitgliedschaft oder
+    Registereintragung versagt, aufgehoben, zurückgenommen, widerrufen
+    oder gelöscht wurde noch mir in sonstiger Weise die Ausübung eines
+    Berufes, der Betrieb eines Gewerbes oder die Vertretung oder Führung
+    der Geschäfte untersagt wurde oder ein entsprechendes Verfahren
+    geführt wird;
+
+
+e)  weder ich noch ein von mir geleitetes Unternehmen als Schuldner/in in
+    ein Insolvenzverfahren, ein Verfahren zur Abgabe einer
+    eidesstattlichen Versicherung über die Vermögensverhältnisse oder ein
+    vergleichbares Verfahren verwickelt bin bzw. ist oder war.
+
+
+
+
+Falls die vorstehende Erklärung nicht uneingeschränkt abgegeben werden
+kann, sondern ein Sachverhalt gemäß den Buchstaben a bis e positiv
+einschlägig ist, sind Angaben zum entsprechenden Verfahren zu machen
+und ggf. auf einem gesonderten Blatt auszuführen. Kopien der Urteile,
+Beschlüsse, Bescheide oder sonstiger Dokumente über die Verfahren sind
+beizufügen.
+
+In der Erklärung können anhängig gewesene Strafverfahren
+unberücksichtigt bleiben
+
+–   die mangels hinreichenden Tatverdachts eingestellt wurden oder
+
+
+–   die wegen eines Verfahrenshindernisses eingestellt wurden oder
+
+
+–   die mit einem Freispruch beendet worden sind oder
+
+
+–   bei denen eine ergangene Eintragung im BZR entfernt oder getilgt wurde
+    oder
+
+
+–   die gemäß § 53 BZRG nicht angegeben werden müssen.
+
+
+
+
+Eintragungen, die gemäß § 153 GewO aus dem Gewerbezentralregister zu
+tilgen sind, können unerwähnt bleiben.
+
+Die nach den §§ 153 und 153a StPO eingestellten Strafverfahren sind
+dagegen anzugeben.
+
+Vergleichbare Sachverhalte nach anderen Rechtsordnungen sind ebenfalls
+anzugeben.
+
+*    *   Behörde mit Sitz
+
+    *   Aktenzeichen
+
+    *   Gegenstand
+
+    *   Verfahrensstand
+
+    *   anhängig seit
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+   Ich erkläre hiermit, dass nach meiner Kenntnis
+ich mit keinem Mitglied der Geschäftsleitung oder des Verwaltungs-
+oder Aufsichtsorgans des Instituts, der Finanzholding-Gesellschaft
+oder der gemischten Finanzholding-Gesellschaft, dessen Mutter- oder
+Tochterunternehmen in einem Angehörigkeitsverhältnis im Sinne von § 11
+Abs. 1 Nr. 1 StGB stehe.
+
+Falls die vorstehende Erklärung nicht abgegeben werden kann, sind
+Angaben zur Person, zu deren Funktion im Unternehmen und zum
+Angehörigkeitsverhältnis zu machen und ggf. auf einem gesonderten
+Blatt auszuführen.
+
+*    *   Name des/der Angehörigen
+
+    *   Unternehmen,
+        Funktion des Angehörigen
+
+    *   Angehörigkeitsverhältnis
+        im Sinne des
+        § 11 Abs. 1 Nr. 1 StGB
+
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+
+
+   Ich erkläre hiermit, dass nach meiner Kenntnis
+ich oder ein von mir geleitetes Unternehmen keine Geschäftsbeziehungen
+zu dem Institut, der Finanzholding-Gesellschaft oder der gemischten
+Finanzholding-Gesellschaft sowie dessen Mutter- oder
+Tochterunternehmen unterhält, aus denen sich eine gewisse
+wirtschaftliche Abhängigkeit ergeben kann;
+
+kein naher Angehöriger Geschäftsbeziehungen zu dem Institut, der
+Finanzholding-Gesellschaft oder der gemischten Finanzholding-
+Gesellschaft sowie dessen Mutter- oder Tochterunternehmen unterhält,
+aus denen sich eine gewisse wirtschaftliche Abhängigkeit ergeben kann.
+Nahe Angehörige sind Ehepartner, eingetragene Lebenspartner, Partner
+in einer Lebensgemeinschaft, Kinder, Eltern; andere Verwandte, mit
+denen der Erklärende in einem Haushalt lebt.
+
+Falls die vorstehende Erklärung nicht abgegeben werden kann, sind
+Angaben zu Art und Umfang der Geschäftsbeziehungen und ggf. zum
+Angehörigkeitsverhältnis zu machen und ggf. auf einem gesonderten
+Blatt auszuführen.
+
+
+*    *   Betreffende Person
+
+    *   Art und Umfang der Geschäftsbeziehungen
+
+
+*    *
+    *
+
+*    *
+    *
+
+
+   **5.  Angaben zu weiteren Tätigkeiten als Geschäftsleiter/in und als
+Mitglied in Verwaltungs- und Aufsichtsorganen**
+
+*    *   *
+
+    *   Es werden keine weiteren Tätigkeiten als Geschäftsleiter/in und keine
+        weiteren Mandate als Mitglied eines Verwaltungs- oder Aufsichtsorgans
+        ausgeübt.
+
+
+*    *   *
+
+    *   Es werden folgende weitere Tätigkeiten als Geschäftsleiter/in ausgeübt
+        (ggf. auf einem gesonderten Blatt ausführen):
+
+
+
+
+*    *   Name des
+        Unternehmens,
+        Sitz
+
+    *   Organ,
+        Funktion im
+        Organ
+
+    *   tätig seit
+
+    *   unter Aufsicht
+        der BaFin
+        ja/nein
+
+    *   Angaben zur Mandatshöchst-
+        zahlberechnung (als Eines zu zählen;
+        nicht zu berücksichtigen), ggf. auf
+        einem gesonderten Blatt ausführen
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   *
+
+    *   Es werden folgende weitere Tätigkeiten als Mitglied in Verwaltungs-
+        und Aufsichtsorganen ausgeübt (ggf. auf einem gesonderten Blatt
+        ausführen):
+
+
+
+
+*    *   Name des
+        Unternehmens,
+        Sitz
+
+    *   Organ,
+        Funktion im
+        Organ
+
+    *   Mitglied seit
+
+    *   unter Aufsicht
+        der BaFin
+        ja/nein
+
+    *   Angaben zur Mandatshöchst-
+        zahlberechnung (als Eines zu zählen;
+        nicht zu berücksichtigen), ggf. auf
+        einem gesonderten Blatt ausführen
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+   **6.  Angaben zur zeitlichen Verfügbarkeit**
+
+*    *
+
+
+
+   Ich versichere die Richtigkeit und Vollständigkeit meiner Angaben.
+Über etwaige nachträglich auftretende Änderungen werde ich
+unverzüglich in Schriftform gegenüber der Bundesanstalt berichten. Ich
+bin mir bewusst, dass unvollständige oder falsche Angaben in der
+Selbstauskunft die persönliche Zuverlässigkeit berühren können.
+
+*    *
+    *
+
+*    *   Ort/Datum
+
+    *   eigenhändige Unterschrift
+
+
+
+
+
+## Anlage 3 (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1 AnzV)
+
+(Fundstelle: BGBl. I 2016, 2809 — 2811)
+
+## **AB**
+
+## **Aktivische Beteiligungsanzeige**
+
+
+*    *
+    *
+    *
+
+*    *   Bundesanstalt für
+        **Finanzdienstleistungsaufsicht**
+
+    *
+    *   Deutsche Bundesbank
+        **Hauptverwaltung**
+
+    *
+    *   wird durch die BBk ausgefüllt
+
+    *
+
+*    *
+    *[^F796418_F02_BJNR324500006BJNE002104118]
+   Identnummer des Instituts
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *[^F796418_F01_BJNR324500006BJNE002104118]
+   Prüfungsverband
+
+    *
+    *   Institut/Finanzholding-Gesellschaft/
+        gemischte Finanzholding-Gesellschaft
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   *                      Einzelanzeige
+
+    *   *                      Sammelanzeige
+        Dies ist Teilanzeige Nr. **                      von insgesamt **
+        Teilanzeigen
+
+    *   mit Wirkung vom: **
+
+
+
+[^F796418_F03_BJNR324500006BJNE002104118]
+**1.  Art der Anzeige**
+
+*    *   *                        Enge Verbindung (§ 24 Abs. 1 Nr. 12, Abs. 1a
+        Nr. 1 KWG)
+
+    *   *                        Bedeutende Beteiligung (§ 24 Abs. 1 Nr. 13,
+        Abs. 1a Nr. 2 KWG)
+
+
+*    *   *                        Befreiung (§ 31 Abs. 3 KWG)
+
+    *
+    *
+
+*    *   Nachgeordnete Unternehmen von
+
+    *   *                        Instituten/Finanzholding-
+        Gesellschaften/gemischten Finanzholding-Gesellschaften (§ 12a Abs. 1
+        Satz 3 KWG)
+
+
+*    *
+    *   *                        Finanzholding-Gesellschaften/gemischten
+        Finanzholding-Gesellschaften (§ 24 Abs. 3a Satz 2, 4 und 5 KWG)
+
+
+
+
+**2.  Anlass der Anzeige**              (Nur auszufüllen bei der
+Abgabe einer Einzelanzeige)
+
+*    *   *                        Entstehen
+
+    *   *                        Veränderung
+
+    *   *                        Beendigung
+
+    *
+
+
+
+[^F796418_F04_BJNR324500006BJNE002104118]
+   **3.  Beteiligungsunternehmen**
+
+*    *   *                        CRR-Kreditinstitut
+        (§ 1 Abs. 3d Satz 1 KWG)
+
+    *   *                        Wertpapierhandelsunternehmen
+        (§ 1 Abs. 3d Satz 4 KWG)
+
+    *   *                        E-Geld-Institut
+        (§ 1a Abs. 1 Nr. 5 ZAG)
+
+
+*    *   *                        sonstiges Kreditinstitut
+        (§ 1 Abs. 1 KWG)
+
+    *   *                        sonstiges Finanzdienstleistungsinstitut
+        (§ 1 Abs. 1a KWG)
+
+    *   *                        Kapitalverwaltungsgesellschaft
+        (§ 17 KAGB)
+
+
+*    *   *                        Finanzunternehmen
+        (§ 1 Abs. 3 KWG)
+
+    *   *                        Anbieter von Nebendienstleistungen
+[^F796418_F05_BJNR324500006BJNE002104118]
+        (Art. 4 Abs. 1 Nr. 18 CRR
+        )
+
+    *   *                        Finanzholding-Gesellschaft
+        (Art. 4 Abs. 1 Nr. 20 CRR)
+
+
+*    *   *                        gemischte Finanzholding-Gesellschaft
+        (Art. 4 Abs. 1 Nr. 21 CRR)
+
+    *   *                        Erstversicherungsunternehmen
+        (§ 7 Nr. 33 Alt. 1 VAG)
+
+    *   *                        Rückversicherungsunternehmen
+        (§ 7 Nr. 33 Alt. 2 VAG)
+
+
+*    *   *                        Versicherungs-Holdinggesellschaft
+        (§ 7 Nr. 31 VAG)
+
+    *   *                        Zahlungsinstitut
+        (§ 1 Abs. 1 Nr. 5 ZAG)
+
+    *   *                        sonstiges Unternehmen
+
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Firma und Rechtsform des Beteiligungsunternehmens (lt.
+        Registereintragung)
+
+    *
+    *   Identnummer (falls bekannt)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *[^F796418_F06_BJNR324500006BJNE002104118]
+   PLZ
+
+    *
+    *   Sitz
+
+    *
+    *
+    *
+    *   Staat
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Register-Nr./Amtsgericht
+
+    *
+    *[^F796418_F07_BJNR324500006BJNE002104118]
+   Rechtsträgerkennung
+
+    *
+    *[^F796418_F08_BJNR324500006BJNE002104118]
+   Wirtschaftszweig
+
+    *
+    *[^F796418_F09_BJNR324500006BJNE002104118]
+   Servicenummer
+
+
+
+[^F796418_F10_BJNR324500006BJNE002104118]
+**4.  Angaben zu den Beteiligungsquoten**
+[^F796418_F11_BJNR324500006BJNE002104118]
+,
+
+
+*    *   **wird durch die BBk ausgefüllt**
+        Ident-Nr. des Beteiligungs-
+        unternehmens
+
+    *[^F796418_F12_BJNR324500006BJNE002104118]
+   Firma
+        , Rechtsform und Sitz
+        (lt. Registereintragung) mit PLZ
+        und Staat;
+        Register-Nr./Amtsgericht
+        , Rechtsträgerkennung
+        ; Wirtschaftszweig
+        ; Identnummer (falls bekannt); Servicenummer
+
+    *[^F796418_F13_BJNR324500006BJNE002104118]
+   Kapitalanteil
+
+    *   Kapital des
+[^F796418_F16_BJNR324500006BJNE002104118]
+        Unternehmens
+        Tsd. Euro
+
+    *   Stimm-
+        rechts-
+        anteil
+[^F796418_F17_BJNR324500006BJNE002104118]
+        in
+        Prozent
+
+    *   Verhältnis zum
+[^F796418_F18_BJNR324500006BJNE002104118]
+        Institut
+
+
+*    *   in
+        Prozent
+
+    *   Tsd. Euro
+
+
+*    *   Nenn-
+[^F796418_F14_BJNR324500006BJNE002104118]
+        wert
+
+    *   Buch-
+[^F796418_F15_BJNR324500006BJNE002104118]
+        wert
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+
+   Das Institut hält an dem Beteiligungsunternehmen unter Nr. 3 eine
+durchgerechnete Kapitalquote in Höhe von **              Prozent.
+
+Seite 1
+
+
+**5.** **Weitere Angaben**
+
+
+**5.1** **Nur auszufüllen bei der Anzeige bedeutender Beteiligungen, wenn
+    weniger als 10 Prozent der Kapital- oder Stimmrechtsanteile gehalten
+    werden**
+
+    *                    Auf die Geschäftsführung des unter Nummer 3
+    aufgeführten Unternehmens kann ein maßgeblicher Einfluss ausgeübt
+    werden.
+
+
+**5.2** **Nur auszufüllen, wenn das Beteiligungsunternehmen ein nachgeordnetes
+    Unternehmen mit Sitz im Ausland ist**
+
+    Es ist sichergestellt, dass die für die Erfüllung der jeweiligen
+    Pflichten nach den §§ 10a und 25 Abs. 2 KWG erforderlichen Angaben
+    eingehen (§ 12a Abs. 1 Satz 1 KWG):
+
+    *        *   *                              ja
+
+        *   *                              nein
+
+
+
+
+    Falls „nein“ angekreuzt wurde:
+
+    Der nach Art. 36 in Verbindung mit dem Art. 19 Abs. 2 Buchstabe a CRR
+    vorzunehmende Abzug der Buchwerte trägt unseres Erachtens in einer der
+    Zusammenfassung nach § 10a Abs. 4 oder Abs. 5 KWG vergleichbaren Weise
+    dem Risiko aus der Begründung der Beteiligung oder der
+    Unternehmensbeziehung Rechnung (§ 12a Abs. 1 Satz 2 KWG):
+
+    *        *   *                              ja
+
+        *[^F796418_F19_BJNR324500006BJNE002104118]
+   *                              nein
+
+
+
+
+
+**5.3** **Nur auszufüllen, wenn das Beteiligungsunternehmen ein nachgeordnetes
+    Unternehmen ist**
+
+    *                    Das Beteiligungsunternehmen ist ein
+    nachgeordnetes Unternehmen im Sinne von Art. 18 Abs. 1, 2 oder Abs. 3
+    CRR.
+
+    *                    Das Beteiligungsunternehmen ist ein
+    nachgeordnetes Unternehmen im Sinne von Art. 18 Abs. 4 CRR.
+
+    *                    Das Beteiligungsunternehmen ist ein
+    nachgeordnetes Unternehmen im Sinne von Art. 18 Abs. 5 CRR.
+
+    *                    Das Beteiligungsunternehmen ist ein
+    nachgeordnetes Unternehmen im Sinne von Art. 49 Abs. 2 CRR.
+
+
+**5.4** **Nur auszufüllen, wenn das Beteiligungsunternehmen kein Unternehmen
+    der Finanzbranche oder ein sonstiges in Art. 89 Abs. 1 CRR genanntes
+    Unternehmen ist**
+
+    *                    Die Beteiligung unterliegt nicht den Ausnahmen
+    nach Art. 91 CRR.
+
+    *                    Die Beteiligung unterliegt vollständig den
+    Ausnahmen nach Art. 91 CRR.
+
+[^F796418_F20_BJNR324500006BJNE002104118]
+    *                    Die Beteiligung unterliegt teilweise den
+    Ausnahmen nach Art. 91 CRR. Nach Berücksichtigung der Ausnahmen
+    verbleibt eine Beteiligung in Höhe von **
+    .
+
+
+
+
+
+*    *
+    *
+
+*    *[^F796418_F21_BJNR324500006BJNE002104118]
+   Besondere Bemerkungen
+
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Sachbearbeiter/in
+
+    *
+    *
+    *
+    *   Telefon-Nr.
+
+    *
+    *   E-Mail
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ort/Datum
+
+    *
+    *
+    *
+    *
+    *
+    *   Firma/Unterschrift
+
+
+
+Seite 2
+
+Fußnoten:
+
+Diese Seite ist nicht mit einzureichen.
+
+    Nur von Sparkassen und Kreditgenossenschaften auszufüllen.
+[^F796418_F01_BJNR324500006BJNE002104118]:     Ggf. Identnummer der Finanzholding-Gesellschaft oder der gemischten
+    Finanzholding-Gesellschaft.
+[^F796418_F02_BJNR324500006BJNE002104118]:     Mehrfachauswahl ist zulässig.
+[^F796418_F03_BJNR324500006BJNE002104118]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
+    Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere
+    Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem
+    größten Anteil am Geschäft des Unternehmens entspricht.
+[^F796418_F04_BJNR324500006BJNE002104118]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+    vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
+    Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012
+    (ABl. L 176 vom 27.6.2013, S. 1).
+[^F796418_F05_BJNR324500006BJNE002104118]:     Nur bei inländischen Unternehmen anzugeben.
+[^F796418_F06_BJNR324500006BJNE002104118]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
+    Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
+    sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
+[^F796418_F07_BJNR324500006BJNE002104118]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
+    Bankenstatistik“.
+[^F796418_F08_BJNR324500006BJNE002104118]:     Servicefeld für die elektronische Einreichung.
+[^F796418_F09_BJNR324500006BJNE002104118]:     Für mittelbar gehaltene Beteiligungen gilt: Einzutragen ist die
+    vollständige Beteiligungskette mit den jeweiligen unmittelbar
+    gehaltenen Beteiligungsquoten zwischen den Beteiligungsunternehmen.
+    Die Kette beginnt mit der unmittelbar gehaltenen Beteiligung des
+    anzeigepflichtigen Instituts und endet mit dem anzuzeigenden mittelbar
+    gehaltenen Beteiligungsunternehmen unter Nummer 3.
+[^F796418_F10_BJNR324500006BJNE002104118]: [^F796418_F11_BJNR324500006BJNE002104118]:     Angaben zu den Beteiligungsquoten sind immer zu machen. Der
+    Hauptvordruck ist dabei nur geeignet für einfache mittelbare
+    Beteiligungsverhältnisse bis zu maximal vier Hierarchieebenen. Für
+    komplexe Beteiligungsstrukturen oder mittelbare
+    Beteiligungsverhältnisse über mehr als vier Ebenen sind die Angaben zu
+    den Beteiligungsquoten in der Anlage für komplexe
+    Beteiligungsstrukturen zu machen. In diesem Fall ist Nummer 4 des
+    Hauptvordrucks nicht auszufüllen. Ggf. ist zusätzlich ein Organigramm
+    beizufügen.               Die Anlage für komplexe
+    Beteiligungsstrukturen ist in jedem Fall einzureichen, wenn
+    – in den Beteiligungsstrukturen Treuhandverhältnisse vorkommen,
+    – Beteiligungen gleichzeitig unmittelbar und mittelbar oder über
+    mehrere Beteiligungsketten gehalten werden,              – sich die
+    Tochtereigenschaft eines zwischengeschalteten Beteiligungsunternehmens
+    nicht aus der Höhe des Kapital- und/oder Stimmrechtsanteils herleiten
+    lässt.
+    Zu dem unter Nummer 3 angegebenen Unternehmen müssen die weiteren
+    Angaben (Rechtsform und Sitz (lt. Registereintragung) mit PLZ und
+    Staat; Register-Nr./Amtsgericht, Rechtsträgerkennung,
+    Wirtschaftszweig; Identnummer (falls bekannt); Servicenummer), die
+    schon unter Nummer 3 gemacht wurden, in den Angaben zu den
+    Beteiligungsquoten nicht wiederholt werden. Lediglich die Firma des
+    Unternehmens muss eingetragen werden.
+[^F796418_F12_BJNR324500006BJNE002104118]:     Unmittelbarer Anteil des vorhergehenden (Tochter-)Unternehmens der
+    Beteiligungskette an dem hier genannten Beteiligungsunternehmen (keine
+    durchgerechneten Quoten).
+[^F796418_F13_BJNR324500006BJNE002104118]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
+    Personenhandelsgesellschaften und Gesellschaften des bürgerlichen
+    Rechts ist auf das durch den Gesellschaftsvertrag festgelegte
+    Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer
+    Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist
+    zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben.
+    Der Nennwert ist zum Kurs des Meldestichtages umzurechnen.
+[^F796418_F14_BJNR324500006BJNE002104118]:     Der Buchwert ist entsprechend dem vom Institut angewandten
+    Buchführungsstandard (beispielsweise HGB, IFRS oder US GAAP) zu
+    ermitteln.
+[^F796418_F15_BJNR324500006BJNE002104118]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
+    zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben.
+    Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
+[^F796418_F16_BJNR324500006BJNE002104118]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
+    Prozent mit einer Stelle nach dem Komma.
+[^F796418_F17_BJNR324500006BJNE002104118]:     Ist das Beteiligungsunternehmen ein Tochterunternehmen des
+    anzeigepflichtigen Instituts, ist „Tochter“ einzutragen. Ansonsten ist
+    das Feld nicht auszufüllen.
+[^F796418_F18_BJNR324500006BJNE002104118]:     Falls „nein“ angekreuzt wird, ist dies zu begründen, ggf. sind weitere
+    Unterlagen beizufügen.
+[^F796418_F19_BJNR324500006BJNE002104118]:     Buchwert der Beteiligung.
+[^F796418_F20_BJNR324500006BJNE002104118]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
+    Komplementär, Kommanditist, Anteil nicht voll einbezahlt,
+    Kapitalveränderung, Fusion, Stammdatenänderung, abweichende
+    Stimmrechtsanteile, Beteiligung resultiert ganz oder teilweise aus
+    einem stillen Beteiligungsverhältnis, Unterbeteiligung.
+[^F796418_F21_BJNR324500006BJNE002104118]: 
+
+## Anlage 4 (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1 AnzV)
+
+(Fundstelle: BGBl. I 2016, 2812 — 2813)
+
+## **KB**
+
+[^F796418_A4_01_BJNR324500006BJNE002203118]
+Anlage für komplexe Beteiligungsstrukturen
+[^F796418_A4_02_BJNR324500006BJNE002203118]
+,
+## ****
+
+[^F796418_A4_03_BJNR324500006BJNE002203118]
+Unternehmensliste
+****
+
+*    *   **wird durch die BBk ausgefüllt**
+        Ident-Nr. des Unternehmens
+
+    *   Nr.
+
+    *   Firma, Rechtsform und Sitz
+        (lt. Registereintragung) mit PLZ
+        6                        und Staat; Register-Nr./Amtsgericht
+        6                       , Rechtsträgerkennung
+        7                       , Wirtschaftszweig
+        8                       ; bei natürlichen Personen zusätzlich Angabe
+        des Geburtsdatums; Identnummer (falls bekannt); Servicenummer
+        9
+
+    *   Kapital des Unternehmens
+        16
+
+    *   Verhältnis
+        zum
+[^F796418_A4_04_BJNR324500006BJNE002203118]
+        Institut
+
+
+*    *   Tsd. Euro
+
+    *   Fremdwährung
+
+
+*    *   Währung
+
+    *   Tsd.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   Die durchgerechnete Kapitalquote beträgt **              Prozent.
+
+**Beteiligungsstruktur**
+C
+
+*    *   Beteiligtes Unternehmen
+
+    *   Beteiligungs-
+        unternehmen
+
+    *[^F796418_A4_05_BJNR324500006BJNE002203118]
+   besonderer Vermittler
+
+    *   Art
+        E
+
+    *   Kapitalanteil
+        13
+
+    *   Stimm-
+        rechts-
+        anteil
+        13, 17
+        in Prozent
+
+    *[^F796418_A4_06_BJNR324500006BJNE002203118]
+   beherr-schender Einfluss
+
+
+*    *   in Prozent
+
+    *   Tsd. Euro
+
+
+*    *   Nennwert
+        14
+
+    *   Buchwert
+        15
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   Fußnoten:
+
+Die Fußnoten 6 bis 17 entsprechen den Fußnoten in Anlage 3 (aktivische
+Beteiligungsanzeige) und Anlage 5 (passivische Beteiligungsanzeige).
+
+Diese Seite ist nicht mit einzureichen.
+
+    Sofern die Anlage für komplexe Beteiligungsstrukturen beigefügt ist,
+    sind in Nummer 4 des Hauptvordrucks der aktivischen Beteiligung, in
+    Nummer 5 des Hauptvordrucks der passivischen Beteiligung bzw. in
+    Nummer 3 des Hauptvordrucks für Anzeigen nach § 24 Abs. 3 Satz 1 Nr. 2
+    KWG keine Angaben zu machen.
+[^F796418_A4_01_BJNR324500006BJNE002203118]:     Führt eine mittelbare Beteiligungsbeziehung über mehrere
+    Beteiligungsketten vom Institut zum Beteiligungsunternehmen (bei
+    aktivischer Beteiligung) bzw. vom Anteilseigner zum Institut oder zum
+    ausländischen nachgeordneten Unternehmen oder vom gemeinsamen
+    Mutterunternehmen zum Schwesterunternehmen (bei passivischer
+    Beteiligungsanzeige), so ist nur eine Anzeige mit einer Anlage für
+    komplexe Beteiligungsstrukturen einzureichen, die alle vorhandenen
+    Beteiligungsketten darstellt.
+[^F796418_A4_02_BJNR324500006BJNE002203118]: [^F796418_A4_03_BJNR324500006BJNE002203118]:     Die Unternehmensliste enthält alle Unternehmen, die in der
+    Beteiligungsstruktur vorkommen.              Das anzeigepflichtige
+    Institut steht bei aktivischen Beteiligungen immer an erster Stelle,
+    bei passivischen an letzter Stelle. Bei der Anzeige von
+    Schwesterunternehmen steht das gemeinsame Mutterunternehmen an erster
+    und das Schwesterunternehmen an letzter Stelle. Bei der Anzeige einer
+    bedeutenden Beteiligung eines Dritten an einem nachgeordneten
+    ausländischen Unternehmen steht der Anteilseigner an erster und das
+    nachgeordnete ausländische Unternehmen an letzter Stelle.
+    Die Anzahl der Zeilen in der Unternehmensliste und der
+    Beteiligungsstruktur ist bei Bedarf beliebig erweiterbar.
+    Ist das Beteiligungsunternehmen ein Tochterunternehmen des
+    anzeigepflichtigen Instituts, ist „Tochter“ einzutragen. Ist das
+    Beteiligungsunternehmen ein Mutterunternehmen, ist „Mutter“
+    einzutragen; bei Unternehmensbeziehungen zu Schwesterunternehmen ist
+    „Schwester" einzutragen.
+[^F796418_A4_04_BJNR324500006BJNE002203118]: [^F796418_A4_05_BJNR324500006BJNE002203118]:     Liegt eines der folgenden besonderen Zurechnungsverhältnisse vor, ist
+    in der Spalte „besonderer Vermittler“ die Nummer der Person oder des
+    Unternehmens laut Unternehmensliste einzutragen, die oder das die
+    besondere Vermittlerposition gemäß der folgenden Übersicht einnimmt.
+    In der Spalte „Art“ ist der entsprechende Kennbuchstabe des besonderen
+    Zurechnungsverhältnisses zu vermerken. Eine Mehrfachauswahl ist
+    zulässig.
+    Verhältnis
+
+besondere Position
+
+Spalte Art
+
+
+§ 34 Abs. 1 Satz 1 Nr. 2 WpHG
+
+Dritter im Sinne des § 34 Abs. 1 Satz 1 Nr. 2 WpHG (insb. Treuhänder)
+
+„T“
+
+
+§ 34 Abs. 1 Satz 1 Nr. 3 WpHG
+
+Sicherungsnehmer
+
+„S“
+
+
+§ 34 Abs. 1 Satz 1 Nr. 4 WpHG
+
+Nießbrauchsgeber
+
+„N“
+
+
+§ 34 Abs. 1 Satz 1 Nr. 5 WpHG
+
+Erklärungsempfänger
+
+„E“
+
+
+§ 34 Abs. 1 Satz 1 Nr. 6 WpHG
+
+Vertretener im Sinne des § 34 Abs. 1 Satz 1 Nr. 6 WpHG
+
+„V“
+
+
+§ 34 Abs. 1 Satz 1 Nr. 7 WpHG
+
+Auf Grund einer Vereinbarung zur Ausübung der Stimmrechte Berechtigter
+im Sinne des § 34 Abs. 1 Satz 1 Nr. 7 WpHG
+
+„A“
+
+
+§ 34 Abs. 1 Satz 1 Nr. 8 WpHG
+
+Verwahrer im Sinne des § 34 Abs. 1 Satz 1 Nr. 8 WpHG
+
+„W“
+
+
+§ 34 Abs. 2 Satz 1 WpHG
+
+Dritter im Sinne des § 34 Abs. 2 Satz 1 WpHG
+
+„D“
+
+
+Unterbeteiligungsverhältnis
+
+Hauptbeteiligter
+
+„H“
+
+
+Zusammenwirken in sonstiger Weise
+
+Vermittelnder
+
+„Z“
+
+
+
+Nur anzukreuzen, wenn sich die Tochtereigenschaft eines
+zwischengeschalteten Beteiligungsunternehmens nicht aus einem der in §
+290 Abs. 2 HGB genannten Beherrschungstatbestände ergibt. Angaben zu
+den Kapital- und ggf. abweichenden Stimmrechtsanteilen sind in jedem
+Fall zu machen.
+[^F796418_A4_06_BJNR324500006BJNE002203118]: 
+
+## Anlage 5 (zu § 8 Abs. 1 und 2 AnzV)
+
+(Fundstelle: BGBl. I 2016, 2814 — 2816)
+
+## **PB**
+
+## **Passivische Beteiligungsanzeige**
+
+
+*    *
+    *
+    *
+
+*    *   Bundesanstalt für
+        **Finanzdienstleistungsaufsicht**
+
+    *
+    *   Deutsche Bundesbank
+        **Hauptverwaltung**
+
+    *
+    *   wird durch die BBk ausgefüllt
+
+    *
+
+*    *
+    *   Identnummer des Instituts
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *[^F796418_F501_BJNR324500006BJNE002304118]
+   Prüfungsverband
+
+    *
+    *   Institut
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   *                      Einzelanzeige
+
+    *   *                      Sammelanzeige
+        Dies ist Teilanzeige Nr. **                      von insgesamt **
+        Teilanzeigen
+
+    *   mit Wirkung vom: **
+
+
+
+[^F796418_F502_BJNR324500006BJNE002304118]
+**1.  Art der Anzeige**
+
+*    *   *                        Bedeutende Beteiligung (§ 24 Abs. 1 Nr. 10,
+        Abs. 1a Nr. 3 Alt. 1 KWG)
+
+    *   *                        Enge Verbindung (§ 24 Abs. 1 Nr. 12, Abs. 1a
+        Nr. 1 KWG)
+
+
+*    *   *                        Inhaber einer bedeutenden Beteiligung an
+        einem dem Institut nachgeordneten ausländischen Unternehmen (§ 24 Abs.
+        1a Nr. 3 Alt. 2 KWG)
+
+
+
+
+**2.  Anlass der Anzeige**              (Nur auszufüllen bei der
+Abgabe einer Einzelanzeige)
+
+*    *   *                        Erwerb
+
+    *   *                        Veränderung
+
+    *   *                        Aufgabe
+
+    *
+
+
+
+[^F796418_F504_BJNR324500006BJNE002304118]
+   **3.  Anteilseigner**
+
+*    *   *                        CRR-Kreditinstitut
+        (§ 1 Abs. 3d Satz 1 KWG)
+
+    *   *                        Wertpapierhandelsunternehmen
+        (§ 1 Abs. 3d Satz 4 KWG)
+
+    *   *                        E-Geld-Institut
+        (§ 1a Abs. 1 Nr. 5 ZAG)
+
+
+*    *   *                        sonstiges Kreditinstitut
+        (§ 1 Abs. 1 KWG)
+
+    *   *                        sonstiges Finanzdienstleistungsinstitut
+        (§ 1 Abs. 1a KWG)
+
+    *   *                        Kapitalverwaltungsgesellschaft
+        (§ 17 KAGB)
+
+
+*    *   *                        Finanzunternehmen
+        (§ 1 Abs. 3 KWG)
+
+    *   *                        Anbieter von Nebendienstleistungen
+[^F796418_F505_BJNR324500006BJNE002304118]
+        (Art. 4 Abs. 1 Nr. 18 CRR
+        )
+
+    *   *                        Finanzholding-Gesellschaft
+        (Art. 4 Abs. 1 Nr. 20 CRR)
+
+
+*    *   *                        gemischte Finanzholding-Gesellschaft
+        (Art. 4 Abs. 1 Nr. 21 CRR)
+
+    *   *                        Erstversicherungsunternehmen
+        (§ 7 Nr. 33 Alt. 1 VAG)
+
+    *   *                        Rückversicherungsunternehmen
+        (§ 7 Nr. 33 Alt. 2 VAG)
+
+
+*    *   *                        Versicherungs-Holdinggesellschaft
+        (§ 7 Nr. 31 VAG)
+
+    *   *                        Zahlungsinstitut
+        (§ 1 Abs. 1 Nr. 5 ZAG)
+
+    *   *                        sonstiges Unternehmen
+
+
+*    *   *                        sonstiger Anteilseigner
+
+    *
+    *
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Name/Firma und Rechtsform des Anteilseigners (lt.
+        Registereintragung)/Geburtsdatum bei natürlichen Personen
+
+    *
+    *   Identnummer (falls bekannt)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *[^F796418_F506_BJNR324500006BJNE002304118]
+   PLZ
+
+    *
+    *   Sitz
+
+    *
+    *
+    *
+    *   Staat
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Register-Nr./Amtsgericht
+
+    *
+    *[^F796418_F507_BJNR324500006BJNE002304118]
+   Rechtsträgerkennung
+
+    *
+    *[^F796418_F508_BJNR324500006BJNE002304118]
+   Wirtschaftszweig
+
+    *
+    *[^F796418_F509_BJNR324500006BJNE002304118]
+   Servicenummer
+
+
+
+**4.  Nur auszufüllen bei der Anzeige einer bedeutenden Beteiligung
+eines Dritten an einem nachgeordneten ausländischen Unternehmen**
+(§ 24 Abs. 1a Nr. 3 KWG)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Firma und Rechtsform des nachgeordneten ausl. Unternehmens (lt.
+        Registereintragung)
+
+    *   Identnummer (falls bekannt)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   PLZ
+
+    *
+    *   Sitz
+
+    *
+    *
+    *
+    *   Staat
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Rechtsträgerkennung
+
+    *
+    *   Wirtschaftszweig
+
+    *
+    *
+    *
+    *   Servicenummer
+
+
+
+[^F796418_F510_BJNR324500006BJNE002304118]
+**5.  Angaben zu den Beteiligungsquoten**
+[^F796418_F511_BJNR324500006BJNE002304118]
+,
+
+
+*    *   **wird durch die BBk ausgefüllt**
+        Ident-Nr. des
+        Anteilseigners/Beteiligungs-
+        unternehmens
+
+    *[^F796418_F512_BJNR324500006BJNE002304118]
+   Firma
+        , Rechtsform und Sitz
+        (lt. Registereintragung) mit PLZ
+        und Staat;
+        Register-Nr./Amtsgericht
+        , Rechtsträgerkennung
+        ; Wirtschaftszweig
+        ; bei natürlichen Personen
+        zusätzlich Angabe des Geburtsdatums;
+        Identnummer (falls bekannt); Servicenummer
+
+    *[^F796418_F513_BJNR324500006BJNE002304118]
+   Kapitalanteil
+[^F796418_F514_BJNR324500006BJNE002304118]
+        ,
+
+    *   Kapital
+        des Instituts/
+[^F796418_F516_BJNR324500006BJNE002304118]
+        Unternehmens
+        Tsd. Euro
+
+    *   Stimm-
+        rechts-
+        anteil
+[^F796418_F517_BJNR324500006BJNE002304118]
+        in
+        Prozent
+
+    *   Verhältnis zum
+[^F796418_F518_BJNR324500006BJNE002304118]
+        Institut
+
+
+*    *   in
+        Prozent
+
+    *   Tsd. Euro
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+
+   Der Anteilseigner hält an dem Institut eine durchgerechnete
+Kapitalquote in Höhe von **              Prozent.
+
+Seite 1
+
+
+**6.** **Weitere Angaben**
+
+    **Nur auszufüllen bei der Anzeige bedeutender Beteiligungen**
+
+    Die Beteiligung an dem Institut (bei Anzeigen nach § 24 Abs. 1a Nr. 3
+    KWG: an dem nach § 10a KWG nachgeordneten ausländischen Unternehmen)
+    wird von dem Anteilseigner im Zusammenwirken mit anderen Personen oder
+    Unternehmen gehalten
+
+    *                    ja
+
+    Falls „ja“ angekreuzt wurde, sind in der Unternehmensliste der Anlage
+    für komplexe Beteiligungsstrukturen nähere Angaben zu den anderen
+    Personen oder Unternehmen zu machen.
+
+    **Nur auszufüllen, wenn keine oder weniger als 10 Prozent der Kapital-
+    oder Stimmrechtsanteile gehalten werden**
+
+    *                    Auf die Geschäftsführung kann ein maßgeblicher
+    Einfluss ausgeübt werden:
+
+
+
+
+
+*    *
+    *
+
+*    *[^F796418_F519_BJNR324500006BJNE002304118]
+   Besondere Bemerkungen
+
+    *
+
+*    *
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Sachbearbeiter/in
+
+    *
+    *
+    *
+    *   Telefon-Nr.
+
+    *
+    *   E-Mail
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ort/Datum
+
+    *
+    *
+    *
+    *
+    *
+    *   Firma/Unterschrift
+
+
+
+Seite 2
+
+Fußnoten:
+
+Diese Seite ist nicht mit einzureichen.
+
+    Nur von Sparkassen und Kreditgenossenschaften auszufüllen.
+[^F796418_F501_BJNR324500006BJNE002304118]:     Mehrfachauswahl ist zulässig.
+[^F796418_F502_BJNR324500006BJNE002304118]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
+    Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere
+    Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem
+    größten Anteil am Geschäft des Unternehmens entspricht. Die Auswahl
+    „sonstiger Anteilseigner“ ist nur für Anteilseigner ohne
+    Unternehmenseigenschaft zu treffen.
+[^F796418_F504_BJNR324500006BJNE002304118]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+    vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
+    Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012
+    (ABl. L 176 vom 27.6.2013, S. 1).
+[^F796418_F505_BJNR324500006BJNE002304118]:     Nur bei inländischen Anteilseignern anzugeben.
+[^F796418_F506_BJNR324500006BJNE002304118]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
+    Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
+    sog. Pre-LEI sind ebenfalls zu berücksichtigen.
+[^F796418_F507_BJNR324500006BJNE002304118]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
+    Bankenstatistik“.
+[^F796418_F508_BJNR324500006BJNE002304118]:     Servicefeld für die elektronische Einreichung.
+[^F796418_F509_BJNR324500006BJNE002304118]:     Einzutragen ist die vollständige Beteiligungskette mit den jeweiligen
+    unmittelbaren Beteiligungsquoten zwischen den Beteiligungsunternehmen.
+    Die Kette beginnt in der ersten Zeile mit dem anzuzeigenden
+    Anteilseigner laut Nummer 3 und endet mit dem anzeigepflichtigen
+    Institut. In der ersten Zeile ist neben der Firma des Anteilseigners
+    lediglich dessen Verhältnis zum Institut anzugeben. Ab der zweiten
+    Zeile sind auch die Angaben zu den Anteilen auszufüllen.
+[^F796418_F510_BJNR324500006BJNE002304118]: [^F796418_F511_BJNR324500006BJNE002304118]:     Angaben zu den Beteiligungsquoten sind immer zu machen. Der
+    Hauptvordruck ist dabei nur geeignet für einfache mittelbare
+    Beteiligungsverhältnisse bis zu maximal drei Hierarchieebenen. Für
+    komplexe Beteiligungsstrukturen oder mittelbare
+    Beteiligungsverhältnisse über mehr als drei Ebenen sind die Angaben zu
+    den Beteiligungsquoten in der Anlage für komplexe
+    Beteiligungsstrukturen zu machen. In diesem Fall ist die Tabelle unter
+    Nummer 5 des Hauptvordrucks nicht auszufüllen. Die durchgerechnete
+    Kapitalquote unter Nummer 5 des Hauptvordrucks ist in jedem Fall
+    anzugeben. Ggf. ist zusätzlich ein Organigramm beizufügen.
+    Die Anlage für komplexe Beteiligungsstrukturen ist in jedem Fall
+    einzureichen, wenn              – in den Beteiligungsstrukturen
+    Treuhandverhältnisse vorkommen,              – die Beteiligung von
+    einem Anteilseigner gleichzeitig unmittelbar und mittelbar oder über
+    mehrere Beteiligungsketten gehalten wird,              – sich die
+    Tochtereigenschaft eines zwischengeschalteten Beteiligungsunternehmens
+    nicht aus der Höhe des Kapital- und/oder Stimmrechtsanteils herleiten
+    lässt,              – enge Verbindungen zu Schwesterunternehmen (§ 1
+    Abs. 7 KWG) angezeigt werden. In der Anlage für komplexe
+    Beteiligungsstrukturen ist dabei lediglich die vollständige
+    Beteiligungskette vom gemeinsamen Mutterunternehmen zum
+    Schwesterunternehmen anzugeben,              – eine bedeutende
+    Beteiligung an einem dem anzeigepflichtigen Institut gemäß § 10a Abs.
+    1 KWG nachgeordneten ausländischen Unternehmen angezeigt wird. In der
+    Anlage für komplexe Beteiligungsstrukturen ist dabei lediglich die
+    vollständige Beteiligungskette vom Anteilseigner zum nachgeordneten
+    ausländischen Unternehmen anzugeben.
+    Zu dem unter Nummer 3 angezeigten Anteilseigner müssen die Angaben zum
+    Unternehmen (Firma, Rechtsform und Sitz (lt. Registereintragung) mit
+    PLZ und Staat; Register-Nr./Amtsgericht; Rechtsträgerkennung;
+    Wirtschaftszweig; Identnummer (falls bekannt); Servicenummer), die
+    schon unter Nummer 3 gemacht wurden, in den Angaben zu den
+    Beteiligungsquoten nicht wiederholt werden. Lediglich die Firma des
+    Anteilseigners muss eingetragen werden.
+[^F796418_F512_BJNR324500006BJNE002304118]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
+    Personenhandelsgesellschaften und Gesellschaften des bürgerlichen
+    Rechts ist auf das durch den Gesellschaftsvertrag festgelegte
+    Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer
+    Stelle nach dem Komma. Fremdwährungsbeträge sind in Euro umzurechnen.
+    Sofern der Nennwert nicht auf Euro lautet, ist zusätzlich der Nennwert
+    in ausländischer Währung (in Tsd.) anzugeben. Der Nennwert ist zum
+    Kurs des Meldestichtages umzurechnen.
+[^F796418_F514_BJNR324500006BJNE002304118]:     Unmittelbarer Anteil des vorhergehenden Anteilseigners der
+    Beteiligungskette an dem hier genannten Beteiligungsunternehmen (keine
+    durchgerechneten Quoten).
+[^F796418_F513_BJNR324500006BJNE002304118]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
+    zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben.
+    Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
+[^F796418_F516_BJNR324500006BJNE002304118]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
+    Prozent mit einer Stelle nach dem Komma.
+[^F796418_F517_BJNR324500006BJNE002304118]:     Ist das Beteiligungsunternehmen ein Mutterunternehmen des
+    anzeigepflichtigen Instituts, ist „Mutter“ einzutragen. Ansonsten ist
+    das Feld nicht auszufüllen.
+[^F796418_F518_BJNR324500006BJNE002304118]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
+    Komplementär, Kommanditist, Anteil nicht voll einbezahlt,
+    Kapitalveränderung, Fusion, Stammdatenänderung, abweichende
+    Stimmrechtsanteile, Beteiligung resultiert ganz oder teilweise aus
+    einem stillen Beteiligungsverhältnis, Unterbeteiligung.
+[^F796418_F519_BJNR324500006BJNE002304118]: 
+
+## Anlage 6 (zu § 11 Abs. 1 AnzV)
+
+(Fundstelle: BGBl. I 2016, 2817 — 2818)
+
+## **NT**
+
+Nebentätigkeiten von Geschäftsleitern
+eines Instituts oder von Personen, die die Geschäfte einer
+**Finanzholding-Gesellschaft oder einer gemischten Finanzholding-
+Gesellschaft tatsächlich führen**
+## (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 1 KWG)
+
+Weitere Tätigkeiten von Mitgliedern
+eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das von
+erheblicher
+**Bedeutung ist, einer Finanzholding-Gesellschaft oder einer
+gemischten Finanzholding-Gesellschaft**
+## (Anzeige nach § 24 Abs. 2a KWG)
+
+
+*    *
+    *
+    *
+
+*    *   Bundesanstalt für
+        **Finanzdienstleistungsaufsicht**
+
+    *
+    *   Deutsche Bundesbank
+        **Hauptverwaltung**
+
+    *
+    *   wird durch die BBk ausgefüllt
+
+    *
+
+*    *
+    *   Identnummer
+[^F796418_F601_BJNR324500006BJNE002401118]
+        Geschäftsleiter/in
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *[^F796418_F602_BJNR324500006BJNE002401118]
+   Identnummer des Instituts
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   **1.  Angaben zur Person**
+
+
+*    *   *                      Herr*                      Frau
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Nachname, sämtliche Vornamen
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Geburtsdatum
+
+    *
+    *   Geburtsort
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Wohnsitz (Straße, Hausnummer, PLZ, Ort, Staat)
+
+    *
+    *
+
+
+   **2.  Art der Anzeige**
+
+
+*    *   *
+
+    *   –
+
+    *   Nebentätigkeiten von Geschäftsleitern eines Instituts oder von
+        Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder
+        einer gemischten Finanzholding-Gesellschaft tatsächlich führen
+        (§ 24 Abs. 3 Satz 1 Nr. 1 KWG)
+
+
+*    *   *
+
+    *   –
+
+    *   Weitere Tätigkeiten von Mitgliedern eines Verwaltungs- und
+        Aufsichtsorgans eines CRR-Instituts, das von erheblicher Bedeutung
+        ist, einer Finanzholding-Gesellschaft oder einer gemischten
+        Finanzholding-Gesellschaft
+        (§ 24 Abs. 2a KWG)
+
+
+
+**3.  Angaben zur Tätigkeit (Unternehmen im Geltungsbereich des KWG;
+ohne anzuzeigende Nebentätigkeit oder anzuzeigende weitere
+Tätigkeit)**
+
+
+*    *   *
+
+    *
+
+*    *
+    *   als Geschäftsleiter/in tätig bei (Firma, Rechtsform und Sitz des
+        Instituts, der Finanzholding-Gesellschaft oder
+        der gemischten Finanzholding-Gesellschaft (lt. Registereintragung) mit
+        PLZ)
+
+    *   BAK-Nummer (sechsstellig)
+        Identnr. (achtstellig)
+
+
+*    *   *
+
+    *
+
+*    *
+    *   als Mitglied des Verwaltungs- oder Aufsichtsorgans tätig bei (Firma,
+        Rechtsform und Sitz des Instituts, der Finanzholding-Gesellschaft oder
+        der gemischten Finanzholding-Gesellschaft (lt. Registereintragung) mit
+        PLZ)
+
+    *   BAK-Nummer (sechsstellig)
+        Identnr. (achtstellig)
+
+
+*    *
+    *
+
+*    *
+    *   als Mitglied des Verwaltungs- oder Aufsichtsorgans tätig bei (Firma,
+        Rechtsform und Sitz des Instituts, der Finanzholding-Gesellschaft oder
+        der gemischten Finanzholding-Gesellschaft (lt. Registereintragung) mit
+        PLZ)
+
+    *   BAK-Nummer (sechsstellig)
+        Identnr. (achtstellig)
+
+
+*    *
+    *
+
+*    *
+    *   als Mitglied des Verwaltungs- oder Aufsichtsorgans tätig bei (Firma,
+        Rechtsform und Sitz des Instituts, der Finanzholding-Gesellschaft oder
+        der gemischten Finanzholding-Gesellschaft (lt. Registereintragung) mit
+        PLZ)
+
+    *   BAK-Nummer (sechsstellig)
+        Identnr. (achtstellig)
+
+
+
+(ggf. auf einem gesonderten Blatt ausführen)
+
+**4.  Angaben zur anzuzeigenden Tätigkeit bei einem anderen
+Unternehmen**
+
+
+*    *   *
+
+    *   Institut (Kreditinstitut gem. § 1 Abs. 1 KWG oder
+        Finanzdienstleistungsinstitut gem. § 1 Abs. 1a KWG), Finanzholding-
+        oder gemischte Finanzholding-Gesellschaft gem. Art. 4 Abs. 1 Nr. 20
+        und 21 CRR, Zahlungsinstitut gem. § 1 Abs. 1 Nr. 5 ZAG, E-Geld-
+        Institut gem. § 1a Abs. 1 Nr. 5 ZAG)
+
+    *   *
+
+    *   sonstiges Unternehmen
+
+
+*    *   *
+
+    *   Beginn der zusätzlichen Tätigkeit
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   mit Wirkung vom
+
+    *
+
+*    *   *
+
+    *   Beendigung der zusätzlichen Tätigkeit
+
+    *
+    *
+    *
+
+
+
+*    *   *
+
+    *   als Geschäftsleiter/in
+
+    *   *
+
+    *   als Mitglied
+        des Aufsichtsrats
+
+    *   *
+
+    *   als Mitglied
+        des Verwaltungsrats
+
+    *   *
+
+    *   als Mitglied
+[^F796418_F603_BJNR324500006BJNE002401118]
+        des Beirats
+
+
+
+
+*    *
+    *
+    *
+
+*    *   Firma, Rechtsform und Sitz (lt. Registereintragung) mit PLZ und Staat;
+[^F796418_F604_BJNR324500006BJNE002401118]
+        **Register-Nr./Amtsgericht, Rechtsträgerkennung**
+        **; Wirtschaftszweig; Identnummer (falls bekannt)**
+
+    *
+    *   wird durch die BBk ausgefüllt
+
+    *
+
+*    *
+    *   Kreditnehmereinheit-Nr. des
+        Unternehmens
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Identnummer des
+        Unternehmens
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   5.  Angaben zur Mandatshöchstzahlberechnung
+**(Angabe von weiteren Mandaten bei Unternehmen, die nicht dem KWG
+unterliegen; Mandate, die als ein Mandat gelten; Mandate, die nicht zu
+berücksichtigen sind, ggf. auf einem gesonderten Blatt ausführen)**
+
+**6.  Angaben zur zeitlichen Verfügbarkeit (ggf. auf einem gesonderten
+Blatt ausführen)**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Ort/Datum
+
+    *
+    *
+    *
+    *   eigenhändige Unterschrift
+
+
+*    *
+    *
+    *
+    *
+    *
+
+
+   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+_\_\__\_\__\_\_
+
+Fußnoten:
+
+    oder der einzelvertretungsberechtigten Person oder der Person, die die
+    Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten
+    Finanzholding-Gesellschaft tatsächlich führt oder des Mitglieds eines
+    Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das von
+    erheblicher Bedeutung ist, einer Finanzholding-Gesellschaft oder einer
+    gemischten Finanzholding-Gesellschaft.
+[^F796418_F601_BJNR324500006BJNE002401118]:     oder der Finanzholding-Gesellschaft/der gemischten Finanzholding-
+    Gesellschaft.
+[^F796418_F602_BJNR324500006BJNE002401118]:     Mandate in Beiräten sind anzugeben, wenn die Aufgaben und Befugnisse
+    des Beirats denen eines Verwaltungs- oder Aufsichtsorgans entsprechen
+    und gesetzlich, per Satzung oder Gesellschaftsvertrag geregelt sind.
+[^F796418_F603_BJNR324500006BJNE002401118]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
+    Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
+    sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
+[^F796418_F604_BJNR324500006BJNE002401118]: 
+
+## Anlage 7 (zu § 11 Abs. 2 AnzV)
+
+(Fundstelle: BGBl. I 2016, 2819 — 2820)
+
+## **BG**
+
+Beteiligungen von Geschäftsleitern und Personen, die die Geschäfte
+**einer Finanzholding-Gesellschaft oder einer gemischten
+Finanzholding-Gesellschaft tatsächlich führen**
+## (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 2 KWG)
+
+
+*    *
+    *
+    *
+
+*    *   Bundesanstalt für
+        **Finanzdienstleistungsaufsicht**
+
+    *
+    *   Deutsche Bundesbank
+        **Hauptverwaltung**
+
+    *
+    *   wird durch die BBk ausgefüllt
+
+    *
+
+*    *
+    *[^F796418_F701_BJNR324500006BJNE002502118]
+   Identnummer Geschäftsleiter/in
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   *                      Herr*                      Frau
+
+    *
+    *
+    *
+    *   Identnummer des Instituts
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Nachname, sämtliche Vornamen
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Geburtsdatum
+
+    *
+    *   Geburtsort
+
+    *
+    *[^F796418_F702_BJNR324500006BJNE002502118]
+   Servicenummer
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   Wohnsitz (Straße, Hausnummer, PLZ, Ort, Staat)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+        *            *   tätig bei (Firma, Rechtsform und Sitz (lt. Registereintragung) mit
+                PLZ)
+
+            *   BAK-Nummer (sechsstellig), Identnr. (achtstellig)
+
+
+
+
+
+
+**1.  Anlass der Anzeige**
+
+*    *   *                        Übernahme
+
+    *   *                        Veränderung
+
+    *   *                        Aufgabe
+
+    *   mit Wirkung vom: **
+
+
+
+
+[^F796418_F703_BJNR324500006BJNE002502118]
+**2.  Beteiligungsunternehmen**
+
+*    *   *                        CRR-Kreditinstitut
+        (§ 1 Abs. 3d Satz 1 KWG)
+
+    *   *                        Wertpapierhandelsunternehmen
+        (§ 1 Abs. 3d Satz 4 KWG)
+
+    *   *                        E-Geld-Institut
+        (§ 1a Abs. 1 Nr. 5 ZAG)
+
+
+*    *   *                        sonstiges Kreditinstitut
+        (§ 1 Abs. 1 KWG)
+
+    *   *                        sonstiges Finanzdienstleistungsinstitut
+        (§ 1 Abs. 1a KWG)
+
+    *   *                        Kapitalverwaltungsgesellschaft
+        (§ 17 KAGB)
+
+
+*    *   *                        Finanzunternehmen
+        (§ 1 Abs. 3 KWG)
+
+    *   *                        Anbieter von Nebendienstleistungen
+[^F796418_F704_BJNR324500006BJNE002502118]
+        (Art. 4 Abs. 1 Nr. 18 CRR
+        )
+
+    *   *                        Finanzholding-Gesellschaft
+        (Art. 4 Abs. 1 Nr. 20 CRR)
+
+
+*    *   *                        gemischte Finanzholding-Gesellschaft
+        (Art. 4 Abs. 1 Nr. 21 CRR)
+
+    *   *                        Erstversicherungsunternehmen
+        (§ 7 Nr. 33 Alt. 1 VAG)
+
+    *   *                        Rückversicherungsunternehmen
+        (§ 7 Nr. 33 Alt. 2 VAG)
+
+
+*    *   *                        Versicherungs-Holdinggesellschaft
+        (§ 7 Nr. 31 VAG)
+
+    *   *                        Zahlungsinstitut
+        (§ 1 Abs. 1 Nr. 5 ZAG)
+
+    *   *                        sonstiges Unternehmen
+
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Firma und Rechtsform des Beteiligungsunternehmens (lt.
+        Registereintragung)
+
+    *
+    *   Identnummer (falls bekannt)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *[^F796418_F705_BJNR324500006BJNE002502118]
+   PLZ
+
+    *
+    *   Sitz
+
+    *
+    *
+    *
+    *   Staat
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Register-Nr./Amtsgericht
+[^F796418_F706_BJNR324500006BJNE002502118]
+        ; Rechtsträgerkennung
+
+    *
+    *[^F796418_F707_BJNR324500006BJNE002502118]
+   Wirtschaftszweig
+
+    *
+    *
+    *
+    *   Servicenummer
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Verhältnis zum Institut nach § 15 KWG
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+[^F796418_F708_BJNR324500006BJNE002502118]
+   **3.  Angaben zu den Beteiligungsquoten**
+
+
+*    *   **wird durch die BBk ausgefüllt**
+        Ident-Nr. des Beteiligungs-
+        unternehmens
+
+    *[^F796418_F709_BJNR324500006BJNE002502118]
+   Kapitalanteil
+
+    *   Kapital des
+[^F796418_F710_BJNR324500006BJNE002502118]
+        Unternehmens
+        Tsd. Euro
+
+    *   Stimmrechts-
+[^F796418_F711_BJNR324500006BJNE002502118]
+        anteil
+        in Prozent
+
+
+*    *   in Prozent
+
+    *   Tsd. Euro
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+
+
+
+*    *
+    *
+
+*    *[^F796418_F712_BJNR324500006BJNE002502118]
+   Besondere Bemerkungen
+
+    *
+
+*    *
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Sachbearbeiter/in
+
+    *
+    *
+    *
+    *   Telefon-Nr.
+
+    *
+    *   E-Mail
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ort/Datum
+
+    *
+    *
+    *
+    *
+    *
+    *   eigenhändige Unterschrift
+
+
+
+Fußnoten:
+
+Diese Seite ist nicht mit einzureichen.
+
+    oder der Person, die die Geschäfte einer Finanzholding-Gesellschaft
+    oder einer gemischten Finanzholding-Gesellschaft tatsächlich führt.
+[^F796418_F701_BJNR324500006BJNE002502118]:     Servicefeld für die elektronische Einreichung.
+[^F796418_F702_BJNR324500006BJNE002502118]:     Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere
+    Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere
+    Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem
+    größten Anteil am Geschäft des Unternehmens entspricht.
+[^F796418_F703_BJNR324500006BJNE002502118]:     Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+    vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
+    Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012
+    (ABl. L 176 vom 27.6.2013, S. 1) in der jeweils geltenden Fassung.
+[^F796418_F704_BJNR324500006BJNE002502118]:     Nur bei inländischen Unternehmen anzugeben.
+[^F796418_F705_BJNR324500006BJNE002502118]:     Sofern eine einheitliche Identifikationsnummer „Legal Entity
+    Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI,
+    sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
+[^F796418_F706_BJNR324500006BJNE002502118]:     Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die
+    Bankenstatistik“.
+[^F796418_F707_BJNR324500006BJNE002502118]:     Für Beteiligungsstrukturen, in denen Treuhandverhältnisse vorkommen,
+    ist neben dem Hauptvordruck die Anlage für komplexe
+    Beteiligungsstrukturen einzureichen. In diesem Fall ist Nummer 3 des
+    Hauptvordrucks nicht auszufüllen.
+[^F796418_F708_BJNR324500006BJNE002502118]:     Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei
+    Personenhandelsgesellschaften und Gesellschaften des bürgerlichen
+    Rechts ist auf das durch den Gesellschaftsvertrag festgelegte
+    Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer
+    Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist
+    zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben.
+    Der Nennwert ist zum Kurs des Meldestichtages umzurechnen.
+[^F796418_F709_BJNR324500006BJNE002502118]:     Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist
+    zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben.
+    Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
+[^F796418_F710_BJNR324500006BJNE002502118]:     Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in
+    Prozent mit einer Stelle nach dem Komma.
+[^F796418_F711_BJNR324500006BJNE002502118]:     Namensaktien, vinkulierte Namensaktien, ohne Nennkapital,
+    Komplementär, Kommanditist, Anteil nicht voll einbezahlt,
+    Kapitalveränderung, Fusion, Kapital reduziert um eigene Anteile,
+    Stammdatenänderung, abweichende Stimmrechtsanteile, Beteiligung
+    resultiert ganz oder teilweise aus einem stillen
+    Beteiligungsverhältnis.
+[^F796418_F712_BJNR324500006BJNE002502118]: 

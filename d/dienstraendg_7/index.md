@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 1513
 
+Geändert durch
+:   Art. 23 G v. 8.7.2016 I 1594
+
 
 
 ## Eingangsformel
@@ -28,10 +31,8 @@ beschlossen:
 -
 
 
-## Art 6 Berlin-Klausel
+## Art 6 (weggefallen)
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 7 Übergangsvorschrift, Inkrafttreten
@@ -43,22 +44,11 @@ Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 3 bis 5 dieses Artikels treten mit Wirkung vom 1. Dezember 1982 in
 Kraft; Artikel 5 tritt am 1. Januar 1986 in Kraft.
 
-(3) Die Versorgung richtet sich nach § 5 Abs. 4 Satz 1 erste
-Alternative, Satz 2 des Beamtenversorgungsgesetzes in der Fassung vor
-Inkrafttreten des Siebenten Gesetzes zur Änderung dienstrechtlicher
-Vorschriften vom 18. Juli 1985 (BGBl. I S. 1513), wenn der Beamte vor
-Inkrafttreten dieses Gesetzes verstorben oder in den Ruhestand
-getreten ist oder wenn ihm die Verfügung über die Versetzung in den
-Ruhestand vor diesem Zeitpunkt zugestellt worden ist.
+(3) (weggefallen)
 
-(4) Absatz 3 gilt entsprechend für Berufssoldaten; an die Stelle von §
-5 Abs. 4 Satz 1 erste Alternative, Satz 2 des
-Beamtenversorgungsgesetzes tritt § 18 Abs. 2 Satz 1 erste Alternative,
-Satz 2 des Soldatenversorgungsgesetzes in der Fassung vor
-Inkrafttreten des Siebenten Gesetzes zur Änderung dienstrechtlicher
-Vorschriften vom 18. Juli 1985 (BGBl. I S. 1513).
+(4) (weggefallen)
 
-(5) Absatz 4 gilt nicht im Land Berlin.
+(5) (weggefallen)
 
 (6) Artikel 1 Nr. 3 und Artikel 4 Abs. 1 Nr. 2 treten mit Wirkung vom
 1\. Juli 1977 in Kraft.

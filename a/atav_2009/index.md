@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1000
 
+Zuletzt geändert durch
+:   Art. 23 G v. 27.6.2017 I 1966
+
 [^F772072_01_BJNR100000009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2006/117/Euratom
     des Rates vom 20. November 2006 über die Überwachung und Kontrolle der
     Verbringungen radioaktiver Abfälle und abgebrannter Brennelemente
@@ -251,9 +254,9 @@ liegt.
 
 (3) Eine Genehmigung darf unbeschadet der Anforderungen der §§ 8 bis
 11 nicht erteilt werden, wenn die ergänzenden
-Genehmigungsvoraussetzungen des § 3 Absatz 2 und 3 des Atomgesetzes
-oder des § 22 der Strahlenschutzverordnung in der jeweils geltenden
-Fassung nicht erfüllt sind.
+Genehmigungsvoraussetzungen des § 3 Absatz 2 und 3 sowie Absatz 6 des
+Atomgesetzes oder des § 22 der Strahlenschutzverordnung in der jeweils
+geltenden Fassung nicht erfüllt sind.
 
 (4) Auf Antrag kann eine Sammelgenehmigung erteilt werden, wenn
 
@@ -737,7 +740,7 @@ aufzubewahren.
 ## § 22 Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen
 
 Das für die kerntechnische Sicherheit und den Strahlenschutz
-zuständige Bundesministerium für Umwelt, Naturschutz und
+zuständige Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, mit Zustimmung des Bundesrates
 Rechtsverordnungen nach Maßgabe des § 11 Absatz 1 Nummer 6 und Absatz
 2 des Atomgesetzes zur Änderung des einheitlichen Begleitscheins
@@ -766,13 +769,8 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 
-## § 24 Übergangsbestimmung
+## § 24 (weggefallen)
 
-Auf Verbringungen, die vor dem 25. Dezember 2008 ordnungsgemäß
-genehmigt oder beantragt worden sind, ist die Atomrechtliche
-Abfallverbringungsverordnung vom 27. Juli 1998 (BGBl. I S. 1918) in
-der bis zum Ablauf des 6. Mai 2009 geltenden Fassung weiter
-anzuwenden.
 
 
 ## § 25 Inkrafttreten, Außerkrafttreten

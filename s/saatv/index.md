@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 8.2.2006 I 344;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 25.10.2012 I 2270
+:   Art. 2 V v. 9.6.2017 I 1614
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -193,7 +193,11 @@ Im Sinne dieser Verordnung sind
 
 7.  Hybridität: Anteil der durch Fremdbefruchtung erzeugten Körner bei
     Saatgut von Hybridsorten, das aus Feldbeständen erwachsen ist, die mit
-    einem Gametozid behandelt worden sind.
+    einem Gametozid behandelt worden sind;
+
+
+8.  CMS: zytoplasmatisch bedingte männliche Sterilität (cytoplasmic male
+    sterility).
 
 
 
@@ -323,6 +327,12 @@ Saatgutverkehrsgesetzes beizufügen.
 (7) Im Antrag ist anzugeben, ob die Durchführung der
 Beschaffenheitsprüfung nach § 12 Abs. 1b beantragt wird.
 
+(8) Für den Fall, dass bei Saatgut von Gräsern das Höchstgewicht einer
+Partie auf bis zu 25 Tonnen erhöht werden soll und dem Antragsteller
+durch die zuständige Anerkennungsstelle noch keine Genehmigung zur
+Herstellung von Saatgutpartien von bis zu 25 Tonnen erteilt worden
+ist, ist diese Genehmigung mit dem Antrag nach Absatz 1 zu beantragen.
+
 
 ### § 5 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
 
@@ -371,8 +381,8 @@ Artengruppen gebildet:
 2.  Kohlrübe und Futterkohl,
 
 
-3.  Kohlrabi, Grünkohl, Blumenkohl, Rotkohl, Weißkohl, Wirsing und
-    Rosenkohl,
+3.  Kohlrabi, Grünkohl, Blumenkohl, Brokkoli, Rotkohl, Weißkohl, Wirsing
+    und Rosenkohl,
 
 
 4.  Rübsen, Herbstrübe und Mairübe.
@@ -451,7 +461,7 @@ Vorliegen der Anforderungen an den Feldbestand zu prüfen.
 Basissaatgut bei Getreide ist zusätzlich mindestens ein weiteres Mal
 durch Feldbesichtigung auf das Vorliegen der Anforderungen an den
 Feldbestand zu prüfen, soweit nicht mindestens eine oder mehrere
-zusätzliche Feldbesichtigungen nach Absatz 2 oder 3 vorgeschrieben
+zusätzliche Feldbesichtigungen nach Absatz 2, 2a oder 3 vorgeschrieben
 sind.
 
 (2) Jede Vermehrungsfläche von Hybridsorten von Roggen ist zusätzlich
@@ -469,6 +479,11 @@ sind.
 durch Feldbesichtigung auf das Vorliegen der Anforderungen an den
 Feldbestand zu prüfen; dies gilt nicht bei der Erzeugung von
 Basissaatgut der väterlichen Erbkomponente.
+
+(2a) Jede Vermehrungsfläche von Hybridsorten von Gerste zur Erzeugung
+von Zertifiziertem Saatgut ist zusätzlich mindestens ein weiteres Mal
+durch Feldbesichtigung auf das Vorliegen der Anforderungen an den
+Feldbestand zu prüfen.
 
 (3) Jede Vermehrungsfläche mit Hybridsorten oder Inzuchtlinien von
 Mais ist zusätzlich bei der Erzeugung von Basissaatgut mindestens
@@ -554,6 +569,12 @@ Vermehrungsflächen, die durch einen privaten Feldbestandsprüfer
 geprüft werden, selbst eine zusätzliche Feldbestandsprüfung
 durchzuführen.
 
+(10) Die Absätze 7 bis 9 gelten bis zum Ablauf des 31. Dezember 2017
+auch für Vermehrungsflächen zur Erzeugung von anerkanntem
+Vorstufensaatgut und Basissaatgut. In diesem Fall muss sichergestellt
+sein, dass die Vermehrungsbestände aus Saatgut erwachsen sind, das
+einer amtlichen Nachprüfung unterzogen worden ist.
+
 
 ### § 8 Mängel des Feldbestandes
 
@@ -584,9 +605,9 @@ und Voraussetzungen hierfür festsetzen, wenn
 
 Die Anerkennungsstelle teilt dem Antragsteller und dem Vermehrer das
 Ergebnis der Feldbestandsprüfung sowie das Ergebnis der Prüfung des
-Bestandes von Stecklingen im Ansaatjahr schriftlich mit; im Falle
-mehrfacher Feldbesichtigung oder Nachbesichtigung jedoch erst nach der
-letzten Besichtigung.
+Bestandes von Stecklingen im Ansaatjahr schriftlich oder elektronisch
+mit; im Falle mehrfacher Feldbesichtigung oder Nachbesichtigung jedoch
+erst nach der letzten Besichtigung.
 
 
 ### § 10 Wiederholungsbesichtigung
@@ -625,22 +646,7 @@ Mindestreinheit.
 entnehmen ist, und das Mindestgewicht oder die Mindestmenge der Probe
 ergeben sich aus Anlage 4.
 
-(2a) Im Falle der Anerkennung des Saatgutes von Straußgräsern,
-Lieschgräsern, Rispenarten, Goldhafer, Wiesenfuchsschwanz, Knaulgras,
-Schwingelarten, Glatthafer, Festulolium und Weidelgräsern darf für die
-Zwecke der Beschaffenheitsprüfung bis zum 31. Dezember 2013 die
-Probenahme abweichend von Absatz 2 in Verbindung mit Anlage 4 Spalte 2
-auch an Partien mit einem Höchstgewicht von bis zu 25 Tonnen
-durchgeführt werden, soweit der Betrieb, von dem das Saatgut stammt,
-dies bei der Anerkennungsstelle beantragt. Die Anerkennungsstelle kann
-die Probenahme an Saatgutpartien dieser Größe davon abhängig machen,
-dass der Antragsteller nachweist, dass das zuständige Komitee der
-Internationalen Vereinigung für Saatgutprüfung (ISTA) seine Teilnahme
-an dem ISTA-Versuch zur Partiegröße von Futterpflanzensaatgut
-bestätigt hat. Die Anerkennungsstelle kontrolliert im Falle von Proben
-nach Satz 1, die von einem privaten Probenehmer nach Absatz 7 gezogen
-worden sind, bis zu 5 vom Hundert der durchgeführten
-Heterogenitätsprüfungen.
+(2a) (weggefallen)
 
 (3) Der Probenehmer kann von Saatgut, das noch nicht verpackt ist,
 Proben entnehmen, wenn die Zugehörigkeit der jeweiligen Probe zu der
@@ -733,9 +739,9 @@ entsprechenden landesrechtlichen Vorschriften unberührt.
 (1) Die Beschaffenheit wird anhand der dafür entnommenen Probe
 geprüft. Auf Antrag wird bei Getreide zusätzlich geprüft, ob die
 besonderen Voraussetzungen bezüglich des Freiseins von Flughafer
-erfüllt sind, die in Rechtsakten der Europäischen Gemeinschaft
-festgesetzt sind. Auf Antrag kann außerdem das Tausendkorngewicht
-festgestellt werden.
+erfüllt sind, die in Rechtsakten der Europäischen Gemeinschaft oder
+der Europäischen Union festgesetzt sind. Auf Antrag kann außerdem das
+Tausendkorngewicht festgestellt werden.
 
 (1a) Für die Untersuchung der Keimfähigkeit werden aus der für die
 Beschaffenheitsprüfung entnommenen Probe 4 x 100 der reinen Körner
@@ -811,11 +817,11 @@ landesrechtlichen Vorschriften unberührt.
 
 Die Anerkennungsstelle teilt das Ergebnis der Beschaffenheitsprüfung
 dem Antragsteller, dem Vermehrer und demjenigen, in dessen Betrieb die
-Probe entnommen worden ist, schriftlich mit. Über das Ergebnis der
-zusätzlichen Prüfung bei Getreide nach § 12 Abs. 1 Satz 2 wird eine
-gesonderte Bescheinigung ausgestellt; wird diese Prüfung erst nach der
-Anerkennung vorgenommen, so wird in der Bescheinigung auch die
-Anerkennungsnummer der Partie angegeben.
+Probe entnommen worden ist, schriftlich oder elektronisch mit. Über
+das Ergebnis der zusätzlichen Prüfung bei Getreide nach § 12 Abs. 1
+Satz 2 wird eine gesonderte Bescheinigung ausgestellt; wird diese
+Prüfung erst nach der Anerkennung vorgenommen, so wird in der
+Bescheinigung auch die Anerkennungsnummer der Partie angegeben.
 
 
 ### § 14 Bescheid
@@ -844,7 +850,10 @@ Anerkennungsnummer der Partie angegeben.
 7.  im Falle des § 12 Abs. 1 Satz 3 das Tausendkorngewicht,
 
 
-8.  im Falle der Anerkennung die Kategorie und die Anerkennungsnummer.
+8.  im Falle der Anerkennung die Kategorie und die Anerkennungsnummer,
+
+
+9.  die Entscheidung über den Antrag nach § 4 Absatz 8.
 
 
 
@@ -864,6 +873,19 @@ Antrag als Zertifiziertes Saatgut anerkannt, wenn es aus anerkanntem
 Vorstufensaatgut erwachsen ist und die Anforderungen für
 Zertifiziertes Saatgut erfüllt. Dies gilt nicht für Sorten, deren
 Pflanzen durch Kreuzung bestimmter Erbkomponenten erzeugt werden.
+
+[^F783963_02_BJNR001460986BJNE002305360]
+(5) Für die Entscheidung über den Antrag nach Absatz 1 Nummer 9
+berücksichtigt die zuständige Anerkennungsstelle die im Juli 2013 mit
+Kapitel 2.5.4.1 Buchstaben c und d in Verbindung mit Kapitel 2.5.4.2
+in die Internationalen Vorschriften für die Prüfung von Saatgut der
+Internationalen Vereinigung für Saatgutprüfung Ausgabe 2013
+aufgenommenen Bedingungen für die Beprobung und Prüfung der
+Heterogenität großer Saatgutpartien von Gräsern.
+
+[^F783963_02_BJNR001460986BJNE002305360]:     Amtlicher Hinweis:              In deutscher Sprache veröffentlicht
+    und zu beziehen durch International Seed Testing Association,
+    Zürichstr. 50, CH-8303 Bassersdorf, Schweiz; www.seedtest.org.
 
 
 ### § 15 Erneute Beschaffenheitsprüfung
@@ -886,26 +908,54 @@ sind anzugeben.
 
 (4) § 11 Abs. 1 bis 4 Nr. 1, § 12 Abs. 1 Satz 3 und Abs. 2 Satz 1
 gelten entsprechend. Das Ergebnis der Prüfung wird dem Antragsteller
-schriftlich mitgeteilt.
+schriftlich oder elektronisch mitgeteilt.
 
 
 ### § 16 Nachprüfung
 
-(1) Die Anerkennungsstelle prüft, soweit sie es für erforderlich hält,
-anerkanntes Saatgut und in jedem Falle Basissaatgut und Zertifiziertes
-Saatgut zur Erzeugung von Zertifiziertem Saatgut, bei dem nach § 7
-Abs. 7 ein privater Feldbestandsprüfer mit der Durchführung der
-Feldbestandsprüfung beauftragt werden soll, anhand der dafür
-entnommenen Probe daraufhin nach, ob es oder sein Aufwuchs sortenecht
-ist und erkennen lässt, dass die Anforderungen an den
-Gesundheitszustand erfüllt waren. Anerkanntes Vorstufensaatgut sowie
-Basissaatgut von Hybridsorten von Getreide oder Raps sowie
-Basissaatgut von Sorten nach § 55 Abs. 2 des Saatgutverkehrsgesetzes
-ist in jedem Falle, anderes anerkanntes Saatgut im Falle der
-Kennzeichnung nach einem OECD-System nach Maßgabe des Absatzes 3
-nachzuprüfen; in diesen Fällen führt das Bundessortenamt die
-Nachprüfung auf Sortenechtheit durch und unterrichtet die
-Anerkennungsstelle und den Züchter über das Ergebnis.
+(1) Bei der Nachprüfung wird Saatgut anhand der dafür entnommenen
+Probe daraufhin geprüft, ob es oder sein Aufwuchs sortenecht ist und
+erkennen lässt, dass die Anforderungen an den Gesundheitszustand
+erfüllt waren.
+Die Anerkennungsstelle überprüft im Hinblick auf die Anforderungen des
+Satzes 1
+
+1.  anerkanntes Saatgut, soweit dies für die Nachprüfung erforderlich ist,
+
+
+2.  in jedem Falle Saatgut zur Erzeugung von Zertifiziertem Saatgut, bei
+    dem nach § 7 Absatz 7 ein privater Feldbestandsprüfer zur Mitwirkung
+    bei der Durchführung der Feldbestandsprüfung zugelassen werden soll,
+    sowie
+
+
+3.  in 5 vom Hundert der Fälle Zertifiziertes Saatgut, das aus
+    Feldbeständen erwachsen ist, bei denen ein privater Feldbestandsprüfer
+    bei der Durchführung der Feldbestandsprüfung mitgewirkt hat.
+
+
+
+Das Bundessortenamt überprüft im Hinblick auf die Anforderungen des
+Satzes 1
+
+1.  in jedem Falle Saatgut zur Erzeugung von Vorstufensaatgut oder
+    Basissaatgut, bei dem nach § 7 Absatz 7 ein privater
+    Feldbestandsprüfer zur Mitwirkung bei der Durchführung der
+    Feldbestandsprüfung zugelassen werden soll, sowie
+
+
+2.  in 10 vom Hundert der Fälle das nach Nummer 1 erzeugte
+    Vorstufensaatgut oder Basissaatgut.
+
+
+
+Anerkanntes Vorstufensaatgut sowie Basissaatgut von Hybridsorten von
+Getreide oder Raps sowie Basissaatgut von Sorten nach § 55 Abs. 2 des
+Saatgutverkehrsgesetzes ist in jedem Falle, anderes anerkanntes
+Saatgut im Falle der Kennzeichnung nach einem OECD-System nach Maßgabe
+des Absatzes 3 nachzuprüfen; in diesen Fällen führt das
+Bundessortenamt die Nachprüfung auf Sortenechtheit durch und
+unterrichtet die Anerkennungsstelle und den Züchter über das Ergebnis.
 
 (2) Absatz 1 gilt nicht für anerkanntes Vorstufensaatgut und
 Basissaatgut von Runkelrübe, Zuckerrübe und Roter Rübe.
@@ -921,39 +971,157 @@ Saatgut, das aus Saatgut erwachsen ist, dessen Einfuhr zur Vermehrung
 nach § 18 Abs. 2 Nr. 1 des Saatgutverkehrsgesetzes genehmigt worden
 war.
 
-(3a) Die Nachprüfung muss bei Basissaatgut von Hybridsorten von Roggen
-vor der Anerkennung des daraus erwachsenen Zertifizierten Saatgutes
-abgeschlossen sein. Bei Basissaatgut der mütterlichen Erbkomponente
-gilt die Sortenechtheit nur als gegeben, wenn im Aufwuchs der Anteil
-der Pflanzen,
+(3a) Bei anerkanntem Vorstufensaatgut der Erbkomponenten von
+Hybridsorten von Gerste gilt die Sortenechtheit nur als gegeben, wenn
+im Aufwuchs
 
-1.  die nicht hinreichend sortenecht sind, 0,6 v. H.,
+1.  der Anteil der Pflanzen, die nicht hinreichend sortenecht sind, im
+    Falle
+
+    a)
+        *            *   der Maintainer-Linie
+
+            *   0,1 v. H.,
 
 
-2.  die keine männliche Sterilität aufweisen, 2 v. H.
 
 
 
-nicht übersteigt.
+    b)
+        *            *   der männlichen Linie (Restorer)
+
+            *   0,1 v. H.,
+
+
+
+
+
+    c)
+        *            *   der CMS-Mutterlinie
+
+            *   0,2 v. H.,
+
+
+
+
+
+
+
+
+2.
+    *        *   der mütterlichen CMS-Kom-
+            ponenten der Anteil der Pflanzen,
+            die keine männliche Sterilität
+            aufweisen,
+
+        *   0,3 v. H.
+
+
+
+
+
+
+nicht übersteigt. Bei Basissaatgut der Erbkomponenten von Hybridsorten
+von Gerste gilt die Sortenechtheit nur als gegeben, wenn im Aufwuchs
+
+1.  der Anteil der Pflanzen, die nicht hinreichend sortenecht sind, im
+    Falle
+
+    a)
+        *            *   der männlichen Linie (Restorer)
+
+            *   0,3 v. H.,
+
+
+
+
+
+    b)
+        *            *   der CMS-Mutterlinie
+
+            *   0,3 v. H.,
+
+
+
+
+
+    c)
+        *            *   einer CMS-Einfachhybride
+                als mütterliche Komponente
+
+            *   0,5 v. H.,
+
+
+
+
+
+
+
+
+2.
+    *        *   der mütterlichen CMS-Kom-
+            ponenten der Anteil der Pflanzen,
+            die keine männliche Sterilität
+            aufweisen,
+
+        *   0,5 v. H.
+
+
+
+
+
+
+nicht übersteigt. Bei Basissaatgut der mütterlichen Erbkomponente von
+Hybridsorten von Roggen gilt die Sortenechtheit nur als gegeben, wenn
+im Aufwuchs der Anteil der Pflanzen,
+
+1.
+    *        *   die nicht hinreichend sortenecht
+            sind,
+
+        *   0,6 v. H.,
+
+
+
+
+
+2.
+    *        *   die keine männliche Sterilität
+            aufweisen,
+
+        *   2 v. H.
+
+
+
+
+
+
+nicht übersteigt. Die Nachprüfung muss bei Basissaatgut von
+Hybridsorten von Roggen und Gerste vor der Anerkennung des daraus
+erwachsenen Zertifizierten Saatgutes abgeschlossen sein.
 
 (3b) Bei Zertifiziertem Saatgut von Hybridsorten von Getreide außer
 Roggen, Mais und Sorghum führt das Bundessortenamt an mindestens 5 vom
 Hundert der entnommenen Proben eine Nachprüfung durch. Die
 Sortenechtheit gilt nur als gegeben, wenn im Aufwuchs der Anteil der
 Pflanzen, die nicht hinreichend sortenecht sind, 10 vom Hundert nicht
-übersteigt.
+übersteigt. Bei Zertifiziertem Saatgut von Hybridsorten von Gerste
+gilt die Sortenechtheit nur als gegeben, wenn im Aufwuchs der Anteil
+der Pflanzen, die nicht hinreichend sortenecht sind, 15 vom Hundert
+nicht übersteigt und dabei der Anteil der nicht dem Restorer
+zuzurechnenden Pflanzen 2 vom Hundert nicht übersteigt.
 
-(3c) Die Nachprüfung muss bei Basissaatgut und Zertifiziertem Saatgut
-zur Erzeugung von Zertifiziertem Saatgut, bei dem nach § 7 Abs. 7 ein
-privater Feldbestandsprüfer mit der Durchführung der
-Feldbestandsprüfung beauftragt werden soll, vor der Anerkennung des
-daraus erzeugten Zertifizierten Saatgutes abgeschlossen sein.
+(3c) Die Nachprüfung muss bei Saatgut zur Erzeugung von anerkanntem
+Vorstufensaatgut, Basissaatgut und Zertifiziertem Saatgut, bei dem
+nach § 7 Absatz 7 ein privater Feldbestandsprüfer zur Mitwirkung bei
+der Durchführung der Feldbestandsprüfung zugelassen werden soll, vor
+der Anerkennung des daraus erzeugten Saatgutes abgeschlossen sein.
 
 (3d) Die Nachprüfung muss bei Basissaatgut von Hybridsorten von Raps
 vor der Anerkennung des daraus erwachsenen Zertifizierten Saatgutes
 abgeschlossen sein. Bei Basissaatgut von Hybridsorten von Raps gilt
-die Sortenechtheit nur dann als gegeben, wenn im Aufwuchs der Anteil
-der Pflanzen
+die Sortenechtheit nur als gegeben, wenn im Aufwuchs der Anteil der
+Pflanzen
 
 1.  der mütterlichen Erbkomponente, die nicht hinreichend sortenecht sind,
     1 vom Hundert, und die keine männliche Sterilität aufweisen, 2 vom
@@ -966,14 +1134,19 @@ der Pflanzen
 
 
 nicht übersteigt.
-Bei Zertifiziertem Saatgut von Hybridsorten von Raps gilt die
-Sortenechtheit als gegeben, wenn im Aufwuchs der Anteil der Pflanzen,
-die nicht sortenecht sind, 10 vom Hundert nicht übersteigt.
+Bei Zertifiziertem Saatgut von Hybridsorten von Winterraps gilt die
+Sortenechtheit nur als gegeben, wenn im Aufwuchs der Anteil der
+Pflanzen, die nicht hinreichend sortenecht sind, 10 vom Hundert nicht
+übersteigt. Bei Zertifiziertem Saatgut von Hybridsorten von Sommerraps
+gilt die Sortenechtheit nur als gegeben, wenn im Aufwuchs der Anteil
+der Pflanzen, die nicht hinreichend sortenecht sind, 15 vom Hundert
+nicht übersteigt.
 Die Einhaltung der Anforderungen wird durch Nachprüfung an mindestens
 5 vom Hundert der amtlich entnommenen Proben überwacht.
 
 (4) Soweit die Bundesrepublik Deutschland durch Rechtsakte der
-Europäischen Gemeinschaft verpflichtet ist,
+Europäischen Gemeinschaft oder der Europäischen Union verpflichtet
+ist,
 
 1.  eine Nachprüfung durchzuführen, wird diese vom Bundessortenamt
     durchgeführt;
@@ -992,8 +1165,9 @@ eines OECD-Systems einen Antrag auf Übersendung von Proben für eine
 Nachprüfung stellt und dem Antrag entsprochen werden soll, gilt Satz 1
 Nr. 2 entsprechend.
 
-(5) In den Fällen des Absatzes 1 Satz 2 und des Absatzes 4 leitet die
-Anerkennungsstelle die erforderlichen Proben dem Bundessortenamt zu.
+(5) In den Fällen des Absatzes 1 Satz 3 und 4 und des Absatzes 4
+leitet die Anerkennungsstelle die erforderlichen Proben dem
+Bundessortenamt zu.
 
 
 ### § 17 Verfahren für die Nachprüfung durch Anbau
@@ -1023,15 +1197,19 @@ Rücknahme zu unterrichten.
 ### § 19 Gestattung des Inverkehrbringens
 
 Standardsaatgut von Gemüsearten darf zu gewerblichen Zwecken in den
-Verkehr gebracht werden.
+Verkehr gebracht werden. Das Saatgut muss ausreichend sortenecht und
+sortenrein sein.
 
 
-### § 20 Anforderungen an die Beschaffenheit, Höchstgewicht einer Partie
+### § 20 Anforderungen an die Sortenreinheit und Beschaffenheit, Höchstgewicht einer Partie
 
-(1) Die Anforderungen an die Beschaffenheit des Standardsaatgutes
-ergeben sich aus Anlage 3 Nr. 7.
+(1) Die Anforderungen an die Sortenreinheit des Standardsaatgutes
+ergeben sich aus Anlage 2 Nummer 7.1.
 
-(2) Das Höchstgewicht einer Partie ergibt sich aus Anlage 4.
+(2) Die Anforderungen an die Beschaffenheit des Standardsaatgutes
+ergeben sich aus Anlage 3 Nummer 7.
+
+(3) Das Höchstgewicht einer Partie ergibt sich aus Anlage 4.
 
 
 ### § 21 Nachkontrolle
@@ -1179,8 +1357,8 @@ Verkehr gebracht werden, wenn der Aufwuchs
 
 
 2.  zur Futternutzung außer Körnernutzung bestimmt ist und die Mischung
-    nur Saatgut von Getreide, Futterpflanzen oder Öl- und Faserpflanzen
-    enthält, jedoch kein Saatgut von Gräsersorten,
+    nur Saatgut von Getreide, Futterpflanzen, Öl- und Faserpflanzen oder
+    Gemüsearten enthält, jedoch kein Saatgut von Gräsersorten,
 
     a)  bei denen der Aufwuchs nicht zur Nutzung als Futterpflanze bestimmt
         ist oder
@@ -1369,15 +1547,17 @@ demjenigen, der das Saatgut als erster zu gewerblichen Zwecken in den
 Verkehr bringt oder neu verpackt und zu gewerblichen Zwecken in den
 Verkehr bringt, mit einem Etikett zu kennzeichnen. Bei
 Standardsaatgut, das in einem anderen Vertragsstaat in der in
-Rechtsakten der Europäischen Gemeinschaft bestimmten Form
-gekennzeichnet und geschlossen worden ist, entfällt diese
-Verpflichtung für denjenigen, der es, ohne es neu zu verpacken, im
-Inland zu gewerblichen Zwecken in den Verkehr bringt.
+Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+bestimmten Form gekennzeichnet und geschlossen worden ist, entfällt
+diese Verpflichtung für denjenigen, der es, ohne es neu zu verpacken,
+im Inland zu gewerblichen Zwecken in den Verkehr bringt.
 
 (3) Das Etikett muss rechteckig und mindestens 110 x 67 mm groß sein,
 die jeweilige Kennfarbe haben und als unverwischbaren Aufdruck die
 jeweiligen Angaben nach Anlage 5 enthalten; sie können auch zusätzlich
-in anderen Sprachen gemacht werden. Die Betriebsnummer bei
+in anderen Sprachen gemacht werden. Die amtlich zugeteilte
+Seriennummer wird bei Saatgut nach Anlage 5 Nummer 1 bis 6 von der
+zuständigen Anerkennungsstelle vergeben. Die Betriebsnummer bei
 Standardsaatgut (Anlage 5 Nr. 2.3) wird von der Nachkontrollstelle, in
 deren Bereich der Betrieb liegt, auf Antrag festgesetzt; sie setzt
 sich zusammen aus den Buchstaben „DE”, einer Zahl und einem dem
@@ -1421,9 +1601,7 @@ zusätzlich folgende Angaben enthalten:
 
 
 
-(5b) Im Falle der Anwendung des § 11 Abs. 2a muss das Etikett der
-Saatgutpartie nach der Angabe "EG-Norm" die Angabe "Entscheidung
-2007/66/EG der Kommission" enthalten.
+(5b) (weggefallen)
 
 (6) Das Etikett kann Angaben enthalten über
 
@@ -1484,14 +1662,13 @@ aufgedruckt ist.
 ### § 30 Aufdrucketikett
 
 Bei anerkanntem Saatgut von Getreide, Futterpflanzen oder Öl- und
-Faserpflanzen kann, wenn die Packung oder das Behältnis eine von der
-Anerkennungsstelle zugeteilte Ordnungsnummer trägt, anstelle des
-Etikettes ein unverwischbarer Aufdruck oder Stempelaufdruck mit den
-Angaben nach § 29 Abs. 3, 5 und 6 in der jeweiligen Kennfarbe
-angebracht werden (Aufdrucketikett). Die Anerkennungsnummer sowie
-Monat und Jahr der Probenahme sind in zeitlicher Verbindung mit der
-Probenahme nach § 11 Abs. 1 oder dem Verpacken nach § 36 Satz 1 durch
-den Probenehmer oder unter seiner Aufsicht anzubringen.
+Faserpflanzen kann anstelle des Etikettes ein unverwischbarer Aufdruck
+oder Stempelaufdruck mit den Angaben nach § 29 Abs. 3, 5 und 6 in der
+jeweiligen Kennfarbe angebracht werden (Aufdrucketikett). Die
+Anerkennungsnummer sowie Monat und Jahr der Probenahme sind in
+zeitlicher Verbindung mit der Probenahme nach § 11 Abs. 1 oder dem
+Verpacken nach § 36 Satz 1 durch den Probenehmer oder unter seiner
+Aufsicht anzubringen.
 
 
 ### § 31 Einleger
@@ -1650,16 +1827,16 @@ hinzugefügt worden sind, sind auf dem Etikett zusätzlich anzugeben:
 
 
 
-müssen in der in Rechtsakten der Europäischen Gemeinschaft bestimmten
-Form gekennzeichnet sein. Soweit die Kennzeichnung zusätzliche Angaben
-nach Anlage 5 Nr. 1.11, 2.10, 3.10 oder 4.7 enthält und diese nicht in
-deutscher Sprache angegeben oder in die deutsche Sprache übersetzt
-sind, sind die Packungen und Behältnisse nach Ankunft am
-Bestimmungsort im Inland mit einem Zusatzetikett zu versehen, das die
-Angaben des Originaletiketts in deutscher Sprache enthält; an die
-Stelle des Zusatzetikettes kann bei Packungen ein unverwischbarer
-Aufdruck treten. Satz 2 gilt nicht, wenn am ersten Bestimmungsort im
-Inland
+müssen in der in Rechtsakten der Europäischen Gemeinschaft oder der
+Europäischen Union bestimmten Form gekennzeichnet sein. Soweit die
+Kennzeichnung zusätzliche Angaben nach Anlage 5 Nr. 1.11, 2.10, 3.10
+oder 4.7 enthält und diese nicht in deutscher Sprache angegeben oder
+in die deutsche Sprache übersetzt sind, sind die Packungen und
+Behältnisse nach Ankunft am Bestimmungsort im Inland mit einem
+Zusatzetikett zu versehen, das die Angaben des Originaletiketts in
+deutscher Sprache enthält; an die Stelle des Zusatzetikettes kann bei
+Packungen ein unverwischbarer Aufdruck treten. Satz 2 gilt nicht, wenn
+am ersten Bestimmungsort im Inland
 
 1.  die Packungen oder die Behältnisse nach § 37 oder § 48 Abs. 2 und 3
     wiederverschlossen werden sollen,
@@ -1746,7 +1923,7 @@ versehen (Verschließung).
     b)  Weiße Lupine,
 
 
-    c)  Blaue Lupine, Schmalblättrige Lupine
+    c)  Blaue Lupine, Schmalblättrige Lupine,
 
 
     d)  Gelbe Lupine,
@@ -1927,9 +2104,9 @@ abpacken, Kennnummern zuteilen, die sich aus der Mischungsnummer und
 einer durch einen Bindestrich abgesetzten laufenden Nummer für jede
 Packung zusammensetzen.
 
-(7) Bei Kleinpackungen nach Anlage 6 Nr. 1.1.1 und 1.1.2 sind die
-Kennnummer, die Angabe der Kategorie, der Füllmenge oder Stückzahl der
-Körner oder Knäuel entbehrlich, wenn die Kleinpackung mit einer
+(7) Bei Kleinpackungen nach Anlage 6 Nr. 1.1.1, 1.1.2 und 3.1.2 sind
+die Kennnummer, die Angabe der Kategorie, der Füllmenge oder Stückzahl
+der Körner oder Knäuel entbehrlich, wenn die Kleinpackung mit einer
 amtlichen Klebemarke in der jeweiligen Kennfarbe versehen ist, die
 mindestens folgende Angaben enthält:
 
@@ -1937,7 +2114,7 @@ mindestens folgende Angaben enthält:
     Anerkennungsstelle,
 
 
-2.  eine laufende Nummer,
+2.  die Kennnummer,
 
 
 3.  die Nennfüllmenge,
@@ -1947,11 +2124,9 @@ mindestens folgende Angaben enthält:
 
 
 
-Dies gilt entsprechend für Kleinpackungen EG B mit Saatgutmischungen
-(Anlage 6 Nr. 3.1.2 Spalte 3) mit der Maßgabe, dass an oder auf der
-Packung die Mischungsnummer angegeben ist. Die Klebemarke enthält
-mindestens die Angaben nach Satz 1 Nr. 1 bis 3 und die Angabe
-"Saatgutmischung".
+Die Klebemarke enthält bei Kleinpackungen nach Anlage 6 Nummer 3.1.2
+mindestens die Angaben nach Satz 1 Nummer 1 bis 3 und die Angabe
+„Saatgutmischung“.
 
 (8) Kleinpackungen sind so zu schließen, dass sie nicht geöffnet
 werden können, ohne das Verschlusssystem zu verletzen oder auf der
@@ -2102,10 +2277,11 @@ Mais sowie von Futtererbse und Ackerbohne kann mit Genehmigung der
 zuständigen Anerkennungsstelle abweichend von den in Absatz 1 Satz 1
 festgesetzten Höchstmengen an Letztverbraucher abgegeben werden. Die
 zuständige Anerkennungsstelle erteilt die Genehmigung auf
-schriftlichen Antrag, wenn sichergestellt ist, dass
+schriftlichen oder elektronischen Antrag, wenn sichergestellt ist,
+dass
 
 1.  die Angaben der vorschriftsmäßigen Kennzeichnung dem Erwerber
-    schriftlich mitgeteilt werden,
+    schriftlich oder elektronisch mitgeteilt werden,
 
 
 2.  die vom Erwerber verwendeten Behältnisse nach dem Befüllen mit dem
@@ -2114,7 +2290,8 @@ schriftlichen Antrag, wenn sichergestellt ist, dass
 
 3.  der Abgebende am Ende jedes Kalenderjahres der zuständigen
     Anerkennungsstelle die im betreffenden Kalenderjahr im Rahmen der
-    Genehmigung abgegebenen Saatgutmengen schriftlich mitteilt und
+    Genehmigung abgegebenen Saatgutmengen schriftlich oder elektronisch
+    mitteilt und
 
 
 4.  beim Befüllen der vom Erzeuger verwendeten Behältnisse amtliche
@@ -2158,9 +2335,9 @@ Einleger müssen folgende Angaben enthalten:
 
 
     d)  des § 3 Abs. 2 des Saatgutverkehrsgesetzes den Hinweis "Saatgut einer
-        nicht zugelassenen Sorte"; hat das Bundessortenamt die Genehmigung mit
-        einer Auflage für die Kennzeichnung des Saatgutes verbunden, so ist
-        eine Angabe entsprechend der Auflage zu machen,
+        noch nicht zugelassenen Sorte"; hat das Bundessortenamt die
+        Genehmigung mit einer Auflage für die Kennzeichnung des Saatgutes
+        verbunden, so ist eine Angabe entsprechend der Auflage zu machen,
 
 
     e)  des § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des
@@ -2200,6 +2377,10 @@ zugehören, ist eine amtliche Bescheinigung, die folgende Angaben
 enthalten muss, beizugeben:
 
 1.  Name der für die Feldbesichtigung zuständigen Behörde,
+
+
+1a. die der Partie amtlich zugeteilten und auf den Etiketten angegebenen
+    Seriennummern,
 
 
 2.  Art; entsprechend der Angabe nach Anlage 5 Nr. 6.3,
@@ -2272,7 +2453,7 @@ Beantragung der Betriebsnummer nach § 29 Abs. 3 Satz 2 zu
 verpflichten, Menge, Art, Sortenbezeichnung und Bezugsnummer des
 gekennzeichneten Standardsaatguts der die Betriebsnummer festsetzenden
 Nachkontrollstelle zum Abschluss eines jeden Kalenderhalbjahres
-schriftlich anzugeben.
+schriftlich oder elektronisch anzugeben.
 
 
 ### § 45 Zertifikat
@@ -2394,21 +2575,19 @@ oder § 47 mit der Maßgabe zu verwenden, dass
 
 ### § 48a Übergangsvorschrift
 
-(1) Anerkennungsnummern, die bis zum 30. Juni 2010 von der zuständigen
-Anerkennungsstelle vergeben werden, dürfen noch bis zum 30. Juni 2014
-verwendet werden.
-
-(2) § 14 Absatz 2 Satz 1, § 27 Absatz 1 Satz 2, § 29 Absatz 3 Satz 2
-und § 40 Absatz 7 Satz 1 Nummer 1 sind bis zum Ablauf des 30. Juni
-2010 in der am 26. März 2010 geltenden Fassung anzuwenden.
+Etiketten, die am 17. Juni 2017 bereits hergestellt waren, dürfen noch
+bis zum Ablauf des 30. Juni 2019 für die Kennzeichnung von Packungen
+oder Behältnissen, die im Inland in den Verkehr gebracht werden
+sollen, verwendet werden.
 
 
 ### § 49 (Inkrafttreten)
 
 -
 
+(zu § 4 Abs. 1 Satz 1)
 
-### Anlage 1 (zu § 4 Abs. 1 Satz 1) Termin für den Antrag auf Anerkennung von Saatgut
+### Anlage 1 Termin für den Antrag auf Anerkennung von Saatgut
 
 (Fundstelle: BGBl. I 2006, 361;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2602,8 +2781,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 6 Satz 1, § 20 Absatz 1)
 
-### Anlage 2 (zu § 6 Satz 1) Anforderungen an den Feldbestand
+### Anlage 2 Anforderungen an den Feldbestand
 
 (Fundstelle: BGBl. I 2006, 362 - 371;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2688,15 +2868,47 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   im Falle von Hybridsorten hinsichtlich ihrer Erbkomponenten den bei
         der Zulassung der Sorte festgestellten Ausprägungen der wichtigen
         Merkmale nicht hinreichend entsprechen oder einer anderen Sorte,
-        Hybridsorte oder Erbkomponente zugehören; wird Zertifiziertes Saatgut
-        einer Hybridsorte von Getreide in einer Mischung der mütterlichen und
-        väterlichen Erbkomponente erzeugt, so gilt der Anteil der Pflanzen der
-        väterlichen Erbkomponente nicht als Fremdbesatz
+        Hybridsorte oder Erbkomponente zugehören;
 
     *   5
 
     *   15
 
+    *
+
+*    *
+    *   handelt es sich bei den Erbkomponenten um eine
+
+    *
+    *
+    *
+
+*    *
+    *   a) CMS-Mutterlinie von Gerste,
+
+    *   10
+
+    *   15
+
+    *
+
+*    *
+    *   b) CMS-Einfachhybride als mütterliche Komponente von Gerste;
+
+    *   10
+
+    *   30
+
+    *
+
+*    *
+    *   wird Zertifiziertes Saatgut einer Hybridsorte von Getreide in einer
+        Mischung der mütterlichen und väterlichen Erbkomponente erzeugt, so
+        gilt der Anteil der Pflanzen der väterlichen Erbkomponente nicht als
+        Fremdbesatz
+
+    *
+    *
     *
 
 *    *   1.1.1.2
@@ -2782,7 +2994,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.1.2
 
-    *   Weizensteinbrand (Tilletia tritici), Roggenstengelbrand (Urocystis
+    *   Weizensteinbrand (Tilletia caries), Roggenstängelbrand (Urocystis
         occulta), Haferflugbrand (Ustilago avenae), Gerstenhartbrand (Ustilago
         hordei), Gerstenflugbrand (Ustilago nuda) und Weizenflugbrand
         (Ustilago tritici)
@@ -2794,7 +3006,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.1.3
 
-    *   Zwergsteinbrand (Tilletia brevifaciens)
+    *   Zwergsteinbrand (Tilletia controversa)
 
     *   1
 
@@ -3005,6 +3217,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Pflanzen der väterlichen Erbkomponente das vom Züchter angegebene
     Mischungsverhältnis der mütterlichen und väterlichen Erbkomponenten
     zur Erzeugung von Zertifiziertem Saatgut nicht deutlich überschreiten.
+
+
+1.4.3 Bei Hybridsorten von Gerste
+
+
+1.4.3.1 muss bei der Erzeugung von Basissaatgut der mütterlichen Erbkomponente
+    der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens
+    99,7 v. H. betragen,
+
+
+1.4.3.2 muss bei der Erzeugung von Zertifiziertem Saatgut der Sterilitätsgrad
+    der männlich sterilen Erbkomponente mindestens 99,5 v. H. betragen,
+
+
+1.4.3.3 wird der Sterilitätsgrad der männlich sterilen Erbkomponente in jedem
+    Fall in der Nachprüfung festgestellt.
 
 
 **2** **Mais und Sorghum**
@@ -3360,7 +3588,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-3.1.2 Der Feldbestand darf keinen Besatz mit Seide aufweisen.
+3.1.2 Der Feldbestand darf keinen Besatz mit Seide, Kleewürger und
+    Kreuzkraut aufweisen.
 
 
 3.2 Gesundheitszustand
@@ -4455,7 +4684,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-7.1.2 Der Feldbestand darf keinen Fremdsatz mit Pflanzen anderer Arten
+7.1.2 Der Feldbestand darf keinen Fremdbesatz mit Pflanzen anderer Arten
     aufweisen, deren Samen sich aus dem Saatgut nur schwer herausreinigen
     lassen oder von denen samenübertragbare Krankheiten übertragen werden
     können; zu den Samen, die sich aus dem Saatgut nur schwer
@@ -4478,10 +4707,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.1.1
 
-    *   Brennflecken (Ascochyta pisi, Colletotrichum lindemuthianum, Didymella
-        pinodes - Nebenfrucht-form: Ascochyta pinodes -) Phoma medicaginis
-        var. pinodella - Nebenfruchtform: Ascochyta pinodella -, bei
-        Prunkbohne, Buschbohne, Stangenbohne und Erbse, soweit dadurch eine
+    *   Brennflecken Colletotrichum lindemuthianum an Prunkbohne, Buschbohne
+        und Stangenbohne; Didymella pisi (Nebenfruchtform: Ascochyta pisi) an
+        Erbse; Peyronellaea pinodella (Nebenfruchtform: Ascochyta pinodella,
+        Phoma pinodella, Phoma medicaginis var. pinodella) an Erbse;
+        Peyronellaea pinodes (Syn. Mycosphaerella pinodes, Didymella pinodes;
+        Nebenfruchtform: Ascochyta pinodes) an Erbse, soweit dadurch eine
         Beeinträchtigung des Saatgutwertes zu erwarten ist
 
     *   25
@@ -4489,9 +4720,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.1.2
 
-    *   Fettflecken (Pseudomonas phaseolicola) bei Prunkbohne, Buschbohne und
-        Stangenbohne, soweit dadurch eine Beeinträchtigung des Saatgutwertes
-        zu erwarten ist
+    *   Fettflecken (Pseudomonas syringae pv. phaseolicola) bei Prunkbohne,
+        Buschbohne und Stangenbohne, soweit dadurch eine Beeinträchtigung des
+        Saatgutwertes zu erwarten ist
 
     *   10
 
@@ -4513,8 +4744,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.2.2
 
-    *   Bakterienwelke (Corynebacterium michiganense) und Stengelfäule
-        (Didymella lycopersici) bei Tomate
+    *   Bakterienwelke (Clavibacter michiganensis subsp. michiganensis) und
+        Stängelfäule (Didymella lycopersici) bei Tomate
 
     *   0
 
@@ -4529,8 +4760,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.3.1
 
-    *   Umfallkrankheit (Leptosphaeria maculans - Nebenfruchtform: Phoma
-        lingam -) bei Kohlrabi, Grünkohl, Blumenkohl, Rotkohl, Weißkohl,
+    *   Umfallkrankheit (Leptosphaeria maculans; Nebenfruchtform: Phoma
+        lingam) bei Kohlrabi, Grünkohl, Blumenkohl, Rotkohl, Weißkohl,
         Wirsing, Rosenkohl
 
     *   0
@@ -4546,7 +4777,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.3.3
 
-    *   Krätze (Cladosporium cucumerinum) oder Stengelfäule (Sclerotinia
+    *   Krätze (Cladosporium cucumerinum) oder Stängelfäule (Sclerotinia
         sclerotiorum) bei Gurke
 
     *   je 5 v. H.
@@ -4556,7 +4787,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Bakterienwelke (Erwinia tracheiphila), Fusariumwelke (Fusarium
         oxysporum f. sp. cucumerinum) und Eckige Blattfleckenkrankheit
-        (Pseudomonas lachrymans) bei Gurke
+        (Pseudomonas syringae pv. lachrymans) bei Gurke
 
     *   0
 
@@ -4755,15 +4986,17 @@ Sortengruppen von Roter Rübe:
 
 
 
+(zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 2, §§ 23, 26 Abs. 3 Satz 2)
 
-### Anlage 3 (zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 1, §§ 23, 26 Abs. 3 Satz 2) Anforderungen an die Beschaffenheit des Saatgutes
+### Anlage 3 Anforderungen an die Beschaffenheit des Saatgutes
 
 (Inhalt: nicht darstellbare Tabellen;
 Fundstelle: BGBl. I 2006, 372 - 384;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+(zu § 11 Abs. 2, § 20 Abs. 3, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5)
 
-### Anlage 4 (zu § 11 Abs. 2, § 20 Abs. 2, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5) Größe der Partien und Proben
+### Anlage 4 Größe der Partien und Proben
 
 (Fundstelle: BGBl. I 2006, 385 - 386;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4834,11 +5067,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.3.1
 
-    *   Sorghum bicolor, Sorghum bicolor x Sorghum sudanense
+    *   Sorghum bicolor
 
     *   30
 
-    *   1 000
+    *   900
 
 
 *    *   1.3.2
@@ -4847,7 +5080,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   1 000
+    *   250
+
+
+*    *   1.3.3
+
+    *   Sorghum bicolor x Sorghum sudanense
+
+    *   30
+
+    *   300
 
 
 *    *   2
@@ -4859,7 +5101,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Straußgräser, Lieschgräser, Rispenarten, Goldhafer
 
-    *   10
+    *   10 / 25\*\**
 
     *   50
 
@@ -4868,7 +5110,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Wiesenfuchsschwanz, Knaulgras, Schwingelarten
 
-    *   10
+    *   10 / 25\*\**
 
     *   100
 
@@ -4877,7 +5119,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Glatthafer, Festulolium, Weidelgräser
 
-    *   10
+    *   10 / 25\*\**
 
     *   200
 
@@ -5308,10 +5550,15 @@ worden ist, sowie bei Saatgutträgern 7 500 Körner oder Knäuel.
     einer Partie 35 t.
 
 
+*\*\*) Bei der Erhöhung des Höchstgewichtes einer Partie auf bis zu 25 Tonnen
+    gilt § 4 Absatz 8 entsprechend.
 
 
 
-### Anlage 5 (zu § 29 Absatz 3 und 7 und §§ 31 und 43 Absatz 1a und 2) Angaben auf dem Etikett und dem Einleger
+
+(zu § 29 Absatz 3 und 7 und §§ 31 und 43 Absatz 1a und 2)
+
+### Anlage 5 Angaben auf dem Etikett und dem Einleger
 
 (Fundstelle: BGBl. I 2006, 387 - 388;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5331,6 +5578,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1.3 Kennzeichen der Anerkennungsstelle
 
 
+        1.3a Amtlich zugeteilte Seriennummer
+
+
         1.4 Art, bei Festulolium (Festuca spp. x Lolium spp.) die Namen der Arten
             innerhalb der Gattungen Festuca und Lolium 1)
 
@@ -5341,8 +5591,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1.6 Kategorie 3)
 
 
-        1.7 Anerkennungsnummer; bei Basissaatgut von Hybridsorten von Roggen, das
-            aus einer Mischung der mütterlichen und väterlichen Erbkomponente
+        1.7 Anerkennungsnummer; bei Basissaatgut von Hybridsorten von Getreide,
+            das aus einer Mischung der mütterlichen und väterlichen Erbkomponente
             besteht, ist zusätzlich anzugeben "Technische Mischung"
 
 
@@ -5405,6 +5655,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         3.3 Kennzeichen der Zulassungsstelle
 
 
+        3.3a Amtlich zugeteilte Seriennummer
+
+
         3.4 "Handelssaatgut (nicht der Sorte nach anerkannt)"
 
 
@@ -5433,6 +5686,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         4.2 Kennzeichen der Anerkennungsstelle
+
+
+        4.2a Amtlich zugeteilte Seriennummer
 
 
         4.3 "Saatgutmischung für ..." (Verwendungszweck)
@@ -5468,6 +5724,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         6.2 "Bundesrepublik Deutschland"
 
 
+        6.2a Amtlich zugeteilte Seriennummer
+
+
         6.3 Art 1)
 
 
@@ -5499,6 +5758,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         7.2 „Bundessortenamt”
             5)
+
+
+        7.2a Amtlich zugeteilte Seriennummer
 
 
         7.3 Genehmigungsnummer des Bundessortenamtes
@@ -5550,8 +5812,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu §§ 40 und 42 Abs. 1)
 
-### Anlage 6 (zu §§ 40 und 42 Abs. 1) Kleinpackungen Höchstmengen und Kennzeichnung
+### Anlage 6 Kleinpackungen Höchstmengen und Kennzeichnung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 389 - 390;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5654,11 +5917,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 1.2.4 Sortenbezeichnung (bei Zertifiziertem Saatgut)
 
 
-1.2.5 Kennnummer der Partie (bei den Nummern 1.1.1 und 1.1.2)
+1.2.4a Zulassungsnummer (bei Handelssaatgut)
 
 
-1.2.6 von dem abfüllenden Betrieb festgesetzte Partienummer (bei Nummer
-    1\.1.3)
+1.2.5 Kennnummer der Partie
+
+
+1.2.6 „Verschließung …“ (Monat, Jahr)
 
 
 1.2.7 Füllmenge oder Stückzahl der Körner oder Knäuel
@@ -5928,10 +6193,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         3.2.3 "Saatgutmischung für ..." (Verwendungszweck)
 
 
-        3.2.4 Kennnummer (bei Kleinpackung EG B)
+        3.2.4 Kennnummer
 
 
-        3.2.5 Mischungsnummer (außer bei Kleinpackung EG B)
+        3.2.5 „Verschließung …“ (Monat, Jahr)
 
 
         3.2.6 Füllmenge oder Stückzahl der Körner
@@ -6096,8 +6361,9 @@ Localite et pays
 Delete as necessary
 Rayer la mention inutile
 
+(zu §§ 46, 47 und 48 Abs. 3 Nr. 3)
 
-### Anlage 8 (zu §§ 46, 47 und 48 Abs. 3 Nr. 3) Etiketten und Einleger
+### Anlage 8 Etiketten und Einleger
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 393 - 395
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6115,6 +6381,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             "Name and address fo Designated Authority"
 
             "Nom et adresse de l'Autorite designee"
+
+
+        1.1.1a „Amtlich zugeteilte Seriennummer“
+
+            „Officially assigned serial number“
+
+            „Numéro d´ordre attribué officiellement“
 
 
         1.1.2 "Art (botanischer Name)"

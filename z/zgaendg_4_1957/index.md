@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 1331
 
+G aufgeh. durch
+:   Art. 13 Abs. 9 G v. 13.5.2015 I 706 mWv 1.1.2020
+
 
 
 ## (XXXX) Art 1 bis 4

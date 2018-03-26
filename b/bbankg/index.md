@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.10.1992 I 1782;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2011 I 2959
+:   Art. 23 G v. 4.7.2013 I 1981
 
 
 ## Erster Abschnitt - Rechtsform und Aufgabe
@@ -262,11 +262,11 @@ Aufruf bestimmten Umtauschfrist ungültig.
 
 Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe
 Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen
-Kreditinstituten, Kapitalanlagegesellschaften und
-Investmentaktiengesellschaften anzuordnen und durchzuführen. §§ 9, 15
-und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden. Die
-Deutsche Bundesbank kann die Ergebnisse der Statistiken für allgemeine
-Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine
+Kreditinstituten, Kapitalverwaltungsgesellschaften und extern
+verwalteten Investmentgesellschaften anzuordnen und durchzuführen. §§
+9, 15 und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden.
+Die Deutsche Bundesbank kann die Ergebnisse der Statistiken für
+allgemeine Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine
 Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten
 dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der
 Anordnung über die Statistik vorgesehen ist.

@@ -15,6 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3964
 
+V aufgeh. durch
+:   § 7 Abs. 2 V 772-6-4 v. 8.12.2017 I 3877 mWv 1.7.2018
+
+Geändert durch
+:   Art. 2 Abs. 107 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 83 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666, sodann aufgeh. durch Art. 4 Abs. 80 G v. 18.7.2016 I 1666 mWv 1.10.2021, nunmehr aufgeh. durch § 7 Abs. 2 V 772-6-4 v. 8.12.2017 I 3877 mWv 1.7.2018
+
+Ersetzt durch
+:   V 772-6-4 v. 8.12.2017 I 3877(AkkStelleGebV)
+
 
 ## Eingangsformel
 
@@ -27,10 +39,11 @@ Einvernehmen mit dem Bundesministerium für Finanzen:
 
 ## § 1 Gebühren
 
-(1) Für Amtshandlungen der Akkreditierungsstelle in Zusammenhang mit
-der Akkreditierung und Überwachung von Laboratorien, Inspektions- und
-Zertifizierungsstellen (Konformitätsbewertungsstellen) werden Gebühren
-und Auslagen nach dieser Verordnung erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen der
+Akkreditierungsstelle in Zusammenhang mit der Akkreditierung und
+Überwachung von Laboratorien, Inspektions- und Zertifizierungsstellen
+(Konformitätsbewertungsstellen) werden Gebühren und Auslagen nach
+dieser Verordnung erhoben.
 
 (2) Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben
 sich aus der Anlage dieser Verordnung.
@@ -38,7 +51,8 @@ sich aus der Anlage dieser Verordnung.
 
 ## § 2 Auslagen
 
-Die Auslagen richten sich nach § 10 des Verwaltungskostengesetzes.
+Die Auslagen richten sich nach § 23 Absatz 6 des
+Bundesgebührengesetzes.
 
 
 ## § 3 Inkrafttreten
@@ -48,7 +62,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage (zu § 1)
 
-(Fundstelle: BGBl. I 2009, 3965 - 3966)
+(Fundstelle: BGBl. I 2009, 3965 - 3966; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   Tarif-Stelle
 
@@ -379,10 +394,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   **4**
 
-    *[^F0772845_01_BJNR396400009BJNE000500000]
-   **Amtshandlungen im Rahmen des Akkreditierungssystems (einschließlich
-        Überwachung und Begutachtung vor Ort während der Dauer der
-        Akkreditierung)**
+    *[^F0772845_01_BJNR396400009BJNE000501360]
+   **Individuell zurechenbare öffentliche Leistungen im Rahmen des
+        Akkreditierungssystems (einschließlich Überwachung und Begutachtung
+        vor Ort während der Dauer der Akkreditierung)**
 
     *
 
@@ -520,4 +535,4 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Dieser Gebührentatbestand erfasst auch die Überwachung von KBS, deren
     erste oder letzte erneute Akkreditierung vor dem 1. Januar 2010
     erteilt worden ist.
-[^F0772845_01_BJNR396400009BJNE000500000]: 
+[^F0772845_01_BJNR396400009BJNE000501360]: 

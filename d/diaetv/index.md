@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.4.2005 I 1161;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.10.2010 I 1306
+:   Art. 22 V v. 5.7.2017 I 2272
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -361,8 +361,8 @@ Mitgliedstaates anzugeben, bei der die erste Anzeige erfolgt ist.
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 übermittelt die Anzeige unverzüglich dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz und den für die
-Lebensmittelüberwachung zuständigen obersten Landesbehörden.
+Ernährung und Landwirtschaft und den für die Lebensmittelüberwachung
+zuständigen obersten Landesbehörden.
 
 (4) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 prüft, ob das diätetische Lebensmittel, das nicht zu einer in Anlage 8
@@ -458,7 +458,7 @@ Lebensmitteln verwendet werden.
 
 ### § 7b
 
-(1) Alle in Anlagen 2 und 9 aufgeführten Stoffe dürfen diätetischen
+Alle in Anlagen 2 und 9 aufgeführten Stoffe dürfen diätetischen
 Lebensmitteln in Art und Menge nur so zugesetzt werden, dass diese den
 besonderen Ernährungserfordernissen der Personengruppe entsprechen,
 für die sie bestimmt sind. § 7 Abs. 1 Satz 3 und Abs. 2 bleibt
@@ -469,13 +469,6 @@ ernährungsphysiologischen oder diätetischen Zwecken zugesetzten Stoffe
 für die entsprechende Personengruppe belegen. Liegt die entsprechende
 Arbeit in einer leicht zugänglichen Veröffentlichung vor, so genügt
 ein Hinweis darauf.
-
-(2) Die in Anlagen 2 und 9 genannten Stoffe müssen den in der
-Zusatzstoff-Verkehrsverordnung festgelegten Reinheitsanforderungen
-entsprechen. Für Stoffe der Anlage 2 und 9, die nicht in der
-Zusatzstoff-Verkehrsverordnung aufgeführt sind, gelten die nach den
-allgemein anerkannten Regeln der Technik erreichbaren
-Reinheitsanforderungen.
 
 
 ### § 8 (weggefallen)
@@ -823,14 +816,14 @@ gegebenenfalls durch entsprechende Studien, die unter Zugrundelegung
 von in Fachkreisen allgemein anerkannten Empfehlungen zur Konzeption
 und Durchführung solcher Studien durchgeführt worden sind.
 
-(3) Sofern die Säuglingsanfangsnahrung nach Absatz 2 aus den
+(3) Sofern die Säuglingsanfangsnahrung im Sinne des Absatzes 2 aus den
 
-1.  in Anlage 10 Nr. 2.1 definierten Kuhmilchproteinen mit einem
-    Proteingehalt zwischen dem Mindestwert und 0,5 g/100 kJ (2 g/100 kcal)
-    oder
+1.  in Anlage 10 Nr. 2.1 beschriebenen Kuhmilchproteinen oder
+    Ziegenmilchproteinen mit einem Proteingehalt zwischen dem Mindestwert
+    und 0,5 g/100 kJ (2 g/100 kcal) oder
 
 
-2.  den in Anlage 10 Nr. 2.2 definierten Proteinhydrolysaten mit einem
+2.  den in Anlage 10 Nr. 2.2 beschriebenen Proteinhydrolysaten mit einem
     Proteingehalt zwischen dem Mindestwert und 0,56 g/100 kJ (2,25 g/100
     kcal)
 
@@ -838,11 +831,10 @@ und Durchführung solcher Studien durchgeführt worden sind.
 
 hergestellt worden ist, darf sie nur in den Verkehr gebracht werden,
 wenn ihre Eignung für die besondere Ernährung von Säuglingen durch
-entsprechende Studien nachgewiesen ist, die unter Zugrundelegung von
-in Fachkreisen allgemein anerkannten Empfehlungen zur Konzeption und
-Durchführung solcher Studien durchgeführt worden sind. Erzeugnisse
-nach Satz 1 Nr. 2 müssen den in Anlage 24 festgelegten Spezifikationen
-entsprechen.
+Studien nachgewiesen ist, die unter Zugrundelegung von in Fachkreisen
+allgemein anerkannten Empfehlungen zur Konzeption und Durchführung
+solcher Studien durchgeführt worden sind. Erzeugnisse nach Satz 1 Nr.
+2 müssen den in Anlage 24 festgelegten Spezifikationen entsprechen.
 
 (4) Folgenahrung darf gewerbsmäßig ferner nur hergestellt und in den
 Verkehr gebracht werden, wenn
@@ -871,6 +863,16 @@ erwarteten Vorteile und in Bezug auf Sicherheitserwägungen sowie
 gegebenenfalls durch entsprechende Studien, die unter Zugrundelegung
 von in Fachkreisen allgemein anerkannten Empfehlungen zur Konzeption
 und Durchführung solcher Studien durchgeführt worden sind.
+
+(5) Sofern Folgenahrung im Sinne des Absatzes 4 aus den in Anlage 11
+Nummer 2.2 beschriebenen Proteinhydrolysaten mit einem Proteingehalt
+zwischen dem Mindestwert und 0,56 g/100 kJ (2,25 g/100 kcal)
+hergestellt worden ist, darf sie nur in den Verkehr gebracht werden,
+wenn ihre Eignung für die besondere Ernährung von Säuglingen durch
+Studien nachgewiesen ist, die unter Zugrundelegung von in Fachkreisen
+allgemein anerkannten Empfehlungen zur Konzeption und Durchführung
+solcher Studien durchgeführt worden sind. Die Spezifikationen der
+Anlage 24 sind zu beachten.
 
 
 ### § 14d
@@ -1277,13 +1279,14 @@ leicht lesbar angebracht sein.
 (1) Diätetische Lebensmittel, die als Säuglingsanfangsnahrung bestimmt
 sind, dürfen nur mit der Verkehrsbezeichnung „Säuglingsanfangsnahrung“
 in den Verkehr gebracht werden; wenn ihr Proteingehalt ausschließlich
-aus Kuhmilchprotein besteht, dürfen sie nur mit der
-Verkehrsbezeichnung „Säuglingsmilchnahrung“ in den Verkehr gebracht
-werden. Diätetische Lebensmittel, die als Folgenahrung bestimmt sind,
-dürfen nur mit der Verkehrsbezeichnung „Folgenahrung“ in den Verkehr
-gebracht werden; wenn ihr Proteingehalt ausschließlich aus
-Kuhmilchprotein besteht, dürfen sie nur mit der Verkehrsbezeichnung
-„Folgemilch“ in den Verkehr gebracht werden.
+aus Kuhmilchprotein oder Ziegenmilchprotein besteht, dürfen sie nur
+mit der Verkehrsbezeichnung „Säuglingsmilchnahrung“ in den Verkehr
+gebracht werden. Diätetische Lebensmittel, die als Folgenahrung
+bestimmt sind, dürfen nur mit der Verkehrsbezeichnung „Folgenahrung“
+in den Verkehr gebracht werden; wenn ihr Proteingehalt ausschließlich
+aus Kuhmilchprotein oder Ziegenmilchprotein besteht, dürfen sie nur
+mit der Verkehrsbezeichnung „Folgemilch“ in den Verkehr gebracht
+werden.
 
 (2) Erzeugnisse nach Absatz 1 dürfen ferner nur in den Verkehr
 gebracht werden, wenn die Kennzeichnung
@@ -1663,7 +1666,8 @@ fahrlässig
         Säuglingsanfangsnahrung,
 
 
-    h)  entgegen § 14c Abs. 1 oder 4 Satz 1 Folgenahrung oder
+    h)  entgegen § 14c Absatz 1, 4 Satz 1 oder Absatz 5 Satz 1 Folgenahrung
+        oder
 
 
     i)  entgegen § 14d Abs. 2, 3, 4 oder 5 Beikost
@@ -1872,9 +1876,13 @@ insoweit unberührt, als nicht die Vorschriften dieser Verordnung
 entgegenstehen.
 
 
-### § 27a (weggefallen)
+### § 27a
 
--
+Soweit in dieser Verordnung auf die Lebensmittel-
+Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
+Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
+Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
+Fassung weiter anzuwenden.
 
 
 ### § 28 (weggefallen)
@@ -1920,8 +1928,9 @@ Mindesthaltbarkeitsdatum abverkauft werden.
 
 -
 
+(zu § 7 Abs. 1, §§ 7a und 7b)
 
-### Anlage 2 (zu § 7 Abs. 1, §§ 7a und 7b) Zusatzstoffe und andere Stoffe, die diätetischen Lebensmitteln zu ernährungsphysiologischen oder diätetischen Zwecken zugesetzt werden dürfen
+### Anlage 2 Zusatzstoffe und andere Stoffe, die diätetischen Lebensmitteln zu ernährungsphysiologischen oder diätetischen Zwecken zugesetzt werden dürfen
 
 (Fundstelle: BGBl. I 2005, 1177 - 1183;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3391,8 +3400,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 9)
 
-### Anlage 3 (zu § 9) Für diätetische Lebensmittel als Kochsalzersatz zugelassene Zusatzstoffe
+### Anlage 3 Für diätetische Lebensmittel als Kochsalzersatz zugelassene Zusatzstoffe
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1184
 
@@ -3414,8 +3424,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1184
 
 
 
+(zu § 11a)
 
-### Anlage 4 (zu § 11a) Amtliche Bescheinigung für das Verbringen von jodiertem Kochsalzersatz, von anderen diätetischen Lebensmitteln mit einem Zusatz von Jodverbindungen oder von diätetischen Lebensmitteln, die zur Verwendung als bilanzierte Diät bestimmt sind
+### Anlage 4 Amtliche Bescheinigung für das Verbringen von jodiertem Kochsalzersatz, von anderen diätetischen Lebensmitteln mit einem Zusatz von Jodverbindungen oder von diätetischen Lebensmitteln, die zur Verwendung als bilanzierte Diät bestimmt sind
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1185)
 Herkunftsland:
@@ -4190,10 +4201,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anlage 9 (zu § 7 Abs. 1 Nr. 2, § 7b Abs. 1 und 2, § 14c Abs. 1, § 14d Abs. 2, § 22b Abs. 3)
+### Anlage 9 (zu § 7 Abs. 1 Nr. 2, § 7b, § 14c Abs. 1, § 14d Abs. 2, § 22b Abs. 3)
 
-( Fundstelle: BGBl. I 2005, 1188 - 1190;
-bzgl. der einzelnen Änderungen vgl. Fußnote )
+(Fundstelle: BGBl. I 2005, 1188 - 1190;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1. Vitamine
 
@@ -4729,7 +4740,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 *    *   L-Arginin und sein Hydrochlorid
 
-    *[^bjnr004150963bjne005905360_01_BJNR004150963BJNE005905360]
+    *[^bjnr004150963bjne005905360_01_BJNR004150963BJNE005907377]
    Säuglingsanfangsnahrung und Folgenahrung
 
 
@@ -4843,13 +4854,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
     L-Arginin und sein Hydrochlorid dürfen nur zur Herstellung von
-    Säuglingsanfangsnahrung im Sinne von § 14c Absatz 3 Nummer 2 der
-    Diätverordnung verwendet werden.
-[^bjnr004150963bjne005905360_01_BJNR004150963BJNE005905360]: 
+    Säuglingsanfangsnahrung im Sinne des § 14c Absatz 3 Satz 1 Nummer 2
+    und Folgenahrung im Sinne des § 14c Absatz 5 Satz 1 der Diätverordnung
+    verwendet werden.
+[^bjnr004150963bjne005905360_01_BJNR004150963BJNE005907377]: 
+(zu § 14c Abs. 2 und 3 und § 22a Abs. 2 Nr. 1 Buchstabe f)
 
-### Anlage 10 (zu § 14c Abs. 2 und 3 und § 22a Abs. 2 Nr. 1 Buchstabe f) Grundzusammensetzung von Säuglingsanfangsnahrung nach Zubereitung gemäß Hinweisen des Herstellers
+### Anlage 10 Grundzusammensetzung von Säuglingsanfangsnahrung nach Zubereitung gemäß Hinweisen des Herstellers
 
-( Fundstelle des Originaltextes: BGBl. I 2007, 3267 - 3271 )
+(Fundstelle: BGBl. I 2007, 3267 - 3271;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 Die angegebenen Werte beziehen sich auf das entweder verzehrfertig in
 den Verkehr gebrachte oder nach den Anweisungen des Herstellers
 zubereitete Erzeugnis.
@@ -4878,9 +4893,10 @@ zubereitete Erzeugnis.
     (Proteingehalt = Stickstoffgehalt x 6,25).
 
 
-2.1 Säuglingsanfangsnahrung auf der Basis von Kuhmilchproteinen
+2.1 Säuglingsanfangsnahrung auf der Basis von Kuhmilchproteinen oder
+    Ziegenmilchproteinen
 
-    *        *[^f770229_02_BJNR004150963BJNE006002310]
+    *        *[^f770229_02_BJNR004150963BJNE006003377]
    mindestens
 
         *   höchstens
@@ -4898,7 +4914,7 @@ zubereitete Erzeugnis.
 
 2.2 Säuglingsanfangsnahrung auf der Basis von Proteinhydrolysaten
 
-    *        *[^f770229_03_BJNR004150963BJNE006002310]
+    *        *[^f770229_03_BJNR004150963BJNE006003377]
    mindestens
 
         *   höchstens
@@ -4918,7 +4934,7 @@ zubereitete Erzeugnis.
 
 
 2.3 Säuglingsanfangsnahrung aus Sojaproteinisolaten, pur oder in einer
-    Mischung mit Kuhmilchproteinen
+    Mischung mit Kuhmilchproteinen oder Ziegenmilchproteinen
 
     *        *   mindestens
 
@@ -5050,7 +5066,7 @@ zubereitete Erzeugnis.
             (300 mg/100 kcal)
 
         *   285 mg/100 kJ
-            (1.200 mg/100 kcal)
+            (1 200 mg/100 kcal)
 
 
 
@@ -5221,7 +5237,8 @@ zubereitete Erzeugnis.
 10. Mineralstoffe
 
 
-10.1 Säuglingsanfangsnahrung aus Kuhmilchproteinen oder Proteinhydrolysaten
+10.1 Säuglingsanfangsnahrung aus Kuhmilchproteinen oder
+    Ziegenmilchproteinen oder Proteinhydrolysaten
 
     *        *
         *   je 100 kJ
@@ -5388,7 +5405,7 @@ zubereitete Erzeugnis.
 
 
 10.2 Säuglingsanfangsnahrung aus Sojaproteinisolaten, pur oder in einer
-    Mischung mit Kuhmilchproteinen
+    Mischung mit Kuhmilchproteinen oder Ziegenmilchproteinen
 
     Es gelten alle Anforderungen aus Nummer 10.1 mit Ausnahme der
     Anforderungen an Eisen und Phosphor, die wie folgt lauten:
@@ -5450,7 +5467,7 @@ zubereitete Erzeugnis.
         *   höchstens
 
 
-    *        *[^f770229_04_BJNR004150963BJNE006002310]
+    *        *[^f770229_04_BJNR004150963BJNE006003377]
    Vitamin A (*                             g-RE)
 
         *   14
@@ -5462,7 +5479,7 @@ zubereitete Erzeugnis.
         *   180
 
 
-    *        *[^f770229_05_BJNR004150963BJNE006002310]
+    *        *[^f770229_05_BJNR004150963BJNE006003377]
    Vitamin D (*                             g)
 
         *   0,25
@@ -5496,7 +5513,7 @@ zubereitete Erzeugnis.
         *   400
 
 
-    *        *[^f770229_06_BJNR004150963BJNE006002310]
+    *        *[^f770229_06_BJNR004150963BJNE006003377]
    Niacin (*                             g)
 
         *   72
@@ -5505,7 +5522,7 @@ zubereitete Erzeugnis.
 
         *   300
 
-        *   1.500
+        *   1 500
 
 
     *        *   Pantothensäure (*                             g)
@@ -5516,7 +5533,7 @@ zubereitete Erzeugnis.
 
         *   400
 
-        *   2.000
+        *   2 000
 
 
     *        *   Vitamin B
@@ -5587,13 +5604,13 @@ zubereitete Erzeugnis.
         *   25
 
 
-    *        *[^f770229_07_BJNR004150963BJNE006002310]
+    *        *[^f770229_07_BJNR004150963BJNE006003377]
    Vitamin E (mg*                             -TE)
 
         *   0,5/g mehrfach ungesättigte
             Fettsäuren, als Linolsäure ausgedrückt, korrigiert um die Zahl der
             Doppelbin-
-[^f770229_08_BJNR004150963BJNE006002310]
+[^f770229_08_BJNR004150963BJNE006003377]
             dungen
             , auf
             keinen Fall
@@ -5621,7 +5638,7 @@ zubereitete Erzeugnis.
     Folgende Nukleotide können verwendet werden:
 
     *        *
-        *[^f770229_09_BJNR004150963BJNE006002310]
+        *[^f770229_09_BJNR004150963BJNE006003377]
    Höchstwert
 
 
@@ -5671,26 +5688,29 @@ zubereitete Erzeugnis.
 
 
 
-    Aus Kuhmilchproteinen mit einem Proteingehalt zwischen dem Mindestwert
-    und 0,5 g/100 kJ (2 g/100 kcal) hergestellte Säuglingsanfangsnahrung
-    muss den Anforderungen des § 14c Abs. 3 entsprechen.
-[^f770229_02_BJNR004150963BJNE006002310]:     Aus Proteinhydrolysaten mit einem Proteingehalt zwischen dem
+    Aus Kuhmilchproteinen oder Ziegenmilchproteinen mit einem
+    Proteingehalt zwischen dem Mindestwert und 0,5 g/100 kJ (2 g/100 kcal)
+    hergestellte Säuglingsanfangsnahrung muss den Anforderungen des § 14c
+    Abs. 3 entsprechen.
+[^f770229_02_BJNR004150963BJNE006003377]:     Aus Proteinhydrolysaten mit einem Proteingehalt zwischen dem
     Mindestwert und 0,56 g/100 kJ (2,25 g/100 kcal) hergestellte
     Säuglingsanfangsnahrung muss den Anforderungen des § 14c Abs. 3
     entsprechen.
-[^f770229_03_BJNR004150963BJNE006002310]: [^f770229_04_BJNR004150963BJNE006002310]:     RE = Retinoläquivalent, alle                             trans
-    .
-[^f770229_05_BJNR004150963BJNE006002310]:     *             g = 400 IE Vitamin D.
+[^f770229_03_BJNR004150963BJNE006003377]: [^f770229_04_BJNR004150963BJNE006003377]:     RE = Retinoläquivalent, alle              trans             .
+[^f770229_05_BJNR004150963BJNE006003377]:     *             g = 400 IE Vitamin D.
     Vorgebildetes Niacin.
-[^f770229_06_BJNR004150963BJNE006002310]: [^f770229_07_BJNR004150963BJNE006002310]:     **             -Tocopheroläquivalent.
-[^f770229_08_BJNR004150963BJNE006002310]:     ******             -TE/1 g Docosahexaensäure (22 : 6 n-3).
+[^f770229_06_BJNR004150963BJNE006003377]: [^f770229_07_BJNR004150963BJNE006003377]:     **             -Tocopheroläquivalent.
+[^f770229_08_BJNR004150963BJNE006003377]:     ******             -TE/1 g Docosahexaensäure (22 : 6 n-3).
     Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ (5 mg/100
     kcal) nicht überschreiten.
-[^f770229_09_BJNR004150963BJNE006002310]: 
+[^f770229_09_BJNR004150963BJNE006003377]: 
+(zu § 14c Absatz 4 und 5 und § 22a Abs. 2 Nr. 1 Buchstabe f)
 
-### Anlage 11 (zu § 14c Abs. 4 und § 22a Abs. 2 Nr. 1 Buchstabe f) Grundzusammensetzung von Folgenahrung nach Zubereitung gemäß Hinweisen des Herstellers
+### Anlage 11 Grundzusammensetzung von Folgenahrung nach Zubereitung gemäß Hinweisen des Herstellers
 
-( Fundstelle des Originaltextes: BGBl. I 2007, 3271 - 3274 )
+(Fundstelle: BGBl. I 2007, 3271 - 3274;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 Die angegebenen Werte beziehen sich auf das entweder verzehrfertig in
 den Verkehr gebrachte oder nach den Anweisungen des Herstellers
 zubereitete Erzeugnis.
@@ -5719,7 +5739,8 @@ zubereitete Erzeugnis.
     (Proteingehalt = Stickstoffgehalt x 6,25).
 
 
-2.1 Folgenahrung auf der Basis von Kuhmilchproteinen
+2.1 Folgenahrung auf der Basis von Kuhmilchproteinen oder
+    Ziegenmilchproteinen
 
     *        *   mindestens
 
@@ -5738,13 +5759,14 @@ zubereitete Erzeugnis.
 
 2.2 Folgenahrung auf der Basis von Proteinhydrolysaten
 
-    *        *   mindestens
+    *        *[^F784522_02_BJNR004150963BJNE006103377]
+   mindestens
 
         *   höchstens
 
 
-    *        *   0,56 g/100 kJ
-            (2,25 g/100 kcal)
+    *        *   0,45 g/100 kJ
+            (1,8 g/100 kcal)
 
         *   0,8 g/100 kJ
             (3,5 g/100 kcal)
@@ -5754,7 +5776,7 @@ zubereitete Erzeugnis.
 
 
 2.3 Folgenahrung aus Sojaproteinisolaten, pur oder in einer Mischung mit
-    Kuhmilchproteinen
+    Kuhmilchproteinen oder Ziegenmilchproteinen
 
     *        *   mindestens
 
@@ -5769,9 +5791,6 @@ zubereitete Erzeugnis.
 
 
 
-
-    Bei der Herstellung dieser Fertignahrungen sind nur Proteinisolate aus
-    Soja zu verwenden.
 
     Zu Nummer 2.1 bis 2.3: Bei gleichem Brennwert muss die Folgenahrung
     jede unverzichtbare und bedingt unverzichtbare Aminosäure mindestens
@@ -5861,7 +5880,7 @@ zubereitete Erzeugnis.
             (300 mg/100 kcal)
 
         *   285 mg/100 kJ
-            (1.200 mg/100 kcal)
+            (1 200 mg/100 kcal)
 
 
 
@@ -5981,7 +6000,8 @@ zubereitete Erzeugnis.
 8.  Mineralstoffe
 
 
-8.1 Folgenahrung aus Kuhmilchproteinen oder Proteinhydrolysaten
+8.1 Folgenahrung aus Kuhmilchproteinen oder Ziegenmilchproteinen oder
+    Proteinhydrolysaten
 
     *        *
         *   je 100 kJ
@@ -6148,7 +6168,7 @@ zubereitete Erzeugnis.
 
 
 8.2 Folgenahrung aus Sojaproteinisolaten, pur oder in einer Mischung mit
-    Kuhmilchproteinen
+    Kuhmilchproteinen oder Ziegenmilchproteinen
 
     Es gelten alle Anforderungen aus Nummer 8.1 mit Ausnahme der
     Anforderungen an Eisen und Phosphor, die wie folgt lauten:
@@ -6210,7 +6230,7 @@ zubereitete Erzeugnis.
         *   höchstens
 
 
-    *        *[^f770229_10_BJNR004150963BJNE006102310]
+    *        *[^f770229_10_BJNR004150963BJNE006103377]
    Vitamin A (*                             g-RE)
 
         *   14
@@ -6222,7 +6242,7 @@ zubereitete Erzeugnis.
         *   180
 
 
-    *        *[^f770229_11_BJNR004150963BJNE006102310]
+    *        *[^f770229_11_BJNR004150963BJNE006103377]
    Vitamin D (*                             g)
 
         *   0,25
@@ -6256,7 +6276,7 @@ zubereitete Erzeugnis.
         *   400
 
 
-    *        *[^f770229_12_BJNR004150963BJNE006102310]
+    *        *[^f770229_12_BJNR004150963BJNE006103377]
    Niacin (*                             g)
 
         *   72
@@ -6265,7 +6285,7 @@ zubereitete Erzeugnis.
 
         *   300
 
-        *   1.500
+        *   1 500
 
 
     *        *   Pantothensäure (*                             g)
@@ -6276,7 +6296,7 @@ zubereitete Erzeugnis.
 
         *   400
 
-        *   2.000
+        *   2 000
 
 
     *        *   Vitamin B
@@ -6347,10 +6367,10 @@ zubereitete Erzeugnis.
         *   25
 
 
-    *        *[^f770229_13_BJNR004150963BJNE006102310]
+    *        *[^f770229_13_BJNR004150963BJNE006103377]
    Vitamin E (mg*                             -TE)
 
-        *[^f770229_14_BJNR004150963BJNE006102310]
+        *[^f770229_14_BJNR004150963BJNE006103377]
    0,5/g mehrfach ungesättigte Fettsäuren, als Linolsäure ausgedrückt,
             korrigiert um die Zahl der Doppelbindungen
             , auf keinen Fall jedoch
@@ -6378,7 +6398,7 @@ zubereitete Erzeugnis.
     Folgende Nukleotide können verwendet werden:
 
     *        *
-        *[^f770229_15_BJNR004150963BJNE006102310]
+        *[^f770229_15_BJNR004150963BJNE006103377]
    Höchstwert
 
 
@@ -6428,17 +6448,22 @@ zubereitete Erzeugnis.
 
 
 
-[^f770229_10_BJNR004150963BJNE006102310]:     RE = Retinoläquivalent, alle                             trans
-    .
-[^f770229_11_BJNR004150963BJNE006102310]:     *             g = 400 IE Vitamin D.
+[^f770229_10_BJNR004150963BJNE006103377]:     RE = Retinoläquivalent, alle              trans             .
+[^f770229_11_BJNR004150963BJNE006103377]:     *             g = 400 IE Vitamin D.
     Vorgebildetes Niacin.
-[^f770229_12_BJNR004150963BJNE006102310]: [^f770229_13_BJNR004150963BJNE006102310]:     **             -Tocopheroläquivalent.
-[^f770229_14_BJNR004150963BJNE006102310]:     ******             -TE/1 g Docosahexaensäure (22 : 6 n-3).
+[^f770229_12_BJNR004150963BJNE006103377]: [^f770229_13_BJNR004150963BJNE006103377]:     **             -Tocopheroläquivalent.
+[^f770229_14_BJNR004150963BJNE006103377]:     ******             -TE/1 g Docosahexaensäure (22 : 6 n-3).
     Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ (5 mg/100
     kcal) nicht überschreiten.
-[^f770229_15_BJNR004150963BJNE006102310]: 
+[^f770229_15_BJNR004150963BJNE006103377]:     Aus Proteinhydrolysaten mit einem Proteingehalt zwischen dem
+    Mindestwert und 0,56 g/100 kJ (2,25 g/100 kcal) hergestellte
+    Folgenahrung muss den Anforderungen des § 14c Absatz 5 entsprechen.
+[^F784522_02_BJNR004150963BJNE006103377]: 
+(zu § 14c Abs. 2 und 4; Anlagen 10 und 11 jeweils Nr. 2.1, 2.2 und
+2\.3)
+Unverzichtbare und bedingt unverzichtbare
 
-### Anlage 12 (zu § 14c Abs. 2 und 4; Anlagen 10 und 11 jeweils Nr. 2.1, 2.2 und 2.3) Unverzichtbare und bedingt unverzichtbare Aminosäuren in Muttermilch, ausgedrückt in mg je 100 kJ und 100 kcal
+### Anlage 12 Aminosäuren in Muttermilch, ausgedrückt in mg je 100 kJ und 100 kcal
 
 ( Fundstelle des Originaltextes: BGBl. I 2007, 3274 )
 
@@ -6540,8 +6565,10 @@ zubereitete Erzeugnis.
 
 -
 
+(zu § 22a Abs. 3 Nr. 2 Buchstabe b und c)
+Nährwert- und gesundheitsbezogene Angaben für
 
-### Anlage 15 (zu § 22a Abs. 3 Nr. 2 Buchstabe b und c) Nährwert- und gesundheitsbezogene Angaben für Säuglingsanfangsnahrung und Voraussetzungen, die eine entsprechende Angabe rechtfertigen
+### Anlage 15 Säuglingsanfangsnahrung und Voraussetzungen, die eine entsprechende Angabe rechtfertigen
 
 ( Fundstelle des Originaltextes: BGBl. I 2007, 3275 )
 
@@ -6659,8 +6686,10 @@ zubereitete Erzeugnis.
 
 
 
+(zu § 22a Absatz 4)
+Referenzwerte für die Nährwertkennzeichnung
 
-### Anlage 16 (zu § 22a Absatz 4) Referenzwerte für die Nährwertkennzeichnung von Lebensmitteln, die für Säuglinge und Kleinkinder bestimmt sind
+### Anlage 16 von Lebensmitteln, die für Säuglinge und Kleinkinder bestimmt sind
 
 ( Fundstelle: BGBl. I 2007, 3276;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -6848,8 +6877,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
+(zu § 14a Abs. 2, § 21a Abs. 4 Nr. 2, § 21a Abs. 6 Nr. 1)
 
-### Anlage 17 (zu § 14a Abs. 2, § 21a Abs. 4 Nr. 2, § 21a Abs. 6 Nr. 1) Wesentliche Bestandteile von Lebensmitteln für kalorienarme Ernährung
+### Anlage 17 Wesentliche Bestandteile von Lebensmitteln für kalorienarme Ernährung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1203 - 1204
 Die Angaben beziehen sich auf gebrauchsfertige Erzeugnisse, die als
@@ -7114,8 +7144,9 @@ gebrauchsfertig gemacht werden.
 
 
 
+(zu § 14d Abs. 3)
 
-### Anlage 18 (zu § 14d Abs. 3) Höchstmengen für Vitamine, Mineralstoffe und Spurenelemente, wenn sie Beikost zugesetzt werden
+### Anlage 18 Höchstmengen für Vitamine, Mineralstoffe und Spurenelemente, wenn sie Beikost zugesetzt werden
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1205
 
@@ -7240,8 +7271,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1205
 [^BJNR004150963BJNE007101310_004]:     Dieser Grenzwert gilt für die in § 1 Abs. 3 Nr. 2 Buchstabe d
     genannten Erzeugnisse.
 [^BJNR004150963BJNE007101310_005]: 
+(zu § 14d Abs. 4, § 22b Abs. 2 Nr. 2)
 
-### Anlage 19 (zu § 14d Abs. 4, § 22b Abs. 2 Nr. 2) Grundzusammensetzung von Getreidebeikost
+### Anlage 19 Grundzusammensetzung von Getreidebeikost
 
 (Fundstelle: BGBl. I 2005, 1206 - 1207;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7410,8 +7442,9 @@ als in § 1 Abs. 3 Nr. 2 Buchstabe b genannter Getreidebeikost
 zugesetzt
 wird.
 
+(zu § 14d Abs. 5, § 22b Abs. 2 Nr. 2)
 
-### Anlage 20 (zu § 14d Abs. 5, § 22b Abs. 2 Nr. 2) Grundzusammensetzung von anderer Beikost als Getreidebeikost
+### Anlage 20 Grundzusammensetzung von anderer Beikost als Getreidebeikost
 
 ( Fundstelle des Originaltextes: BGBl. I 2005, 1208 - 1209;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -7595,8 +7628,9 @@ zubereitete Erzeugnis.
 
     RE = all-trans Retinoläquivalent.
 [^BJNR004150963BJNE007302310_01]: 
+(zu § 22b Abs. 4)
 
-### Anlage 21 (zu § 22b Abs. 4) Referenzwerte für die Kennzeichnung des Nährwertes von Beikost für Säuglinge und Kleinkinder
+### Anlage 21 Referenzwerte für die Kennzeichnung des Nährwertes von Beikost für Säuglinge und Kleinkinder
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1210
 
@@ -7682,8 +7716,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1210
 
 
 
+(zu § 14 Abs. 1 Nr. 1 Buchstabe b)
 
-### Anlage 22 (zu § 14 Abs. 1 Nr. 1 Buchstabe b) Spezifische Rückstandshöchstgehalte für Schädlingsbekämpfungsmittel oder deren Metaboliten in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder
+### Anlage 22 Spezifische Rückstandshöchstgehalte für Schädlingsbekämpfungsmittel oder deren Metaboliten in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1211
 
@@ -7722,8 +7757,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1211
 
 
 
+(zu § 14 Abs. 1 Nr. 1 Buchstabe c)
 
-### Anlage 23 (zu § 14 Abs. 1 Nr. 1 Buchstabe c) Schädlingsbekämpfungsmittel, die bei landwirtschaftlichen Erzeugnissen, die zur Herstellung von Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder bestimmt sind, als nicht angewendet gelten, wenn die speziellen Rückstandshöchstgehalte nicht überschritten werden
+### Anlage 23 Schädlingsbekämpfungsmittel, die bei landwirtschaftlichen Erzeugnissen, die zur Herstellung von Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder bestimmt sind, als nicht angewendet gelten, wenn die speziellen Rückstandshöchstgehalte nicht überschritten werden
 
 (Fundstelle: BGBl. I 2005, 1212)
 
@@ -7804,10 +7840,11 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1211
 
 
 
+(zu § 14c Absatz 3 und 5)
 
-### Anlage 24 (zu § 14c Abs. 3) Spezifikation für Proteingehalt und -quelle sowie Proteinverarbeitung und -qualität bei der Herstellung von Säuglingsanfangsnahrung mit einem Proteingehalt von weniger als 0,56 g/100 kJ (2,25 g/100 kcal) auf Basis von Molkenproteinhydrolysaten aus Kuhmilchprotein
+### Anlage 24 Spezifikation für Proteingehalt und -quelle sowie Proteinverarbeitung und -qualität bei der Herstellung von Säuglingsanfangsnahrung und Folgenahrung mit einem Proteingehalt von weniger als 0,56 g/100 kJ (2,25 g/100 kcal) auf Basis von Molkenproteinhydrolysaten aus Kuhmilchprotein
 
-(Fundstelle des Originaltextes: BGBl. I 2007, 3276 - 3277;
+(Fundstelle: BGBl. I 2007, 3276 - 3277;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **1.** **Proteingehalt**
@@ -7867,7 +7904,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     kcal:
 
     *        *
-        *[^F774604_02_BJNR004150963BJNE008301360]
+        *[^F774604_02_BJNR004150963BJNE008302377]
    Je 100 kJ
 
         *   Je 100 kcal
@@ -7963,4 +8000,4 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     1 kJ = 0,239 kcal.
-[^F774604_02_BJNR004150963BJNE008301360]: 
+[^F774604_02_BJNR004150963BJNE008302377]: 

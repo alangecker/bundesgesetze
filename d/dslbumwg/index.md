@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 2441
 
 Zuletzt geändert durch
-:   Art. 176 V v. 31.10.2006 I 2407
+:   Art. 351 V v. 31.8.2015 I 1474
 
 
 ## § 1 Errichtung durch Umwandlung
@@ -260,11 +260,11 @@ nach § 44 Abs. 2 der Bundeshaushaltsordnung als Zweckvermögen zu
 verwalten und nach Maßgabe der vorgenannten Gesetze und Verordnungen
 zu verwenden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium der
-Finanzen durch Rechtsverordnung der Landwirtschaftlichen Rentenbank
-Aufgaben nach Absatz 1 oder 2 übertragen, soweit es sich um Aufgaben
-des Bundes handelt.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft kann im
+Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung der Landwirtschaftlichen Rentenbank Aufgaben nach
+Absatz 1 oder 2 übertragen, soweit es sich um Aufgaben des Bundes
+handelt.
 
 
 ## § 14 Verschmelzung der Aktiengesellschaft

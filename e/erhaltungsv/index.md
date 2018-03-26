@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2107
 
-Geändert durch
-:   Art. 2 V v. 17.12.2010 I 2128
+Zuletzt geändert durch
+:   Art. 3 V v. 6.1.2014 I 26
 
 [^F1_772396_BJNR210710009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/62/EG der
     Kommission vom 20. Juni 2008 mit Ausnahmeregelungen für die Zulassung
@@ -280,10 +280,11 @@ werden, wenn es
     Erhaltungszüchtung gewonnen worden ist,
 
 
-2.  aus Vermehrungsbeständen stammt, deren Standort der Vermehrer vor der
-    Aussaat der für die Ursprungsregion, oder im Falle eines
-    Vermehrungsbestandes in einer Region nach Absatz 3, der für diese
-    Region zuständigen Behörde mitgeteilt hat,
+2.  aus Vermehrungsbeständen stammt, deren Standort der Vermehrer bis zu
+    dem in Anlage 1 der Saatgutverordnung jeweils genannten Termin der für
+    die Ursprungsregion, oder im Falle eines Vermehrungsbestandes in einer
+    Region nach Absatz 3, der für diese Region zuständigen Behörde
+    mitgeteilt hat,
 
 
 3.  mindestens die Voraussetzungen für
@@ -506,7 +507,7 @@ oder ein Stempel mit folgenden Angaben befindet:
 4.  Pflanzenart,
 
 
-5.  Sortenbezeichnung der Erhaltungssorte,
+5.  Sortenbezeichnung der Erhaltungssorte oder Amateursorte,
 
 
 6.  die Angabe „Erhaltungssorte“, bei Erhaltungssorten von Gemüse die

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 614 (1423)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.8.2012 I 1712
+:   Art. 81 V v. 31.8.2015 I 1474
 
 Diese Verordnung dient der Umsetzung der Richtlinien 2001/63/EG der
 Kommission vom 17. August 2001 zur Anpassung der Richtlinie 97/68/EG
@@ -753,7 +753,7 @@ der Genehmigungsbehörde gemäß § 6 Abs. 3 ausgestellt worden sind.
 1.  den Genehmigungsbehörden der übrigen Mitgliedstaaten der Europäischen
     Union jeden Monat eine Liste der Motoren und Motorenfamilien mit den
     in Anhang IX der Richtlinie 97/68/EG geforderten Daten, deren
-    Genehmigung sie in dem betreffenden Monat  erteilt, verweigert oder
+    Genehmigung sie in dem betreffenden Monat erteilt, verweigert oder
     widerrufen hat;
 
 
@@ -791,7 +791,7 @@ Einzelheiten und die Begründung für die einem Hersteller gewährte
 Ausnahmegenehmigung nach § 3 zu übermitteln.
 
 (4) Die Genehmigungsbehörde übermittelt dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit zur Weitergabe an die
+Umwelt, Naturschutz, Bau und Reaktorsicherheit zur Weitergabe an die
 Kommission jedes Jahr eine Liste der erteilten Ausnahmegenehmigungen
 mit ihren Begründungen.
 

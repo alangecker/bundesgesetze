@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 576
 
+Geändert durch
+:   Art. 138 V v. 31.8.2015 I 1474
+
 
 ## Eingangsformel
 
@@ -79,7 +82,7 @@ Verwaltungsrates und an sonstigen Sitzungen und Tagungen verbunden
 ist, eine Entschädigung sowie Ersatz ihrer notwendigen Auslagen. Die
 Bundesnotarkammer bestimmt Voraussetzungen und Höhe der Zahlungen nach
 Satz 2 durch Satzung, die der Genehmigung des Bundesministeriums der
-Justiz bedarf.
+Justiz und für Verbraucherschutz bedarf.
 
 
 ### § 3 Aufgabenkommission

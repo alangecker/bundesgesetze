@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 261
 
 Zuletzt geändert durch
-:   Art. 3 V v. 19.7.2010 I 960
+:   Art. 5 Abs. 5 V v. 18.10.2017 I 3584
 
 
 
@@ -30,10 +30,7 @@ Zuletzt geändert durch
 tatsächlichen oder möglichen Gefährdungen ihrer Gesundheit und
 Sicherheit durch Lärm oder Vibrationen bei der Arbeit.
 
-(2) Diese Verordnung gilt nicht in Betrieben, die dem Bundesberggesetz
-unterliegen.
-
-(3) Das Bundesministerium der Verteidigung kann für Beschäftigte, die
+(2) Das Bundesministerium der Verteidigung kann für Beschäftigte, die
 Lärm und Vibrationen ausgesetzt sind oder ausgesetzt sein können,
 Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit
 öffentliche Belange dies zwingend erfordern, insbesondere für Zwecke
@@ -89,7 +86,15 @@ nach Nummer 1.1 des Anhangs für Hand-Arm-Vibrationen und nach Nummer
 2\.1 des Anhangs für Ganzkörper-Vibrationen gemittelte
 Vibrationsexpositionswert bezogen auf eine Achtstundenschicht.
 
-(7) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher
+(7) Fachkundig ist, wer über die erforderlichen Fachkenntnisse zur
+Ausübung einer in dieser Verordnung bestimmten Aufgabe verfügt. Die
+Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art
+der Aufgabe. Zu den Anforderungen zählen eine entsprechende
+Berufsausbildung oder Berufserfahrung jeweils in Verbindung mit einer
+zeitnah ausgeübten einschlägigen beruflichen Tätigkeit sowie die
+Teilnahme an spezifischen Fortbildungsmaßnahmen.
+
+(8) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher
 Verfahren, Einrichtungen oder Betriebsweisen, der die praktische
 Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit
 der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des
@@ -98,7 +103,7 @@ Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der
 Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die
 Arbeitsmedizin und die Arbeitshygiene.
 
-(8) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende und
+(9) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende und
 sonstige in Ausbildungseinrichtungen tätige Personen, die bei ihren
 Tätigkeiten Lärm und Vibrationen ausgesetzt sind, gleich.
 
@@ -580,9 +585,9 @@ Betriebssicherheitsverordnung gilt entsprechend.
 
 ### § 15 Ausnahmen
 
-(1) Die zuständige Behörde kann auf schriftlichen Antrag des
-Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10 zulassen,
-wenn die Durchführung der Vorschrift im Einzelfall zu einer
+(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen
+Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10
+zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer
 unverhältnismäßigen Härte führen würde und die Abweichung mit dem
 Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit
 Nebenbestimmungen verbunden werden, die unter Berücksichtigung der

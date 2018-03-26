@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1984, 569
 
 Zuletzt geändert durch
-:   Art. 24 G v. 9.9.2001 I 2331
+:   Art. 417 V v. 31.8.2015 I 1474
 
 
 ## Art 1
@@ -30,11 +30,11 @@ nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, Änderungen der Anhänge I und II des Übereinkommens
-nach Maßgabe von dessen Artikel XI, die sich im Rahmen der Ziele des
-Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates in Kraft zu setzen.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, Änderungen der Anhänge I und II des
+Übereinkommens nach Maßgabe von dessen Artikel XI, die sich im Rahmen
+der Ziele des Übereinkommens halten, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates in Kraft zu setzen.
 
 
 ## Art 3

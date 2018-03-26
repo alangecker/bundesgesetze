@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1974, 2317
 
 Zuletzt geändert durch
-:   Art. 20 G v. 17.12.2008 I 2586
+:   Art. 4 Abs. 39 G v. 18.7.2016 I 1666
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -235,9 +238,10 @@ entstanden sind.
 
 (3) Können Erben oder sonstige Berechtigte nicht ermittelt werden, so
 können Nachlaßgegenstände oder Erlös aus deren Veräußerung an das
-Gericht des letzten Wohnsitzes des Erblassers im Inland oder - wenn
-sich ein solcher Wohnsitz nicht feststellen läßt - an das Amtsgericht
-Schöneberg in Berlin als Nachlaßgericht übergeben werden.
+Gericht des letzten gewöhnlichen Aufenthalts des Erblassers im Inland
+oder - wenn sich ein solcher gewöhnlicher Aufenthalt nicht feststellen
+läßt - an das Amtsgericht Schöneberg in Berlin als Nachlaßgericht
+übergeben werden.
 
 
 ### § 10 Beurkundungen im allgemeinen
@@ -323,9 +327,9 @@ Die Konsularbeamten sind befugt,
 
 
 2.  Versicherungen an Eides statt abzunehmen, die zur Erlangung eines
-    Erbscheins, eines Testamentsvollstreckerzeugnisses oder eines
-    Zeugnisses über die Fortsetzung der Gütergemeinschaft abgegeben
-    werden,
+    Erbscheins, eines Europäischen Nachlasszeugnisses, eines
+    Testamentsvollstreckerzeugnisses oder eines Zeugnisses über die
+    Fortsetzung der Gütergemeinschaft abgegeben werden,
 
 
 3.  einem Deutschen auf dessen Antrag den Eid abzunehmen, wenn der Eid
@@ -538,12 +542,12 @@ Beamten in den Ruhestand gegeben sind.
 
 ### § 24 Erfordernis einer besonderen Ermächtigung
 
-(1) § 19 gilt für Honorarkonsularbeamte entsprechend; Eheschließungen
-können sie jedoch nicht vornehmen. Honorarkonsularbeamte sollen auch
-die Echtheit inländischer öffentlicher Urkunden nur dann bestätigen,
-wenn sie hierzu vom Auswärtigen Amt besonders ermächtigt worden sind.
-Diese Ermächtigung kann nur unter den in § 19 Abs. 3 Satz 2 genannten
-Voraussetzungen erteilt werden.
+(1) § 19 gilt für Honorarkonsularbeamte entsprechend.
+Honorarkonsularbeamte sollen auch die Echtheit inländischer
+öffentlicher Urkunden nur dann bestätigen, wenn sie hierzu vom
+Auswärtigen Amt besonders ermächtigt worden sind. Diese Ermächtigung
+kann nur unter den in § 19 Abs. 3 Satz 2 genannten Voraussetzungen
+erteilt werden.
 
 (2) Das Auswärtige Amt kann die Befugnis eines Honorarkonsularbeamten
 zur Wahrnehmung konsularischer Aufgaben weiteren Einschränkungen

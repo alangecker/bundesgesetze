@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 1698
 
 Zuletzt geändert durch
-:   Art. 1 G v. 26.6.2012 I 1375
+:   Art. 6 G v. 17.7.2017 I 2446
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des
 Europäischen Parlaments und des Rates vom 4. November 2003 betreffend
@@ -40,11 +40,8 @@ werden sollen.
 
 (2) Dieses Gesetz findet keine Anwendung auf
 
-1.  Anteile oder Aktien, die von einer Kapitalanlagegesellschaft,
-    Investmentaktiengesellschaft oder ausländischen Investmentgesellschaft
-    im Sinne des § 2 Abs. 9 des Investmentgesetzes ausgegeben werden und
-    bei denen die Anteilinhaber oder Aktionäre ein Recht auf Rückgabe der
-    Anteile oder Aktien haben;
+1.  Anteile oder Aktien von offenen Investmentvermögen im Sinne des § 1
+    Absatz 4 des Kapitalanlagegesetzbuchs;
 
 
 2.  Nichtdividendenwerte, die von einem Staat des Europäischen
@@ -60,15 +57,15 @@ werden sollen.
     solchen Staates garantiert werden;
 
 
-4.  Wertpapiere, die von Einlagenkreditinstituten oder von Emittenten,
-    deren Aktien bereits zum Handel an einem organisierten Markt
-    zugelassen sind, ausgegeben werden; dies gilt nur, wenn der
-    Verkaufspreis für alle im Europäischen Wirtschaftsraum angebotenen
-    Wertpapiere weniger als 5 Millionen Euro beträgt, wobei diese
-    Obergrenze über einen Zeitraum von zwölf Monaten zu berechnen ist;
+4.  Wertpapiere, die von CRR-Kreditinstituten oder von Emittenten, deren
+    Aktien bereits zum Handel an einem organisierten Markt zugelassen
+    sind, ausgegeben werden; dies gilt nur, wenn der Verkaufspreis für
+    alle im Europäischen Wirtschaftsraum angebotenen Wertpapiere weniger
+    als 5 Millionen Euro beträgt, wobei diese Obergrenze über einen
+    Zeitraum von zwölf Monaten zu berechnen ist;
 
 
-5.  Nichtdividendenwerte, die von Einlagenkreditinstituten dauernd oder
+5.  Nichtdividendenwerte, die von CRR-Kreditinstituten dauernd oder
     wiederholt für einen Verkaufspreis aller im Europäischen
     Wirtschaftsraum angebotenen Wertpapiere von weniger als 75 Millionen
     Euro ausgegeben werden, wobei diese Obergrenze über einen Zeitraum von
@@ -156,11 +153,11 @@ Im Sinne dieses Gesetzes ist oder sind
 
     a)  Kunden und Unternehmen, die vorbehaltlich einer Einstufung als
         Privatkunde professionelle Kunden oder geeignete Gegenparteien im
-        Sinne des § 31a Absatz 2 oder 4 des Wertpapierhandelsgesetzes sind,
-        oder die gemäß § 31a Absatz 5 Satz 1 oder Absatz 7 des
-        Wertpapierhandelsgesetzes auf Antrag als solche eingestuft worden sind
-        oder gemäß § 31a Absatz 6 Satz 5 des Wertpapierhandelsgesetzes
-        weiterhin als professionelle Kunden behandelt werden,
+        Sinne des § 67 Absatz 2 oder 4 des Wertpapierhandelsgesetzes sind,
+        oder die gemäß § 67 Absatz 6 des Wertpapierhandelsgesetzes auf Antrag
+        als solche eingestuft worden sind oder gemäß § 67 Absatz 5 Satz 5 des
+        Wertpapierhandelsgesetzes weiterhin als professionelle Kunden
+        behandelt werden,
 
 
     b)  natürliche oder juristische Personen, die nach in anderen Staaten des
@@ -202,8 +199,8 @@ Im Sinne dieses Gesetzes ist oder sind
 7.  (weggefallen)
 
 
-8.  Einlagenkreditinstitute: Unternehmen im Sinne des § 1 Abs. 3d Satz 1
-    des Kreditwesengesetzes;
+8.  CRR-Kreditinstitute: Unternehmen im Sinne des § 1 Abs. 3d Satz 1 des
+    Kreditwesengesetzes;
 
 
 9.  Emittent: eine Person oder Gesellschaft, die Wertpapiere begibt oder
@@ -257,7 +254,10 @@ Im Sinne dieses Gesetzes ist oder sind
         dem der erste Antrag auf Zulassung zum Handel an einem organisierten
         Markt gestellt wird, vorbehaltlich einer späteren Wahl durch den
         Drittstaatemittenten, wenn der Herkunftsstaat nicht gemäß seiner Wahl
-        bestimmt wurde;
+        bestimmt wurde oder die Wertpapiere nicht mehr zum Handel an einem
+        organisierten Markt in dem Herkunftsmitgliedstaat, aber stattdessen in
+        einem anderen Staat des Europäischen Wirtschaftsraums zum Handel an
+        einem organisierten Markt zugelassen sind;
 
 
 
@@ -317,8 +317,8 @@ für ein Angebot von Wertpapieren,
     als 150 nicht qualifizierte Anleger richtet,
 
 
-3.  das sich nur an Anleger richtet, die Wertpapiere ab einem
-    Mindestbetrag von 100 000 Euro pro Anleger je Angebot erwerben können,
+3.  das sich an Anleger richtet, die Wertpapiere ab einem Mindestbetrag
+    von 100 000 Euro pro Anleger je Angebot erwerben können,
 
 
 4.  die eine Mindeststückelung von 100 000 Euro haben oder
@@ -516,16 +516,17 @@ organisierten Markt:
 
 
 (3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, bestimmen, welche Voraussetzungen
-die Angaben in den in Absatz 1 Nr. 2 und 3 sowie Absatz 2 Nr. 3 und 4
-genannten Dokumenten im Einzelnen erfüllen müssen, um gleichwertig im
-Sinne des Absatzes 1 Nr. 2 oder 3 oder im Sinne des Absatzes 2 Nr. 3
-oder 4 zu sein. Dies kann auch in der Weise geschehen, dass
-Vorschriften des deutschen Rechts oder des Rechts anderer Staaten des
-Europäischen Wirtschaftsraums bezeichnet werden, bei deren Anwendung
-die Gleichwertigkeit gegeben ist. Das Bundesministerium der Finanzen
-kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+bestimmen, welche Voraussetzungen die Angaben in den in Absatz 1 Nr. 2
+und 3 sowie Absatz 2 Nr. 3 und 4 genannten Dokumenten im Einzelnen
+erfüllen müssen, um gleichwertig im Sinne des Absatzes 1 Nr. 2 oder 3
+oder im Sinne des Absatzes 2 Nr. 3 oder 4 zu sein. Dies kann auch in
+der Weise geschehen, dass Vorschriften des deutschen Rechts oder des
+Rechts anderer Staaten des Europäischen Wirtschaftsraums bezeichnet
+werden, bei deren Anwendung die Gleichwertigkeit gegeben ist. Das
+Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
 
@@ -614,9 +615,9 @@ jeweiligen Angebots und der jeweiligen Wertpapiere:
 
 
 4.  diejenigen Personen, die die Verantwortung für die Zusammenfassung
-    einschließlich der Übersetzung hiervon übernommen haben oder von denen
-    der Erlass ausgeht, haftbar gemacht werden können, jedoch nur für den
-    Fall, dass die Zusammenfassung irreführend, unrichtig oder
+    einschließlich etwaiger Übersetzungen hiervon übernommen haben oder
+    von denen der Erlass ausgeht, haftbar gemacht werden können, jedoch
+    nur für den Fall, dass die Zusammenfassung irreführend, unrichtig oder
     widersprüchlich ist, wenn sie zusammen mit den anderen Teilen des
     Prospekts gelesen wird, oder sie, wenn sie zusammen mit den anderen
     Teilen des Prospekts gelesen wird, nicht alle erforderlichen
@@ -625,22 +626,23 @@ jeweiligen Angebots und der jeweiligen Wertpapiere:
 
 
 
-(3) Der Prospekt ist mit dem Datum seiner Erstellung zu versehen und
-vom Anbieter zu unterzeichnen. Sollen auf Grund des Prospekts
-Wertpapiere zum Handel an einem organisierten Markt zugelassen werden,
-ist der Prospekt vom Zulassungsantragsteller zu unterzeichnen.
+(3) Der Prospekt ist mit dem Datum seiner Erstellung zu versehen.
 
 (4) Der Prospekt muss Namen und Funktionen, bei juristischen Personen
 oder Gesellschaften die Firma und den Sitz der Personen oder
 Gesellschaften angeben, die für seinen Inhalt die Verantwortung
-übernehmen; er muss eine Erklärung dieser Personen oder Gesellschaften
+übernehmen. Er muss eine Erklärung dieser Personen oder Gesellschaften
 enthalten, dass ihres Wissens die Angaben richtig und keine
-wesentlichen Umstände ausgelassen sind. Im Falle des Absatzes 3 Satz 2
-hat stets auch das Kreditinstitut, Finanzdienstleistungsinstitut oder
-nach § 53 Abs. 1 Satz 1 oder 53b Abs. 1 Satz 1 des Kreditwesengesetzes
-tätige Unternehmen, mit dem der Emittent zusammen die Zulassung der
-Wertpapiere beantragt, die Verantwortung zu übernehmen und muss der
-Prospekt dessen Erklärung nach Satz 1 enthalten.
+wesentlichen Umstände ausgelassen sind. Die Verantwortung nach Satz 1
+hat insbesondere der Anbieter zu übernehmen; der Prospekt muss dessen
+Erklärung nach Satz 2 enthalten. Sollen auf Grund des Prospekts
+Wertpapiere zum Handel an einem organisierten Markt zugelassen werden,
+hat stets auch das Kreditinstitut, das Finanzdienstleistungsinstitut
+oder das nach § 53 Absatz 1 Satz 1 oder § 53b Absatz 1 Satz 1 des
+Kreditwesengesetzes tätige Unternehmen, mit dem der Emittent zusammen
+die Zulassung der Wertpapiere beantragt, die Verantwortung nach Satz 1
+zu übernehmen und muss der Prospekt dessen Erklärung nach Satz 2
+enthalten.
 
 
 ### § 6 Basisprospekt
@@ -656,8 +658,8 @@ endgültigen Bedingungen des Angebots:
     eines Angebotsprogramms ausgegeben werden;
 
 
-2.  Nichtdividendenwerte, die dauernd oder wiederholt von
-    Einlagenkreditinstituten begeben werden,
+2.  Nichtdividendenwerte, die dauernd oder wiederholt von CRR-
+    Kreditinstituten begeben werden,
 
     a)  sofern die Wertpapiere durch in ein Deckungsregister eingetragene
         Vermögensgegenstände gedeckt werden, die eine ausreichende Deckung der
@@ -666,7 +668,7 @@ endgültigen Bedingungen des Angebots:
 
 
     b)  sofern die Vermögensgegenstände im Sinne des Buchstaben a im Falle der
-        Insolvenz des Einlagenkreditinstituts unbeschadet der auf Grund der
+        Insolvenz des CRR-Kreditinstituts unbeschadet der auf Grund der
         Richtlinie 2001/24/EG des Europäischen Parlaments und des Rates vom 4.
         April 2001 über die Sanierung und Liquidation von Kreditinstituten
         (ABl. EG Nr. L 125 S. 15) erlassenen Vorschriften vorrangig zur
@@ -684,21 +686,19 @@ aktualisierte Angaben zum Emittenten und zu den Wertpapieren, die
 zugelassen werden sollen, nach Maßgabe des § 16 zu ergänzen.
 
 (3) Werden die endgültigen Bedingungen des Angebots weder in den
-Basisprospekt noch in einen Nachtrag nach § 16 aufgenommen, hat der
-Anbieter oder Zulassungsantragsteller sie spätestens am Tag des
-öffentlichen Angebots in der in § 14 genannten Art und Weise zu
-veröffentlichen. Der Anbieter oder Zulassungsantragsteller hat die
-endgültigen Bedingungen des Angebots zudem spätestens am Tag der
-Veröffentlichung bei der Bundesanstalt zu hinterlegen und der
-zuständigen Behörde des oder der Aufnahmestaaten zu übermitteln. Die
-endgültigen Angebotsbedingungen können anstatt in Papierform auch
+Basisprospekt noch in einen Nachtrag nach § 16 aufgenommen, so sind
+sie unverzüglich bei Unterbreitung eines öffentlichen Angebots und,
+sofern möglich, vor dem Beginn des öffentlichen Angebots oder der
+Zulassung zum Handel vom Anbieter oder Zulassungsantragsteller in der
+in § 14 genannten Art und Weise zu veröffentlichen sowie bei der
+Bundesanstalt zu hinterlegen. § 8 Absatz 1 Satz 1 und 2 ist
+entsprechend anzuwenden. Die endgültigen Bedingungen des Angebots sind
 ausschließlich elektronisch über das Melde- und
-Veröffentlichungssystem der Bundesanstalt hinterlegt werden. Kann eine
-Veröffentlichung, Hinterlegung oder Übermittlung aus praktischen
-Gründen nicht fristgerecht durchgeführt werden, ist sie unverzüglich
-nachzuholen. § 8 Abs. 1 Satz 1 und 2 ist in den in Satz 1 genannten
-Fällen entsprechend anzuwenden. Die endgültigen Bedingungen des
-Angebots bedürfen nicht der Unterzeichnung.
+Veröffentlichungssystem der Bundesanstalt zu hinterlegen und bedürfen
+nicht der Unterzeichnung. Die Bundesanstalt übermittelt die
+endgültigen Bedingungen des Angebots der zuständigen Behörde des oder
+der Aufnahmestaaten sowie der Europäischen Wertpapier- und
+Marktaufsichtsbehörde.
 
 
 ### § 7 Mindestangaben
@@ -729,7 +729,7 @@ Emissionspreises und des Emissionsvolumens zu widerrufen. Der Widerruf
 muss keine Begründung enthalten und ist in Textform gegenüber der im
 Prospekt als Empfänger des Widerrufs bezeichneten Person zu erklären;
 zur Fristwahrung genügt die rechtzeitige Absendung. Auf die
-Rechtsfolgen des Widerrufs ist § 357 des Bürgerlichen Gesetzbuchs
+Rechtsfolgen des Widerrufs ist § 357a des Bürgerlichen Gesetzbuchs
 entsprechend anzuwenden. Der Anbieter oder Zulassungsantragsteller
 muss den endgültigen Emissionspreis und das Emissionsvolumen
 unverzüglich nach deren Festlegung in einer nach § 14 Abs. 2
@@ -790,12 +790,7 @@ organisierten Markt gültig, sofern er um die nach § 16 erforderlichen
 Nachträge ergänzt wird.
 
 (2) Im Falle eines Angebotsprogramms ist der Basisprospekt nach seiner
-Billigung zwölf Monate lang gültig. Werden während des
-Gültigkeitszeitraums eines Basisprospekts endgültige Bedingungen für
-ein Angebot hinterlegt, verlängert sich der Gültigkeitszeitraum des
-Basisprospekts für dieses öffentliche Angebot bis zu dessen Ablauf,
-höchstens jedoch um weitere zwölf Monate ab Hinterlegung der
-endgültigen Bedingungen bei der Bundesanstalt.
+Billigung zwölf Monate lang gültig.
 
 (3) Bei Nichtdividendenwerten im Sinne des § 6 Abs. 1 Nr. 2 ist der
 Prospekt gültig, bis keines der betroffenen Wertpapiere mehr dauernd
@@ -826,15 +821,15 @@ mehrere zuvor oder gleichzeitig veröffentlichte oder der
     hinterlegt wurden, oder
 
 
-2.  deren Veröffentlichung der Bundesanstalt nach § 2b Absatz 1, § 15
-    Absatz 5, § 15a Absatz 4, § 26 Absatz 2, den §§ 26a, 29a Absatz 2, §
-    30e Absatz 1, § 30f Absatz 2 des Wertpapierhandelsgesetzes, jeweils
-    auch in Verbindung mit der Wertpapierhandelsanzeige- und
-    Insiderverzeichnisverordnung, mitgeteilt worden ist, oder
+2.  deren Veröffentlichung der Bundesanstalt nach § 4 Absatz 1, § 26
+    Absatz 1 oder Absatz 2, § 40 Absatz 2, den §§ 41, 46 Absatz 2, § 50
+    Absatz 1, § 51 Absatz 2 des Wertpapierhandelsgesetzes, jeweils auch in
+    Verbindung mit der Wertpapierhandelsanzeige- und
+    Insiderverzeichnisverordnung, mitgeteilt worden ist oder
 
 
-3.  deren öffentliches Zurverfügungstellen der Bundesanstalt nach § 37v
-    Absatz 1, § 37w Absatz 1, § 37x Absatz 1, § 37y oder § 37z des
+3.  deren öffentliches Zurverfügungstellen der Bundesanstalt nach § 114
+    Absatz 1, § 115 Absatz 1, § 116 Absatz 2, § 117 oder § 118 des
     Wertpapierhandelsgesetzes, jeweils auch in Verbindung mit der
     Wertpapierhandelsanzeige- und Insiderverzeichnisverordnung, mitgeteilt
     worden ist.
@@ -934,9 +929,9 @@ Eingang des Prospekts unterrichten.
 Internetseite für jeweils zwölf Monate zugänglich.
 
 (5) Der zu billigende Prospekt einschließlich der Übersetzung der
-Zusammenfassung ist der Bundesanstalt sowohl in Papierform als auch
-elektronisch über das Melde- und Veröffentlichungssystem der
-Bundesanstalt oder auf einem Datenträger zu übermitteln.
+Zusammenfassung ist der Bundesanstalt elektronisch über das Melde- und
+Veröffentlichungssystem der Bundesanstalt oder auf einem Datenträger
+zu übermitteln.
 
 
 ### § 14 Hinterlegung und Veröffentlichung des Prospekts
@@ -1281,14 +1276,14 @@ organisierten Markt billigen, wenn
 (2) Die §§ 17, 18 und 19 sind entsprechend anzuwenden.
 
 (3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, bestimmen, unter welchen
-Voraussetzungen die Informationspflichten gleichwertig im Sinne des
-Absatzes 1 Nr. 2 sind. Dies kann auch in der Weise geschehen, dass
-Vorschriften bezeichnet werden, bei deren Anwendung die
-Gleichwertigkeit gegeben ist. Das Bundesministerium der Finanzen kann
-die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
-Finanzdienstleistungsaufsicht übertragen.
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+bestimmen, unter welchen Voraussetzungen die Informationspflichten
+gleichwertig im Sinne des Absatzes 1 Nr. 2 sind. Dies kann auch in der
+Weise geschehen, dass Vorschriften bezeichnet werden, bei deren
+Anwendung die Gleichwertigkeit gegeben ist. Das Bundesministerium der
+Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
+Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
 
 ## Abschnitt 6 - Prospekthaftung
@@ -1386,10 +1381,16 @@ auf grober Fahrlässigkeit beruht.
 
 
 4.  vor dem Abschluss des Erwerbsgeschäfts im Rahmen des Jahresabschlusses
-    oder Zwischenberichts des Emittenten, einer Veröffentlichung nach § 15
-    des Wertpapierhandelsgesetzes oder einer vergleichbaren Bekanntmachung
-    eine deutlich gestaltete Berichtigung der unrichtigen oder
-    unvollständigen Angaben im Inland veröffentlicht wurde oder
+    oder Zwischenberichts des Emittenten, einer Veröffentlichung nach
+    Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europäischen
+    Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch
+    (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
+    2003/6/EG des Europäischen Parlaments und des Rates und der
+    Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
+    (ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung oder
+    einer vergleichbaren Bekanntmachung eine deutlich gestaltete
+    Berichtigung der unrichtigen oder unvollständigen Angaben im Inland
+    veröffentlicht wurde oder
 
 
 5.  er sich ausschließlich auf Grund von Angaben in der Zusammenfassung
@@ -1475,6 +1476,34 @@ Im Falle des Satzes 2 Nr. 2 dürfen Auskünfte, die Vorlage von
 Unterlagen und die Überlassung von Kopien nur insoweit verlangt
 werden, als sie für die Prüfung, ob es sich um einen Anbieter im Sinne
 dieses Gesetzes handelt, erforderlich sind.
+
+(2a) Kommt ein Emittent, Anbieter oder Zulassungsantragsteller einem
+sofort vollziehbaren Verlangen nach Absatz 2 innerhalb angemessener
+Frist unberechtigt nicht oder trotz erneuter Aufforderung innerhalb
+angemessener Frist unberechtigt nicht oder nur unvollständig nach,
+kann die Bundesanstalt diesen Umstand auf ihrer Internetseite
+öffentlich bekannt machen, wenn Anhaltspunkte dafür vorliegen, dass
+entgegen § 3 dieses Gesetzes kein Prospekt veröffentlicht wurde oder
+entgegen § 13 dieses Gesetzes ein Prospekt veröffentlicht wird oder
+der Prospekt oder das Registrierungsformular nicht mehr nach § 9
+dieses Gesetzes gültig ist. In dem Auskunfts- und Vorlegungsersuchen
+nach Absatz 2 ist auf die Befugnis nach Satz 1 hinzuweisen. Die
+Bekanntmachung darf nur diejenigen personenbezogenen Daten enthalten,
+die zur Identifizierung des Anbieters oder Emittenten erforderlich
+sind. Bei nicht bestandskräftigen Maßnahmen ist folgender Hinweis
+hinzuzufügen: „Diese Maßnahme ist noch nicht bestandskräftig.“ Wurde
+gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der
+Ausgang des Rechtsmittelverfahrens bekannt zu machen. Die
+Bekanntmachung ist spätestens nach fünf Jahren zu löschen.
+
+(2b) Die Bundesanstalt sieht von einer Bekanntmachung nach Absatz 2a
+ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik
+Deutschland oder eines oder mehrerer Staaten des Europäischen
+Wirtschaftsraums erheblich gefährden würde. Die Bundesanstalt kann von
+einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung
+nachteilige Auswirkungen auf die Durchführung strafrechtlicher,
+ordnungswidrigkeitenrechtlicher oder disziplinarischer Ermittlungen
+haben kann.
 
 (3) Die Bundesanstalt kann von den Abschlussprüfern und Mitgliedern
 von Aufsichts- oder Geschäftsführungsorganen des Emittenten, des
@@ -1583,17 +1612,34 @@ dieser Stelle beschäftigten und die von dieser Stelle beauftragten
 Personen einer dem Satz 1 entsprechenden Verschwiegenheitspflicht
 unterliegen.
 
-(2) Die §§ 93, 97 und 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105
-Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht für die in
-Absatz 1 Satz 1 oder 2 genannten Personen, soweit sie zur Durchführung
-dieses Gesetzes tätig werden. Sie finden Anwendung, soweit die
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit §
+105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in
+Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die
 Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
 wegen einer Steuerstraftat sowie eines damit zusammenhängenden
-Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes
-öffentliches Interesse besteht, und nicht Tatsachen betroffen sind,
-die den in Absatz 1 Satz 1 oder 2 bezeichneten Personen durch eine
-Stelle eines anderen Staates im Sinne des Absatzes 1 Satz 3 Nr. 2 oder
-durch von dieser Stelle beauftragte Personen mitgeteilt worden sind.
+Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften
+sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+
+1.  die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch
+    eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer
+    2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden
+    sind oder
+
+
+2.  von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis
+    erlangen, dass sie an der Aufsicht über direkt von der Europäischen
+    Zentralbank beaufsichtigte Institute mitwirken, insbesondere in
+    gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU)
+    Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur
+    Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der
+    Europäischen Zentralbank und den nationalen zuständigen Behörden und
+    den nationalen benannten Behörden innerhalb des einheitlichen
+    Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141
+    vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen
+    Zentralbank geheim sind.
+
+
+
 
 
 ### § 28 Zusammenarbeit mit zuständigen Stellen in anderen Staaten des Europäischen Wirtschaftsraums
@@ -1743,17 +1789,18 @@ Keine aufschiebende Wirkung haben
 ### § 32 Auskunftspflicht von Wertpapierdienstleistungsunternehmen
 
 Vorbehaltlich der schriftlichen Einwilligung des jeweiligen Kunden
-haben Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 4
+haben Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 10
 des Wertpapierhandelsgesetzes Emittenten oder Anbietern auf Anfrage
-unverzüglich ihre Einstufung dieses Kunden nach § 31a des
+unverzüglich ihre Einstufung dieses Kunden nach § 67 des
 Wertpapierhandelsgesetzes mitzuteilen.
 
 
 ### § 33 Gebühren und Auslagen
 
-(1) Für Amtshandlungen nach diesem Gesetz, nach den auf diesem Gesetz
-beruhenden Rechtsvorschriften und nach Rechtsakten der Europäischen
-Union kann die Bundesanstalt Gebühren und Auslagen erheben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz, nach den auf diesem Gesetz beruhenden Rechtsvorschriften und
+nach Rechtsakten der Europäischen Union kann die Bundesanstalt
+Gebühren und Auslagen erheben.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
@@ -1761,9 +1808,10 @@ gebührenpflichtigen Tatbestände und die Gebühren nach festen Sätzen
 oder als Rahmengebühren näher zu bestimmen. Die Gebührensätze und die
 Rahmengebühren sind so zu bemessen, dass zwischen der den
 Verwaltungsaufwand berücksichtigenden Höhe und der Bedeutung, dem
-wirtschaftlichen Wert oder dem sonstigen Nutzen der Amtshandlung ein
-angemessenes Verhältnis besteht. Das Bundesministerium der Finanzen
-kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
+wirtschaftlichen Wert oder dem sonstigen Nutzen der individuell
+zurechenbaren öffentlichen Leistung ein angemessenes Verhältnis
+besteht. Das Bundesministerium der Finanzen kann die Ermächtigung
+durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
 
@@ -1805,6 +1853,10 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
 7.  entgegen § 14 Abs. 3 eine Mitteilung nicht, nicht richtig, nicht
     vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig macht,
+
+
+7a. entgegen § 14 Absatz 4 Satz 2 eine Angabe nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
 
 
 8.  entgegen § 14 Abs. 5 eine Papierversion des Prospekts nicht zur
@@ -1862,6 +1914,17 @@ b)  den ersten Antrag auf Zulassung von Wertpapieren zum Handel an einem
 
 
 
+
+(1a) Für öffentliche Angebote, für die endgültige Bedingungen bereits
+vor dem 10. Juli 2015 bei der Bundesanstalt hinterlegt wurden, ist § 9
+Absatz 2 dieses Gesetzes in seiner bis dahin geltenden Fassung weiter
+anzuwenden. Werden für Wertpapiere innerhalb eines Zeitraums von drei
+Monaten ab dem 10. Juli 2015 bei der Bundesanstalt endgültige
+Bedingungen hinterlegt, die sich auf Basisprospekte beziehen, welche
+vor dem 10. Juli 2015 gebilligt wurden, dürfen diese Wertpapiere noch
+sechs Monate ab Hinterlegung der endgültigen Bedingungen auf der
+Grundlage dieses Basisprospekts öffentlich angeboten werden, sofern
+sich nicht aus § 9 Absatz 2 eine längere Gültigkeit ergibt.
 
 (2) Wertpapiere, die bereits vor dem 1. Juli 2012 auf Grundlage eines
 von der Bundesanstalt vor diesem Datum gebilligten Basisprospekts und

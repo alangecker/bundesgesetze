@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3182
 
 Zuletzt geändert durch
-:   Art. 2 V v. 26.11.2012 I 2363
+:   Art. 2 V v. 4.4.2016 I 590
 
 [^F772617_01_BJNR318200009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2009/28/EG des
     Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung
@@ -96,10 +96,9 @@ Es verordnen
 
 Diese Verordnung gilt für
 
-1.  die Erfüllung der gesetzlichen Verpflichtung nach § 37a Absatz 1 Satz
-    1 und 2 in Verbindung mit § 37a Absatz 3 und 3a des Bundes-
-    Immissionsschutzgesetzes, im Lauf des Kalenderjahres einen bestimmten
-    Mindestanteil an Biokraftstoffen in den Verkehr zu bringen, und
+1.  die Erfüllung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in
+    Verbindung mit § 37a Absatz 3 und 4 des Bundes-
+    Immissionsschutzgesetzes und
 
 
 2.  die Steuerentlastungsfähigkeit von Biokraftstoffen nach § 50 des
@@ -111,12 +110,8 @@ Diese Verordnung gilt für
 
 ### § 2 Begriffsbestimmungen
 
-(1) Biokraftstoffe im Sinne dieser Verordnung sind flüssige oder
-gasförmige Kraftstoffe für den Verkehr, die aus Biomasse hergestellt
-werden. Biomasse im Sinne dieser Verordnung ist Biomasse im Sinne der
-Biomasseverordnung vom 21. Juni 2001 (BGBl. I S. 1234), die durch die
-Verordnung vom 9. August 2005 (BGBl. I S. 2419) geändert worden ist,
-in der jeweils geltenden Fassung.
+(1) Biokraftstoffe im Sinne dieser Verordnung sind Biokraftstoffe im
+Sinne des § 37b Absatz 1 des Bundes-Immissionsschutzgesetzes.
 
 (2) Herstellung im Sinne dieser Verordnung umfasst alle
 Arbeitsschritte von dem Anbau der erforderlichen Biomasse,
@@ -141,7 +136,7 @@ Kraftstoff erforderlich ist.
 
 
 
-2.  Ölmühlen und
+2.  Ölmühlen, Biogasanlagen und Fettaufbereitungsanlagen sowie
 
 
 3.  Betriebe, die flüssige oder gasförmige Biomasse auf die erforderliche
@@ -151,28 +146,7 @@ Kraftstoff erforderlich ist.
 
 
 
-(4) Umweltgutachterinnen und Umweltgutachter im Sinne dieser
-Verordnung sind
-
-1.  Personen oder Organisationen, die nach dem Umweltauditgesetz in der
-    Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490),
-    das zuletzt durch Artikel 11 des Gesetzes vom 17. März 2008 (BGBl. I
-    S. 399) geändert worden ist, in der jeweils geltenden Fassung für den
-    Bereich Land- oder Forstwirtschaft als Umweltgutachterin,
-    Umweltgutachter oder Umweltgutachterorganisation tätig werden dürfen,
-    und
-
-
-2.  sonstige Umweltgutachterinnen, Umweltgutachter und
-    Umweltgutachterorganisationen, sofern sie in einem anderen
-    Mitgliedstaat der Europäischen Union oder in einem anderen
-    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum für
-    den Bereich Land- oder Forstwirtschaft oder einen vergleichbaren
-    Bereich zugelassen sind, nach Maßgabe des § 18 des
-    Umweltauditgesetzes.
-
-
-
+(4) (weggefallen)
 
 (5) Zertifikate im Sinne dieser Verordnung sind
 Konformitätsbescheinigungen darüber, dass Schnittstellen
@@ -202,35 +176,111 @@ Bestimmung der Anforderungen nach dieser Verordnung, zum Nachweis
 ihrer Erfüllung sowie zur Kontrolle dieses Nachweises enthalten.
 
 (8) Biokraftstoffquotenstelle im Sinne dieser Verordnung ist die
-zuständige Stelle im Sinne des § 37d Absatz 1 des Bundes-
-Immissionsschutzgesetzes, die die Einhaltung der Verpflichtung, einen
-Mindestanteil an Biokraftstoffen in Verkehr zu bringen, überwacht.
+zuständige Stelle im Sinne des § 37d Absatz 1 Satz 1 des Bundes-
+Immissionsschutzgesetzes.
 
 (9) Nachweispflichtige oder Nachweispflichtiger im Sinne dieser
 Verordnung sind
 
-1.  die oder der Verpflichtete nach dem Bundes-Immissionsschutzgesetz, der
-    oder dem die Einhaltung der gesetzlichen Verpflichtung, im Laufe des
-    Kalenderjahres einen bestimmten Mindestanteil an Biokraftstoffen in
-    den Verkehr zu bringen, obliegt, oder
+1.  Verpflichtete nach § 37a Absatz 3 und 4 des Bundes-
+    Immissionsschutzgesetzes,
 
 
-2.  die- oder derjenige, die oder der eine Steuerentlastung für
+2.  Dritte nach § 37a Absatz 6 oder Absatz 7 des Bundes-
+    Immissionsschutzgesetzes oder
+
+
+3.  die- oder derjenige, die oder der eine Steuerentlastung für
     Biokraftstoffe nach dem Energiesteuergesetz beantragt.
 
 
 
 
-(10) Abfälle im Sinne dieser Verordnung sind Abfälle im Sinne des § 7
-Absatz 1 Satz 1 Nummer 1 der Verordnung zur Durchführung der
-Regelungen der Biokraftstoffquote vom 29. Januar 2007 (BGBl. I S. 60),
-die zuletzt durch Artikel 1 der Verordnung vom 26. November 2012
-(BGBl. I S. 2363) geändert worden ist, in der jeweils geltenden
-Fassung.
+(10) Abfälle im Sinne dieser Verordnung sind Abfälle, auf die die
+Vorschriften des Kreislaufwirtschaftsgesetzes Anwendung finden.
+Abweichend von Satz 1 gelten Stoffe nicht als Abfälle, sofern sie
 
-(11) Reststoffe im Sinne dieser Verordnung sind Reststoffe im Sinne
-des § 7 Absatz 4 der Verordnung zur Durchführung der Regelungen der
-Biokraftstoffquote.
+1.  im Widerspruch zur Pflicht zur Abfallvermeidung nach § 5 Absatz 1 Satz
+    1 Nummer 3 des Bundes-Immissionsschutzgesetzes oder § 6 Absatz 1
+    Nummer 1 und Absatz 2 des Kreislaufwirtschaftsgesetzes erzeugt worden
+    sind,
+
+
+2.  nur deshalb Abfälle sind, weil das Verfallsdatum überschritten ist,
+
+
+3.  nur deshalb Abfälle sind, weil sie
+
+    a)  gemäß § 37b Absatz 1 bis 7 des Bundes-Immissionsschutzgesetzes keine
+        Biokraftstoffe sind,
+
+
+    b)  gemäß § 37b Absatz 8 des Bundes-Immissionsschutzgesetzes nicht auf die
+        Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit §
+        37a Absatz 3 und 4 des Bundes-Immissionsschutzgesetzes anrechenbar
+        sind oder
+
+
+    c)  nicht der Verordnung über die Beschaffenheit und die Auszeichnung der
+        Qualitäten von Kraft- und Brennstoffen entsprechen.
+
+
+
+
+
+
+Satz 2 gilt auch für Gemische, die entsprechende Abfälle enthalten.
+Die Sätze 1 bis 3 gelten für Biokraftstoffe, die aus im Ausland
+angefallenen Abfällen hergestellt wurden, entsprechend.
+
+(11) Reststoffe im Sinne dieser Verordnung sind
+
+1.  Rohglycerin,
+
+
+2.  Tallölpech,
+
+
+3.  Gülle und Stallmist,
+
+
+4.  Stroh sowie
+
+
+5.  Altspeisefette und -öle.
+
+
+
+Absatz 10 Satz 2 und 3 gilt entsprechend. Altspeisefette und -öle im
+Sinne des Satzes 1 Nummer 5 sind pflanzliche Fette oder Öle, die zum
+Braten oder Frittieren von Speisen verwendet worden sind und deren
+Nutzung im üblichen Rahmen erfolgt ist. Die nach § 66 Absatz 1
+zuständige Behörde macht im Bundesanzeiger bekannt, welche Mengen oder
+Nutzungsdauern einer Nutzung im üblichen Rahmen im Sinne des Satzes 2
+entsprechen.
+
+(12) Kulturflächen im Sinne dieser Verordnung sind
+
+1.  Flächen mit einjährigen Pflanzen und Pflanzen mit einem
+    Wachstumszyklus von unter einem Jahr, die für eine weitere Ernte
+    erneut gesät oder gepflanzt werden müssen; dazu gehören auch Flächen
+    mit mehrjährigen Pflanzen, die jährlich geerntet und bei der Ernte
+    zerstört werden, wie zum Beispiel Maniok, Yams und Zuckerrohr; Bananen
+    gelten als Übergang zur Kategorie der Dauerkulturen,
+
+
+2.  Flächen, die weniger als fünf Jahre brach liegen, bevor sie erneut mit
+    einjährigen Pflanzen bebaut werden.
+
+
+
+Flächen mit Dauerkulturen, Waldflächen und Grünlandflächen sind keine
+Kulturflächen im Sinne dieser Verordnung.
+
+(13) Dauerkulturen sind mehrjährige Kulturpflanzen, deren Stiel
+normalerweise nicht jährlich geerntet wird. Darunter fallen zum
+Beispiel Niederwald mit Kurzumtrieb und Ölpalmen. Dauergrünland ist
+keine Dauerkultur im Sinne dieser Verordnung.
 
 
 ## Teil 2 - Nachhaltigkeitsanforderungen
@@ -238,24 +288,25 @@ Biokraftstoffquote.
 
 ### § 3 Anerkennung von Biokraftstoffen
 
-(1) Biokraftstoffe werden auf die Erfüllung der gesetzlichen
-Verpflichtung nach dem Bundes-Immissionsschutzgesetz, im Lauf des
-Kalenderjahres einen bestimmten Mindestanteil an Biokraftstoffen in
-den Verkehr zu bringen, angerechnet, wenn
+(1) Biokraftstoffe werden auf die Erfüllung von Verpflichtungen nach §
+37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 des
+Bundes-Immissionsschutzgesetzes nur dann angerechnet, wenn
 
-1.  die Anforderungen an
+1.  sie die zum Zeitpunkt des Inverkehrbringens geltenden Anforderungen
+    erfüllen an
 
     a)  den Schutz natürlicher Lebensräume nach den §§ 4 bis 6 und
 
 
-    b)  eine nachhaltige landwirtschaftliche Bewirtschaftung nach § 7
+    b)  eine nachhaltige landwirtschaftliche Bewirtschaftung nach § 7 und
 
 
 
-    erfüllt worden sind und
 
 
-2.  sie das Treibhausgas-Minderungspotenzial des § 8 aufweisen.
+2.  sie die zum Zeitpunkt des Inverkehrbringens geltenden
+    Mindestanforderungen an die Treibhausgasminderung nach § 8 Absatz 1
+    erfüllen.
 
 
 
@@ -327,23 +378,22 @@ haben:
 
 (4) Naturschutzzwecken dienende Flächen sind Flächen, die durch Gesetz
 oder von der zuständigen Behörde für Naturschutzzwecke ausgewiesen
-worden sind. Sofern die Kommission der Europäischen Gemeinschaften auf
-Grund des Artikels 18 Absatz 4 Unterabsatz 2 Satz 3 der Richtlinie
-2009/28/EG des Europäischen Parlaments und des Rates vom 23. April
-2009 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen
-und zur Änderung und anschließenden Aufhebung der Richtlinien
-2001/77/EG und 2003/30/EG (ABl. L 140 vom 5.6.2009, S. 16) oder auf
-Grund des Artikels 7c Absatz 4 Unterabsatz 2 Satz 3 der Richtlinie
-2009/30/EG des Europäischen Parlaments und des Rates vom 23. April
-2009 zur Änderung der Richtlinie 98/70/EG im Hinblick auf die
-Spezifikationen für Otto-, Diesel- und Gasölkraftstoffe und die
-Einführung eines Systems zur Überwachung und Verringerung der
-Treibhausgasemissionen sowie zur Änderung der Richtlinie 1999/32/EG
-des Rates im Hinblick auf
-die Spezifikationen              für von Binnenschiffen gebrauchte
-Kraftstoffe und zur Aufhebung der Richtlinie 93/12/EWG (ABl. L 140 vom
-5\.6.2009, S. 88) Flächen für den Schutz seltener, bedrohter oder
-gefährdeter Ökosysteme oder Arten, die
+worden sind. Sofern die Europäische Kommission auf Grund des Artikels
+18 Absatz 4 Unterabsatz 2 Satz 3 der Richtlinie 2009/28/EG des
+Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung
+der Nutzung von Energie aus erneuerbaren Quellen und zur Änderung und
+anschließenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG
+(ABl. L 140 vom 5.6.2009, S. 16) oder auf Grund des Artikels 7c Absatz
+4 Unterabsatz 2 Satz 3 der Richtlinie 2009/30/EG des Europäischen
+Parlaments und des Rates vom 23. April 2009 zur Änderung der
+Richtlinie 98/70/EG im Hinblick auf die Spezifikationen für Otto-,
+Diesel- und Gasölkraftstoffe und die Einführung eines Systems zur
+Überwachung und Verringerung der Treibhausgasemissionen sowie zur
+Änderung der Richtlinie 1999/32/EG des Rates im Hinblick auf die
+Spezifikationen für von Binnenschiffen gebrauchte Kraftstoffe und zur
+Aufhebung der Richtlinie 93/12/EWG (ABl. L 140 vom 5.6.2009, S. 88)
+Flächen für den Schutz seltener, bedrohter oder gefährdeter Ökosysteme
+oder Arten, die
 
 1.  in internationalen Übereinkünften anerkannt werden oder
 
@@ -374,17 +424,16 @@ Eingriffe von Menschenhand
 
 
 
-Als Grünland mit großer biologischer Vielfalt gelten insbesondere
-Gebiete, die die Kommission der Europäischen Gemeinschaften auf Grund
-des Artikels 17 Absatz 3 Unterabsatz 2 der Richtlinie 2009/28/EG oder
-aufgrund des Artikels 7b Absatz 3 Unterabsatz 2 der Richtlinie
-2009/30/EG als solche festgelegt hat. Die von der Kommission zur
-Bestimmung von natürlichem oder künstlich geschaffenem Grünland auf
-Grund
-des Artikels 17              Absatz 3 Unterabsatz 2 der Richtlinie
-2009/28/EG oder aufgrund des Artikels 7b Absatz 3 Unterabsatz 2 der
-Richtlinie 2009/30/EG festgelegten Kriterien sind bei der Auslegung
-des Satzes 1 zu berücksichtigen.
+Im Übrigen gilt die Verordnung (EU) Nr. 1307/2014 der Kommission vom
+8\. Dezember 2014 zur Festlegung der Kriterien und geografischen
+Verbreitungsgebiete zur Bestimmung von Grünland mit großer
+biologischer Vielfalt für die Zwecke des Artikels 7b Absatz 3
+Buchstabe c der Richtlinie 98/70/EG des Europäischen Parlaments und
+des Rates über die Qualität von Otto- und Dieselkraftstoffen und des
+Artikels 17 Absatz 3 Buchstabe c der Richtlinie 2009/28/EG des
+Europäischen Parlaments und des Rates zur Förderung der Nutzung von
+Energie aus erneuerbaren Quellen (ABl. L 351 vom 9.12.2014, S. 3) in
+der jeweils geltenden Fassung.
 
 
 ### § 5 Schutz von Flächen mit hohem Kohlenstoffbestand
@@ -425,9 +474,9 @@ Hektar mit über 5 Meter hohen Bäumen und
 2.  mit einem Überschirmungsgrad von 10 bis 30 Prozent oder mit Bäumen,
     die auf dem jeweiligen Standort diese Werte erreichen können, es sei
     denn, dass die Fläche vor und nach der Umwandlung einen solchen
-    Kohlenstoffbestand hat, dass der Biokraftstoff das Treibhausgas-
-    Minderungspotenzial nach § 8 Absatz 1 auch bei einer Berechnung nach §
-    8 Absatz 3 aufweist.
+    Kohlenstoffbestand hat, dass der Biokraftstoff die
+    Mindestanforderungen an die Treibhausgasminderung nach § 8 Absatz 1
+    auch bei einer Berechnung nach § 8 Absatz 3 erfüllt.
 
 
 
@@ -466,96 +515,72 @@ Europäischen Union
 erfolgen.
 
 
-### § 8 Treibhausgas-Minderungspotenzial
+### § 8 Treibhausgasminderung
 
-(1) Biokraftstoffe müssen ein Treibhausgas-Minderungspotenzial von
-mindestens 35 Prozent aufweisen. Dieser Wert erhöht sich
+(1) Die Minderung der Treibhausgasemissionen von Biokraftstoffen muss
+mindestens 35 Prozent betragen. Dieser Mindestwert erhöht sich für
+Biokraftstoffe, die ab dem 1. Januar 2018 in Verkehr gebracht werden,
+auf 50 Prozent, sofern die Schnittstelle nach § 2 Absatz 3 Nummer 2
+und 3, die den Biokraftstoff produziert hat, vor oder am 5. Oktober
+2015 in Betrieb genommen worden ist. Der Mindestwert erhöht sich für
+Biokraftstoffe, die ab dem 1. Januar 2017 in Verkehr gebracht werden,
+auf 60 Prozent, sofern die Schnittstelle nach § 2 Absatz 3 Nummer 2
+und 3, die den Biokraftstoff produziert hat, nach dem 5. Oktober 2015
+in Betrieb genommen worden ist. Der Zeitpunkt der Inbetriebnahme ist
+der Zeitpunkt der erstmaligen Produktion von Biokraftstoff.
 
-1.  am 1. Januar 2017 auf mindestens 50 Prozent und
+(2) Schnittstelle im Sinne des Absatzes 1 Satz 3 ist die
+Schnittstelle, der keine weitere Schnittstelle nachgelagert ist.
 
+(3) Die Berechnung der Treibhausgasemissionen erfolgt anhand
+tatsächlicher Werte nach der in Anlage 1 festgelegten Methodik. Die
+tatsächlichen Werte der Treibhausgasemissionen sind anhand genau zu
+messender Daten zu bestimmen. Messungen von Daten werden als genau
+anerkannt, wenn sie insbesondere nach folgender Maßgabe durchgeführt
+werden:
 
-2.  am 1. Januar 2018 auf mindestens 60 Prozent, sofern die Schnittstelle
-    nach § 2 Absatz 3 Nummer 2 und 3, die den Biokraftstoff produziert
-    hat, nach dem 31. Dezember 2016 in Betrieb genommen worden ist.
-
-
-
-
-(2) Absatz 1 Satz 1 ist erst ab dem 1. April 2013 einzuhalten, wenn
-die Schnittstelle, die den Biokraftstoff produziert hat, vor dem 23.
-Januar 2008 in Betrieb genommen worden ist. Schnittstelle im Sinne von
-Satz 1 und Absatz 1 Satz 2 Nummer 2 ist
-
-1.  im Fall von Pflanzenöl die Ölmühle,
-
-
-2.  im Fall von Biodiesel die Veresterungsanlage,
-
-
-3.  im Fall von hydrierten pflanzlichen oder tierischen Ölen die
-    Hydrieranlage beziehungsweise Co-Hydrieranlage,
+1.  nach Maßgabe eines nach dieser Verordnung anerkannten
+    Zertifizierungssystems oder
 
 
-4.  im Fall von Bioethanol die Bioethanol-Produktionsanlage,
+2.  nach Maßgabe eines Systems, das als Grundlage für die Messung genauer
+    Daten anerkannt ist von
+
+    a)  der Europäischen Kommission auf Grund des Artikels 18 Absatz 4
+        Unterabsatz 2 Satz 1 oder Unterabsatz 3 der Richtlinie 2009/28/EG oder
 
 
-5.  im Fall von Biogas die Biogasanlage sowie
-
-
-6.  in allen anderen Fällen die Schnittstelle nach § 2 Absatz 3 Nummer 3.
-
+    b)  der zuständigen Behörde.
 
 
 
-(3) Die Berechnung des Treibhausgas-Minderungspotenzials erfolgt
-anhand tatsächlicher Werte nach der in Anlage 1 festgelegten Methodik.
-Die tatsächlichen Werte der Treibhausgasemissionen sind anhand genau
-zu messender Daten zu bestimmen. Messungen von Daten werden als genau
-anerkannt, wenn sie insbesondere nach Maßgabe
-
-1.  eines nach dieser Verordnung anerkannten Zertifizierungssystems oder
-
-
-2.  einer Regelung, die
-
-    a)  die Kommission der Europäischen Gemeinschaften auf Grund des Artikels
-        18 Absatz 4 Unterabsatz 2 Satz 1 oder Unterabsatz 3 der Richtlinie
-        2009/28/EG oder
-
-
-    b)  die zuständige Behörde
 
 
 
-    als Grundlage für die Messung genauer Daten anerkannt hat,
+Die zuständige Behörde macht die Regelungen nach Satz 3 Nummer 2 durch
+gesondertes Schreiben im Bundesanzeiger bekannt.
 
-
-
-durchgeführt werden. Die zuständige Behörde macht die Regelungen nach
-Satz 3 Nummer 2 durch gesondertes Schreiben im Bundesanzeiger bekannt.
-
-(4) Bei der Berechnung des Treibhausgas-Minderungspotenzials nach
-Absatz 3 können die in Anlage 2 aufgeführten Standardwerte ganz oder
-teilweise für die Formel in Anlage 1 Nummer 1 herangezogen werden,
-wobei die Standardwerte gemäß Anlage 2 Nummer 1 Buchstabe e und Nummer
-2 Buchstabe e nur dann herangezogen werden können, sofern der gemäß
-Anlage 1 Nummer 7 berechnete e
+(4) Bei der Berechnung der Treibhausgasemissionen nach Absatz 3 können
+die in Anlage 2 aufgeführten Standardwerte für die Formel in Anlage 1
+Nummer 1 herangezogen werden. Standardwerte gemäß Anlage 2 Nummer 1
+Buchstabe e und Nummer 2 Buchstabe e können nur dann herangezogen
+werden, falls der gemäß Anlage 1 Nummer 7 berechnete e
 l             -Wert kleiner oder gleich Null ist. Satz 1 gilt für die
 Teilstandardwerte in Anlage 2 Nummer 1 Buchstabe a sowie Nummer 1
 Buchstabe e nur, wenn
 
 1.  die Biomasse
 
-    a)  außerhalb der Mitgliedstaaten der Europäischen Union oder
+    a)  außerhalb der Mitgliedstaaten der Europäischen Union angebaut worden
+        ist oder
 
 
     b)  in den Mitgliedstaaten der Europäischen Union in Gebieten, die in
         einer Liste nach Artikel 19 Absatz 2 der Richtlinie 2009/28/EG
-        aufgeführt sind,
+        aufgeführt sind, angebaut worden ist, oder
 
 
 
-    angebaut worden ist, oder
 
 
 2.  die Biokraftstoffe aus Abfall oder aus Reststoffen hergestellt worden
@@ -564,14 +589,6 @@ Buchstabe e nur, wenn
 
 
 
-
-(5) Sofern die Kommission der Europäischen Gemeinschaften den Anhang V
-Teil C oder D der Richtlinie 2009/28/EG auf Grund des Artikels 19
-Absatz 7 dieser Richtlinie oder den Anhang IV Teil C oder D der
-Richtlinie 2009/30/EG auf Grund des Artikels 7d Absatz 7 dieser
-Richtlinie an den technischen und wissenschaftlichen Fortschritt
-anpasst, sind die Änderungen auch bei der Berechnung des Treibhausgas-
-Minderungspotenzials nach den Absätzen 3 und 4 anzuwenden.
 
 
 ### § 9
@@ -592,33 +609,26 @@ Minderungspotenzials nach den Absätzen 3 und 4 anzuwenden.
 
 #### § 11 Nachweis über die Erfüllung der Anforderungen
 
-Nachweispflichtige müssen zur Erfüllung der gesetzlichen Verpflichtung
-nach dem Bundes-Immissionsschutzgesetz, im Lauf des Kalenderjahres
-einen bestimmten Mindestanteil an Biokraftstoffen in den Verkehr zu
-bringen, gegenüber der Biokraftstoffquotenstelle nachweisen, dass die
-Anforderungen nach § 3 Absatz 1 erfüllt sind. Die Nachweisführung
-erfolgt durch die Vorlage eines Nachweises nach § 14. Satz 1 gilt für
-die Inanspruchnahme der Steuerentlastung für Biokraftstoffe nach dem
-Energiesteuergesetz entsprechend.
+Der Nachweis, dass die Anforderungen nach § 3 Absatz 1 erfüllt sind,
+erfolgt durch die Vorlage der in § 14 aufgeführten Dokumente. Die
+Dokumente sind vom Nachweispflichtigen vorzulegen
+
+1.  im Fall von § 2 Absatz 9 Nummer 1 und 2 der Biokraftstoffquotenstelle
+    und
 
 
-#### § 12 Weitere Nachweise
-
-Weitere Nachweise darüber, dass die Anforderungen nach § 3 Absatz 1
-erfüllt sind, können für die Erfüllung der Verpflichtung nach dem
-Bundes-Immissionsschutzgesetz, einen bestimmten Mindestanteil an
-Biokraftstoffen im Lauf eines Kalenderjahres in den Verkehr zu
-bringen, nicht verlangt werden. Satz 1 gilt für die Gewährung der
-Steuerentlastung für Biokraftstoffe nach dem Energiesteuergesetz
-entsprechend.
+2.  im Fall von § 2 Absatz 9 Nummer 3 dem Hauptzollamt.
 
 
-#### § 13 Übermittlung der Nachweise an die zuständige Behörde
 
-Nachweispflichtige müssen Kopien der Nachweise nach § 11, die sie der
-Biokraftstoffquotenstelle oder dem Hauptzollamt für die
-Nachweisführung vorlegen, unverzüglich auch an die zuständige Behörde
-in schriftlicher Form übermitteln.
+
+
+#### § 12 (weggefallen)
+
+
+
+#### § 13 (weggefallen)
+
 
 
 ### Abschnitt 2 - Nachhaltigkeitsnachweise
@@ -633,17 +643,15 @@ Anerkannte Nachweise über die Einhaltung der Anforderungen nach den §§
     ausgestellt worden sind,
 
 
-2.  Nachhaltigkeitsnachweise nach § 22,
+2.  Nachhaltigkeitsnachweise nach § 22 und
 
 
-3.  Nachhaltigkeitsnachweise nach § 23 und
-
-
-4.  Bescheinigungen von Umweltgutachterinnen und Umweltgutachtern nach §
-    58 Absatz 1.
+3.  Nachhaltigkeitsnachweise nach § 23.
 
 
 
+Die Ausstellung der Nachhaltigkeitsnachweise erfolgt in der Datenbank
+der zuständigen Behörde.
 
 
 #### § 15 Ausstellung von Nachhaltigkeitsnachweisen
@@ -669,14 +677,14 @@ haben, einen Nachhaltigkeitsnachweis ausstellen, wenn
 
 
     c)  jeweils in Gramm Kohlendioxid-Äquivalent je Megajoule Biomasse oder
-        Biokraftstoffs (g CO
-        2eq                         /MJ) die Treibhausgasemissionen angeben,
-        die durch sie und alle von ihnen mit der Herstellung oder Lieferung
-        der Biomasse unmittelbar oder mittelbar befassten Betriebe, die nicht
-        selbst eine Schnittstelle sind, bei der Herstellung und Lieferung der
-        Biomasse verursacht worden sind, soweit sie für die Berechnung des
-        Treibhausgas-Minderungspotenzials nach § 8 berücksichtigt werden
-        müssen,
+        Biokraftstoff (g CO
+        2eq                         /MJ) oder in Gramm Kohlendioxid-Äquivalent
+        je Kilogramm Biomasse (g CO
+        2eq                         /kg) die Treibhausgasemissionen angeben,
+        die durch sie und durch alle Betriebe verursacht worden sind, die von
+        ihnen mit der Herstellung oder Lieferung der Biomasse unmittelbar oder
+        mittelbar befasst worden sind und die nicht selbst eine Schnittstelle
+        sind,
 
 
 
@@ -687,16 +695,13 @@ haben, einen Nachhaltigkeitsnachweis ausstellen, wenn
     Anforderungen nach § 16 erfüllt, und
 
 
-4.  der Biokraftstoff das Treibhausgas-Minderungspotenzial nach § 8
-    aufweist.
+4.  der Biokraftstoff die Mindestanforderungen an die
+    Treibhausgasminderung nach § 8 Absatz 1 erfüllt.
 
 
 
 
-(2) Die Ausstellung muss in einem Zertifizierungssystem erfolgen, das
-nach dieser Verordnung anerkannt ist.
-
-(3) Zur Ausstellung von Nachhaltigkeitsnachweisen sind nur
+(2) Zur Ausstellung von Nachhaltigkeitsnachweisen sind nur
 Schnittstellen berechtigt, denen keine weitere Schnittstelle
 nachgelagert ist.
 
@@ -727,11 +732,11 @@ mindestens die Anforderungen nach Absatz 2 erfüllen.
 2.  im Fall einer Vermischung verschiedener Mengen von
 
     a)  Biokraftstoffen, die von einer oder mehreren Schnittstellen nach § 15
-        Absatz 3 hergestellt worden sind und unterschiedliche Treibhausgas-
-        Minderungspotenziale aufweisen, diese Treibhausgas-
-        Minderungspotenziale nur saldiert werden, wenn alle Mengen, die dem
-        Gemisch beigefügt werden, vor der Vermischung das Treibhausgas-
-        Minderungspotenzial nach § 8 aufgewiesen haben, oder
+        Absatz 2 hergestellt worden sind und die unterschiedliche
+        Treibhausgasemissionen aufweisen, diese Treibhausgasemissionen nur
+        saldiert werden, wenn alle Mengen, die dem Gemisch beigefügt werden,
+        vor der Vermischung die Mindestanforderungen an die
+        Treibhausgasminderung nach § 8 Absatz 1 erfüllt haben, oder
 
 
     b)  Biomasse, die zur Herstellung von Biokraftstoffen nach dieser
@@ -743,10 +748,10 @@ mindestens die Anforderungen nach Absatz 2 erfüllen.
         haben, der für diesen Arbeitsschritt der Herstellung festgelegt worden
         ist
 
-        aa) von der Kommission der Europäischen Gemeinschaften oder
+        aa) von der Europäischen Kommission oder
 
 
-        bb) von dem Bundesministerium für Umwelt, Naturschutz und
+        bb) von dem Bundesministerium für Umwelt, Naturschutz, Bau und
             Reaktorsicherheit.
 
 
@@ -761,9 +766,9 @@ mindestens die Anforderungen nach Absatz 2 erfüllen.
 (3) Die Werte nach Absatz 2 Nummer 2 Buchstabe b Doppelbuchstabe bb
 sind aus den Standardwerten nach Anlage 2 abzuleiten und durch
 gesondertes Schreiben im Bundesanzeiger bekannt zu machen. Sie gelten
-nur, sofern nicht die Kommission der Europäischen Gemeinschaften Werte
-für den jeweiligen Arbeitsschritt der Herstellung im Amtsblatt der
-Europäischen Union veröffentlicht hat.
+nur, sofern nicht die Europäische Kommission Werte für den jeweiligen
+Arbeitsschritt der Herstellung im Amtsblatt der Europäischen Union
+veröffentlicht hat.
 
 (4) Weiter gehende Anforderungen in Zertifizierungssystemen, die die
 Vermischung der Biokraftstoffe mit anderer Biomasse ganz oder
@@ -792,57 +797,61 @@ Nachhaltigkeitsnachweis ausgestellt hat, nachzuweisen, müssen
 1.  sich alle Lieferanten verpflichtet haben, die Anforderungen eines nach
     dieser Verordnung anerkannten Zertifizierungssystems zu erfüllen,
     sofern dieses auch Anforderungen an die Lieferung von Biokraftstoffen
-    enthält, oder
+    enthält, und
 
 
-2.  alle Lieferanten den Erhalt und die Weitergabe der Biokraftstoffe
-    einschließlich der Angaben des Nachhaltigkeitsnachweises sowie des
-    Orts und des Datums, an dem sie diese Biokraftstoffe erhalten oder
-    weitergegeben haben, in einer der folgenden elektronischen Datenbanken
-    dokumentiert haben:
+2.  alle Lieferanten in der elektronischen Datenbank der zuständigen
+    Behörde, die als Nachweis der Erfüllung der Anforderungen nach Absatz
+    1 dient, Folgendes dokumentieren:
 
-    a)  der Datenbank eines Zertifizierungssystems, sofern sich die
-        Anerkennung des Zertifizierungssystems nach § 33 Absatz 2 auch auf den
-        Betrieb oder die Nutzung dieser Datenbank bezieht, oder
+    a)  den Erhalt und die Weitergabe der Biokraftstoffe einschließlich der
+        Angaben des Nachhaltigkeitsnachweises sowie
 
 
-    b)  der Datenbank einer Zertifizierungsstelle oder einer anderen
-        juristischen oder einer natürlichen Person, sofern sie von der
-        zuständigen Behörde im Bundesanzeiger als anerkannter Nachweis der
-        Erfüllung der Anforderungen nach Absatz 1 bekannt gemacht worden ist;
-
-
-
-    bei öffentlichem Interesse kann eine Datenbank auch von der
-    zuständigen Behörde betrieben werden; die berechtigten Interessen der
-    Wirtschaftsteilnehmer, insbesondere ihre Geschäfts- und
-    Betriebsgeheimnisse, sind zu wahren.
+    b)  den Ort und das Datum, an dem sie diese Biokraftstoffe erhalten oder
+        weitergegeben haben.
 
 
 
 
-(3) Die Anforderungen nach Absatz 1 gelten ebenfalls als erfüllt, wenn
-
-1.  alle Lieferanten den Erhalt und die Weitergabe der Biokraftstoffe
-    einschließlich der Angaben des Nachhaltigkeitsnachweises sowie des
-    Orts und des Datums, an dem sie diese Biokraftstoffe erhalten oder
-    weitergegeben haben, in einer elektronischen Datenbank dokumentieren
-    und
 
 
-2.  das Massenbilanzsystem aller Lieferanten regelmäßigen Prüfungen durch
-    die Hauptzollämter aus Gründen der steuerlichen Überwachung nach dem
-    Energiesteuergesetz oder der Überwachung der Verpflichtung nach dem
-    Bundes-Immissionsschutzgesetzes, im Lauf des Kalenderjahres einen
-    bestimmten Mindestanteil an Biokraftstoffen in den Verkehr zu bringen,
-    unterliegt.
+Bei der Dokumentationspflicht nach Satz 1 Nummer 2 sind die
+berechtigten Interessen der Wirtschaftsteilnehmer, insbesondere ihre
+Geschäfts- und Betriebsgeheimnisse, zu wahren.
+
+(3) Die Anforderungen nach Absatz 1 gelten ebenfalls für solche
+Lieferanten als erfüllt,
+
+1.  die in der elektronischen Datenbank der zuständigen Behörde Folgendes
+    dokumentieren:
+
+    a)  den Erhalt und die Weitergabe der Biokraftstoffe einschließlich der
+        Angaben des Nachhaltigkeitsnachweises sowie
+
+
+    b)  den Ort und das Datum, an dem sie diese Biokraftstoffe erhalten oder
+        weitergegeben haben, und
 
 
 
 
-(4) Die Hauptzollämter unterrichten die zuständige Behörde
-unverzüglich über das Ergebnis ihrer Prüfungen gemäß Absatz 3 Nummer
-2\.
+
+2.  die ihre Lieferungen in einem Massenbilanzsystem erfassen, das
+    regelmäßigen Prüfungen durch die Hauptzollämter aus Gründen der
+    steuerlichen Überwachung nach dem Energiesteuergesetz oder aus Gründen
+    der Überwachung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in
+    Verbindung mit § 37a Absatz 3 und 4 des Bundes-
+    Immissionsschutzgesetzes unterliegt.
+
+
+
+
+(4) Die Hauptzollämter unterrichten die zuständige Behörde über im
+Rahmen ihrer Prüfungen gemäß Absatz 3 Nummer 2 festgestellte
+Unregelmäßigkeiten bezüglich der Überwachung der Verpflichtung nach §
+37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 des
+Bundes-Immissionsschutzgesetzes.
 
 (5) Die Erfüllung der Anforderungen nach Absatz 1 ist von dem
 Lieferanten, der den Biokraftstoff an den Nachweispflichtigen liefert,
@@ -873,50 +882,49 @@ enthalten:
     Nachhaltigkeitsnachweis bezieht,
 
 
-5.  die Bestätigung, dass die Biokraftstoffe, auf die sich der
+5.  die Art der Biomasse, die zur Herstellung des Biokraftstoffs
+    eingesetzt wurde, im Fall von § 9 Absatz 4 der Verordnung zur
+    Durchführung der Regelungen der Biokraftstoffquote einschließlich der
+    Bestätigung der Einhaltung der dort genannten Voraussetzungen,
+
+
+6.  das Land, in dem die Biomasse, aus der der Biokraftstoff hergestellt
+    wurde, angebaut oder angefallen ist,
+
+
+7.  die Bestätigung, dass die Biokraftstoffe, auf die sich der
     Nachhaltigkeitsnachweis bezieht, die Anforderungen nach den §§ 4 bis 8
-    erfüllen, einschließlich
+    erfüllen, einschließlich der folgenden Angaben:
 
-    a)  im Fall des § 8 Absatz 2 der Angabe, dass die Schnittstelle nach § 2
-        Absatz 3 Nummer 2 oder 3 vor dem 23. Januar 2008 in Betrieb genommen
-        worden ist, oder
+    a)  der Energiegehalt der Biokraftstoffe in Megajoule,
 
 
-    b)  der folgenden Angaben:
-
-        aa) der Energiegehalt der Biokraftstoffe in Megajoule,
-
-
-        bb) die Treibhausgasemissionen der Herstellung und Lieferung der
-            Biokraftstoffe in Gramm CO
-            2                               -Äquivalent pro Megajoule
-            Biokraftstoff (g CO
-            2eq                               /MJ),
+    b)  die Treibhausgasemissionen der Herstellung und Lieferung der
+        Biokraftstoffe in Gramm CO
+        2                         -Äquivalent pro Megajoule Biokraftstoff (g
+        CO
+        2eq                         /MJ),
 
 
-        cc) der Vergleichswert für fossile Kraftstoffe, der für die Berechnung des
-            Treibhausgas-Minderungspotenzials nach Anlage 1 verwendet worden ist,
-            und
+    c)  der Vergleichswert für fossile Kraftstoffe, der für die Berechnung der
+        Treibhausgasminderung nach Anlage 1 verwendet worden ist, und
 
 
-        dd) die Länder oder Staaten, in denen die Biokraftstoffe eingesetzt werden
-            können; diese Angabe kann das gesamte Gebiet umfassen, in das die
-            Biokraftstoffe geliefert und in dem sie eingesetzt werden können, ohne
-            dass die Treibhausgasemissionen der Herstellung und Lieferung das
-            Treibhausgas-Minderungspotenzial nach § 8 unterschreiten würden,
+    d)  die Länder oder Regionen, in denen die Biokraftstoffe eingesetzt
+        werden können; diese Angabe kann das gesamte Gebiet umfassen, in das
+        die Biokraftstoffe geliefert und in dem sie eingesetzt werden können,
+        ohne dass die Treibhausgasemissionen der Biokraftstoffe nach Buchstabe
+        b überschritten würden,
 
 
 
 
 
-
-
-
-6.  den Namen und die Anschrift des Lieferanten, an den die Biokraftstoffe
+8.  den Namen und die Anschrift des Lieferanten, an den die Biokraftstoffe
     weitergegeben werden, und
 
 
-7.  die Bestätigung des letzten Lieferanten nach § 17 Absatz 5.
+9.  die Bestätigung des letzten Lieferanten nach § 17 Absatz 5.
 
 
 
@@ -948,8 +956,7 @@ Nachhaltigkeitsnachweis enthalten sind, können nur nachgetragen werden
 
 (1) Nachhaltigkeitsnachweise sind unwirksam, wenn
 
-1.  sie eine oder mehrere Angaben nach § 18 Absatz 1 mit Ausnahme von
-    Nummer 5 Buchstabe b Doppelbuchstabe dd nicht enthalten,
+1.  sie eine oder mehrere Angaben nach § 18 Absatz 1 nicht enthalten,
 
 
 2.  sie gefälscht sind oder eine unrichtige Angabe enthalten,
@@ -992,31 +999,29 @@ anzuerkennen, wenn
 
 #### § 21 Weitere Folgen fehlender oder nicht ausreichender Angaben
 
-(1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zum
-Treibhausgas-Minderungspotenzial nicht den Vergleichswert für die
-Verwendung, zu dessen Zweck die Biokraftstoffe eingesetzt werden, muss
-die oder der Nachweispflichtige zur Erfüllung der gesetzlichen
-Verpflichtung nach dem Bundes-Immissionsschutzgesetz, einen
-Mindestanteil an Biokraftstoffen im Lauf eines Kalenderjahres in den
-Verkehr zu bringen, gegenüber der Biokraftstoffquotenstelle
-nachweisen, dass die Biokraftstoffe das Treibhausgas-
-Minderungspotenzial auch bei dieser Verwendung aufweisen. Die
-zuständige Behörde kann eine Methode zur Umrechnung des Treibhausgas-
-Minderungspotenzials für unterschiedliche Verwendungen im
+(1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zur
+Treibhausgasminderung nicht den Vergleichswert für die Verwendung, zu
+deren Zweck die Biokraftstoffe eingesetzt werden, so muss die oder der
+Nachweispflichtige zur Erfüllung der Verpflichtungen nach § 37a Absatz
+1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 des Bundes-
+Immissionsschutzgesetzes gegenüber der Biokraftstoffquotenstelle
+nachweisen, dass die Biokraftstoffe die Mindestanforderungen an die
+Treibhausgasminderung nach § 8 Absatz 1 auch bei dieser Verwendung
+erfüllen. Die zuständige Behörde kann eine Methode zur Umrechnung der
+Treibhausgasminderung für unterschiedliche Verwendungen im
 Bundesanzeiger bekannt machen. Die Sätze 1 und 2 gelten entsprechend,
 wenn der oder die Nachweispflichtige beim Hauptzollamt eine
 Steuerentlastung für Biokraftstoffe nach dem Energiesteuergesetz
 beantragt.
 
-(2) Enthält ein Nachhaltigkeitsnachweis keine Angabe nach § 18 Absatz
-1 Nummer 5 Buchstabe b Doppelbuchstabe dd oder wird der Biokraftstoff
-nicht in dem Land oder der Region nach § 18 Absatz 1 Nummer 5
-Buchstabe b Doppelbuchstabe dd in Verkehr gebracht, muss die oder der
-Nachweispflichtige gegenüber der Biokraftstoffquotenstelle nachweisen,
-dass der Biokraftstoff das Treibhausgas-Minderungspotenzial auch bei
-einem Betrieb in diesem Land oder diesem Staat aufweist. Satz 1 gilt
-für die Inanspruchnahme der Steuerentlastung für Biokraftstoffe nach
-dem Energiesteuergesetz entsprechend.
+(2) Wird der Biokraftstoff nicht in dem Land oder in der Region, das
+oder die auf dem Nachhaltigkeitsnachweis angegeben wurde, in Verkehr
+gebracht, so muss die oder der Nachweispflichtige gegenüber der
+Biokraftstoffquotenstelle nachweisen, dass der Biokraftstoff die
+Mindestanforderungen an die Treibhausgasminderung nach § 8 Absatz 1
+auch in diesem Land oder in dieser Region erfüllt. Satz 1 gilt für die
+Inanspruchnahme der Steuerentlastung für Biokraftstoffe nach dem
+Energiesteuergesetz entsprechend.
 
 
 #### § 22 Anerkannte Nachhaltigkeitsnachweise auf Grund der Biomassestrom-Nachhaltigkeitsverordnung
@@ -1065,13 +1070,12 @@ ausgestellt worden sind
 
 
 
-(2) Soweit die Kommission der Europäischen Gemeinschaften auf Grund
-des Artikels 18 Absatz 4 Unterabsatz 1 Satz 2 der Richtlinie
-2009/28/EG oder auf Grund des Artikels 7c Absatz 4 Unterabsatz 1 Satz
-2 der Richtlinie 2009/30/EG beschließt, dass die
-Nachhaltigkeitsanforderungen an die Herstellung von Biomasse in einem
-bilateralen oder multilateralen Vertrag, den die Europäische
-Gemeinschaft mit einem Drittstaat geschlossen hat, den
+(2) Soweit die Europäische Kommission auf Grund des Artikels 18 Absatz
+4 Unterabsatz 1 Satz 2 der Richtlinie 2009/28/EG oder auf Grund des
+Artikels 7c Absatz 4 Unterabsatz 1 Satz 2 der Richtlinie 2009/30/EG
+beschließt, dass die Nachhaltigkeitsanforderungen an die Herstellung
+von Biomasse in einem bilateralen oder multilateralen Vertrag, den die
+Europäische Gemeinschaft mit einem Drittstaat geschlossen hat, den
 Nachhaltigkeitsanforderungen nach Artikel 17 Absatz 2 bis 5 der
 Richtlinie 2009/28/EG oder nach Artikel 7b Absatz 2 bis 5 der
 Richtlinie 2009/30/EG entsprechen, kann die Erfüllung der
@@ -1111,7 +1115,7 @@ elektronisch ausgestellt. § 18 Absatz 1 ist entsprechend anzuwenden.
 Nachhaltigkeits-Teilnachweis ausgestellt worden ist, entsprechend
 anzuwenden.
 
-(3) Werden Treibhausgas-Minderungspotenziale oder Werte für
+(3) Werden Treibhausgasminderungen oder Werte für
 Treibhausgasemissionen verschiedener Mengen von Biokraftstoffen, für
 die Nachhaltigkeitsnachweise oder Nachhaltigkeits-Teilnachweise
 ausgestellt worden sind, nach Maßgabe des § 16 Absatz 2 Nummer 2
@@ -1121,30 +1125,10 @@ Nachhaltigkeits-Teilnachweise einen Nachhaltigkeits-Teilnachweis aus,
 der die Werte enthält, die sich aus der Saldierung ergeben. Absatz 1
 Satz 2 bis 4 ist entsprechend anzuwenden.
 
-(4) Im Fall eines Nachhaltigkeitsnachweises nach § 15 oder § 22 muss
-die zuständige Behörde eine Kopie des Nachhaltigkeits-Teilnachweises
-unverzüglich und elektronisch nach der Ausstellung an die
-Zertifizierungsstelle übermitteln, die der Schnittstelle, die den
-Nachhaltigkeitsnachweis ausgestellt hat, das Zertifikat ausgestellt
-hat. Im Fall eines Nachhaltigkeitsnachweises nach § 23 kann sie eine
-Kopie des Nachhaltigkeits-Teilnachweises an die Behörde oder Stelle
-übermitteln, die den Nachhaltigkeitsnachweis ausgestellt hat.
-
-(5) Nachhaltigkeits-Teilnachweise nach den Absätzen 1 bis 3 können bei
-Biokraftstoffen, die durch Lieferanten geliefert werden, die den
-Erhalt und die Weitergabe der Biokraftstoffe in einer elektronischen
-Datenbank nach § 17 Absatz 2 Nummer 2 dokumentieren, auch durch den
-Betreiber der elektronischen Datenbank ausgestellt werden. Im Fall des
-Satzes 1 hat der Betreiber der Datenbank der zuständigen Behörde eine
-Kopie des Nachhaltigkeits-Teilnachweises unverzüglich und elektronisch
-zu übermitteln; Absatz 4 ist nicht anzuwenden. Weiter gehende
-Anforderungen in der Anerkennung der elektronischen Datenbank oder in
-Zertifizierungssystemen bleiben unberührt.
-
-(6) Für die nach den Absätzen 1 bis 3 und 5 ausgestellten
-Nachhaltigkeits-Teilnachweise sind die Bestimmungen dieses Abschnitts
-entsprechend anzuwenden, soweit sich aus den Absätzen 1 bis 3 oder 5
-nichts anderes ergibt.
+(4) Für die nach den Absätzen 1 bis 3 ausgestellten Nachhaltigkeits-
+Teilnachweise sind die Bestimmungen dieses Abschnitts entsprechend
+anzuwenden, soweit sich aus den Absätzen 1 bis 3 nichts anderes
+ergibt.
 
 
 ### Abschnitt 3 - Zertifikate für Schnittstellen
@@ -1223,15 +1207,14 @@ wenn
         einer Genauigkeit von 20 Metern für jeden Einzelpunkt, und
 
 
-    d)  jeweils in Gramm Kohlendioxid-Äquivalent je Megajoule Biomasse (g CO
-        2eq                         /MJ) die Treibhausgasemissionen, die durch
-        die Schnittstellen und alle von ihnen mit der Herstellung oder
-        Lieferung der Biomasse oder des Biokraftstoffs unmittelbar oder
-        mittelbar befassten Betriebe, die nicht selbst eine Schnittstelle
-        sind, bei der Herstellung und Lieferung der Biomasse oder des
-        Biokraftstoffs verursacht worden sind, soweit sie für die Berechnung
-        des Treibhausgas-Minderungspotenzials nach § 8 berücksichtigt werden
-        müssen,
+    d)  jeweils in Gramm Kohlendioxid-Äquivalent je Megajoule Biomasse oder
+        Biokraftstoff (g CO
+        2eq                         /MJ) oder in Gramm Kohlendioxid-Äquivalent
+        je Kilogramm Biomasse (g CO
+        2eq                         /kg) die Treibhausgasemissionen, die durch
+        sie und durch alle Betriebe verursacht worden sind, die von ihnen mit
+        der Herstellung oder Lieferung der Biomasse unmittelbar oder mittelbar
+        befasst worden sind und die nicht selbst eine Schnittstelle sind, und
 
 
 
@@ -1607,14 +1590,14 @@ sind.
 Zertifizierungssysteme gelten auch als anerkannt, solange und soweit
 sie
 
-1.  von der Kommission der Europäischen Gemeinschaften auf Grund des
-    Artikels 18 Absatz 4 Unterabsatz 2 Satz 1 der Richtlinie 2009/28/EG
-    oder auf Grund des Artikels 7c Absatz 4 Unterabsatz 2 Satz 1 der
-    Richtlinie 2009/30/EG oder
+1.  von der Europäischen Kommission auf Grund des Artikels 18 Absatz 4
+    Unterabsatz 2 Satz 1 der Richtlinie 2009/28/EG oder auf Grund des
+    Artikels 7c Absatz 4 Unterabsatz 2 Satz 1 der Richtlinie 2009/30/EG
+    oder
 
 
 2.  in einem bilateralen oder multilateralen Vertrag, den die Europäische
-    Gemeinschaft mit einem Drittstaat abgeschlossen hat,
+    Union mit einem Drittstaat abgeschlossen hat,
 
 
 
@@ -1680,12 +1663,10 @@ Anerkannte Zertifizierungsstellen im Sinne dieser Verordnung sind:
 
 
 
-3.[^F772617_02_BJNR318200009BJNE004501360]
-  die Anforderungen der DIN EN 45011, Ausgabe März 1998, erfüllen, ihre
-    Konformitätsbewertungen nach den Standards der ISO/IEC Guide 60,
-    Ausgabe September 2004, durchführen und ihre Kontrollen den
-    Anforderungen der DIN EN ISO 19011, Ausgabe Dezember 2002, genügen
-    ,
+3.[^F793520_02_BJNR318200009BJNE004502118]
+  die Anforderungen der DIN EN/IEC 17065, Ausgabe Januar 2013, erfüllen
+    und ihre Kontrollen den Anforderungen der DIN EN ISO 19011, Ausgabe
+    Dezember 2011, genügen,
 
 
 4.  sich entsprechend der Anlage 3 Nummer 1 Buchstabe e schriftlich
@@ -1735,7 +1716,7 @@ jeweils geltenden Fassung kombiniert werden.
     Verordnung verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin, zu
     beziehen und beim Deutschen Patent- und Markenamt in München
     archivmäßig gesichert niedergelegt.
-[^F772617_02_BJNR318200009BJNE004501360]: 
+[^F793520_02_BJNR318200009BJNE004502118]: 
 
 ##### § 44 Verfahren zur Anerkennung
 
@@ -1951,10 +1932,7 @@ Zertifizierungsstelle wegen fehlender Unabhängigkeit, Fachkunde oder
 Zuverlässigkeit nicht mehr kontrollieren darf, ob die Anforderungen
 nach dieser Verordnung erfüllt werden.
 
-(3) Sofern Umweltgutachterinnen oder Umweltgutachter als
-Zertifizierungsstellen nach dieser Verordnung anerkannt sind, bleiben
-Befugnisse der Zulassungsstelle nach § 28 des Umweltauditgesetzes von
-den Absätzen 1 und 2 unberührt.
+(3) (weggefallen)
 
 
 #### Unterabschnitt 4 - Weitere anerkannte Zertifizierungsstellen
@@ -1978,14 +1956,14 @@ nichts anderes ergibt.
 (1) Zertifizierungsstellen gelten auch als anerkannt, solange und
 soweit sie
 
-1.  von der Kommission der Europäischen Gemeinschaften,
+1.  von der Europäischen Kommission,
 
 
 2.  von einem anderen Mitgliedstaat der Europäischen Union oder
 
 
 3.  in einem bilateralen oder multilateralen Vertrag, den die Europäische
-    Gemeinschaft mit einem Drittstaat abgeschlossen hat,
+    Union mit einem Drittstaat abgeschlossen hat,
 
 
 
@@ -1998,79 +1976,18 @@ anerkannt ist.
 
 (2) Die Unterabschnitte 2 und 3 dieses Abschnitts sind nur
 entsprechend anzuwenden, soweit dies mit den Bestimmungen der
-Kommission der Europäischen Gemeinschaften oder des jeweiligen
-bilateralen oder multilateralen Vertrages vereinbar ist.
+Europäischen Kommission oder des jeweiligen bilateralen oder
+multilateralen Vertrages vereinbar ist.
 
 
-#### Abschnitt 6 - Besondere und Übergangsbestimmungen zum Nachweis
+### Abschnitt 6 - Vorläufige Anerkennungen
 
 
-##### § 58 Nachweis durch Umweltgutachterinnen und Umweltgutachter
-
-(1) Die Erfüllung der Anforderungen nach dieser Verordnung kann bei
-Biokraftstoffen, die bis zum 31. Dezember 2011 zur Erfüllung der
-gesetzlichen Verpflichtung nach dem Bundes-Immissionsschutzgesetz in
-der jeweils geltenden Fassung, einen Mindestanteil an Biokraftstoffen
-im Lauf eines Kalenderjahres in den Verkehr zu bringen, verwendet
-werden, gegenüber der Biokraftstoffquotenstelle auch durch eine
-Bescheinigung einer Umweltgutachterin oder eines Umweltgutachters
-nachgewiesen werden. Satz 1 gilt entsprechend, wenn der oder die
-Nachweispflichtige beim Hauptzollamt eine Steuerentlastung für
-Biokraftstoffe nach dem Energiesteuergesetz beantragt.
-
-(2) Die Bescheinigung nach Absatz 1 muss die folgenden Angaben
-enthalten:
-
-1.  eine Bestätigung, dass die Anforderungen nach den §§ 4 bis 8 erfüllt
-    werden,
-
-
-2.  eine lückenlose Dokumentation der Herstellung und Lieferung und die
-    Bestätigung, dass die Herkunft der Biokraftstoffe nach Maßgabe des §
-    16 nachgewiesen worden ist,
-
-
-3.  den Energiegehalt der Biokraftstoffmenge in Megajoule,
-
-
-4.  das Treibhausgas-Minderungspotenzial des Biokraftstoffs in Gramm
-    Kohlendioxid-Äquivalent je Megajoule Biokraftstoffs (g CO
-    2eq                   /MJ) und
-
-
-5.  im Fall einer Berechnung des Treibhausgas-Minderungspotenzials nach §
-    8 Absatz 3 die tatsächlichen Werte, getrennt nach den einzelnen
-    Arbeitsschritten der Herstellung und Lieferung in Gramm Kohlendioxid-
-    Äquivalent je Megajoule Biokraftstoffs (g CO
-    2eq                   /MJ).
+#### § 58 (weggefallen)
 
 
 
-
-(3) Sofern die zuständige Behörde Zertifizierungssysteme nach dieser
-Verordnung anerkannt hat, sollen die Umweltgutachterinnen und
-Umweltgutachter bei der Ausstellung von Bescheinigungen nach Absatz 1
-und 2 die Standards eines Zertifizierungssystems verwenden.
-
-(4) Das erstmalige Ausstellen einer Bescheinigung nach Absatz 1 muss
-die Umweltgutachterin oder der Umweltgutachter der zuständigen Behörde
-anzeigen. Vor dem erstmaligen Ausstellen einer Bescheinigung für
-Biokraftstoffe aus Biomasse, die außerhalb der Mitgliedstaaten der
-Europäischen Union und der anderen Vertragsstaaten des Abkommens über
-den Europäischen Wirtschaftsraum angebaut wird, muss die
-Umweltgutachterin oder der Umweltgutachter zusätzlich gegenüber der
-zuständigen Behörde schriftlich das Einverständnis erklären, eine
-Beaufsichtigung bei der Durchführung von Kontrollen auch außerhalb der
-Mitgliedstaaten der Europäischen Union nach Maßgabe des
-Umweltauditgesetzes zu dulden. § 33 Absatz 3 Satz 3 ist entsprechend
-anzuwenden.
-
-(5) Umweltgutachterinnen und Umweltgutachter müssen der zuständigen
-Behörde unverzüglich und elektronisch Kopien der nach Absatz 1
-ausgestellten Bescheinigungen übermitteln.
-
-
-##### § 59 Nachweis durch vorläufige Anerkennungen
+#### § 59 Nachweis durch vorläufige Anerkennungen
 
 (1) Die zuständige Behörde kann Zertifizierungssysteme und
 Zertifizierungsstellen vorläufig anerkennen, wenn eine abschließende
@@ -2102,13 +2019,12 @@ Nachweise, Bescheinigungen und Berichte im Zusammenhang mit der
 Nachweisführung nach dieser Verordnung (Informationsregister).
 
 (2) Die zuständige Behörde hat der Biokraftstoffquotenstelle die
-erforderlichen Auskünfte zur Überwachung der gesetzlichen
-Verpflichtung der Nachweispflichtigen nach dem Bundes-
-Immissionsschutzgesetz, im Lauf des Kalenderjahres einen bestimmten
-Mindestanteil an Biokraftstoffen in den Verkehr zu bringen, auf
-Verlangen zu erteilen. Die Verpflichtung nach Satz 1 gilt entsprechend
-gegenüber den Hauptzollämtern für die Gewährung der Steuerentlastung
-für Biokraftstoffe nach dem Energiesteuergesetz.
+erforderlichen Auskünfte zur Überwachung der Verpflichtungen der
+Nachweispflichtigen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit
+§ 37a Absatz 3 und 4 des Bundes-Immissionsschutzgesetzes auf Verlangen
+zu erteilen. Die Verpflichtung nach Satz 1 gilt entsprechend gegenüber
+den Hauptzollämtern für die Gewährung der Steuerentlastung für
+Biokraftstoffe nach dem Energiesteuergesetz.
 
 
 ### § 61 Datenabgleich
@@ -2128,10 +2044,10 @@ ausgestellt hat, abgleichen. § 69 Satz 2 bleibt davon unberührt.
 ### § 62 Auskunftsrecht der zuständigen Behörde
 
 Die zuständige Behörde kann von Nachweispflichtigen,
-Zertifizierungsstellen, Schnittstellen, Hauptzollämtern, der
-Biokraftstoffquotenstelle, im Fall von Zertifizierungssystemen von den
-Personen nach § 33 Absatz 1 Nummer 1 Buchstabe a und im Fall von § 58
-von Umweltgutachterinnen und Umweltgutachtern weitere Informationen
+Zertifizierungsstellen, Schnittstellen, Lieferanten, Hauptzollämtern,
+der Biokraftstoffquotenstelle, im Fall von Zertifizierungssystemen von
+den Personen nach § 33 Absatz 1 Nummer 1 Buchstabe a und im Fall von §
+58 von Umweltgutachterinnen und Umweltgutachtern weitere Informationen
 verlangen, soweit dies erforderlich ist, um
 
 1.  die Aufgaben nach dieser Verordnung zu erfüllen,
@@ -2160,12 +2076,12 @@ der Bundesregierung erstmals zum 31. Dezember 2010 und sodann jedes
 Jahr einen Erfahrungsbericht vor.
 
 
-### § 64 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
+### § 64 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 
 Auf der Grundlage der Berichte nach § 63 berichtet das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit der
-Kommission der Europäischen Gemeinschaften im Rahmen der Berichte nach
-Artikel 22 der Richtlinie 2009/28/EG über
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+der Europäischen Kommission im Rahmen der Berichte nach Artikel 22 der
+Richtlinie 2009/28/EG über
 
 1.  die Erfüllung der Anforderungen nach dieser Verordnung sowie
 
@@ -2190,12 +2106,11 @@ zuständige Behörde Informationen übermitteln an
     a)  das Bundesministerium der Finanzen,
 
 
-    b)  das Bundesministerium für Ernährung, Landwirtschaft und
-        Verbraucherschutz,
+    b)  das Bundesministerium für Ernährung und Landwirtschaft,
 
 
-    c)  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-        und
+    c)  das Bundesministerium für Umwelt, Naturschutz, Bau und
+        Reaktorsicherheit und
 
 
     d)  die nachgeordneten Behörden dieser Ministerien, insbesondere an die
@@ -2207,10 +2122,16 @@ zuständige Behörde Informationen übermitteln an
 
 2.  Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von
     Drittstaaten und ihre sonstigen Stellen nach § 23 Absatz 1 Nummer 1
-    bis 3 und
+    bis 3,
 
 
-3.  Organe der Europäischen Union.
+3.  Organe der Europäischen Union,
+
+
+4.  anerkannte Zertifizierungssysteme und
+
+
+5.  anerkannte Zertifizierungsstellen.
 
 
 
@@ -2219,7 +2140,10 @@ zuständige Behörde Informationen übermitteln an
 Absatz 1 Nummer 1 ist nur zulässig unter den Voraussetzungen des § 15
 des Bundesdatenschutzgesetzes. Die Übermittlung dieser Daten an die
 Stellen nach Absatz 1 Nummer 2 und 3 ist nur unter den Voraussetzungen
-der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig.
+der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig. Die
+Übermittlung personenbezogener Daten an die Stellen nach Absatz 1
+Nummer 4 ist nur unter den Voraussetzungen des § 16 des
+Bundesdatenschutzgesetzes zulässig.
 
 
 ### § 66 Zuständigkeit
@@ -2227,35 +2151,32 @@ der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig.
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig
 für
 
-1.  die Anerkennung von Regelungen nach § 8 Absatz 3 Satz 3 Nummer 2
+1.  die Bekanntmachung nach § 2 Absatz 11 Satz 3,
+
+
+2.  die Anerkennung von Regelungen nach § 8 Absatz 3 Satz 3 Nummer 2
     Buchstabe b, ihre Bekanntmachung nach § 8 Absatz 3 Satz 4 und die
     Bekanntmachung nach Anlage 1 Nummer 10 Satz 2,
 
 
-2.  die Entgegennahme von Nachweisen nach § 13,
+3.  die Entgegennahme von Nachweisen nach § 13,
 
 
-3.  die Bekanntmachung einer elektronischen Datenbank und, sofern die
-    Datenbank nicht von einer Zertifizierungsstelle oder einer anderen
-    juristischen oder einer natürlichen Person betrieben wird, den Betrieb
-    dieser Datenbank nach § 17 Absatz 2 Nummer 2,
+4.  den Betrieb der elektronischen Datenbank nach § 14 Satz 2,
 
 
-4.  die Bekanntmachung nach § 21 Absatz 1 Satz 2,
+5.  die Bekanntmachung nach § 21 Absatz 1 Satz 2,
 
 
-5.  die Ausstellung von Nachhaltigkeits-Teilnachweisen nach § 24,
+6.  die Ausstellung von Nachhaltigkeits-Teilnachweisen nach § 24,
 
 
-6.  die Anerkennung und Überwachung von Zertifizierungssystemen nach Teil
+7.  die Anerkennung und Überwachung von Zertifizierungssystemen nach Teil
     3 Abschnitt 4 und nach § 59,
 
 
-7.  die Anerkennung und Überwachung von Zertifizierungsstellen nach Teil 3
+8.  die Anerkennung und Überwachung von Zertifizierungsstellen nach Teil 3
     Abschnitt 5 Unterabschnitt 1 bis 3 und § 59,
-
-
-8.  die Entgegennahme von Anzeigen und Erklärungen nach § 58 Absatz 4,
 
 
 9.  das Führen eines zentralen Informationsregisters nach Teil 4,
@@ -2281,12 +2202,11 @@ für
 
 (2) Die Rechts- und Fachaufsicht über die Bundesanstalt für
 Landwirtschaft und Ernährung obliegt dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz. Rechts- und
-Fachfragen von grundsätzlicher Bedeutung werden vom Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz, nachdem das
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit hergestellt wurde, mit dem Bundesministerium der
-Finanzen abgestimmt.
+Ernährung und Landwirtschaft. Rechts- und Fachfragen von
+grundsätzlicher Bedeutung werden vom Bundesministerium für Ernährung
+und Landwirtschaft, nachdem das Einvernehmen mit dem Bundesministerium
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit hergestellt wurde,
+mit dem Bundesministerium der Finanzen abgestimmt.
 
 
 ### § 67 Verfahren vor der zuständigen Behörde
@@ -2332,32 +2252,16 @@ veröffentlichen.
 
 Der Verkehr mit den Behörden anderer Mitgliedstaaten der Europäischen
 Union und Drittstaaten sowie mit den Organen der Europäischen Union
-obliegt dem Bundesministerium für Umwelt, Naturschutz und
+obliegt dem Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit. Es kann den Verkehr mit den zuständigen Ministerien
 und Behörden anderer Mitgliedstaaten der Europäischen Union und
 Drittstaaten sowie den Organen der Europäischen Union im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz auf die Bundesanstalt für Landwirtschaft und
-Ernährung übertragen.
+mit dem Bundesministerium für Ernährung und Landwirtschaft auf die
+Bundesanstalt für Landwirtschaft und Ernährung übertragen.
 
+(zu § 8 Absatz 3)
 
-## Teil 5 - Übergangs- und Schlussbestimmungen
-
-
-### § 70 Übergangsbestimmung
-
-Diese Verordnung ist nicht auf Biokraftstoffe anzuwenden, die vor dem
-1\. Januar 2011 in den Verkehr gebracht werden.
-
-
-### § 71 Inkrafttreten
-
-(1) Die §§ 24 und 34 Absatz 2 treten am 1. Januar 2010 in Kraft.
-
-(2) Im Übrigen tritt diese Verordnung am 2. November 2009 in Kraft.
-
-
-### Anlage 1 (zu § 8 Absatz 3) Methode zur Berechnung des Treibhausgas-Minderungspotenzials anhand tatsächlicher Werte
+### Anlage 1 Methode zur Berechnung der Treibhausgasminderung anhand tatsächlicher Werte
 
 (Fundstelle: BGBl. I 2009, 3200 - 3202;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -2658,7 +2562,8 @@ bzgl. einzelner Änderungen vgl. Fußnote)
         *   Bonus von 29 g CO
             2eq                             /MJ Biokraftstoff, wenn die Biomasse
             nach Maßgabe der Nummer 8 auf wiederhergestellten degradierten Flächen
-            angebaut wird.
+            angebaut wird. Kulturflächen und Dauerkulturen sind als eine
+            Landnutzung zu betrachten.
 
 
 
@@ -2717,20 +2622,19 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 
     Als Flächen nach Nummer 8 Satz 1 Buchstabe b gelten auch alle Flächen,
-    die durch eine Entscheidung der Kommission der Europäischen
-    Gemeinschaften auf Grund des Artikels 18 Absatz 4 Unterabsatz 4 der
-    Richtlinie 2009/28/EG oder des Artikels 7c Absatz 4 Unterabsatz 4 der
-    Richtlinie 2009/30/EG als stark geschädigte oder stark verschmutzte
-    Flächen anerkannt worden sind.
+    die durch eine Entscheidung der Europäischen Kommission auf Grund des
+    Artikels 18 Absatz 4 Unterabsatz 4 der Richtlinie 2009/28/EG oder des
+    Artikels 7c Absatz 4 Unterabsatz 4 der Richtlinie 2009/30/EG als stark
+    geschädigte oder stark verschmutzte Flächen anerkannt worden sind.
 
 
-10. Sobald die Kommission der Europäischen Gemeinschaften auf Grund des
-    Anhangs V Teil C Nummer 10 Satz 1 der Richtlinie 2009/28/EG oder auf
-    Grund des Anhangs IV Teil C Nummer 10 Satz 1 der Richtlinie 2009/30/EG
-    Leitlinien für die Berechnung des Bodenkohlenstoffbestands erstellt
-    hat, sind diese der Berechnung des Bodenkohlenstoffbestands nach
-    dieser Anlage zugrunde zu legen. Die zuständige Behörde macht den
-    Inhalt dieser Leitlinien im Bundesanzeiger bekannt.
+10. Sobald die Europäische Kommission auf Grund des Anhangs V Teil C
+    Nummer 10 Satz 1 der Richtlinie 2009/28/EG oder auf Grund des Anhangs
+    IV Teil C Nummer 10 Satz 1 der Richtlinie 2009/30/EG Leitlinien für
+    die Berechnung des Bodenkohlenstoffbestands erstellt hat, sind diese
+    der Berechnung des Bodenkohlenstoffbestands nach dieser Anlage
+    zugrunde zu legen. Die zuständige Behörde macht den Inhalt dieser
+    Leitlinien im Bundesanzeiger bekannt.
 
 
 11. Die Emissionen bei der Verarbeitung (
@@ -2785,15 +2689,16 @@ bzgl. einzelner Änderungen vgl. Fußnote)
     Dienstleistungen verwendet wird.
 
 
-16. Die Emissionseinsparungen durch überschüssigen Strom aus Kraft-Wärme-
-    Kopplung (
+16. Die Emissionseinsparung durch überschüssige Elektrizität aus Kraft-
+    Wärme-Kopplung (
     e
-    ee                   ) werden im Verhältnis zu dem von
-    Kraftstoffherstellungssystemen mit Kraft-Wärme-Kopplung, welche als
-    Brennstoff andere Nebenerzeugnisse als Ernterückstände einsetzen,
-    erzeugten Stromüberschuss berücksichtigt. Für die Berücksichtigung
-    dieses Stromüberschusses wird davon ausgegangen, dass die Größe der
-    Kraft-Wärme-Kopplungs-(KWK-)Anlage der Mindestgröße entspricht, die
+    ee                   ) wird im Verhältnis zu dem
+    Elektrizitätsüberschuss berücksichtigt, der von
+    Kraftstoffherstellungssystemen mit Kraft-Wärme-Kopplung erzeugt wird,
+    außer in Fällen, in denen als Brennstoff andere Nebenerzeugnisse als
+    Ernterückstände eingesetzt werden. Für die Berücksichtigung dieses
+    Stromüberschusses wird davon ausgegangen, dass die Größe der Kraft-
+    Wärme-Kopplungs-(KWK-)Anlage der Mindestgröße entspricht, die
     erforderlich ist, um die für die Herstellung des Kraftstoffs benötigte
     Wärme zu liefern. Die mit diesem Stromüberschuss verbundenen
     Minderungen an Treibhausgasemissionen werden der Treibhausgasmenge
@@ -2837,9 +2742,9 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
     Die Lebenszyklus-Treibhausgasemissionen von Abfällen, Ernterückständen
     wie Stroh, Bagasse, Hülsen, Maiskolben und Nussschalen sowie
-    Produktionsrückständen einschließlich Rohglycerin (nicht raffiniertes
-    Glycerin) werden bis zur Sammlung dieser Materialien mit null
-    festgesetzt.
+    Reststoffen aus der Verarbeitung einschließlich Rohglycerin (nicht
+    raffiniertes Glycerin) werden bis zur Sammlung dieser Materialien mit
+    null festgesetzt.
 
     Bei Kraftstoffen, die in Raffinerien hergestellt werden, ist die
     Analyseeinheit für die Zwecke der Berechnung nach Nummer 17 die
@@ -2867,8 +2772,9 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 
 
+(zu § 8 Absatz 4)
 
-### Anlage 2 (zu § 8 Absatz 4) Standardwerte zur Berechnung des Treibhausgas-Minderungspotenzials
+### Anlage 2 Standardwerte zur Berechnung der Treibhausgasminderung
 
 (Fundstelle: BGBl. I 2009, 3203 - 3208;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -4208,8 +4114,9 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 
 
+(zu § 33 Absatz 1, § 43 Absatz 1)
 
-### Anlage 3 (zu § 33 Absatz 1, § 43 Absatz 1) Inhaltliche Anforderungen an Zertifizierungssysteme
+### Anlage 3 Inhaltliche Anforderungen an Zertifizierungssysteme
 
 (Fundstelle: BGBl. I 2009, 3211 - 3212;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -4243,8 +4150,8 @@ bzgl. einzelner Änderungen vgl. Fußnote)
             und Dritten nicht zugänglich zu machen,
 
 
-        cc) welche Daten für die Berechnung des Treibhausgas-Minderungspotenzials
-            nach § 8 gemessen werden müssen und wie genau diese Daten sein müssen,
+        cc) welche Daten für die Berechnung des der Treibhausgasminderung nach § 8
+            gemessen werden müssen und wie genau diese Daten sein müssen,
 
 
         dd) wie in dem Fall, dass eine Zertifizierungsstelle feststellt, dass ein
@@ -4355,15 +4262,15 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 4.  Das Bundesministerium der Finanzen kann die in den Nummern 1 bis 3
     genannten Anforderungen im Einvernehmen mit dem Bundesministerium für
-    Ernährung, Landwirtschaft und Verbraucherschutz und dem
-    Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch
-    ein Referenzsystem näher bestimmen und als Verwaltungsvorschrift im
-    Bundesanzeiger bekannt machen. Satz 1 gilt nicht für die Angaben, die
-    von der Kommission der Europäischen Gemeinschaften auf Grund des
-    Artikels 18 Absatz 3 Unterabsatz 3 der Richtlinie 2009/28/EG sowie
-    Artikels 7 Absatz 3 Unterabsatz 3 der Richtlinie 2009/30/EG zu dem
-    Zweck festgelegt werden, dass die Wirtschaftsteilnehmer diese Angaben
-    an die Mitgliedstaaten der Europäischen Union übermitteln sollen.
+    Ernährung und Landwirtschaft und dem Bundesministerium für Umwelt,
+    Naturschutz, Bau und Reaktorsicherheit durch ein Referenzsystem näher
+    bestimmen und als Verwaltungsvorschrift im Bundesanzeiger bekannt
+    machen. Satz 1 gilt nicht für die Angaben, die von der Europäischen
+    Kommission auf Grund des Artikels 18 Absatz 3 Unterabsatz 3 der
+    Richtlinie 2009/28/EG sowie Artikels 7 Absatz 3 Unterabsatz 3 der
+    Richtlinie 2009/30/EG zu dem Zweck festgelegt werden, dass die
+    Wirtschaftsteilnehmer diese Angaben an die Mitgliedstaaten der
+    Europäischen Union übermitteln sollen.
 
 
 

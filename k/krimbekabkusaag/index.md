@@ -16,7 +16,10 @@ Ausfertigungsdatum
 :   2009-09-11
 
 Fundstelle
-:   BGBl I: 2009, 2998
+:   BGBl I: 2009, 2998; II 2012, 499
+
+Geändert durch
+:   Art. 8 G v. 1.6.2017 I 1354
 
 
 ## § 1 Bestimmung der nationalen Kontaktstelle

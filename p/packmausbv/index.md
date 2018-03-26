@@ -481,8 +481,9 @@ die Verordnung über die Berufsausbildung zum
 Verpackungsmittelmechaniker/zur Verpackungsmittelmechanikerin vom 5.
 April 2001 (BGBl. I S. 494) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin
 
 (Fundstelle: BGBl. I 2011, 991 - 995)
 

@@ -16,6 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2152
 
+V aufgeh. durch
+:   Art. 4 Abs. 124 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 52 V v. 2.6.2016 I 1257
+
+V aufgeh. durch
+:   Art. 4 Abs. 131 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
+
 
 ## Eingangsformel
 
@@ -111,14 +120,14 @@ aufzurunden.
 
 ## § 4 Abgabenerhebung und Fälligkeit
 
-Das Hafengeld wird durch das örtlich zuständige Wasser- und
+Das Hafengeld wird durch das örtlich zuständige Wasserstraßen- und
 Schifffahrtsamt erhoben. Die Abgabenschuld entsteht mit dem Einlaufen
 in das abgabenpflichtige Hafengebiet. Es ist auf volle zehn Eurocent
 aufzurunden und wird mit der Bekanntgabe der Abgabenrechnung an den
 Abgabenschuldner oder die Abgabenschuldnerin fällig, wenn nicht das
-Wasser- und Schifffahrtsamt einen späteren Zeitpunkt bestimmt. Das
-Hafengeld ist ab dem 15. Tag nach Fälligkeit nach den Vorschriften der
-§§ 286, 288 und 247 des Bürgerlichen Gesetzbuches zu verzinsen.
+Wasserstraßen- und Schifffahrtsamt einen späteren Zeitpunkt bestimmt.
+Das Hafengeld ist ab dem 15. Tag nach Fälligkeit nach den Vorschriften
+der §§ 286, 288 und 247 des Bürgerlichen Gesetzbuches zu verzinsen.
 
 
 ## § 5 Befreiungen und Ermäßigungen
@@ -129,10 +138,10 @@ Hafengeld ist ab dem 15. Tag nach Fälligkeit nach den Vorschriften der
     Bundes oder der Länder, die zur Kontrolle oder zur Unterhaltung der
     Strom-, Kanal- oder Hafenanlagen eingesetzt sind, sowie für
     Wasserfahrzeuge, schwimmendes Arbeitsgerät und Schwimmkörper privater
-    Unternehmen, die im Auftrag der Wasser- und Schifffahrtsverwaltung des
-    Bundes Unterhaltungs- und Bauarbeiten durchführen und dem Wasser- und
-    Schifffahrtsamt darüber eine Bescheinigung des Auftraggebers oder der
-    Auftraggeberin vorlegen,
+    Unternehmen, die im Auftrag der Wasserstraßen- und
+    Schifffahrtsverwaltung des Bundes Unterhaltungs- und Bauarbeiten
+    durchführen und dem Wasserstraßen- und Schifffahrtsamt darüber eine
+    Bescheinigung des Auftraggebers oder der Auftraggeberin vorlegen,
 
 
 2.  für Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger,
@@ -162,9 +171,9 @@ einer Liegezeit von weniger als zwölf Stunden ermäßigt sich das
 Hafengeld für Wasserfahrzeuge nach § 3 Nr. 1 bis 4 und 6 Buchstabe a
 auf 25 Prozent.
 
-(3) Weitere Befreiungen und Ermäßigungen kann die zuständige Wasser-
-und Schifffahrtsdirektion im Einzelfall zulassen, wenn das öffentliche
-Interesse es erfordert.
+(3) Weitere Befreiungen und Ermäßigungen kann die Generaldirektion
+Wasserstraßen und Schifffahrt im Einzelfall zulassen, wenn das
+öffentliche Interesse es erfordert.
 
 
 ## § 6 Pauschalen
@@ -181,7 +190,7 @@ größeren Fahrzeug zu berechnen.
 
 ## § 7 Anmeldung
 
-Wer den Hafen benutzt, hat dies unverzüglich dem Wasser- und
+Wer den Hafen benutzt, hat dies unverzüglich dem Wasserstraßen- und
 Schifffahrtsamt anzuzeigen; dabei sind die für die Abgabenberechnung
 oder -befreiung erforderlichen Unterlagen vorzulegen.
 
@@ -190,8 +199,9 @@ oder -befreiung erforderlichen Unterlagen vorzulegen.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu den §§ 2 und 6)
 
-## Anlage (zu den §§ 2 und 6) Hafengeld und Pauschalen
+## Anlage Hafengeld und Pauschalen
 
 (Fundstelle: BGBl. I 2008, 2154)
 (1) Das Hafengeld beträgt

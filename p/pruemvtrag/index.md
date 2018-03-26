@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1458; 2007 II 857
 
-Geändert durch
-:   Art. 1 G v. 31.7.2009 I 2507
+Zuletzt geändert durch
+:   Art. 6 G v. 1.6.2017 I 1354
 
 Stand: G in Kraft gem. Bek. v. 21.6.2007 II 857 mWv 23.11.2006
 

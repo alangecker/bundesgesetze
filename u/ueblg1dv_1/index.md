@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 88
 
+Geändert durch
+:   Art. 2 Nr. 14 G v. 20.12.1991 I 2317
+
 
 
 ## Eingangsformel

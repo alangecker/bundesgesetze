@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 342
 
+V aufgeh. durch
+:   Art. 7 Satz 2 G v. 17.7.2017 I 2394 mWv 1.7.2018
+
 Neugefasst durch
 :   Bek. v. 5.8.2002 I 3002;
 
@@ -374,8 +377,10 @@ anzuwenden, die den bis zum 31. März 2008 geltenden Mustern
 entsprechen und dem Verbraucher vor dem 1. Oktober 2008 in Textform
 mitgeteilt worden sind.
 
+(zu § 9)
+Muster
 
-### Anlage 1 (zu § 9) Muster für den Sicherungsschein
+### Anlage 1 für den Sicherungsschein
 
 (Fundstelle: BGBl. I 2002, 3008)
 

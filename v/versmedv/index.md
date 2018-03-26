@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2412
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.10.2012 I 2122
+:   Art. 18 G v. 17.7.2017 I 2541
 
 
 ## Eingangsformel
@@ -108,12 +108,24 @@ Weisungen, üben ihre Tätigkeit unabhängig und unparteilich aus und
 sind nur ihrem Gewissen verantwortlich. Sie sind zur Verschwiegenheit
 verpflichtet; dies gilt auch für die in Absatz 3 genannten Personen.
 
+(6) Die Verbände von Menschen mit Behinderungen und Berechtigten nach
+dem sozialen Entschädigungsrecht auf Bundesebene erhalten ein
+Mitberatungsrecht im Beirat. Der Deutsche Behindertenrat benennt dem
+Bundesministerium für Arbeit und Soziales hierzu zwei sachverständige
+Personen für den Zeitraum der Berufungsperiode des Beirats. Er
+berücksichtigt dabei die Anliegen von Verbänden, die die Belange von
+Berechtigten nach dem sozialen Entschädigungsrecht vertreten, auch
+soweit sie nicht Mitglieder des Deutschen Behindertenrates sind. Das
+Mitberatungsrecht beinhaltet auch das Recht zur Anwesenheit bei der
+Beschlussfassung. Absatz 5 Satz 2 bis 4 gilt entsprechend. Die
+Geschäftsordnung des Beirats gilt auch für die vom Deutschen
+Behindertenrat benannten Personen.
+
 
 ## § 4 Beschlüsse
 
-Die Beschlüsse des Beirats werden mit einfacher Mehrheit der
-anwesenden Beiratsmitglieder gefasst. Zur Beschlussfassung ist die
-Anwesenheit von mindestens zwölf Mitgliedern erforderlich.
+Die Beschlüsse des Beirats werden mit einfacher Mehrheit der nach § 3
+Absatz 2 berufenen Mitglieder gefasst.
 
 
 ## § 5 Inkrafttreten
@@ -125,8 +137,9 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+zu § 2
 
-## Anlage zu § 2 der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
+## Anlage der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 57 vom 15. Dezember 2008,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -477,7 +490,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.
 
-    *   Außergewöhnliche Gehbehinderung (Merkzeichen aG)
+    *   (aufgehoben)
 
     *   115
 
@@ -15102,52 +15115,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-**3.** **Außergewöhnliche Gehbehinderung (Merkzeichen aG)**
-
-    a)  Für die Gewährung von Parkerleichterungen für schwer behinderte
-        Menschen nach dem Straßenverkehrsgesetz (StVG) ist die Frage zu
-        beurteilen, ob eine außergewöhnliche Gehbehinderung vorliegt. Auch bei
-        Säuglingen und Kleinkindern ist die gutachtliche Beurteilung einer
-        außergewöhnlichen Gehbehinderung erforderlich. Für die Beurteilung
-        sind dieselben Kriterien wie bei Erwachsenen mit gleichen
-        Gesundheitsstörungen maßgebend. Es ist nicht zu prüfen, ob tatsächlich
-        diesbezügliche behinderungsbedingte Nachteile vorliegen oder
-        behinderungsbedingte Mehraufwendungen entstehen.
-
-
-    b)  Als schwer behinderte Menschen mit außergewöhnlicher Gehbehinderung
-        sind solche Personen anzusehen, die sich wegen der Schwere ihres
-        Leidens dauernd nur mit fremder Hilfe oder nur mit großer Anstrengung
-        außerhalb ihres Kraftfahrzeuges bewegen können. Hierzu zählen
-        Querschnittgelähmte, Doppeloberschenkelamputierte,
-        Doppelunterschenkelamputierte, Hüftexartikulierte und einseitig
-        Oberschenkelamputierte, die dauernd außerstande sind, ein Kunstbein zu
-        tragen, oder nur eine Beckenkorbprothese tragen können oder zugleich
-        unterschenkel- oder armamputiert sind, sowie andere schwerbehinderte
-        Menschen, die nach versorgungsärztlicher Feststellung, auch aufgrund
-        von Erkrankungen, dem vorstehend aufgeführten Personenkreis
-        gleichzustellen sind.
-
-
-    c)  Die Annahme einer außergewöhnlichen Gehbehinderung darf nur auf eine
-        Einschränkung der Gehfähigkeit und nicht auf Bewegungsbehinderungen
-        anderer Art bezogen werden. Bei der Frage der Gleichstellung von
-        behinderten Menschen mit Schäden an den unteren Gliedmaßen ist zu
-        beachten, dass das Gehvermögen auf das Schwerste eingeschränkt sein
-        muss und deshalb als Vergleichsmaßstab am ehesten das Gehvermögen
-        eines Doppeloberschenkelamputierten heranzuziehen ist. Dies gilt auch,
-        wenn Gehbehinderte einen Rollstuhl benutzen: Es genügt nicht, dass ein
-        solcher verordnet wurde; die Betroffenen müssen vielmehr ständig auf
-        den Rollstuhl angewiesen sein, weil sie sich sonst nur mit fremder
-        Hilfe oder nur mit großer Anstrengung fortbewegen können. Als
-        Erkrankungen der inneren Organe, die eine solche Gleichstellung
-        rechtfertigen, sind beispielsweise Herzschäden mit schweren
-        Dekompensationserscheinungen oder Ruheinsuffizienz sowie Krankheiten
-        der Atmungsorgane mit Einschränkung der Lungenfunktion schweren Grades
-        anzusehen.
-
-
-
+**3.** (aufgehoben)
 
 
 **4.** **Gehörlosigkeit (Merkzeichen Gl)**

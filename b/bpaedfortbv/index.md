@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2927
 
+Geändert durch
+:   Art. 3 V v. 16.10.2016 I 2390
+
 
 ## Eingangsformel
 
@@ -550,10 +553,57 @@ Fachgesprächs eine Punktebewertung vorzunehmen. Diese Punktebewertung
 und die der Projektarbeit sind gleichgewichtet zu einer Note
 zusammenzufassen.
 
-(5) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 1
-und der Anlage 2 auszustellen. Im Falle der Freistellung nach § 10
-sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
-Bezeichnung des Prüfungsgremiums anzugeben.
+(5) Aus den nach den Absätzen 2 bis 4 ermittelten Punktebewertungen
+der Prüfungsteile ist eine Gesamtpunktzahl zu bilden unter
+Berücksichtigung folgender Gewichtungen:
+
+*    *   „Kernprozesse der beruflichen Bildung“
+
+    *   mit 30 Prozent,
+
+
+*    *   „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
+
+    *   mit 30 Prozent,
+
+
+*    *   „Spezielle berufspädagogische Funktionen“
+
+    *   mit 40 Prozent.
+
+
+
+
+Aus der gewichteten Gesamtpunktzahl ist eine Gesamtnote zu bilden.
+
+(6) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. In dem einen Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis wird darüber hinaus mindestens angegeben:
+
+1.  die Benennung und Bewertung der Prüfungsbestandteile nach § 3 Absatz 2
+    bis 3 und nach den vorstehenden Absätzen 1 bis 4,
+
+
+2.  die Gesamtnote nach Absatz 5,
+
+
+3.  die Befreiungen nach § 10; jede Befreiung ist mit Ort, Datum und der
+    Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+    anzugeben.
+
+
+
 
 
 ## § 12 Wiederholen der Prüfung
@@ -586,225 +636,3 @@ Berufspädagoge (IHK)/Berufspädagogin (IHK) können bis zum 31. Dezember
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
-
-## Anlage 1 (zu § 11 Absatz 5) Muster
-
-(Fundstelle: BGBl. 2009, 2932)
-
-*    *   ....................
-        (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-## Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-## Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Berufspädagoge/ Geprüfte
-Berufspädagogin vom 21. August 2009 (BGBl. I S. 2927)
-
-
-*    *   bestanden.
-
-
-
-
-*    *   Datum ....................
-
-
-*    *   Unterschrift(en) ....................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 2 (zu § 11 Absatz 5) Muster
-
-(Fundstelle: BGBl. 2009, 2933)
-
-*    *   ....................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-## Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-## Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
-
-[^f772492_01_BJNR292700009BJNE001700000]
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Berufspädagoge/ Geprüfte
-Berufspädagogin vom 21. August 2009 (BGBl. I S. 2927) mit folgenden
-Ergebnissen
-bestanden:
-
-
-*    *
-    *
-    *   Punkte
-
-    *
-    *   Note
-
-
-*    *   I.
-
-    *   Kernprozesse der beruflichen Bildung
-
-    *
-    *
-    *   ....................
-
-
-*    *
-    *   Lernprozesse und Lernbegleitung
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Planungsprozesse
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Managementprozesse
-
-    *   ....................
-
-    *
-    *
-
-*    *   II.
-
-    *   Berufspädagogisches Handeln in Bereichen der beruflichen Bildung
-
-    *
-    *
-    *   ....................
-
-
-*    *
-    *   Berufsausbildung
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Weiterbildung
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Personalentwicklung und -beratung
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Fachgespräch
-
-    *   ....................
-
-    *
-    *
-
-*    *   III.
-
-    *   Spezielle berufspädagogische Funktionen
-
-    *
-    *
-    *   ....................
-
-
-*    *
-    *   Projektarbeit
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Präsentation und Fachgespräch
-
-    *   ....................
-
-    *
-    *
-
-*    *   (Im Fall des § 10: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 10 im Hinblick auf die am ....................
-        in .................... vor .................... abgelegte Prüfung in
-        .................... freigestellt.“)
-
-
-
-
-*    *   Datum ....................
-
-
-*    *   Unterschrift(en) ....................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ....................
-[^f772492_01_BJNR292700009BJNE001700000]: 

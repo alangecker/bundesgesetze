@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 1003
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.7.2011 I 1378
+:   Art. 3 G v. 5.12.2014 I 1980
 
 
 
@@ -88,7 +88,7 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
 Der Mautschuldner kann die Maut wahlweise über eine manuelle
 Einbuchung oder eine Interneteinbuchung (manuelles
-Mauterhebungssystem) oder das automatische Mauterhebungssystem
+Mauterhebungssystem) oder ein automatisches Mauterhebungssystem
 entrichten.
 
 
@@ -117,18 +117,22 @@ in dem die mautpflichtige Straßenbenutzung durchgeführt werden darf.
 ## § 6 Automatisches Mauterhebungssystem
 
 (1) Die Teilnahme an dem automatischen Mauterhebungssystem erfordert
-die Anmeldung des Mautschuldners beim Betreiber und den fachgerechten
-Einbau eines Fahrzeuggerätes in das mautpflichtige Fahrzeug vor der
-mautpflichtigen Straßenbenutzung. Das Fahrzeuggerät ist eine
-elektronische Einrichtung, mit der festgestellt wird, auf welchem
-mautpflichtigen Streckenabschnitt sich das Fahrzeug befindet. Der
-Mautschuldner hat bei der Anmeldung die für die Mauterhebung
+die Anmeldung des Mautschuldners beim Betreiber oder einem Anbieter
+nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes (Anbieter) und
+den fachgerechten Einbau eines Fahrzeuggerätes in das mautpflichtige
+Fahrzeug vor der mautpflichtigen Straßenbenutzung. Das Fahrzeuggerät
+ist eine elektronische Einrichtung, mit der festgestellt wird, auf
+welchem mautpflichtigen Streckenabschnitt sich das Fahrzeug befindet.
+Der Mautschuldner hat bei der Anmeldung die für die Mauterhebung
 maßgeblichen Tatsachen gemäß § 3 Nr. 1, 4 und 5 wahrheitsgemäß und
 vollständig anzugeben. Diese Daten sind im Fahrzeuggerät zu speichern.
+Einem Fahrzeuggerät im Sinne dieses § 6 steht ein Fahrzeuggerät im
+Sinne von § 16 Absatz 2 des Mautsystemgesetzes gleich.
 
 (1a) Änderungen der in § 3 Nr. 1, 4 und 5 genannten Tatsachen hat der
-Mautschuldner dem Betreiber innerhalb eines Monats ab dem Zeitpunkt
-der Änderung mitzuteilen.
+Mautschuldner dem Betreiber oder seinem Anbieter nach den §§ 4e und 4f
+des Bundesfernstraßenmautgesetzes innerhalb eines Monats ab dem
+Zeitpunkt der Änderung mitzuteilen.
 
 (2) Der Mautschuldner hat das Fahrzeuggerät ordnungsgemäß zu bedienen,
 insbesondere hat er vor einer mautpflichtigen Straßenbenutzung zu
@@ -138,9 +142,8 @@ der Anzahl der Achsen des Fahrzeugs oder der Fahrzeugkombination
 durchgeführt werden soll, und die gespeicherte Anzahl der Achsen zu
 ändern, soweit die Angabe nicht mehr übereinstimmt. Das Fahrzeuggerät
 berechnet die Maut auf der Grundlage der gespeicherten maßgeblichen
-Tatsachen in Verbindung mit der Höhe der Mautsätze nach § 1 der
-Mauthöheverordnung vom 24. Juni 2003 (BGBl. I S. 1001) und veranlasst
-die Zahlung der Maut.
+Tatsachen in Verbindung mit der gesetzlich festgelegten Höhe der
+Mautsätze und veranlasst die Zahlung der Maut.
 
 (3) Der Mautschuldner muss vor Beginn einer mautpflichtigen
 Straßenbenutzung überprüfen, ob das Fahrzeuggerät erhebungsbereit ist.

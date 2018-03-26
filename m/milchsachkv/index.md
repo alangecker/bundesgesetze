@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 V v. 8.8.2007 I 1816
 
+V aufgeh. durch
+:   Art. 2 Abs. 1 nach Maßgabe d. Art. 2 Abs. 2 V v. 4.7.2017 I 2199 mWv 6.7.2018
+
 
 ## Eingangsformel
 

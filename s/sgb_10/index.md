@@ -20,7 +20,31 @@ Neugefasst durch
 :   Bek. v. 18. 1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 21.7.2012 I 1566
+:   Art. 6 G v. 11.11.2016 I 2500
+
+Änderung durch
+:   Art. 20 Abs. 8 G v. 23.12.2016 I 3234 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 Abs. 7 G v. 10.3.2017 I 410 ist berücksichtigt
+
+Änderung durch
+:   Art. 166 G v. 29.3.2017 I 626 ist berücksichtigt
+
+Änderung durch
+:   Art. 6 Abs. 2 G v. 11.6.2017 I 1607 ist berücksichtigt
+
+Änderung durch
+:   Art. 11 G v. 23.6.2017 I 1822 ist berücksichtigt
+
+Änderung durch
+:   Art. 24 G v. 17.7.2017 I 2541 ist berücksichtigt
+
+Änderung durch
+:   Art. 2 Abs. 6 G v. 18.7.2017 I 2739 (Nr. 52) mit unbestimmter zukünftiger Wirkung noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 10 Abs. 11 G v. 30.10.2017 I 3618 ist berücksichtigt
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -471,10 +495,10 @@ und Beschlussfassung nicht zugegen sein.
 
 (5) Angehörige im Sinne des Absatzes 1 Nr. 2 und 4 sind
 
-1.  der Verlobte,
+1.  der Verlobte, auch im Sinne des Lebenspartnerschaftsgesetzes,
 
 
-2.  der Ehegatte,
+2.  der Ehegatte oder Lebenspartner,
 
 
 3.  Verwandte und Verschwägerte gerader Linie,
@@ -486,7 +510,8 @@ und Beschlussfassung nicht zugegen sein.
 5.  Kinder der Geschwister,
 
 
-6.  Ehegatten der Geschwister und Geschwister der Ehegatten,
+6.  Ehegatten oder Lebenspartner der Geschwister und Geschwister der
+    Ehegatten oder Lebenspartner,
 
 
 7.  Geschwister der Eltern,
@@ -501,7 +526,7 @@ und Beschlussfassung nicht zugegen sein.
 Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
 
 1.  in den Fällen der Nummern 2, 3 und 6 die die Beziehung begründende Ehe
-    nicht mehr besteht,
+    oder Lebenspartnerschaft nicht mehr besteht,
 
 
 2.  in den Fällen der Nummern 3 bis 7 die Verwandtschaft oder
@@ -551,10 +576,18 @@ auf Grund von Rechtsvorschriften
 
 ##### § 19 Amtssprache
 
-(1) Die Amtssprache ist deutsch. Hörbehinderte Menschen haben das
-Recht, zur Verständigung in der Amtssprache Gebärdensprache zu
-verwenden; Aufwendungen für Dolmetscher sind von der Behörde oder dem
-für die Sozialleistung zuständigen Leistungsträger zu tragen.
+(1) Die Amtssprache ist deutsch. Menschen mit Hörbehinderungen und
+Menschen mit Sprachbehinderungen haben das Recht, in Deutscher
+Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere
+geeignete Kommunikationshilfen zu kommunizieren; Kosten für
+Kommunikationshilfen sind von der Behörde oder dem für die
+Sozialleistung zuständigen Leistungsträger zu tragen. § 5 der
+Kommunikationshilfenverordnung in der jeweils geltenden Fassung gilt
+entsprechend.
+
+(1a) § 11 des Behindertengleichstellungsgesetzes gilt in seiner
+jeweils geltenden Fassung für das Sozialverwaltungsverfahren
+entsprechend.
 
 (2) Werden bei einer Behörde in einer fremden Sprache Anträge gestellt
 oder Eingaben, Belege, Urkunden oder sonstige Dokumente vorgelegt,
@@ -567,8 +600,9 @@ angefertigten Übersetzung verlangt werden. Wird die verlangte
 Übersetzung nicht innerhalb der gesetzten Frist vorgelegt, kann die
 Behörde eine Übersetzung beschaffen und hierfür Ersatz ihrer
 Aufwendungen in angemessenem Umfang verlangen. Falls die Behörde
-Dolmetscher oder Übersetzer herangezogen hat, erhalten sie auf Antrag
-in entsprechender Anwendung des Justizvergütungs- und
+Dolmetscher oder Übersetzer herangezogen hat, die nicht
+Kommunikationshilfe im Sinne von Absatz 1 Satz 2 sind, erhalten sie
+auf Antrag in entsprechender Anwendung des Justizvergütungs- und
 -entschädigungsgesetzes eine Vergütung; mit Dolmetschern oder
 Übersetzern kann die Behörde eine Vergütung vereinbaren.
 
@@ -612,7 +646,8 @@ oder unbegründet hält.
 pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für
 erforderlich hält. Sie kann insbesondere
 
-1.  Auskünfte jeder Art einholen,
+1.  Auskünfte jeder Art, auch elektronisch und als elektronisches
+    Dokument, einholen,
 
 
 2.  Beteiligte anhören, Zeugen und Sachverständige vernehmen oder die
@@ -627,6 +662,9 @@ erforderlich hält. Sie kann insbesondere
 
 
 
+Urkunden und Akten können auch in elektronischer Form beigezogen
+werden, es sei denn, durch Rechtsvorschrift ist etwas anderes
+bestimmt.
 
 (2) Die Beteiligten sollen bei der Ermittlung des Sachverhalts
 mitwirken. Sie sollen insbesondere ihnen bekannte Tatsachen und
@@ -820,8 +858,13 @@ die Behörde, die die Akten führt, gestatten.
 
 (5) Soweit die Akteneinsicht zu gestatten ist, können die Beteiligten
 Auszüge oder Abschriften selbst fertigen oder sich Ablichtungen durch
-die Behörde erteilen lassen. Die Behörde kann Ersatz ihrer
-Aufwendungen in angemessenem Umfang verlangen.
+die Behörde erteilen lassen. Soweit die Akteneinsicht in eine
+elektronische Akte zu gestatten ist, kann die Behörde Akteneinsicht
+gewähren, indem sie Unterlagen ganz oder teilweise ausdruckt,
+elektronische Dokumente auf einem Bildschirm wiedergibt, elektronische
+Dokumente zur Verfügung stellt oder den elektronischen Zugriff auf den
+Inhalt der Akte gestattet. Die Behörde kann Ersatz ihrer Aufwendungen
+in angemessenem Umfang verlangen.
 
 
 #### Zweiter Titel - Fristen, Termine, Wiedereinsetzung
@@ -1018,6 +1061,11 @@ für das Ausgangsdokument enthalten.
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
 
+(7) Soweit eine Behörde über die technischen Möglichkeiten verfügt,
+kann sie von Urkunden, die sie selbst ausgestellt hat, auf Verlangen
+ein elektronisches Dokument nach Absatz 4 Nummer 4 Buchstabe a oder
+eine elektronische Abschrift fertigen und beglaubigen.
+
 
 ##### § 30 Beglaubigung von Unterschriften
 
@@ -1092,6 +1140,16 @@ bestimmten oder bestimmbaren Personenkreis richtet oder die
 durch die Allgemeinheit betrifft.
 
 
+##### § 31a Vollständig automatisierter Erlass eines Verwaltungsaktes
+
+Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen
+erlassen werden, sofern kein Anlass besteht, den Einzelfall durch
+Amtsträger zu bearbeiten. Setzt die Behörde automatische Einrichtungen
+zum Erlass von Verwaltungsakten ein, muss sie für den Einzelfall
+bedeutsame tatsächliche Angaben des Beteiligten berücksichtigen, die
+im automatischen Verfahren nicht ermittelt würden.
+
+
 ##### § 32 Nebenbestimmungen zum Verwaltungsakt
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer
@@ -1151,7 +1209,10 @@ Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch
 Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
 Form verwendet, muss auch das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen.
+Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des
+§ 36a Absatz 2 Satz 4 Nummer 3 des Ersten Buches muss die Bestätigung
+nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als
+Nutzer des De-Mail-Kontos erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 36a Abs. 2 des Ersten
 Buches erforderliche Signatur durch Rechtsvorschrift die dauerhafte
@@ -1240,7 +1301,10 @@ Erlässt die Behörde einen schriftlichen Verwaltungsakt oder bestätigt
 sie schriftlich einen Verwaltungsakt, ist der durch ihn beschwerte
 Beteiligte über den Rechtsbehelf und die Behörde oder das Gericht, bei
 denen der Rechtsbehelf anzubringen ist, deren Sitz, die einzuhaltende
-Frist und die Form schriftlich zu belehren.
+Frist und die Form schriftlich zu belehren. Erlässt die Behörde einen
+elektronischen Verwaltungsakt oder bestätigt sie elektronisch einen
+Verwaltungsakt, hat die Rechtsbehelfsbelehrung nach Satz 1
+elektronisch zu erfolgen.
 
 
 ##### § 37 Bekanntgabe des Verwaltungsaktes
@@ -1258,6 +1322,19 @@ als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht
 oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die
 Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs
 nachzuweisen.
+
+(2a) Mit Einwilligung des Beteiligten können elektronische
+Verwaltungsakte dadurch bekannt gegeben werden, dass sie von dem
+Beteiligten oder seinem Bevollmächtigten über öffentlich zugängliche
+Netze abgerufen werden. Die Behörde hat zu gewährleisten, dass der
+Abruf nur nach Authentifizierung der berechtigten Person möglich ist
+und der elektronische Verwaltungsakt von ihr gespeichert werden kann.
+Der Verwaltungsakt gilt am Tag nach dem Abruf als bekannt gegeben.
+Wird der Verwaltungsakt nicht innerhalb von zehn Tagen nach Absenden
+einer Benachrichtigung über die Bereitstellung abgerufen, wird diese
+beendet. In diesem Fall ist die Bekanntgabe nicht bewirkt; die
+Möglichkeit einer erneuten Bereitstellung zum Abruf oder der
+Bekanntgabe auf andere Weise bleibt unberührt.
 
 (3) Ein Verwaltungsakt darf öffentlich bekannt gegeben werden, wenn
 dies durch Rechtsvorschrift zugelassen ist. Eine Allgemeinverfügung
@@ -1932,9 +2009,9 @@ Grundlage des § 74a Abs. 2 Satz 1 erteilte Auskunft eine Gebühr von
 
 (2) Geschäfte und Verhandlungen, die aus Anlass der Beantragung,
 Erbringung oder der Erstattung einer Sozialleistung nötig werden, sind
-kostenfrei. Dies gilt auch für die in der Kostenordnung bestimmten
-Gerichtskosten. Von Beurkundungs- und Beglaubigungskosten sind befreit
-Urkunden, die
+kostenfrei. Dies gilt auch für die im Gerichts- und Notarkostengesetz
+bestimmten Gerichtskosten. Von Beurkundungs- und Beglaubigungskosten
+sind befreit Urkunden, die
 
 1.  in der Sozialversicherung bei den Versicherungsträgern und
     Versicherungsbehörden erforderlich werden, um die Rechtsverhältnisse
@@ -1983,11 +2060,11 @@ bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
 öffentlichen Rechts vorgeschrieben sind, gelten die §§ 2 bis 10 des
 Verwaltungszustellungsgesetzes. § 5 Abs. 4 des
 Verwaltungszustellungsgesetzes und § 178 Abs. 1 Nr. 2 der
-Zivilprozessordnung sind auf die nach § 73 Abs. 6 Satz 3 und 4 des
-Sozialgerichtsgesetzes als Bevollmächtigte zugelassenen Personen
-entsprechend anzuwenden. Diese Vorschriften gelten auch, soweit
-Zustellungen durch Verwaltungsbehörden der Kriegsopferversorgung
-vorgeschrieben sind.
+Zivilprozessordnung sind auf die nach § 73 Absatz 2 Satz 2 Nummer 5
+bis 9 und Satz 3 des Sozialgerichtsgesetzes als Bevollmächtigte
+zugelassenen Personen entsprechend anzuwenden. Diese Vorschriften
+gelten auch, soweit Zustellungen durch Verwaltungsbehörden der
+Kriegsopferversorgung vorgeschrieben sind.
 
 (2) Für die übrigen Behörden gelten die jeweiligen landesrechtlichen
 Vorschriften über das Zustellungsverfahren.
@@ -2129,7 +2206,11 @@ angewendeten Verfahren,
 
 
     Übermitteln im Sinne dieses Gesetzbuches ist auch das Bekanntgeben
-    nicht gespeicherter Sozialdaten,
+    nicht gespeicherter Sozialdaten; das Senden von Sozialdaten durch eine
+    De-Mail-Nachricht an die jeweiligen akkreditierten Diensteanbieter –
+    zur kurzfristigen automatisierten Entschlüsselung zum Zweck der
+    Überprüfung auf Schadsoftware und zum Zweck der Weiterleitung an den
+    Adressaten der De-Mail-Nachricht – ist kein Übermitteln,
 
 
 4.  Sperren das vollständige oder teilweise Untersagen der weiteren
@@ -2498,7 +2579,7 @@ Stelle die Angaben auf andere Weise beschaffen kann. Satz 2 findet
 keine Anwendung, wenn das Amtshilfeersuchen zur Durchführung einer
 Vollstreckung nach § 66 erforderlich ist.
 
-(1a) Zu dem in § 7 Abs. 2 des Internationalen
+(1a) Zu dem in § 7 Absatz 3 des Internationalen
 Familienrechtsverfahrensgesetzes bezeichneten Zweck ist es zulässig,
 der in dieser Vorschrift bezeichneten Zentralen Behörde auf Ersuchen
 im Einzelfall den derzeitigen Aufenthalt des Betroffenen zu
@@ -2655,12 +2736,20 @@ Mitteilungspflichten
 
 10. zur Erfüllung der Aufgaben der Deutschen Rentenversicherung Bund als
     zentraler Stelle nach § 22a und § 91 Abs. 1 Satz 1 des
-    Einkommensteuergesetzes oder
+    Einkommensteuergesetzes,
 
 
 11. zur Erfüllung der Aufgaben der Deutschen Rentenversicherung
     Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten
-    Aufgaben nach dem Einkommensteuergesetz durchführt.
+    Aufgaben nach dem Einkommensteuergesetz durchführt,
+
+
+12. zur Erfüllung der Aufgaben des Statistischen Bundesamtes nach § 5a
+    Absatz 1 in Verbindung mit Absatz 3 des Bundesstatistikgesetzes oder
+
+
+13. nach § 69a des Erneuerbare-Energien-Gesetzes zur Berechnung der
+    Bruttowertschöpfung im Verfahren zur Begrenzung der EEG-Umlage.
 
 
 
@@ -2668,14 +2757,15 @@ Erklärungspflichten als Drittschuldner, welche das Vollstreckungsrecht
 vorsieht, werden durch Bestimmungen dieses Gesetzbuches nicht berührt.
 Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist für die Erfüllung der gesetzlichen Pflichten zur
-Sicherung und Nutzung von Archivgut nach den §§ 2 und 5 des
-Bundesarchivgesetzes oder entsprechenden gesetzlichen Vorschriften der
-Länder, die die Schutzfristen dieses Gesetzes nicht unterschreiten.
-Eine Übermittlung von Sozialdaten ist auch zulässig, soweit sie
-erforderlich ist, Meldebehörden nach § 4a Abs. 3 des
-Melderechtsrahmengesetzes über konkrete Anhaltspunkte für die
-Unrichtigkeit oder Unvollständigkeit von diesen auf Grund Melderechts
-übermittelter Daten zu unterrichten.
+Sicherung und Nutzung von Archivgut des Bundes nach § 1 Nummer 8 und
+9, § 3 Absatz 4, nach den den §§ 5 bis 7 sowie nach den §§ 10 bis 13
+des Bundesarchivgesetzes oder nach entsprechenden gesetzlichen
+Vorschriften der Länder, die die Schutzfristen dieses Gesetzes nicht
+unterschreiten. Eine Übermittlung von Sozialdaten ist auch zulässig,
+soweit sie erforderlich ist, Meldebehörden nach § 6 Absatz 2 des
+Bundesmeldegesetzes über konkrete Anhaltspunkte für die Unrichtigkeit
+oder Unvollständigkeit von diesen auf Grund Melderechts übermittelter
+Daten zu unterrichten.
 
 (2) Eine Übermittlung von Sozialdaten eines Ausländers ist auch
 zulässig, soweit sie erforderlich ist
@@ -2713,7 +2803,7 @@ zulässig, soweit sie erforderlich ist
 
 
 2.  für die Erfüllung der in § 87 Abs. 2 des Aufenthaltsgesetzes
-    bezeichneten Mitteilungspflichten oder
+    bezeichneten Mitteilungspflichten,
 
 
 3.  für die Erfüllung der in § 99 Absatz 1 Nummer 14 Buchstabe d, f und j
@@ -2723,7 +2813,11 @@ zulässig, soweit sie erforderlich ist
     § 18a Absatz 1, § 19 Absatz 1 Satz 1 und § 19a Absatz 1 des
     Aufenthaltsgesetzes oder eines Versicherungsschutzes oder die
     Gewährung von Leistungen zur Sicherung des Lebensunterhalts nach dem
-    Zweiten Buch betrifft.
+    Zweiten Buch betrifft oder
+
+
+4.  für die Erfüllung der in § 6 Absatz 1 Nummer 8 des Gesetzes über das
+    Ausländerzentralregister bezeichneten Mitteilungspflichten.
 
 
 
@@ -2751,6 +2845,16 @@ nach pflichtgemäßem Ermessen eines Leistungsträgers erforderlich ist,
 dem Betreuungsgericht die Bestellung eines Betreuers oder eine andere
 Maßnahme in Betreuungssachen zu ermöglichen. § 7 des
 Betreuungsbehördengesetzes gilt entsprechend.
+
+(4) Eine Übermittlung von Sozialdaten ist außerdem zulässig, soweit
+sie im Einzelfall für die rechtmäßige Erfüllung der in der
+Zuständigkeit der Zentralstelle für Finanztransaktionsuntersuchungen
+liegenden Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+Geldwäschegesetzes erforderlich ist. Die Übermittlung ist auf Angaben
+über Name und Vorname sowie früher geführte Namen, Geburtsdatum,
+Geburtsort, derzeitige und frühere Anschriften des Betroffenen sowie
+Namen und Anschriften seiner derzeitigen und früheren Arbeitgeber
+beschränkt.
 
 
 #### § 72 Übermittlung für den Schutz der inneren und äußeren Sicherheit
@@ -2909,7 +3013,8 @@ diese Voraussetzungen vorliegen.
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist für ein bestimmtes Vorhaben
 
-1.  der wissenschaftlichen Forschung im Sozialleistungsbereich oder
+1.  der wissenschaftlichen Forschung im Sozialleistungsbereich oder der
+    wissenschaftlichen Arbeitsmarkt- und Berufsforschung oder
 
 
 2.  der Planung im Sozialleistungsbereich durch eine öffentliche Stelle im
@@ -2922,8 +3027,10 @@ werden oder das öffentliche Interesse an der Forschung oder Planung
 das Geheimhaltungsinteresse des Betroffenen erheblich überwiegt. Eine
 Übermittlung ohne Einwilligung des Betroffenen ist nicht zulässig,
 soweit es zumutbar ist, die Einwilligung des Betroffenen nach § 67b
-einzuholen oder den Zweck der Forschung oder Planung auf andere Weise
-zu erreichen.
+einzuholen. Angaben über den Familien- und Vornamen, die Anschrift,
+die Telefonnummer sowie die für die Einleitung eines Vorhabens nach
+Satz 1 zwingend erforderlichen Strukturmerkmale des Betroffenen können
+für Befragungen auch ohne Einwilligungen übermittelt werden.
 
 (2) Die Übermittlung bedarf der vorherigen Genehmigung durch die
 oberste Bundes- oder Landesbehörde, die für den Bereich, aus dem die
@@ -2971,9 +3078,9 @@ oder genutzt werden.
 
 (1) Die Übermittlung von Sozialdaten, die einer in § 35 des Ersten
 Buches genannten Stelle von einem Arzt oder einer anderen in § 203
-Abs. 1 und 3 des Strafgesetzbuches genannten Person zugänglich gemacht
-worden sind, ist nur unter den Voraussetzungen zulässig, unter denen
-diese Person selbst übermittlungsbefugt wäre.
+Absatz 1 und 4 des Strafgesetzbuches genannten Person zugänglich
+gemacht worden sind, ist nur unter den Voraussetzungen zulässig, unter
+denen diese Person selbst übermittlungsbefugt wäre.
 
 (2) Absatz 1 gilt nicht
 
@@ -2983,7 +3090,7 @@ diese Person selbst übermittlungsbefugt wäre.
     übermittelt worden sind, es sei denn, dass der Betroffene der
     Übermittlung widerspricht; der Betroffene ist von der verantwortlichen
     Stelle zu Beginn des Verwaltungsverfahrens in allgemeiner Form
-    schriftlich auf das Widerspruchsrecht hinzuweisen,
+    schriftlich oder elektronisch auf das Widerspruchsrecht hinzuweisen,
 
 
 2.  im Rahmen des § 69 Abs. 4 und 5 und des § 71 Abs. 1 Satz 3,
@@ -3063,11 +3170,10 @@ zulässig, wenn
     2) gewährleistet; für die Anordnung einer Übermittlung nach § 73 ist
     ein Gericht im Inland zuständig.
 
-    Die Übermittlung ist nur zulässig, soweit der Betroffene kein
-    schutzwürdiges Interesse an dem Ausschluss der Übermittlung hat.
 
 
-
+Die Übermittlung ist nur zulässig, soweit der Betroffene kein
+schutzwürdiges Interesse an dem Ausschluss der Übermittlung hat.
 
 (4) Gewährleistet der Drittstaat oder die über- oder
 zwischenstaatliche Stelle ein angemessenes Datenschutzniveau (Absatz
@@ -3195,7 +3301,7 @@ eingeschaltet werden.
 
 (2) Die beteiligten Stellen haben zu gewährleisten, dass die
 Zulässigkeit des Abrufverfahrens kontrolliert werden kann. Hierzu
-haben sie schriftlich festzulegen:
+haben sie schriftlich oder elektronisch festzulegen:
 
 1.  Anlass und Zweck des Abrufverfahrens,
 
@@ -3338,9 +3444,9 @@ Auftragserteilung
 
 
 
-schriftlich anzuzeigen. Wenn der Auftragnehmer eine öffentliche Stelle
-ist, hat er auch schriftliche Anzeige an seine Aufsichtsbehörde zu
-richten.
+schriftlich oder elektronisch anzuzeigen. Wenn der Auftragnehmer eine
+öffentliche Stelle ist, hat er auch schriftliche oder elektronische
+Anzeige an seine Aufsichtsbehörde zu richten.
 
 (4) Der Auftragnehmer darf die zur Datenverarbeitung überlassenen
 Sozialdaten nicht für andere Zwecke verarbeiten oder nutzen und nicht
@@ -3430,9 +3536,8 @@ Einrichtungen der in § 35 des Ersten Buches genannten Stellen oder
 ihrer Verbände gelten als öffentliche Stellen des Bundes, wenn die
 absolute Mehrheit der Anteile oder der Stimmen einer oder mehrerer
 öffentlicher Stellen dem Bund zusteht, anderenfalls als öffentliche
-Stellen der Länder. Die Datenstelle der Träger der Rentenversicherung
-nach § 145 Abs. 1 des Sechsten Buches gilt als öffentliche Stelle des
-Bundes.
+Stellen der Länder. Die Datenstelle der Rentenversicherung nach § 145
+Abs. 1 des Sechsten Buches gilt als öffentliche Stelle des Bundes.
 
 (4) Auf die in § 35 des Ersten Buches genannten Stellen und die
 Vermittlungsstellen nach § 67d Abs. 4 sind die §§ 4f, 4g mit Ausnahme
@@ -4070,13 +4175,14 @@ Arbeitslosenversicherung oder dem sozialen Entschädigungsrecht
 gelten für diese Personen § 60 Abs. 1 Nr. 1 und 3 sowie § 65 Abs. 1
 des Ersten Buches entsprechend. Das Gleiche gilt für den in Satz 1
 genannten Anwendungsbereich in den Fällen, in denen
-Unterhaltspflichtige, Angehörige, der frühere Ehegatte oder Erben zum
-Ersatz der Aufwendungen des Leistungsträgers herangezogen werden.
-Auskünfte auf Fragen, deren Beantwortung einem nach Satz 1 oder Satz 2
-Auskunftspflichtigen oder einer ihm nahe stehenden Person (§ 383 Abs.
-1 Nr. 1 bis 3 der Zivilprozessordnung) die Gefahr zuziehen würde,
-wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden,
-können verweigert werden.
+Unterhaltspflichtige, Angehörige, der frühere Ehegatte, der frühere
+Lebenspartner oder Erben zum Ersatz der Aufwendungen des
+Leistungsträgers herangezogen werden. Auskünfte auf Fragen, deren
+Beantwortung einem nach Satz 1 oder Satz 2 Auskunftspflichtigen oder
+einer ihm nahe stehenden Person (§ 383 Abs. 1 Nr. 1 bis 3 der
+Zivilprozessordnung) die Gefahr zuziehen würde, wegen einer Straftat
+oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert
+werden.
 
 
 ##### § 100 Auskunftspflicht des Arztes oder Angehörigen eines anderen Heilberufs
@@ -4115,13 +4221,13 @@ Mitteilung eingewilligt hat. § 100 Abs. 1 Satz 2 gilt entsprechend.
 
 ##### § 101a Mitteilungen der Meldebehörden
 
-(1) Die Datenstelle der Träger der Rentenversicherung übermittelt die
+(1) Die Datenstelle der Rentenversicherung übermittelt die
 Mitteilungen aller Sterbefälle und Anschriftenänderungen (§ 196 Abs. 2
 des Sechsten Buches) unverzüglich an die Deutsche Post AG.
 
-(2) Die Mitteilungen, die von der Datenstelle der Träger der
-Rentenversicherung an die Deutsche Post AG übermittelt werden, dürfen
-von der Deutschen Post AG
+(2) Die Mitteilungen, die von der Datenstelle der Rentenversicherung
+an die Deutsche Post AG übermittelt werden, dürfen von der Deutschen
+Post AG
 
 1.  nur dazu verwendet werden, um laufende Geldleistungen der
     Leistungsträger, der in § 69 Abs. 2 genannten Stellen sowie
@@ -4453,8 +4559,8 @@ Schadensereignisses mit dem Geschädigten oder seinen Hinterbliebenen
 in häuslicher Gemeinschaft leben, ausgeschlossen. Ein Ersatzanspruch
 nach Absatz 1 kann dann nicht geltend gemacht werden, wenn der
 Schädiger mit dem Geschädigten oder einem Hinterbliebenen nach
-Eintritt des Schadensereignisses die Ehe geschlossen hat und in
-häuslicher Gemeinschaft lebt.
+Eintritt des Schadensereignisses die Ehe geschlossen oder eine
+Lebenspartnerschaft begründet hat und in häuslicher Gemeinschaft lebt.
 
 (7) Haben der Geschädigte oder seine Hinterbliebenen von dem zum
 Schadenersatz Verpflichteten auf einen übergegangenen Anspruch mit

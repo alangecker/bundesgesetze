@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 2487
 
 Zuletzt geändert durch
-:   Art. 31 G v. 8.11.2011 I 2178
+:   Art. 51 V v. 2.6.2016 I 1257
 
 
 
@@ -81,9 +81,9 @@ Binnenschiffe und deren Einbau in Binnenschiffe.
     Dezember 1997 zur Angleichung der Rechtsvorschriften der
     Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von
     gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus
-    Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EG Nr. L 59
-    S. 1), zuletzt geändert durch die Richtlinie 2004/26/EG vom 21. April
-    2004 (ABl. EU Nr. L 146 S. 1, Nr. L 225 S. 3).
+    Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EG 1998 Nr.
+    L 59 S. 1), die zuletzt durch die Richtlinie 2012/46/EU (ABl. L 353
+    vom 21.12.2012, S. 80) geändert worden ist.
 
 
 
@@ -136,8 +136,8 @@ eingebaut werden.
 
 ## § 3 Zuständige Behörde und Aufgaben
 
-Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt bei
-der Wasser- und Schifffahrtsdirektion Südwest als zuständige Behörde
+Die Generaldirektion Wasserstraßen und Schifffahrt als zuständige
+Behörde
 
 1.  überprüft die Konformität der Produktion und
 
@@ -159,10 +159,6 @@ fahrlässig entgegen § 2 Abs. 1 Satz 1 oder 2 einen Motor in den
 Verkehr bringt.
 
 
-## § 5 Übergangsbestimmungen
+## § 5 (weggefallen)
 
-Motoren dürfen bis zum 30. Juni 2007 in Verkehr gebracht und in ein
-Binnenschiff eingebaut werden, wenn sie nach Maßgabe des § 2 Abs. 1
-typgenehmigt sind, jedoch nur die Emissionsgrenzwerte der Stufe I nach
-Anhang XIV der Richtlinie einhalten.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1177 (1244)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.6.2012 I 1393
+:   Art. 1 V v. 24.6.2017 I 1937
 
 
 ## Eingangsformel
@@ -215,12 +215,28 @@ erhöhten Auslandszuschlags für dieses Kalenderjahr angerechnet, soweit
 es das Zwölffache der monatlichen Entgeltgrenze für geringfügige
 Beschäftigungen (§ 8 Absatz 1 Nummer 1 des Vierten Buches
 Sozialgesetzbuch) oder den entsprechenden Betrag in ausländischer
-Währung übersteigt. Nettoerwerbseinkommen ist die Summe der Einkünfte
-aus Land- und Forstwirtschaft, Gewerbebetrieb sowie selbständiger und
-nichtselbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 1 bis 4 des
-Einkommensteuergesetzes) nach Abzug der entrichteten Steuern vom
-Einkommen und der Arbeitnehmeranteile zur gesetzlichen Sozial- und
-Arbeitslosenversicherung.
+Währung übersteigt. Nettoerwerbseinkommen im Sinne des Satzes 1 ist
+die Summe der nach Abzug der entrichteten Steuern vom Einkommen und
+der Arbeitnehmeranteile zur gesetzlichen Sozialversicherung
+verbleibenden Einkünfte aus:
+
+1.  Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1 in Verbindung
+    mit § 13 des Einkommensteuergesetzes),
+
+
+2.  Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 15
+    des Einkommensteuergesetzes),
+
+
+3.  selbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3 in Verbindung mit §
+    18 des Einkommensteuergesetzes) und
+
+
+4.  nichtselbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4 in Verbindung
+    mit § 19 Absatz 1 Satz 1 Nummer 1 und 3 des Einkommensteuergesetzes).
+
+
+
 
 
 ## § 6 Erhöhter Auslandszuschlag für weitere Berechtigte
@@ -241,18 +257,23 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2010, 1179 - 1184;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2014, 803 – 809)
 
 
-*    *   lfd.
-        Nr.
-
+*    *
     *   Staat
 
     *   Dienstort
 
     *   Zonenstufe
+
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
 
 
 *    *   Abschnitt 1
@@ -267,8 +288,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
-
 
 *    *   2
 
@@ -277,8 +296,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Brüssel
 
     *   2
-
-    *   (zwei)
 
 
 *    *   3
@@ -289,17 +306,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
-
-
-*    *
-    *
-    *   Banja Luka
-
-    *   11
-
-    *   (elf)
-
 
 *    *   4
 
@@ -308,8 +314,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Sofia
 
     *   9
-
-    *   (neun)
 
 
 *    *   5
@@ -320,8 +324,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
-
 
 *    *   6
 
@@ -331,8 +333,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7
 
-    *   (sieben)
-
 
 *    *   7
 
@@ -340,9 +340,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Helsinki
 
-    *   2
-
-    *   (zwei)
+    *   3
 
 
 *    *   8
@@ -351,48 +349,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Paris
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *
+*    *   9
+
     *
     *   Bordeaux
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *
+*    *   10
+
     *
     *   Lyon
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *
+*    *   11
+
     *
     *   Marseille
 
     *   2
 
-    *   (zwei)
 
+*    *   12
 
-*    *
     *
     *   Straßburg
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *   9
+*    *   13
 
     *   Griechenland
 
@@ -400,19 +392,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4
 
-    *   (vier)
 
+*    *   14
 
-*    *
     *
     *   Thessaloniki
 
     *   4
 
-    *   (vier)
 
-
-*    *   10
+*    *   15
 
     *   Irland
 
@@ -420,10 +409,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
-
-*    *   11
+*    *   16
 
     *   Island
 
@@ -431,10 +418,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *   (drei)
 
-
-*    *   12
+*    *   17
 
     *   Italien
 
@@ -442,39 +427,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   (zwei)
 
+*    *   18
 
-*    *
     *
     *   Mailand
 
     *   2
 
-    *   (zwei)
 
-
-*    *
-    *
-    *   Neapel
-
-    *   3
-
-    *   (drei)
-
-
-*    *   13
+*    *   19
 
     *   Kosovo
 
     *   Pristina
 
-    *   11
-
-    *   (elf)
+    *   12
 
 
-*    *   14
+*    *   20
 
     *   Kroatien
 
@@ -482,10 +453,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9
 
-    *   (neun)
 
-
-*    *   15
+*    *   21
 
     *   Lettland
 
@@ -493,10 +462,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7
 
-    *   (sieben)
 
-
-*    *   16
+*    *   22
 
     *   Litauen
 
@@ -504,10 +471,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7
 
-    *   (sieben)
 
-
-*    *   17
+*    *   23
 
     *   Luxemburg
 
@@ -515,10 +480,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
-
-*    *   18
+*    *   24
 
     *   Malta
 
@@ -526,10 +489,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4
 
-    *   (vier)
 
-
-*    *   19
+*    *   25
 
     *   Mazedonien
 
@@ -537,10 +498,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
 
-
-*    *   20
+*    *   26
 
     *   Moldau
 
@@ -548,10 +507,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
 
-
-*    *   21
+*    *   27
 
     *   Montenegro
 
@@ -559,10 +516,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
 
-
-*    *   22
+*    *   28
 
     *   Niederlande
 
@@ -570,19 +525,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
+*    *   29
 
-*    *
     *
     *   Amsterdam
 
     *   1
 
-    *   (eins)
 
-
-*    *   23
+*    *   30
 
     *   Norwegen
 
@@ -590,10 +542,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *   (drei)
 
-
-*    *   24
+*    *   31
 
     *   Österreich
 
@@ -601,10 +551,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
-
-*    *   25
+*    *   32
 
     *   Polen
 
@@ -612,46 +560,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *   (drei)
 
+*    *   33
 
-*    *
     *
     *   Breslau
 
     *   4
 
-    *   (vier)
 
+*    *   34
 
-*    *
     *
     *   Danzig
 
     *   4
 
-    *   (vier)
 
+*    *   35
 
-*    *
     *
     *   Krakau
 
     *   4
 
-    *   (vier)
 
+*    *   36
 
-*    *
     *
     *   Oppeln
 
     *   5
 
-    *   (fünf)
 
-
-*    *   26
+*    *   37
 
     *   Portugal
 
@@ -659,19 +601,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   (zwei)
 
-
-*    *
-    *
-    *   Porto
-
-    *   2
-
-    *   (zwei)
-
-
-*    *   27
+*    *   38
 
     *   Rumänien
 
@@ -679,28 +610,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9
 
-    *   (neun)
 
+*    *   39
 
-*    *
     *
     *   Hermannstadt
 
     *   10
 
-    *   (zehn)
 
+*    *   40
 
-*    *
     *
     *   Temeswar
 
     *   9
 
-    *   (neun)
 
-
-*    *   28
+*    *   41
 
     *   Russland
 
@@ -708,46 +635,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9
 
-    *   (neun)
 
+*    *   42
 
-*    *
     *
     *   Jekaterinburg
 
-    *   10
-
-    *   (zehn)
+    *   11
 
 
-*    *
+*    *   43
+
     *
     *   Kaliningrad
 
     *   11
 
-    *   (elf)
 
+*    *   44
 
-*    *
     *
     *   Nowosibirsk
 
     *   11
 
-    *   (elf)
 
+*    *   45
 
-*    *
     *
     *   St. Petersburg
 
     *   10
 
-    *   (zehn)
 
-
-*    *   29
+*    *   46
 
     *   Schweden
 
@@ -755,10 +676,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   (zwei)
 
-
-*    *   30
+*    *   47
 
     *   Schweiz
 
@@ -766,19 +685,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
+*    *   48
 
-*    *
     *
     *   Genf
 
     *   1
 
-    *   (eins)
 
-
-*    *   31
+*    *   49
 
     *   Serbien
 
@@ -786,21 +702,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
 
-
-*    *   32
+*    *   50
 
     *   Slowakische Republik
 
-    *   Preßburg
+    *   Pressburg
 
     *   3
 
-    *   (drei)
 
-
-*    *   33
+*    *   51
 
     *   Slowenien
 
@@ -808,10 +720,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *   (drei)
 
-
-*    *   34
+*    *   52
 
     *   Spanien
 
@@ -819,64 +729,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   (zwei)
 
+*    *   53
 
-*    *
     *
     *   Barcelona
 
     *   2
 
-    *   (zwei)
 
+*    *   54
 
-*    *
     *
-    *   Las Palmas de Gran Canaria
+    *   Las Palmas de Gran
+        Canaria
 
     *   2
 
-    *   (zwei)
 
+*    *   55
 
-*    *
     *
     *   Malaga
 
     *   2
 
-    *   (zwei)
 
+*    *   56
 
-*    *
     *
     *   Palma de Mallorca
 
     *   2
 
-    *   (zwei)
 
-
-*    *
-    *
-    *   Santa Cruz de Tenerife
-
-    *   2
-
-    *   (zwei)
-
-
-*    *
-    *
-    *   Sevilla
-
-    *   2
-
-    *   (zwei)
-
-
-*    *   35
+*    *   57
 
     *   Tschechische Republik
 
@@ -884,10 +771,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *   (drei)
 
-
-*    *   36
+*    *   58
 
     *   Türkei
 
@@ -895,37 +780,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6
 
-    *   (sechs)
 
+*    *   59
 
-*    *
     *
     *   Antalya
 
     *   6
 
-    *   (sechs)
 
+*    *   60
 
-*    *
     *
     *   Istanbul
 
     *   6
 
-    *   (sechs)
 
+*    *   61
 
-*    *
     *
     *   Izmir
 
     *   6
 
-    *   (sechs)
 
-
-*    *   37
+*    *   62
 
     *   Ukraine
 
@@ -933,19 +813,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
 
+*    *   63
 
-*    *
     *
     *   Donezk
 
-    *   10
-
-    *   (zehn)
+    *   11
 
 
-*    *   38
+*    *   64
 
     *   Ungarn
 
@@ -953,30 +830,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3
 
-    *   (drei)
 
-
-*    *   39
+*    *   65
 
     *   Vereinigtes Königreich
 
     *   London
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *
+*    *   66
+
     *
     *   Edinburgh
 
     *   2
 
-    *   (zwei)
 
-
-*    *   40
+*    *   67
 
     *   Weißrussland
 
@@ -984,10 +856,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
 
-
-*    *   41
+*    *   68
 
     *   Zypern
 
@@ -995,25 +865,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5
 
-    *   (fünf)
-
 
 *    *   Abschnitt 2
         **Afrika**
 
 
-*    *   1
+*    *   69
 
     *   Ägypten
 
     *   Kairo
 
-    *   14
-
-    *   (vierzehn)
+    *   15
 
 
-*    *   2
+*    *   70
 
     *   Algerien
 
@@ -1021,10 +887,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   3
+*    *   71
 
     *   Angola
 
@@ -1032,10 +896,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19
 
-    *   (neunzehn)
 
-
-*    *   4
+*    *   72
 
     *   Äquatorialguinea
 
@@ -1043,10 +905,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   5
+*    *   73
 
     *   Äthiopien
 
@@ -1054,10 +914,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   6
+*    *   74
 
     *   Benin
 
@@ -1065,10 +923,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   7
+*    *   75
 
     *   Botsuana
 
@@ -1076,10 +932,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   8
+*    *   76
 
     *   Burkina Faso
 
@@ -1087,32 +941,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   9
+*    *   77
 
     *   Burundi
 
     *   Bujumbura
 
-    *   17
-
-    *   (siebzehn)
+    *   18
 
 
-*    *   10
+*    *   78
 
-    *   Côte d´Ivoire
+    *   Côte d*                       Ivoire
 
     *   Abidjan
 
-    *   20
-
-    *   (zwanzig)
+    *   19
 
 
-*    *   11
+*    *   79
 
     *   Dschibuti
 
@@ -1120,10 +968,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   12
+*    *   80
 
     *   Eritrea
 
@@ -1131,10 +977,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   13
+*    *   81
 
     *   Gabun
 
@@ -1142,10 +986,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   14
+*    *   82
 
     *   Ghana
 
@@ -1153,10 +995,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   15
+*    *   83
 
     *   Guinea
 
@@ -1164,10 +1004,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   16
+*    *   84
 
     *   Kamerun
 
@@ -1175,10 +1013,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   17
+*    *   85
 
     *   Kenia
 
@@ -1186,10 +1022,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
+
+*    *   86
+
+    *   Kongo
+
+    *   Brazzaville
+
+    *   20
 
 
-*    *   18
+*    *   87
 
     *   Kongo,
         Demokratische Republik
@@ -1198,10 +1041,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   19
+*    *   88
 
     *   Liberia
 
@@ -1209,10 +1050,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   20
+*    *   89
 
     *   Libyen
 
@@ -1220,10 +1059,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   21
+*    *   90
 
     *   Madagaskar
 
@@ -1231,32 +1068,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   22
+*    *   91
 
     *   Malawi
 
     *   Lilongwe
 
-    *   16
-
-    *   (sechzehn)
+    *   17
 
 
-*    *   23
+*    *   92
 
     *   Mali
 
     *   Bamako
 
-    *   18
-
-    *   (achtzehn)
+    *   19
 
 
-*    *   24
+*    *   93
 
     *   Marokko
 
@@ -1264,10 +1095,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   25
+*    *   94
 
     *   Mauretanien
 
@@ -1275,21 +1104,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19
 
-    *   (neunzehn)
 
-
-*    *   26
+*    *   95
 
     *   Mosambik
 
     *   Maputo
 
-    *   18
-
-    *   (achtzehn)
+    *   17
 
 
-*    *   27
+*    *   96
 
     *   Namibia
 
@@ -1297,10 +1122,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15
 
-    *   (fünfzehn)
 
-
-*    *   28
+*    *   97
 
     *   Niger
 
@@ -1308,10 +1131,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19
 
-    *   (neunzehn)
 
-
-*    *   29
+*    *   98
 
     *   Nigeria
 
@@ -1319,19 +1140,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19
 
-    *   (neunzehn)
 
+*    *   99
 
-*    *
     *
     *   Lagos
 
     *   19
 
-    *   (neunzehn)
 
-
-*    *   30
+*    *   100
 
     *   Ruanda
 
@@ -1339,10 +1157,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   31
+*    *   101
 
     *   Sambia
 
@@ -1350,10 +1166,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   32
+*    *   102
 
     *   Senegal
 
@@ -1361,10 +1175,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   33
+*    *   103
 
     *   Sierra Leone
 
@@ -1372,10 +1184,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   34
+*    *   104
 
     *   Simbabwe
 
@@ -1383,10 +1193,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   35
+*    *   105
 
     *   Sudan
 
@@ -1394,30 +1202,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   36
+*    *   106
 
     *   Südafrika
 
     *   Pretoria
 
-    *   13
-
-    *   (dreizehn)
+    *   14
 
 
-*    *
+*    *   107
+
     *
     *   Kapstadt
 
     *   14
 
-    *   (vierzehn)
+
+*    *   108
+
+    *   Südsudan
+
+    *   Dschuba
+
+    *   20
 
 
-*    *   37
+*    *   109
 
     *   Tansania
 
@@ -1425,10 +1237,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   38
+*    *   110
 
     *   Togo
 
@@ -1436,21 +1246,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19
 
-    *   (neunzehn)
 
-
-*    *   39
+*    *   111
 
     *   Tschad
 
-    *   N´Djamena
+    *   N*                       Djamena
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   40
+*    *   112
 
     *   Tunesien
 
@@ -1458,25 +1264,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   41
+*    *   113
 
     *   Uganda
 
     *   Kampala
 
-    *   16
-
-    *   (sechzehn)
+    *   17
 
 
 *    *   Abschnitt 3
         **Amerika**
 
 
-*    *   1
+*    *   114
 
     *   Argentinien
 
@@ -1484,10 +1286,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
 
-
-*    *   2
+*    *   115
 
     *   Bolivien
 
@@ -1495,10 +1295,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   3
+*    *   116
 
     *   Brasilien
 
@@ -1506,46 +1304,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
+*    *   117
 
-*    *
     *
     *   Porto Alegre
 
     *   12
 
-    *   (zwölf)
 
+*    *   118
 
-*    *
     *
     *   Recife
 
     *   12
 
-    *   (zwölf)
 
+*    *   119
 
-*    *
     *
     *   Rio de Janeiro
 
     *   12
 
-    *   (zwölf)
 
+*    *   120
 
-*    *
     *
     *   São Paulo
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   4
+*    *   121
 
     *   Chile
 
@@ -1553,10 +1345,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
 
-
-*    *   5
+*    *   122
 
     *   Costa Rica
 
@@ -1564,10 +1354,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   6
+*    *   123
 
     *   Dominikanische Republik
 
@@ -1575,10 +1363,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   7
+*    *   124
 
     *   Ecuador
 
@@ -1586,10 +1372,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   8
+*    *   125
 
     *   El Salvador
 
@@ -1597,10 +1381,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   9
+*    *   126
 
     *   Guatemala
 
@@ -1608,10 +1390,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   10
+*    *   127
 
     *   Haiti
 
@@ -1619,10 +1399,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   11
+*    *   128
 
     *   Honduras
 
@@ -1630,21 +1408,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
+*    *   129
 
-*    *   12
-
-    *   Jamaica
+    *   Jamaika
 
     *   Kingston
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   13
+*    *   130
 
     *   Kanada
 
@@ -1652,48 +1426,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7
 
-    *   (sieben)
 
+*    *   131
 
-*    *
     *
     *   Montreal
 
     *   7
 
-    *   (sieben)
 
+*    *   132
 
-*    *
     *
     *   Toronto
 
     *   7
 
-    *   (sieben)
 
+*    *   133
 
-*    *
     *
     *   Vancouver
 
     *   7
 
-    *   (sieben)
 
-
-*    *   14
+*    *   134
 
     *   Kolumbien
 
     *   Bogotá
 
-    *   13
-
-    *   (dreizehn)
+    *   12
 
 
-*    *   15
+*    *   135
 
     *   Kuba
 
@@ -1701,10 +1468,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   16
+*    *   136
 
     *   Mexiko
 
@@ -1712,10 +1477,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   17
+*    *   137
 
     *   Nicaragua
 
@@ -1723,10 +1486,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   18
+*    *   138
 
     *   Panama
 
@@ -1734,10 +1495,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
 
-
-*    *   19
+*    *   139
 
     *   Paraguay
 
@@ -1745,10 +1504,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   20
+*    *   140
 
     *   Peru
 
@@ -1756,10 +1513,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   21
+*    *   141
 
     *   Trinidad und Tobago
 
@@ -1767,10 +1522,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   22
+*    *   142
 
     *   Uruguay
 
@@ -1778,108 +1531,94 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
 
-
-*    *   23
+*    *   143
 
     *   Venezuela
 
     *   Caracas
 
-    *   13
-
-    *   (dreizehn)
+    *   14
 
 
-*    *   24
+*    *   144
 
     *   Vereinigte Staaten
-        von Amerika
 
     *   Washington
 
     *   7
 
-    *   (sieben)
 
+*    *   145
 
-*    *
+    *
     *   Atlanta
 
     *   8
 
-    *   (acht)
 
+*    *   146
 
-*    *
     *
     *   Boston
 
     *   7
 
-    *   (sieben)
 
+*    *   147
 
-*    *
     *
     *   Chicago
 
     *   7
 
-    *   (sieben)
 
+*    *   148
 
-*    *
     *
     *   Houston
 
     *   8
 
-    *   (acht)
 
+*    *   149
 
-*    *
     *
     *   Los Angeles
 
     *   8
 
-    *   (acht)
 
+*    *   150
 
-*    *
     *
     *   Miami
 
-    *   7
-
-    *   (sieben)
+    *   8
 
 
-*    *
+*    *   151
+
     *
     *   New York
 
     *   7
 
-    *   (sieben)
 
+*    *   152
 
-*    *
     *
     *   San Francisco
 
     *   7
-
-    *   (sieben)
 
 
 *    *   Abschnitt 4
         **Asien**
 
 
-*    *   1
+*    *   153
 
     *   Afghanistan
 
@@ -1887,37 +1626,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
+*    *   154
 
-*    *
-    *
-    *   Faisabad
-
-    *   20
-
-    *   (zwanzig)
-
-
-*    *
-    *
-    *   Kundus
-
-    *   20
-
-    *   (zwanzig)
-
-
-*    *
     *
     *   Masar-e-Sharif
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   2
+*    *   155
 
     *   Armenien
 
@@ -1925,10 +1643,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   3
+*    *   156
 
     *   Aserbaidschan
 
@@ -1936,10 +1652,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   4
+*    *   157
 
     *   Bahrain
 
@@ -1947,10 +1661,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   5
+*    *   158
 
     *   Bangladesch
 
@@ -1958,10 +1670,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   6
+*    *   159
 
     *   Brunei
 
@@ -1969,68 +1679,66 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   7
+*    *   160
 
     *   China
 
     *   Peking
 
-    *   13
-
-    *   (dreizehn)
+    *   14
 
 
-*    *
+*    *   161
+
     *
     *   Chengdu
 
     *   14
 
-    *   (vierzehn)
 
+*    *   162
 
-*    *
     *
     *   Hongkong
 
-    *   11
-
-    *   (elf)
+    *   12
 
 
-*    *
+*    *   163
+
     *
     *   Kanton
 
     *   14
 
-    *   (vierzehn)
 
+*    *   164
 
-*    *
     *
     *   Shanghai
 
     *   13
 
-    *   (dreizehn)
+
+*    *   165
+
+    *
+    *   Shenyang
+
+    *   15
 
 
-*    *   8
+*    *   166
 
     *   Georgien
 
     *   Tiflis
 
-    *   18
-
-    *   (achtzehn)
+    *   17
 
 
-*    *   9
+*    *   167
 
     *   Indien
 
@@ -2038,57 +1746,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
+*    *   168
 
-*    *
     *
     *   Bangalore
 
     *   16
 
-    *   (sechzehn)
 
+*    *   169
 
-*    *
     *
     *   Chennai (Madras)
 
     *   16
 
-    *   (sechzehn)
 
+*    *   170
 
-*    *
     *
     *   Kalkutta
 
     *   16
 
-    *   (sechzehn)
 
+*    *   171
 
-*    *
     *
     *   Mumbai (Bombay)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   10
+*    *   172
 
     *   Indonesien
 
     *   Jakarta
 
-    *   16
-
-    *   (sechzehn)
+    *   15
 
 
-*    *   11
+*    *   173
 
     *   Irak
 
@@ -2096,10 +1796,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
+
+*    *   174
+
+    *
+    *   Erbil
+
+    *   18
 
 
-*    *   12
+*    *   175
 
     *   Iran
 
@@ -2107,10 +1813,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   13
+*    *   176
 
     *   Israel
 
@@ -2118,10 +1822,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   14
+*    *   177
 
     *   Japan
 
@@ -2129,39 +1831,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
 
+*    *   178
 
-*    *
     *
     *   Osaka-Kobe
 
     *   11
 
-    *   (elf)
 
-
-*    *   15
+*    *   179
 
     *   Jemen
 
     *   Sanaa
 
-    *   17
-
-    *   (siebzehn)
+    *   18
 
 
-*    *
-    *
-    *   Aden
-
-    *   17
-
-    *   (siebzehn)
-
-
-*    *   16
+*    *   180
 
     *   Jordanien
 
@@ -2169,10 +1857,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   17
+*    *   181
 
     *   Kambodscha
 
@@ -2180,10 +1866,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   18
+*    *   182
 
     *   Kasachstan
 
@@ -2191,19 +1875,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
+*    *   183
 
-*    *
     *
     *   Almaty
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   19
+*    *   184
 
     *   Katar
 
@@ -2211,10 +1892,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   20
+*    *   185
 
     *   Kirgisistan
 
@@ -2222,10 +1901,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   21
+*    *   186
 
     *   Korea,
         Demokratische Volksrepublik
@@ -2234,33 +1911,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
+*    *   187
 
-*    *   22
-
-    *   Korea,
-        Republik
+    *   Korea, Republik
 
     *   Seoul
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   23
+*    *   188
 
     *   Kuwait
 
     *   Kuwait
 
-    *   13
-
-    *   (dreizehn)
+    *   14
 
 
-*    *   24
+*    *   189
 
     *   Laos
 
@@ -2268,21 +1938,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   25
+*    *   190
 
     *   Libanon
 
     *   Beirut
 
-    *   14
-
-    *   (vierzehn)
+    *   15
 
 
-*    *   26
+*    *   191
 
     *   Malaysia
 
@@ -2290,10 +1956,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   27
+*    *   192
 
     *   Mongolei
 
@@ -2301,10 +1965,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
-
-*    *   28
+*    *   193
 
     *   Myanmar
 
@@ -2312,21 +1974,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   29
+*    *   194
 
     *   Nepal
 
     *   Kathmandu
 
-    *   17
-
-    *   (siebzehn)
+    *   18
 
 
-*    *   30
+*    *   195
 
     *   Oman
 
@@ -2334,10 +1992,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   31
+*    *   196
 
     *   Pakistan
 
@@ -2345,19 +2001,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
+*    *   197
 
-*    *
     *
     *   Karachi
 
     *   17
 
-    *   (siebzehn)
 
-
-*    *   32
+*    *   198
 
     *   Philippinen
 
@@ -2365,30 +2018,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15
 
-    *   (fünfzehn)
 
+*    *   199
 
-*    *   33
-
-    *   Saudi-Arabien
+    *   Saudi Arabien
 
     *   Riad
 
     *   15
 
-    *   (fünfzehn)
 
+*    *   200
 
-*    *
     *
     *   Djidda
 
     *   15
 
-    *   (fünfzehn)
 
-
-*    *   34
+*    *   201
 
     *   Singapur
 
@@ -2396,10 +2044,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
 
-
-*    *   35
+*    *   202
 
     *   Sri Lanka
 
@@ -2407,21 +2053,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15
 
-    *   (fünfzehn)
 
-
-*    *   36
+*    *   203
 
     *   Syrien
 
     *   Damaskus
 
-    *   17
-
-    *   (siebzehn)
+    *   18
 
 
-*    *   37
+*    *   204
 
     *   Tadschikistan
 
@@ -2429,10 +2071,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   38
+*    *   205
 
     *   Thailand
 
@@ -2440,10 +2080,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   39
+*    *   206
 
     *   Turkmenistan
 
@@ -2451,21 +2089,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   40
+*    *   207
 
     *   Usbekistan
 
     *   Taschkent
 
-    *   18
-
-    *   (achtzehn)
+    *   17
 
 
-*    *   41
+*    *   208
 
     *   Vereinigte Arabische Emirate
 
@@ -2473,19 +2107,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
+*    *   209
 
-*    *
     *
     *   Dubai
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   42
+*    *   210
 
     *   Vietnam
 
@@ -2493,23 +2124,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
+*    *   211
 
-*    *
     *
     *   Ho-Chi-Minh-Stadt
 
     *   16
-
-    *   (sechzehn)
 
 
 *    *   Abschnitt 5
         **Australien und Neuseeland**
 
 
-*    *   1
+*    *   212
 
     *   Australien
 
@@ -2517,76 +2145,56 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7
 
-    *   (sieben)
 
+*    *   213
 
-*    *
-    *
-    *   Melbourne
-
-    *   7
-
-    *   (sieben)
-
-
-*    *
     *
     *   Sydney
 
-    *   6
-
-    *   (sechs)
+    *   7
 
 
-*    *   2
+*    *   214
 
     *   Neuseeland
 
     *   Wellington
 
-    *   6
-
-    *   (sechs)
+    *   7
 
 
-*    *
+*    *   Abschnitt 6
+        **Weitere Dienstorte**
+
+
+*    *   215
+
     *
-    *
-    *
-    *
-
-*    *
-    *   Palästinensisches
-        Autonomiegebiet
-
     *   Ramallah
+        (Palästinensisches
+        Autonomiegebiet)
 
     *   16
 
-    *   (sechzehn)
 
+*    *   216
 
-*    *
-    *   Taiwan
-
+    *
     *   Taipei
+        (Taiwan)
 
     *   13
 
-    *   (dreizehn)
 
 
 
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. I 2010, 1185;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2017, 1937)
 
 
-*    *   lfd.
-        Nr.
-
+*    *
     *   Staat
 
     *   Dienstort
@@ -2594,7 +2202,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zonenstufe
 
 
-*    *   Abschnitt 1
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   **Abschnitt 1**
         **Europa**
 
 
@@ -2602,131 +2218,77 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Belgien
 
-    *   Casteau (Shape)
+    *   Glons
 
     *   3
 
-    *   (drei)
-
 
 *    *   2
+
+    *   Frankreich
+
+    *   Le Luc
+
+    *   3
+
+
+*    *   3
+
+    *   Nancy
+
+    *   2
+
+
+*    *   4
 
     *   Italien
 
     *   Decimomannu
 
+    *   4
+
+
+*    *   5
+
+    *   Giugliano
+
     *   3
 
-    *   (drei)
 
-
-*    *   3
+*    *   6
 
     *   Niederlande
 
-    *   Brunssum
-
-    *   2
-
-    *   (zwei)
-
-
-*    *
-    *
     *   Eibergen
 
     *   2
 
-    *   (zwei)
 
-
-*    *   Abschnitt 2
+*    *   **Abschnitt 2**
         **Amerika**
 
 
-*    *   1
-
-    *   Kanada
-
-    *   Cold Lake, Alberta
-
-    *   8
-
-    *   (acht)
-
-
-*    *
-    *
-    *   Winnipeg, Manitoba
-
-    *   8
-
-    *   (acht)
-
-
-*    *   2
+*    *   7
 
     *   Vereinigte Staaten
-        von Amerika
 
-    *   Albuquerque, New Mexico
+    *   Carlisle
 
-    *   7
-
-    *   (sieben)
+    *   8
 
 
-*    *
-    *   Fort Benning, Georgia
-
-    *   9
-
-    *   (neun)
+*    *   **Abschnitt 3**
+        **Weitere Dienstorte**
 
 
-*    *
+*    *   8
+
     *
-    *   Fort Rucker, Alabama
+    *   Neumayer-Station III
+        (Antarktis)
 
-    *   9
+    *   11
 
-    *   (neun)
-
-
-*    *
-    *
-    *   Fort Sill, Oklahoma
-
-    *   7
-
-    *   (sieben)
-
-
-*    *
-    *
-    *   Kirtland AFB, New Mexico
-
-    *   7
-
-    *   (sieben)
-
-
-*    *
-    *
-    *   Maxwell AFB, Alabama
-
-    *   9
-
-    *   (neun)
-
-
-*    *
-    *
-    *   Sheppard AFB, Texas
-
-    *   7
-
-    *   (sieben)
 
 
 

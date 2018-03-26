@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1163
 
 Zuletzt geändert durch
-:   Art. 4 G v. 17.7.2009 I 1990
+:   Art. 50 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -84,18 +84,18 @@ dieser Arzneimittel sowie für andere Amtshandlungen nach diesem Gesetz
 erhebt das Paul-Ehrlich-Institut Kosten (Gebühren und Auslagen). Das
 Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit
 dem Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie und, soweit es sich um Arzneimittel nach
-Absatz Nr. 3 handelt, mit dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher
-zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
-Höhe der Gebühren für die Entscheidung über die Zulassung bestimmt
-sich nach dem Personal- und Sachaufwand, zu dem insbesondere der
-Aufwand für das Zulassungsverfahren, für die Prüfungen und für die
-Entwicklung geeigneter Prüfungsverfahren gehört. Die Höhe der Gebühren
-für die Entscheidung über die Freigabe einer Charge bestimmt sich nach
-dem durchschnittlichen Personal- und Sachaufwand, wobei der Aufwand
-für vorangegangene Prüfungen unberücksichtigt bleibt. Daneben ist die
+Wirtschaft und Energie und, soweit es sich um Arzneimittel nach Absatz
+Nr. 3 handelt, mit dem Bundesministerium für Ernährung und
+Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates
+die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste
+Sätze oder Rahmensätze vorzusehen. Die Höhe der Gebühren für die
+Entscheidung über die Zulassung bestimmt sich nach dem Personal- und
+Sachaufwand, zu dem insbesondere der Aufwand für das
+Zulassungsverfahren, für die Prüfungen und für die Entwicklung
+geeigneter Prüfungsverfahren gehört. Die Höhe der Gebühren für die
+Entscheidung über die Freigabe einer Charge bestimmt sich nach dem
+durchschnittlichen Personal- und Sachaufwand, wobei der Aufwand für
+vorangegangene Prüfungen unberücksichtigt bleibt. Daneben ist die
 Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der
 Freigabe für den Gebührenschuldner angemessen zu berücksichtigten. Die
 Gebühren dürfen im Einzelfall folgende Höchstsätze nicht übersteigen:

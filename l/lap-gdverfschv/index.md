@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 2640
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 6 V v. 12.2.2009 I 320
+:   Art. 13 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -267,8 +267,9 @@ weitere Unterlagen beizubringen:
     Nachweis der Staatsangehörigkeit,
 
 
-3.  gegebenenfalls eine Ausfertigung der Eheurkunde und Ausfertigungen der
-    Geburtsurkunden der Kinder,
+3.  gegebenenfalls eine Ausfertigung der Eheurkunde oder der
+    Lebenspartnerschaftsurkunde und Ausfertigungen der Geburtsurkunden der
+    Kinder,
 
 
 4.  ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
@@ -508,7 +509,7 @@ demokratische Staats- und Gesellschaftsordnung und für die sozialen,
 gesellschaftlichen, wirtschaftlichen und rechtlichen Bezüge sowie
 Kenntnisse, Fähigkeiten und Fertigkeiten zur Analyse von
 Arbeitsaufgaben, zur Auswahl und Anwendung von Arbeitsmethoden und
-mitteln und zur innerbehördlichen und fachübergreifenden
+-mitteln und zur innerbehördlichen und fachübergreifenden
 Zusammenarbeit. Das Grundstudium soll die Fähigkeit zu
 adressatengerechtem Verhalten fördern und bereitet auch auf das
 nachfolgende Praktikum vor.
@@ -651,10 +652,10 @@ Bereitstellung der für die Praktika notwendigen Ausbildungsplätze.
 (2) Das Praktikum I findet beim Bundesamt für Verfassungsschutz statt.
 Ziel des Praktikums I ist es, die Anwärterinnen und Anwärter mit
 adressatenorientiertem Verhalten und den Aufgaben des
-Verfassungsschutzes, sowie den Aufgaben der inneren Verwaltung
-vertraut zu machen. Hierbei vertiefen die Anwärterinnen und Anwärter
-die im Grundstudium erworbenen Kenntnisse und lernen, sie in der
-Praxis anzuwenden.
+Verfassungsschutzes sowie den Aufgaben der inneren Verwaltung vertraut
+zu machen. Hierbei vertiefen die Anwärterinnen und Anwärter die im
+Grundstudium erworbenen Kenntnisse und lernen, sie in der Praxis
+anzuwenden.
 
 (3) Das Praktikum II a wird beim Bundesamt für Verfassungsschutz
 durchgeführt. Es knüpft an die Ausbildungsergebnisse des Praktikums I
@@ -789,11 +790,11 @@ weitere Leistungsnachweise zu erbringen.
 
 (4) Jeder Leistungsnachweis wird mindestens eine Woche vor der
 Ausführung angekündigt. Der Leistungsnachweis wird nach § 38 bewertet
-und schriftlich bestätigt; Studienabschnitt, Fach, Art des Nachweises,
-Rangpunkt und Note werden angegeben. Schriftliche Aufsichtsarbeiten
-sowie Referate werden gegenüber den übrigen Leistungsnachweisen
-doppelt gewichtet. Die Anwärterinnen und Anwärter erhalten eine
-Ausfertigung der Bestätigung.
+und schriftlich oder elektronisch bestätigt; Studienabschnitt, Fach,
+Art des Nachweises, Rangpunkt und Note werden angegeben. Schriftliche
+Aufsichtsarbeiten sowie Referate werden gegenüber den übrigen
+Leistungsnachweisen doppelt gewichtet. Die Anwärterinnen und Anwärter
+erhalten eine Ausfertigung der Bestätigung.
 
 (5) Die Leistungsnachweise sollen im Hauptstudium II einen Monat vor
 dem Beginn der schriftlichen Prüfung erbracht sein. Wer an einem
@@ -824,8 +825,8 @@ Leistungsnachweises bestimmt hat.
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
 Anwärter während der Praktika wird für jedes Ausbildungsgebiet, dem
 die Anwärterinnen und Anwärter nach dem Ausbildungsplan mindestens für
-einen Monat zugewiesen werden, eine schriftliche Bewertung nach § 38
-abgegeben.
+einen Monat zugewiesen werden, eine schriftliche oder elektronische
+Bewertung nach § 38 abgegeben.
 
 (2) Während der praxisbezogenen Lehrveranstaltungen sind mindestens
 vier Leistungsnachweise zu erbringen, die nach § 38 bewertet werden.
@@ -833,8 +834,8 @@ vier Leistungsnachweise zu erbringen, die nach § 38 bewertet werden.
 (3) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
 mit den Anwärterinnen und Anwärtern besprochen. Sie ist den
 Anwärterinnen und Anwärtern zu eröffnen. Diese erhalten eine
-Ausfertigung der Bewertung und können zu ihr schriftlich Stellung
-nehmen.
+Ausfertigung der Bewertung und können zu ihr schriftlich oder
+elektronisch Stellung nehmen.
 
 (4) Zum Abschluss der berufspraktischen Studienzeiten erstellt das
 Bundesamt für Verfassungsschutz ein zusammenfassendes Zeugnis, das die
@@ -1082,7 +1083,7 @@ bestellt. Die Wiederbestellung ist zulässig.
 
 
 
-Für die Bewertung der Diplomarbeit können weitere Beamtinnen und
+Für die Bewertung der Diplomarbeit können weitere Beamtinnen oder
 Beamte des höheren oder gehobenen Dienstes sowie Beamtinnen und
 Beamten des höheren Dienstes vergleichbare Tarifbeschäftigte als
 Prüferinnen oder Prüfer bestellt werden.
@@ -1271,7 +1272,7 @@ der schriftlichen Arbeiten bekannt gegeben werden.
 Aufsichtführenden fertigen eine Niederschrift und vermerken darin die
 Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeit,
 in Anspruch genommene Prüfungserleichterungen im Sinne des § 12 sowie
-etwaige besondere Vorkommnisse und unterschreiben die Niederschrift.
+etwaige besondere Vorkommnisse.
 
 (7) § 27 Abs. 5 ist entsprechend anzuwenden.
 
@@ -1321,7 +1322,7 @@ Durchschnittspunktzahl auszudrücken, die sich aus der Summe der
 Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der Prüfungskommission unterschreiben.
+die Mitglieder der Prüfungskommission bestätigen.
 
 
 ### § 36 Verhinderung, Rücktritt, Säumnis

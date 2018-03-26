@@ -19,7 +19,7 @@ Neugefasst durch
 :   Art. 15 § 1 G v. 20.12.1993 I 2182, 2221;
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 44 G v. 22.9.2005 I 2809
+:   Art. 18 G v. 21.11.2016 I 2591
 
 
 ## § 1 Geltungsbereich, Genehmigungsanspruch
@@ -312,14 +312,14 @@ unberührt.
 
 ## § 10 Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, mit Zustimmung
-des Bundesrates durch Rechtsverordnung ergänzende Bestimmungen über
-das Genehmigungsverfahren zu erlassen und, soweit die Bundesanstalt
-für vereinigungsbedingte Sonderaufgaben oder eines ihrer Unternehmen
-verfügungsbefugt ist oder eine Übertragung gemäß § 8 Satz 3
-vorgenommen wurde oder wird, die Zuständigkeiten für die Erteilung der
-Genehmigung einer oder mehreren anderen Stellen des Bundes zu
-übertragen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
+ergänzende Bestimmungen über das Genehmigungsverfahren zu erlassen
+und, soweit die Bundesanstalt für vereinigungsbedingte Sonderaufgaben
+oder eines ihrer Unternehmen verfügungsbefugt ist oder eine
+Übertragung gemäß § 8 Satz 3 vorgenommen wurde oder wird, die
+Zuständigkeiten für die Erteilung der Genehmigung einer oder mehreren
+anderen Stellen des Bundes zu übertragen.
 
 (2) Die Landesregierungen werden ermächtigt, die Zuständigkeit für die
 Erteilung der Genehmigung nach § 8 Abs. 1 Satz 1 auf eine oder mehrere

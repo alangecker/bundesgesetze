@@ -40,8 +40,9 @@ beschlossen:
 ## Art 4 - Übergangs- und Schlußvorschriften
 
 
+Auflösung der Rechtsvorgänger
 
-### I. - Auflösung der Rechtsvorgänger Vermögensübergang
+### I. - Vermögensübergang
 
 
 

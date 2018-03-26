@@ -16,6 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1642
 
+V aufgeh. durch
+:   Art. 4 Abs. 127 G v. 18.7.2016 I 1666 mWv 30.9.2021
+
+Zuletzt geändert durch
+:   Art. 6 V v. 25.9.2015 I 1664
+
+V aufgeh. durch
+:   Art. 4 Abs. 134 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
+
 
 ## Eingangsformel
 
@@ -68,18 +77,20 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
 ## § 1 Anwendungsbereich
 
 Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für die
-Durchführung von Amtshandlungen auf den Gebieten des Flaggenrechts,
-des Ausbildungs- und Befähigungswesens, der Schiffsvermessung, der
-Zulassung einschließlich Prüfung nautischer Systeme, Anlagen, Geräte
-und Instrumente, der Abwehr äußerer Gefahren auf See nach Kapitel XI-2
-der Anlage zum Internationalen Übereinkommen von 1974 zum Schutz des
-menschlichen Lebens auf See vom 1. November 1974 (BGBl. 1979 II S.
-141, 142), der Marktüberwachung von Schiffsausrüstung, der Aufsicht
-über benannte Stellen für Schiffsausrüstung, der Zulassung von
-Seeanlagen in der deutschen ausschließlichen Wirtschaftszone sowie des
-Bergrechts im Festlandsockel und des Raumordnungsrechts in der
-deutschen ausschließlichen Wirtschaftszone Gebühren und Auslagen nach
-dieser Verordnung.
+Durchführung von individuell zurechenbaren öffentlichen Leistungen auf
+den Gebieten des Flaggenrechts, des Ausbildungs- und
+Befähigungswesens, der Schiffsvermessung, der Zulassung einschließlich
+Prüfung nautischer Systeme, Anlagen, Geräte und Instrumente, der
+Abwehr äußerer Gefahren auf See nach Kapitel XI-2 der Anlage zum
+Internationalen Übereinkommen von 1974 zum Schutz des menschlichen
+Lebens auf See vom 1. November 1974 (BGBl. 1979 II S. 141, 142), der
+Marktüberwachung von Schiffsausrüstung, des schiffsbezogenen
+Umweltrechts, der Aufsicht über benannte Stellen für
+Schiffsausrüstung, der Zulassung von Seeanlagen in der deutschen
+ausschließlichen Wirtschaftszone sowie des Bergrechts im
+Festlandsockel und des Raumordnungsrechts in der deutschen
+ausschließlichen Wirtschaftszone Gebühren und Auslagen nach dieser
+Verordnung.
 
 
 ## § 2 Gebühren und Auslagen
@@ -88,7 +99,8 @@ dieser Verordnung.
 aus dem anliegenden Gebührenverzeichnis.
 
 (2) Auslagen werden nach Maßgabe des § 10 Absatz 1 Nummer 2 bis 6 und
-8 des Verwaltungskostengesetzes gesondert erhoben, sofern nicht im
+8 des Verwaltungskostengesetzes in der bis zum 14. August 2013
+geltenden Fassung gesondert erhoben, sofern nicht im
 Gebührenverzeichnis etwas anderes bestimmt ist.
 
 
@@ -120,8 +132,9 @@ zu § 2 Absatz 1 wird folgender Stundensatz angewendet:
 Für jede angefangene Viertelstunde ist ein Viertel dieses
 Stundensatzes zu berechnen.
 
-(3) Erfordert eine Amtshandlung ein Tätigwerden außerhalb der
-allgemeinen Dienstzeit, so werden folgende Zuschläge erhoben:
+(3) Erfordert eine individuell zurechenbare öffentliche Leistung ein
+Tätigwerden außerhalb der allgemeinen Dienstzeit, so werden folgende
+Zuschläge erhoben:
 
 *    *   1.
 
@@ -155,8 +168,9 @@ allgemeinen Dienstzeit, so werden folgende Zuschläge erhoben:
 
 der Gebühr nach § 2 Absatz 1.
 
-(4) Bei Amtshandlungen, die nach Zeitaufwand berechnet werden, umfasst
-die Dauer der Amtshandlung auch die Reisezeit, eine vom
+(4) Bei individuell zurechenbaren öffentlichen Leistungen, die nach
+Zeitaufwand berechnet werden, umfasst die Dauer der individuell
+zurechenbaren öffentlichen Leistung auch die Reisezeit, eine vom
 Gebührenschuldner verursachte Wartezeit sowie die Zeit für Vor- und
 Nachbereitung.
 
@@ -191,8 +205,9 @@ Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Dezember 2001
 (BGBl. I S. 4081), die durch Artikel 2 der Verordnung vom 19.
 September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
+(zu § 2 Absatz 1)
 
-## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 
 *    *   Lfd. Nr.
@@ -224,7 +239,7 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
 *    *   1003
 
-    *   Gestattung zur Führung einer anderen Nationalflagge
+    *   Genehmigung zur Führung einer anderen Nationalflagge
 
     *
 
@@ -258,7 +273,7 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
 *    *   1004
 
-    *   Änderung der Gestattung zur Führung einer anderen Nationalflagge ohne
+    *   Änderung der Genehmigung zur Führung einer anderen Nationalflagge ohne
         gleichzeitige Eintragung in das Internationale Seeschifffahrtsregister
 
     *   75
@@ -273,33 +288,56 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
 *    *
     *   II.
-        **Befähigungszeugnisse, Ausbildung**
+        **Bescheinigungen, Lehrgänge, Prüfungen**
 
     *
 
 *    *   2001
 
-    *   Erteilung, Ersatzausfertigung und Umtausch von Befähigungszeugnissen,
-        Befähigungsnachweisen, Seefunkzeugnissen, Anerkennungsvermerken
-        einschließlich einer Gültigkeitsverlängerung eines dieser Dokumente
-        sowie sonstige Bescheinigungen für Seeleute (je Dokument)
+    *   Erteilung, Ersatzausfertigung und Umtausch von Seefunkzeugnissen nach
+        SchSV sowie Befähigungszeugnissen oder Befähigungsnachweisen
+        einschließlich der Verlängerung der Gültigkeit dieser Bescheinigungen
+        nach den Teilen 2 bis 7 See-BV sowie von Anerkennungsvermerken nach §
+        20 bis § 22 See-BV und sonstigen Bescheinigungen für Seeleute nach §
+        24, § 25 und § 53 Absatz 2 See-BV (je Bescheinigung)
 
-    *   25 – 130
+    *   25 – 145
 
 
 *    *   2002
 
-    *   Verlängerung der Gültigkeit eines Seefunkzeugnisses
+    *   Abnahme von Prüfungen nach § 31 Satz 3, § 40 Satz 3 oder § 53 Absatz 1
+        Nummer 2 Buchstabe b See-BV
 
-    *   25 – 130
+    *   25 – 75
 
 
 *    *   2003
 
-    *   Anerkennung bzw. Zulassung von Lehrgängen zur Aus- und Fortbildung von
-        CSO und SSO
+    *   Zulassung von Lehrgängen nach § 20 Absatz 3, § 30 Absatz 7 Nummer 2
+        und 3, § 31 Nummer 1 Buchstabe b, § 33 Absatz 5, § 36 Satz 2, § 40
+        Nummer 1 Buchstabe b, § 44 Absatz 2, § 45 Absatz 2 Nummer 2 und Absatz
+        4 Nummer 2, § 46 Absatz 2, § 47 Nummer 3, § 48 Absatz 2, § 49 Absatz 2
+        Nummer 2, Absatz 4 Nummer 2 und Absatz 6 Nummer 2, § 50 Absatz 2
+        Nummer 2 und Absatz 4 Nummer 2, § 51 Absatz 5, § 53 Absatz 1 Nummer 2
+        Buchstabe a und Absatz 5, § 54 Absatz 1 und 3, § 55 und § 64 Absatz 5
+        Nummer 1 See-BV
 
-    *   1 000 – 3 000
+    *   1 500 – 4 320
+
+
+*    *   2004
+
+    *   Verlängerung der Zulassung von Lehrgängen nach Gebührentatbestand 2003
+
+    *   300 – 1 300
+
+
+*    *   2005
+
+    *   Erteilung des Seeleute-Ausweises nach § 62 See-BV
+
+    *   12,50 – 37,50
 
 
 *    *
@@ -586,7 +624,25 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
         mit aktiven Substanzen (Verfahren nach den Richtlinien G8 und G9 zum
         Ballastwasser-Übereinkommen)
 
-    *   133 000
+    *
+
+*    *   5001.1
+
+    *   mit Beteiligung anderer Behörden
+
+    *   130 310
+
+
+*    *   5001.2
+
+    *   mit Beteiligung anerkannter Einrichtungen oder akkreditierter Labore
+
+    *   nach Zeitaufwand;
+        die Kosten für
+        anerkannte
+        Einrichtungen oder akkreditierte Labore
+        werden als Auslagen
+        gesondert erhoben.
 
 
 *    *   5002
@@ -595,31 +651,64 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
         Prototyps (Verfahren nach der Richtlinie G8 zum Ballastwasser-
         Übereinkommen)
 
-    *   84 625
+    *
+
+*    *   5002.1
+
+    *   mit Beteiligung anderer Behörden
+
+    *   84 645
+
+
+*    *   5002.2
+
+    *   mit Beteiligung anerkannter Einrichtungen oder akkreditierter Labore
+
+    *   nach Zeitaufwand;
+        die Kosten für
+        anerkannte
+        Einrichtungen oder
+        akkreditierte Labore werden als Auslagen gesondert erhoben.
 
 
 *    *   5003
 
-    *   Zulassung von Systemen mit veränderter Durchflussrate
+    *   Zulassung von Systemen mit veränderter Durchflussrate („Skalierung“)
 
-    *
-
-*    *   5003.1
-
-    *   mit erforderlicher praktischer Erprobung
-
-    *   10 Prozent
-        der Gebühr nach
-        Nr. 5001 oder Nr. 5002
+    *   4 100 – 10 100
 
 
-*    *   5003.2
+*    *   5004
 
-    *   ohne erforderliche praktische Erprobung
+    *   Zulassung technischer Änderungen an einem zugelassenen Ballastwasser-
+        Behandlungssystem
 
-    *   1 Prozent
-        der Gebühr nach
-        Nr. 5001 oder Nr. 5002
+    *   500 – 8 050
+
+
+*    *   5005
+
+    *   Anerkennung einer alternativen Ballastwasser-Behandlungsmethode nach
+        der Anlage Regel B-3 Abs. 7 des Ballastwasser-Übereinkommens
+
+    *   nach Zeitaufwand
+
+
+*    *   5006
+
+    *   Änderung eines Zulassungszeugnisses für ein Ballastwasser-
+        Behandlungssystem
+
+    *   560
+
+
+*    *   5007
+
+    *   Teilleistung einer Zulassung, insbesondere Prüfung von
+        Zusatzfunktionen, Erweiterungen, Teilprüfungen
+
+    *   10 – 90 Prozent
+        der Gebühr nach Nr. 5001 oder Nr. 5002
 
 
 *    *
@@ -839,6 +928,16 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
     *   nach Zeitaufwand
 
 
+*    *   8003a
+
+    *   Genehmigung eines Zusatzes zum Plan zur Gefahrenabwehr auf dem Schiff
+        im Hinblick auf den Einsatz von privaten bewaffneten Wachpersonen von
+        nach § 31 Absatz 1 der Gewerbeordnung zugelassenen
+        Bewachungsunternehmen auf Seeschiffen
+
+    *   235
+
+
 *    *   8004
 
     *   Ausstellung des internationalen oder vorläufigen internationalen
@@ -875,16 +974,52 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
     *
 
-*    *   9100
+*    *   9010
 
-    *   Erstmalige Feststellung der Eignung durch das BSH
+    *   Anerkennung einer benannten Stelle
 
     *   3 070 – 9 070
 
 
+*    *   9100
+
+    *   Erstmalige Feststellung der Eignung durch das BSH
+
+    *   2 000 – 5 000
 
 
-## Anhang 1 zur Anlage Katalog Geräte Bordprüfung
+*    *
+    *   X.
+        **Schiffsbezogenes Umweltrecht**
+
+    *
+
+*    *   10001
+
+    *   Befreiung nach § 9 Abs. 2 Satz 3 SeeUmwVerhV
+
+    *   535
+
+
+*    *   10002
+
+    *   Zulassung einer Ausnahme nach § 15 Abs. 3 SeeUmwVerhV
+
+    *   400
+
+
+*    *   10003
+
+    *   Zulassung eines emissionsmindernden, nicht technischen Verfahrens nach
+        § 13 Abs. 5 SeeUmwVerhV
+
+    *   nach Zeitaufwand
+
+
+
+zur Anlage
+
+## Anhang 1 Katalog Geräte Bordprüfung
 
 
 *    *   Gerätebezeichnung
@@ -1011,8 +1146,9 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
 
 
+zur Anlage
 
-## Anhang 2 zur Anlage Zuordnung von Geräten zu Aufwandskategorien
+## Anhang 2 Zuordnung von Geräten zu Aufwandskategorien
 
 **Kategorie A**
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2138
 
-Geändert durch
-:   Art. 2 G v. 16.5.2007 I 746
+Zuletzt geändert durch
+:   Art. 25 G v. 8.7.2016 I 1594
 
 
 ## Eingangsformel
@@ -30,11 +30,8 @@ beschlossen:
 -
 
 
-## Art 9 Rückkehr zum einheitlichen Verordnungsrang
+## Art 9 (weggefallen)
 
-Die auf den Artikeln 6a, 6b und 6c beruhenden Teile der dort
-geänderten Rechtsverordnungen können auf Grund der jeweils
-einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ## Art 9a Neubekanntmachungserlaubnis
@@ -79,12 +76,7 @@ Bundesgesetzblatt bekannt machen.
 
 
 
-(2) § 26 Abs. 2 bis 6 des Bundesbesoldungsgesetzes in der bisherigen
-Fassung sowie die in Absatz 1 Nr. 3 bis 5 genannten Verordnungen sind
-bis zum Inkrafttreten von Verordnungen, die auf Grund des neu
-gefassten § 26 Abs. 3 des Bundesbesoldungsgesetzes erlassen werden,
-längstens jedoch bis zum 1. Juli 2007 und im Bundesbereich bis zum 1.
-Juli 2009, weiter anzuwenden.
+(2) (weggefallen)
 
 
 ## Art 11 Inkrafttreten

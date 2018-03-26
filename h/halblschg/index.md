@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 2294
 
 Zuletzt geändert durch
-:   Art. 17 G v. 24.11.2011 I 2302
+:   Art. 12 G v. 17.7.2017 I 2541
 
 
 ## Erster Abschnitt - Der Schutz der Topographien
@@ -88,9 +88,9 @@ nur zu, wenn
 
 2.  der Staat, dem sie angehören oder in dem sich ihr Sitz oder ihre
     Niederlassung befindet, nach einer Bekanntmachung des Bundesministers
-    der Justiz im Bundesgesetzblatt Deutschen im Sinne des Grundgesetzes
-    und Personen mit Sitz oder Niederlassung im Geltungsbereich dieses
-    Gesetzes einen entsprechenden Schutz gewährt.
+    der Justiz und für Verbraucherschutz im Bundesgesetzblatt Deutschen im
+    Sinne des Grundgesetzes und Personen mit Sitz oder Niederlassung im
+    Geltungsbereich dieses Gesetzes einen entsprechenden Schutz gewährt.
 
 
 
@@ -124,8 +124,9 @@ Anmeldung erforderlich.
 
 
 
-(3) Das Bundesministerium der Justiz regelt durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf,
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz regelt
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf,
 
 1.  die Einrichtung und den Geschäftsgang des Deutschen Patent- und
     Markenamts sowie die Form des Verfahrens in Topografieangelegenheiten,
@@ -163,15 +164,16 @@ prüfen.
 
 (2) Die Vorschriften des Gebrauchsmustergesetzes über die Eintragung
 in das Register, die Bekanntmachung im Patentblatt und Änderungen im
-Register (§ 8 Abs. 2 bis 4) sind entsprechend anzuwenden.
+Register sowie über die Datenübermittlung (§ 8 Absatz 2 bis 4) sind
+entsprechend anzuwenden.
 
 (3) Die Vorschriften des Gebrauchsmustergesetzes über die Einsicht in
 das Register sowie in die Akten eingetragener Gebrauchsmuster
-einschließlich der Akten von Löschungsverfahren (§ 8 Abs. 5) sind mit
-der Maßgabe anzuwenden, daß Einsicht in Unterlagen, die Betriebs- oder
-Geschäftsgeheimnisse enthalten und vom Anmelder als solche
-gekennzeichnet worden sind, nur in einem Löschungsverfahren vor dem
-Patentamt auf Anordnung der Topographieabteilung oder in einem
+einschließlich der Akten von Löschungsverfahren (§ 8 Absatz 5 und 7)
+sind mit der Maßgabe anzuwenden, daß Einsicht in Unterlagen, die
+Betriebs- oder Geschäftsgeheimnisse enthalten und vom Anmelder als
+solche gekennzeichnet worden sind, nur in einem Löschungsverfahren vor
+dem Patentamt auf Anordnung der Topographieabteilung oder in einem
 Rechtsstreit über die Rechtsgültigkeit oder die Verletzung des
 Schutzes der Topographie auf Anordnung des Gerichts gegenüber den
 Personen gewährt wird, die an dem Löschungsverfahren oder an dem
@@ -322,7 +324,7 @@ vornimmt, ist dem Verletzten zum Ersatz des daraus entstandenen
 Schadens verpflichtet. § 24 Abs. 2 Satz 2 und 3 des
 Gebrauchsmustergesetzes gilt entsprechend.
 
-(2) Die §§ 24a bis 24e und 25a des Gebrauchsmustergesetzes gelten
+(2) Die §§ 24a bis 24e, 25a und 25b des Gebrauchsmustergesetzes gelten
 entsprechend.
 
 (3) Auf die Verjährung der Ansprüche wegen Verletzung des Schutzrechts

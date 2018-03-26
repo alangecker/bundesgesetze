@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1994, 3816 [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 3 V v. 21.6.2012 II 618
+:   Art. 1 Nr. 2 iVm Anlage 5 bis 7 V v. 17.6.2016 II 698, 719
 
 
 ## Inhaltsverzeichnis
@@ -420,6 +420,11 @@ Zuletzt geändert durch
     *   Hinweis auf das Verbot des Stilliegens nebeneinander
 
 
+*    *   § 3.34
+
+    *   Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
+
+
 *    *
 
 *    *
@@ -427,7 +432,8 @@ Zuletzt geändert durch
 
 
 *    *
-    *   **Schallzeichen der Fahrzeuge, Sprechfunk; Radar**
+    *   Schallzeichen der Fahrzeuge; Sprechfunk;
+        **Informations- und Navigationsgeräte**
 
 
 *    *
@@ -474,7 +480,7 @@ Zuletzt geändert durch
 *    *
 
 *    *
-    *   Abschnitt III: Radar
+    *   Abschnitt III. Informations- und Navigationsgeräte
 
 
 *    *
@@ -482,6 +488,13 @@ Zuletzt geändert durch
 *    *   § 4.06
 
     *   Radar
+
+
+*    *
+
+*    *   § 4.07
+
+    *   Inland AIS und Inland ECDIS
 
 
 *    *
@@ -771,7 +784,7 @@ Zuletzt geändert durch
 
 *    *   § 7.03
 
-    *   Ankern
+    *   Ankern und Benutzung von Ankerpfählen
 
 
 *    *   § 7.04
@@ -982,23 +995,7 @@ Zuletzt geändert durch
 
 *    *   § 11.02
 
-    *   Höchstabmessungen der Schubverbände
-
-
-*    *   § 11.03
-
-    *   Höchstabmessungen der Schubverbände unter bestimmten Voraussetzungen
-
-
-*    *   § 11.04
-
-    *   Höchstabmessungen der Schubverbände an der Kreuzung des Lek mit dem
-        Amsterdam-Rhein-Kanal
-
-
-*    *   § 11.05
-
-    *   Höchstabmessungen sonstiger Fahrzeugzusammenstellungen
+    *   Höchstabmessungen der Schubverbände und der gekuppelten Fahrzeuge
 
 
 *    *
@@ -1020,7 +1017,12 @@ Zuletzt geändert durch
 
 *    *   § 12.02
 
-    *   Wahrschauregelung auf der Strecke Oberwesel-St. Goar
+    *   Funktion der Lichtwahrschau auf der Strecke Oberwesel – St. Goar
+
+
+*    *   § 12.03
+
+    *   Besondere Regeln für die Fahrt in der Wahrschaustrecke
 
 
 *    *
@@ -1256,7 +1258,7 @@ Zuletzt geändert durch
 
 *    *   Anlage 9:
 
-    *   (ohne Inhalt)
+    *   Lichtwahrschau Oberwesel – St. Goar Rhein-km 548,50 – 555,43
 
 
 *    *   Anlage 10:
@@ -1266,12 +1268,14 @@ Zuletzt geändert durch
 
 *    *   Anlage 11:
 
-    *   (ohne Inhalt)
+    *   Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen
+        „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf
+        dem Fahrzeug
 
 
 *    *   Anlage 12:
 
-    *   (ohne Inhalt)
+    *   (weggefallen)
 
 
 
@@ -1431,25 +1435,25 @@ s)  "Tag":
     der Zeitraum zwischen Sonnenaufgang und Sonnenuntergang;
 
 
-t)  "weißes Licht", "rotes Licht", "grünes Licht", "gelbes Licht" und
-    "blaues Licht":
+t)  „weißes Licht“, „rotes Licht“, „grünes Licht“, „gelbes Licht“ und
+    „blaues Licht“
 
-    ein Licht, dessen Farbe den Vorschriften über die Farbe und
-    Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten in
-    der Rheinschiffahrt entspricht;
-
-
-u)  "starkes Licht", "helles Licht" und "gewöhnliches Licht":
-
-    ein Licht, dessen Stärke den Vorschriften über die Farbe und
-    Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten in
-    der Rheinschiffahrt entspricht;
+    ein Licht, dessen Farbe den Anforderungen der Tabelle 2 der
+    Europäischen Norm EN 14744 : 2005 entspricht;
 
 
-v)  "Funkellicht":
+u)  „starkes Licht“, „helles Licht“ und „gewöhnliches Licht“
 
-    ein Licht mit einer Taktkennung von 40 bis 60 Lichterscheinungen je
-    Minute;
+    ein Licht, dessen Stärke den Anforderungen der Tabelle 1 der
+    Europäischen Norm EN 14744 : 2005 entspricht;
+
+
+v)  „Funkellicht“, „schnelles Funkellicht“:
+
+    ein Licht, dessen Anzahl regelmäßiger Lichterscheinungen als
+    Funkellicht den Anforderungen der Zeile 1 und als schnelles
+    Funkellicht den Anforderungen der Zeile 2 oder der Zeile 3 der Tabelle
+    3 der Europäischen Norm EN 14744 : 2005 entspricht;
 
 
 w)  "kurzer Ton":
@@ -1636,10 +1640,10 @@ gezwungen sind, von dieser Verordnung abzuweichen.
 
 #### § 1.06 Benutzung der Wasserstraße
 
-Unbeschadet der §§ 8.08, 9.02 Nr. 10, 10.01, 10.02, 11.01, 11.02,
-11\.03, 11.04 und 11.05 dieser Verordnung müssen Länge, Breite, Höhe,
-Tiefgang und Geschwindigkeit der Fahrzeuge und Verbände den
-Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
+Unbeschadet der §§ 8.08, 9.02 Nummer 10, §§ 10.01, 10.02, 11.01 und
+11\.02 dieser Verordnung müssen Länge, Breite, Höhe, Tiefgang und
+Geschwindigkeit der Fahrzeuge und Verbände den Gegebenheiten der
+Wasserstraße und der Anlagen angepasst sein.
 
 
 #### § 1.07 Anforderungen an die Beladung und Sicht; Höchstzahl der Fahrgäste
@@ -1657,32 +1661,30 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
     Schiffskörpers nicht gefährden.
 
 
-4.  Bei Fahrzeugen, die Container befördern, muss außerdem vor Antritt der
-    Fahrt eine besondere Überprüfung der Stabilität in folgenden Fällen
-    vorgenommen werden:
+4.  Die Stabilität von Fahrzeugen, die Container befördern, muss jederzeit
+    gewährleistet sein. Der Schiffsführer hat nachzuweisen, dass eine
+    Stabilitätsprüfung vor Beginn des Ladens und Löschens sowie vor
+    Fahrtantritt durchgeführt wurde.
 
-    a)  bei Fahrzeugen mit einer Breite von weniger als 9,50 m, wenn die
-        Container in mehr als einer Lage geladen sind,
+    Die Stabilitätsprüfung kann manuell oder mit Hilfe eines
+    Ladungsrechners erfolgen. Das Ergebnis der Stabilitätsprüfung und der
+    aktuelle Stauplan sind an Bord mitzuführen und müssen jederzeit lesbar
+    gemacht werden können.
 
+    Die Fahrzeuge müssen außerdem die Stabilitätsunterlagen nach § 22.01
+    der Rheinschiffsuntersuchungsordnung im Sinne des § 1 Absatz 8 der
+    Binnenschiffsuntersuchungsordnung in der jeweils geltenden und
+    anzuwendenden Fassung (Rheinschiffsuntersuchungsordnung) mitführen
 
-    b)  bei Fahrzeugen mit einer Breite von 9,50 m bis unter 11,00 m, wenn die
-        Container in mehr als zwei Lagen geladen sind und
+    Eine Stabilitätsprüfung ist bei Fahrzeugen, die Container befördern,
+    nicht erforderlich, wenn das Fahrzeug in seiner Breite
 
-
-    c)  bei Fahrzeugen mit einer Breite von 11,00 m oder mehr,
-
-        -   wenn die Container in mehr als drei Breiten und mehr als zwei Lagen
-            geladen sind,
-
-
-
-
-        oder
-
-        -   wenn die Container in mehr als drei Lagen geladen sind.
+    a)  höchstens drei Reihen Container laden kann und es vom Laderaumboden
+        aus nur mit einer Lage Containern beladen ist oder
 
 
-
+    b)  vier und mehr Reihen Container laden kann und es ausschließlich mit
+        Containern in höchstens zwei Lagen vom Laderaumboden aus beladen ist.
 
 
 
@@ -1816,7 +1818,7 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
         Anhang 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk,
 
 
-    l)  die Urkunde "Frequenzzuteilung",
+    l)  die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“,
 
 
     m)  das Handbuch Binnenschiffahrtsfunk, Allgemeiner Teil und Regionaler
@@ -2398,8 +2400,9 @@ Kleinfahrzeuge, muß geeicht sein.
 #### Abschnitt I. - Allgemeines
 
 
+Begriffsbestimmungen und Anwendungen
 
-##### § 3.01 Begriffsbestimmungen und Anwendungen (Anlage 3 Bild 1)
+##### § 3.01 (Anlage 3  Bild 1)
 
 
 1.  In diesem Kapitel gelten als
@@ -2606,8 +2609,9 @@ Kleinfahrzeuge, muß geeicht sein.
 ##### Titel A. - Bezeichnung während der Fahrt
 
 
+Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
-###### § 3.08 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb (Anlage 3: Bild 2, 3, 64)
+###### § 3.08 (Anlage 3: Bild 2, 3, 64)
 
 
 1.  Einzeln fahrende Fahrzeuge mit Maschinenantrieb müssen bei Nacht
@@ -2662,8 +2666,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Schleppverbände in Fahrt
 
-###### § 3.09 Bezeichnung der Schleppverbände in Fahrt (Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)
+###### § 3.09 (Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)
 
 
 1.  An der Spitze eines Schleppverbandes in Fahrt muß das Fahrzeug mit
@@ -2828,8 +2833,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Schubverbände in Fahrt
 
-###### § 3.10 Bezeichnung der Schubverbände in Fahrt (Anlage 3 Bild 11, 12, 13, 14)
+###### § 3.10 (Anlage 3 Bild 11, 12, 13, 14)
 
 
 1.  Schubverbände in Fahrt müssen bei Nacht führen:
@@ -2932,8 +2938,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung gekuppelter Fahrzeuge in Fahrt
 
-###### § 3.11 Bezeichnung gekuppelter Fahrzeuge in Fahrt (Anlage 3 Bild 15, 16)
+###### § 3.11 (Anlage 3  Bild 15, 16)
 
 
 1.  Gekuppelte Fahrzeuge in Fahrt müssen bei Nacht führen:
@@ -2973,8 +2980,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Fahrzeuge unter Segel in Fahrt
 
-###### § 3.12 Bezeichnung der Fahrzeuge unter Segel in Fahrt (Anlage 3 Bild 17)
+###### § 3.12 (Anlage 3  Bild 17)
 
 
 1.  Fahrzeuge unter Segel in Fahrt müssen bei Nacht führen:
@@ -2999,8 +3007,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Kleinfahrzeuge in Fahrt
 
-###### § 3.13 Bezeichnung der Kleinfahrzeuge in Fahrt (Anlage 3 Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
+###### § 3.13 (Anlage 3  Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
 
 
 1.  Einzeln fahrende Kleinfahrzeuge mit Maschinenantrieb müssen bei Nacht
@@ -3118,8 +3127,10 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung
+bestimmter gefährlicher Güter
 
-###### § 3.14 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter gefährlicher Güter (Anlage 3 Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
+###### § 3.14 (Anlage 3  Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
 
 
 1.  Fahrzeuge in Fahrt, die bestimmte entzündbare Stoffe nach ADNR
@@ -3235,8 +3246,11 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als
+12 Fahrgästen zugelassen sind und deren Schiffskörper eine Höchstlänge
+von weniger als 20,00 m aufweist
 
-###### § 3.15 Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als 12 Fahrgästen zugelassen sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m aufweist (Anlage 3 Bild 33)
+###### § 3.15 (Anlage 3  Bild 33)
 
 Fahrzeuge, die zur Beförderung von mehr als 12 Fahrgästen zugelassen
 sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m
@@ -3246,8 +3260,9 @@ er von allen Seiten sichtbar ist.
 ... nicht darstellbares Bild 33
 Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 27
 
+Bezeichnung der Fähren in Fahrt
 
-###### § 3.16 Bezeichnung der Fähren in Fahrt (Anlage 3 Bild 34, 35, 36)
+###### § 3.16 (Anlage 3  Bild 34, 35, 36)
 
 
 1.  Nicht frei fahrende Fähren in Fahrt müssen bei Nacht führen:
@@ -3294,8 +3309,10 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 27
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang
+besitzen
 
-###### § 3.17 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen (Anlage 3: Bild 37)
+###### § 3.17 (Anlage 3: Bild 37)
 
 Fahrzeuge, denen die zuständige Behörde zur Durchfahrt durch Stellen,
 an denen eine bestimmte Reihenfolge gilt, einen Vorrang eingeräumt
@@ -3306,8 +3323,9 @@ ist.
 ... nicht darstellbares Bild 37
 Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 28
 
+Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 
-###### § 3.18 Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt (Anlage 3: Bild 38)
+###### § 3.18 (Anlage 3: Bild 38)
 
 Ein manövrierunfähiges Fahrzeug in Fahrt muss erforderlichenfalls
 außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung
@@ -3341,8 +3359,9 @@ außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung
 
 Die Flagge kann durch eine Tafel gleicher Farbe ersetzt werden.
 
+Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
-###### § 3.19 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt (Anlage 3 Bild 39)
+###### § 3.19 (Anlage 3  Bild 39)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, müssen Schwimmkörper und schwimmende Anlagen in Fahrt
@@ -3356,8 +3375,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 29
 ##### Titel B. - Bezeichnung beim Stilliegen
 
 
+Bezeichnung der Fahrzeuge beim Stilliegen
 
-###### § 3.20 Bezeichnung der Fahrzeuge beim Stilliegen (Anlage 3 Bild 40, 41)
+###### § 3.20 (Anlage 3  Bild 40, 41)
 
 
 1.  Mit Ausnahme der Kleinfahrzeuge und der in den §§ 3.22 und 3.25
@@ -3416,16 +3436,19 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 29
 
 
 
+Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung
+bestimmter gefährlicher Güter
 
-###### § 3.21 Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter gefährlicher Güter (Anlage 3 Bild 42, 43, 44)
+###### § 3.21 (Anlage 3  Bild 42, 43, 44)
 
 § 3.14 gilt für die dort genannten Fahrzeuge, Schubverbände und
 gekuppelten Fahrzeuge auch beim Stilliegen.
 ... nicht darstellbare Bilder 42, 43, 44 (je 2 Bilder)
 Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 30
 
+Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
-###### § 3.22 Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen (Anlage 3 Bild 45, 46)
+###### § 3.22 (Anlage 3  Bild 45, 46)
 
 
 1.  Nicht frei fahrende Fähren müssen bei Nacht beim Stilliegen an ihrer
@@ -3455,8 +3478,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 30
 
 
 
+Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen
 
-###### § 3.23 Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen (Anlage 3 Bild 47)
+###### § 3.23 (Anlage 3 Bild 47)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, müssen Schwimmkörper und schwimmende Anlagen beim
@@ -3471,8 +3495,10 @@ Die in Satz 1 vorgeschriebenen Lichter brauchen nicht geführt zu
 werden, wenn die Voraussetzungen des § 3.20 Nr. 3 Buchstabe b oder c
 erfüllt sind.
 
+Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze
+oder Ausleger
 
-###### § 3.24 Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze oder Ausleger (Anlage 3 Bild 48)
+###### § 3.24 (Anlage 3  Bild 48)
 
 Fischereifahrzeuge, Kleinfahrzeuge eingeschlossen, die ihre Netze oder
 Ausleger im Fahrwasser oder in dessen Nähe ausgelegt haben, müssen
@@ -3502,8 +3528,10 @@ Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
 
 
 
+Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener
+oder gesunkener Fahrzeuge
 
-###### § 3.25 Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge (Anlage 3 Bild 49a, 49b, 50a, 50b, 51, 52)
+###### § 3.25 (Anlage 3  Bild 49a, 49b, 50a, 50b, 51, 52)
 
 
 1.  Schwimmende Geräte bei der Arbeit und Fahrzeuge, die in der
@@ -3632,8 +3660,10 @@ Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden
+Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
-###### § 3.26 Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker (Anlage 3 Bild 53, 54, 55)
+###### § 3.26 (Anlage 3  Bild 53, 54, 55)
 
 
 1.  Stilliegende Fahrzeuge, deren Anker so ausgeworfen sind, daß die
@@ -3702,8 +3732,9 @@ Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
 #### Abschnitt III. - Sonstige Bezeichnung
 
 
+Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
-##### § 3.27 Bezeichnung der Fahrzeuge der Überwachungsbehörden (Anlage 3 Bild 56)
+##### § 3.27 (Anlage 3 Bild 56)
 
 Fahrzeuge der Überwachungsbehörden können bei Nacht und bei Tag ein
 blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch
@@ -3713,8 +3744,10 @@ zuständigen Behörde.
 ... nicht darstellbare 2 Bilder 56
 Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 35
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der
+Wasserstraße ausführen
 
-##### § 3.28 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen (Anlage 3: Bild 57)
+##### § 3.28 (Anlage 3: Bild 57)
 
 In Fahrt befindliche Fahrzeuge, die in der Wasserstraße Arbeiten,
 Peilungen oder Messungen ausführen, können mit Erlaubnis der
@@ -3725,8 +3758,9 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 ... nicht darstellbare 2 Bilder 57
 Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
+Schutz gegen Wellenschlag
 
-##### § 3.29 Schutz gegen Wellenschlag (Anlage 3 Bild 58)
+##### § 3.29 (Anlage 3  Bild 58)
 
 
 1.  In Fahrt befindliche oder stilliegende Fahrzeuge, Schwimmkörper und
@@ -3780,8 +3814,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
+Notzeichen
 
-##### § 3.30 Notzeichen (Anlage 3 Bild 59)
+##### § 3.30 (Anlage 3  Bild 59)
 
 
 1.  Ein in Not befindliches Fahrzeug, das Hilfe durch Sichtzeichen
@@ -3814,8 +3849,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
+Hinweis auf das Verbot, das Fahrzeug zu betreten
 
-##### § 3.31 Hinweis auf das Verbot, das Fahrzeug zu betreten (Anlage 3 Bild 60)
+##### § 3.31 (Anlage 3 Bild 60)
 
 
 1.  Sofern es nicht an Bord beschäftigten Personen durch andere
@@ -3841,8 +3877,10 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
+Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu
+verwenden
 
-##### § 3.32 Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu verwenden (Anlage 3: Bild 61)
+##### § 3.32 (Anlage 3: Bild 61)
 
 
 1.  Sofern es durch andere Vorschriften verboten ist, an Bord
@@ -3876,8 +3914,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
+Hinweis auf das Verbot des Stilliegens nebeneinander
 
-##### § 3.33 Hinweis auf das Verbot des Stilliegens nebeneinander (Anlage 3 Bild 62)
+##### § 3.33 (Anlage 3  Bild 62)
 
 
 1.  Sofern das seitliche Stilliegen in der Nähe eines Fahrzeugs zum
@@ -3908,8 +3947,19 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
 
-### Kapitel 4 - Schallzeichen der Fahrzeuge, Sprechfunk, Radar
+##### § 3.34 (Anlage 3: Bild 65)
+
+Fahrzeuge, die für den Einsatz von Tauchern verwendet werden, müssen
+zusätzlich zu ihrer Bezeichnung auf Grund anderer Bestimmungen dieser
+Verordnung führen:
+eine mindestens 1 m hohe, starre Nachbildung des Buchstabensignals „A“
+des Internationalen Signalbuches an geeigneter Stelle und so hoch,
+dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
+
+
+### Kapitel 4 - Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte
 
 
 
@@ -4058,7 +4108,7 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
-#### Abschnitt III. - Radar
+#### Abschnitt III. - Informations- und Navigationsgeräte
 
 
 
@@ -4099,6 +4149,172 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 3.  Schnelle Schiffe in Fahrt müssen Radar benutzen.
+
+
+
+
+
+##### § 4.07 Inland AIS und Inland ECDIS
+
+
+1.  Fahrzeuge müssen mit einem Inland AIS Gerät nach § 7.06 Nummer 3 der
+    Rheinschiffsuntersuchungsordnung ausgestattet sein. Das Inland AIS
+    Gerät muss in gutem Betriebszustand sein.
+    Satz 1 gilt nicht für folgende Fahrzeuge:
+
+
+    a)  Fahrzeuge von Schubverbänden und gekuppelten Fahrzeugen, ausgenommen
+        das Fahrzeug, das die Hauptantriebskraft stellt,
+
+
+    b)  Kleinfahrzeuge, ausgenommen
+
+
+        -   Polizeifahrzeuge, die mit einem Radargerät ausgerüstet sind, und
+
+
+        -   Fahrzeuge, die ein Schiffsattest nach der
+            Rheinschiffsuntersuchungsordnung oder ein nach dieser Ordnung als
+            gleichwertig anerkanntes Zeugnis besitzen,
+
+
+
+
+
+    c)  Schubleichter ohne eigenen Antrieb,
+
+
+    d)  schwimmende Geräte ohne eigenen Antrieb.
+
+
+
+
+
+2.  Das Inland AIS Gerät muss ständig eingeschaltet sein und die
+    eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten
+    des Fahrzeugs oder Verbands entsprechen.
+    Satz 1 gilt nicht,
+
+
+    a)  wenn sich die Fahrzeuge in einem Übernachtungshafen nach § 14.11
+        Nummer 1 befinden,
+
+
+    b)  wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von
+        der Fahrrinne baulich getrennt sind, gewährt hat,
+
+
+    c)  für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die
+        Erfüllung polizeilicher Aufgaben gefährden würde.
+
+
+
+
+
+*   Fahrzeuge nach Nummer 1 Satz 3 Buchstabe a müssen an Bord vorhandene
+    Inland AIS Geräte ausschalten, solange diese Fahrzeuge Teil des
+    Verbands sind.
+
+
+3.  Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen,
+    ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im
+    Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das
+    mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und
+    dieses zusammen mit einer aktuellen elektronischen
+    Binnenschifffahrtskarte nutzen.
+
+
+4.  Es müssen folgende Daten gemäß Kapitel 2 des Standards
+    Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt
+    werden:
+
+
+    a)  User Identifier (Maritime Mobile Service Identity, MMSI);
+
+
+    b)  Schiffsname;
+
+
+    c)  Schiffstyp bzw. Verbandsgattung;
+
+
+    d)  einheitliche europäische Schiffsnummer (ENI), oder, für die
+        Seeschiffe, sofern keine ENI erteilt wurde, die IMO Nummer;
+
+
+    e)  Länge über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    f)  Breite über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    g)  Position (WGS 84);
+
+
+    h)  Geschwindigkeit über Grund;
+
+
+    i)  Kurs über Grund;
+
+
+    j)  Zeitangabe der elektronischen Positionsermittlung;
+
+
+    k)  Navigationsstatus gemäß Anlage 11;
+
+
+    l)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m gemäß Anlage 11.
+
+
+
+
+
+5.  Der Schiffsführer muss folgende Daten bei Änderungen umgehend
+    aktualisieren:
+
+
+    a)  Länge über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
+
+
+    b)  Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
+
+
+    c)  Verbandsgattung;
+
+
+    d)  Navigationsstatus gemäß Anlage 11;
+
+
+    e)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m gemäß Anlage 11.
+
+
+
+
+
+6.  Kleinfahrzeuge, die AIS nutzen, dürfen nur ein Inland AIS Gerät nach §
+    7\.06 Nummer 3 der Rheinschiffsuntersuchungsordnung, ein nach den
+    Vorschriften der IMO typzugelassenes AIS Gerät der Klasse A oder ein
+    AIS Gerät der Klasse B verwenden. AIS Geräte der Klasse B müssen den
+    einschlägigen Anforderungen der Empfehlung ITU-R M.1371, der
+    Richtlinie 1999/5/EG (RTTE) und der internationalen Norm IEC 62287-1
+    und 2 (einschließlich DSC Kanalmanagement) entsprechen. Das AIS Gerät
+    muss in einem guten Betriebszustand sein und die in das AIS Gerät
+    eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten
+    des Fahrzeugs oder Verbands entsprechen.
+
+
+7.  Kleinfahrzeuge, denen keine einheitliche europäische Schiffsnummer
+    (ENI) erteilt wurde, brauchen die Daten nach Nummer 4 Buchstabe d
+    nicht zu übermitteln.
+
+
+8.  Kleinfahrzeuge, die AIS nutzen, müssen zusätzlich mit einer in einem
+    guten Betriebszustand befindlichen und auf Empfang geschalteten
+    Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein.
 
 
 
@@ -4265,8 +4481,9 @@ Schnelle Schiffe müssen allen übrigen Fahrzeugen ausweichen.
 
 
 
+Begegnen  Grundregeln
 
-##### § 6.04 Begegnen Grundregeln (Anlage 3 Bild 63)
+##### § 6.04 (Anlage 3  Bild 63)
 
 
 1.  Beim Begegnen müssen die Bergfahrer unter Berücksichtigung der
@@ -4330,7 +4547,7 @@ Schnelle Schiffe müssen allen übrigen Fahrzeugen ausweichen.
 
 
 
-##### § 6.05 Begegnen Ausnahmen von den Grundregeln
+##### § 6.05 Begegnen  Ausnahmen von den Grundregeln
 
 
 1.  Abweichend von § 6.04 können
@@ -4477,7 +4694,7 @@ absprechen.
 
 
 
-##### § 6.09 Überholen Allgemeine Bestimmungen
+##### § 6.09 Überholen  Allgemeine Bestimmungen
 
 
 1.  Das Überholen ist nur gestattet, nachdem sich der Überholende
@@ -4494,7 +4711,7 @@ absprechen.
 
 
 
-##### § 6.10 Überholen Verhalten und Zeichengebung der Fahrzeuge
+##### § 6.10 Überholen  Verhalten und Zeichengebung der Fahrzeuge
 
 
 1.  Der Überholende darf an Backbord oder an Steuerbord des
@@ -4908,8 +5125,10 @@ Schleppverbandes hineinzufahren.
 
 
 
+Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an
+festgefahrenen oder gesunkenen Fahrzeugen
 
-##### § 6.22a Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen (Anlage 3 Bilder 50a, 50b, 52)
+##### § 6.22a (Anlage 3  Bilder 50a, 50b, 52)
 
 Es ist verboten, an den in § 3.25 genannten Fahrzeugen an der Seite
 vorbeizufahren, an der sie das rote Licht oder die roten Lichter nach
@@ -4966,7 +5185,7 @@ zeigen.
 
 
 
-##### § 6.24 Durchfahren von Brücken und Wehren Allgemeines
+##### § 6.24 Durchfahren von Brücken und Wehren  Allgemeines
 
 
 1.  In einer Brücken- oder Wehröffnung gilt § 6.07, es sei denn, das
@@ -5578,11 +5797,11 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 
-#### § 7.03 Ankern
+#### § 7.03 Ankern und Benutzung von Ankerpfählen
 
 
 1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
-    ankern:
+    ankern und keine Ankerpfähle benutzen:
 
     a)  auf den Abschnitten der Wasserstraße, für die ein allgemeines
         Ankerverbot besteht;
@@ -5592,23 +5811,24 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
         Strecken, auf der Seite der Wasserstraße, auf der das Tafelzeichen
         steht.
 
-        ... nicht darstellbares Tafelzeichen A.6
-
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 59
 
 
 
 
+2.  Auf den Abschnitten, auf denen das Ankern und die Benutzung von
+    Ankerpfählen nach Nummer 1 Buchstabe a verboten sind, dürfen Fahrzeuge
+    und Schwimmkörper sowie schwimmende Anlagen nur auf den Strecken
+    ankern, die durch das Tafelzeichen E.6 (Anlage 7) gekennzeichnet sind,
+    und nur auf der Seite der Wasserstraße, auf der das Tafelzeichen
+    steht.
 
-2.  Auf den Abschnitten, auf denen das Ankern nach Nummer 1 Buchstabe a
-    verboten ist, dürfen Fahrzeuge und Schwimmkörper sowie schwimmende
-    Anlagen nur auf den Strecken ankern, die durch das Tafelzeichen E.6
-    (Anlage 7) gekennzeichnet sind, und nur auf der Seite der
-    Wasserstraße, auf der das Tafelzeichen steht.
 
-    ... nicht darstellbares Tafelzeichen E.6
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 59
+3.  Auf den Abschnitten, auf denen das Ankern und die Benutzung von
+    Ankerpfählen nach Nummer 1 Buchstabe a verboten sind, dürfen Fahrzeuge
+    und Schwimmkörper sowie schwimmende Anlagen nur auf den Strecken
+    Ankerpfähle benutzen, die durch das Tafelzeichen E.6.1 (Anlage 7)
+    gekennzeichnet sind, und nur auf der Seite der Wasserstraße, auf der
+    das Tafelzeichen steht.
 
 
 
@@ -6110,14 +6330,14 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 #### § 9.01 Beschränkungen der Schiffahrt in Basel
 
 
-1.  Zwischen der Mittleren Rheinbrücke (km 166,64) und der Dreirosenbrücke
-    (km  167,80) in Basel ist das Überholen verboten. Dies gilt nicht für
+1.  Zwischen der Mittleren Rheinbrücke (km 166,53) und der Dreirosenbrücke
+    (km 167,80) in Basel ist das Überholen verboten. Dies gilt nicht für
     Kleinfahrzeuge und für Fahrzeuge, die eine Ausnahmegenehmigung der
     zuständigen Behörde besitzen.
 
 
 2.  Zwischen der Dreirosenbrücke (km 167,80) und der Mittleren Rheinbrücke
-    (km 166,64) in Basel müssen Fahrzeuge mit Maschinenantrieb sowie
+    (km 166,53) in Basel müssen Fahrzeuge mit Maschinenantrieb sowie
     Schlepp- und Schubverbände in der Bergfahrt eine
     Mindestgeschwindigkeit von 4 km in der Stunde, gegen das Ufer
     gemessen, einhalten.
@@ -6403,9 +6623,9 @@ Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
         ist nicht anzuwenden.
 
 
-    c)  Für die Schiffsführer von Fahrzeugen mit einer Länge über 110 m gelten
-        die nach § 9.08 Nr. 2 Buchstabe b und c für die Nachtschifffahrt
-        vorgeschriebenen Informationspflichten auch bei Tag.
+    c)  Die Schiffsführer von Fahrzeugen und Verbänden mit einer Länge von
+        über 110 m haben sich gemäß § 12.03 Nummer 2 und Nummer 6 Buchstabe b
+        zu melden.
 
 
 
@@ -6458,48 +6678,11 @@ Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
 
 
 
-#### § 9.08 Nachtschifffahrt auf der Strecke Bingen-St. Goar
+#### § 9.08 Nachtschifffahrt auf der Strecke Bingen – St. Goar
 
-
-1.  Zwischen Bingen (km 530,00) und St. Goar (km 556,00) ist die Fahrt
-    nachts nur Fahrzeugen erlaubt, die Sprechfunk auf Kanal 10 und in der
-    Talfahrt Radar benutzen. Die Wahrschauregelung gemäß § 12.02 erfolgt
-    rund um die Uhr.
-
-
-2.  Ist die Wahrschau nach § 12.02 nachts außer Betrieb, müssen sich die
-    in Frage kommenden Fahrzeuge wie folgt verhalten:
-
-    a)  Beifahrer müssen ihre Fahrt so einrichten, dass sie beim Umfahren des
-        Bankecks (km 555,60 bis km 555,20) und des Bettecks (km 553,60 bis km
-        553,30) Talfahrern nicht begegnen.
-
-        Sie müssen, wenn die Begegnung anders nicht vermieden werden kann,
-        unterhalb des Bankecks oder des Bettecks anhalten, bis die Talfahrer
-        das Betteck oder das Bankeck umfahren haben.
-
-
-    b)  Bergfahrer müssen bei der Annäherung an das Bankeck oder das Betteck
-        die Talfahrer anrufen und auffordern, ihnen Art, Namen, Standort und
-        Fahrtrichtung des Fahrzeugs mitzuteilen. Meldet sich kein Talfahrer,
-        dürfen sie das Bankeck oder Betteck nur umfahren, wenn sie vorher auf
-        Kanal 10 einen tiefen Ton von 1 Sekunde Dauer empfangen haben. Dieser
-        Ton dient der Kontrolle des ordnungsgemäßen Funkbetriebs auf der
-        Strecke Oberwesel bis St. Goar.
-
-
-    c)  Talfahrer müssen während der Vorbeifahrt am Ochsenturm (km 550,57), an
-        der oberen Trennungstonne am Geisenrücken (km 552,00) und am Betteck
-        (km 553,61) Art, Namen, Standort und Fahrtrichtung ihres Fahrzeugs
-        ansagen. Dieselben Angaben müssen sie ansagen, wenn sie von einem
-        Bergfahrer angesprochen werden. Nach jeder Meldung müssen die
-        Talfahrer die Sprechfunkanlage wieder auf Empfang schalten.
-
-
-
-
-
-
+Zwischen Bingen (km 530,00) und St. Goar (km 556,00) ist die Fahrt
+nachts nur Fahrzeugen erlaubt, die Sprechfunk auf den Kanälen 10
+(Schiff-Schiff) und 18 bzw. 24 und in der Talfahrt Radar benutzen.
 
 
 #### § 9.09 Beschränkung der Schifffahrt zwischen Bad Salzig (km 564,30) und Gorinchem (km 952,50)
@@ -6595,7 +6778,7 @@ Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
 
 1.  Die Mehrzweckfahrzeuge
 
-    a)  der französischen Armee zwischen Basel (km 168,45) und Lauterburg (km
+    a)  der französischen Armee zwischen Basel (km 168,39) und Lauterburg (km
         352,00) und
 
 
@@ -6678,9 +6861,9 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
 #### § 10.01 Beschränkung der Schiffahrt bei Hochwasser oberhalb der Spyck'schen Fähre
 
 
-1.  Zwischen der Mittleren Rheinbrücke in Basel (km 166,64) und den
+1.  Zwischen der Mittleren Rheinbrücke in Basel (km 166,53) und den
     Schleusen Kembs (km 179,10) sowie zwischen den Schleusen Iffezheim (km
-    334,00) und der Spyck'schen Fähre (km 857,40) ist die Schiffahrt bei
+    334,00) und der Spyck’schen Fähre (km 857,40) ist die Schifffahrt bei
     Hochwasserständen zwischen den Marken I und II nachstehenden
     Beschränkungen unterworfen:
 
@@ -6744,7 +6927,7 @@ I                                               Wasserstand
 I
 I                                         Marke I          Marke II
 I
-I Basel (km 166,64) .................................................
+I Basel (km 166,53) .................................................
 I
 I                                             Basel-Rheinhalle
 I
@@ -6943,513 +7126,645 @@ einem Fahrzeug mit Maschinenantrieb geschleppt werden.
 #### § 11.01 Höchstabmessungen der Fahrzeuge
 
 
-1.  Ein Fahrzeug darf die Höchstlänge von 135 m nicht überschreiten. In
-    der Talfahrt zwischen Lorch (km 540,20) und St. Goar (km 556,00) bei
-    Wasserständen unter 0,85 m und über 4,60 m (Marke I) am Pegel Kaub
-    darf es jedoch die Höchstlänge von 110 m nicht überschreiten.
+1.  Ein Fahrzeug darf die Höchstlänge von 135 m und die Breite von 22,80 m
+    nicht überschreiten.
+    Die Breite darf
+
+    a)  für den Stromabschnitt zwischen Bingen (km 528,50) und St. Goar (km
+        556,00) 17,70 m und
 
 
-2.  Ein Fahrzeug, ausgenommen ein Fahrgastschiff mit einer Länge über 110
+    b)  für den Stromabschnitt zwischen Pannerden (km 867,46) und Lekkanal (km
+        949,40) 15 m
+
+
+
+    nicht überschreiten.
+
+
+2.  Die für den jeweiligen Stromabschnitt zuständigen Behörden dürfen
+    hinsichtlich der Breite eine Sondererlaubnis für die Fahrt erteilen.
+
+
+3.  Ein Fahrzeug mit einer Länge über 110 m darf nur fahren, wenn sich an
+    Bord eine Person befindet, die ein nach der Verordnung über das
+    Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig
+    anerkanntes Radarzeugnis besitzt.
+
+
+4.  Ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110
     m, darf oberhalb von Mannheim nur fahren, wenn es die Anforderungen
-    des § 22a.05 Nr. 2 Rheinschiffsuntersuchungsordnung erfüllt. Ein
+    des § 22a.05 Nummer 2 Rheinschiffsuntersuchungsordnung erfüllt. Ein
     Fahrgastschiff mit einer Länge über 110 m darf oberhalb von Mannheim
-    nur fahren, wenn es die Anforderungen des § 22a.05 Nr. 3
-    Rheinschiffsuntersuchungsordnung erfüllt. Die von den für den
-    jeweiligen Stromabschnitt zwischen Basel und Mannheim zuständigen
-    Behörden erteilten und am 30. September 2001 gültigen
-    Sondererlaubnisse für Fahrzeuge über 110 m bis 135 m Länge bleiben mit
-    den aus Sicherheitsgründen erteilten notwendigen Auflagen auf dem
-    jeweiligen Stromabschnitt weiterhin gültig.
+    nur fahren, wenn es die Anforderungen des § 22a.05 Nummer 3
+    Rheinschiffsuntersuchungsordnung erfüllt.
+    Die von den für den jeweiligen Stromabschnitt zwischen Basel und
+    Mannheim zuständigen Behörden erteilten und am 30. September 2001
+    gültigen Sondererlaubnisse für Fahrzeuge über 110 m bis 135 m Länge
+    bleiben mit den aus Sicherheitsgründen erteilten notwendigen Auflagen
+    auf dem jeweiligen Stromabschnitt weiterhin gültig.
 
 
-3.  Die für den Stromabschnitt zwischen Lorch (km 540,20) und St. Goar (km
-    556,00) zuständige Behörde kann bei Wasserständen unter 0,85 m und
-    über 4,60 m (Marke I) am Pegel Kaub Fahrzeugen mit einer Länge über
-    110 m für die Talfahrt eine Sondererlaubnis erteilen. Sie legt dabei
-    die aus Sicherheitsgründen notwendigen Auflagen fest.
 
 
-4.  Ein Fahrzeug mit einer Länge über 110 m darf nur fahren, wenn es die
-    Anforderungen des § 4.06 Nr. 1 erfüllt.
 
+#### § 11.02 Höchstabmessungen der Schubverbände und der gekuppelten Fahrzeuge
 
-5.  Die Breite eines Fahrzeuges darf 22,80 m und für den Stromabschnitt
-    zwischen Pannerden (km 867,46) und Lekkanal (km 949,40) 17,70 m nicht
-    überschreiten, sofern nicht die für den jeweiligen Stromabschnitt
-    zuständige Behörde eine Sondererlaubnis für die Fahrt erteilt hat.
 
+1.  Schubverbände und gekuppelte Fahrzeuge dürfen die in Nummer 2 und 3
+    zugelassenen Abmessungen nicht überschreiten. Sie dürfen mit den
+    zugelassenen Abmessungen nur fahren, wenn diese mit der zugelassenen
+    Formation und der zugelassenen Beladung für die jeweilige
+    Fahrtrichtung im Schiffsattest eingetragen sind.
 
 
+2.  Die zuständige Behörde kann Schubverbände und gekuppelte Fahrzeuge mit
+    größeren als den in Nummer 3 zugelassenen Abmessungen, mit anderen
+    Antriebsarten und -leistungen und mit anderen Wasserständen für die
+    betreffende Strecke für Versuchszwecke zulassen.
 
 
-#### § 11.02 Höchstabmessungen der Schubverbände
+3.  Für die jeweilige Strecke gelten in der Berg- und Talfahrt folgende
+    Abmessungen:
 
+    *        *
+        *   Strecke
 
-1.  Ein Schubverband darf folgende Abmessungen nicht überschreiten:
+        *   Länge in m
 
+        *   Breite in m
 
 
+    *        *   3.1
 
-*    *   Lfd. Nr.
+        *   **Basel**                              (km 166,53) bis **Schleusen
+            Iffezheim**                              (km 334,00)
 
-    *   Strecke
+        *
+        *
 
-    *   Länge in m
+    *        *
+        *   a)
 
-    *   Breite in m
+        *   Schleusen Kembs
 
+        *
+        *
 
-*    *   I
+    *        *
+        *
+        *   aa)
 
-    *   Basel (km 166,64) - Schleusen Iffezheim (km 334,00) in der Berg- und
-        Talfahrt
+        *   Westschleuse
 
-    *
-    *
+        *   180
 
-*    *
-        a)  Schleusen Kembs:
+        *   22,90
 
 
+    *        *
+        *
+        *   bb)
 
+        *   Ostschleuse
 
-    *
-    *
+        *   186,50
 
-*    *
-        *   große Schleuse ...................
+        *   22,90
 
 
+    *        *
+        *   b)
 
+        *   Schleusen Ottmarsheim
 
-    *   180,00
+        *
+        *
 
-    *   22,90
+    *        *
+        *
+        *   aa)
 
+        *   große Schleuse
 
-*    *
-        *   kleine Schleuse ..................
+        *   183
 
+        *   22,80
 
 
+    *        *
+        *
+        *   bb)
 
-    *   95,00
+        *   kleine Schleuse
 
-    *   22,90
+        *   183
 
+        *   11,45
 
-*    *
-        b)  Schleusen Ottmarsheim, Fessenheim, Vogelgrün, Marckolsheim und Rhinau:
 
+    *        *
+        *   c)
 
+        *   Schleusen Fessenheim, Vogelgrün, Marckolsheim und Rhinau
 
+        *
+        *
 
-    *
-    *
+    *        *
+        *
+        *   aa)
 
-*    *
-        *   große Schleuse ...................
+        *   große Schleuse
 
+        *   183
 
+        *   22,80
 
 
-    *   183,00\*)
+    *        *
+        *
+        *   bb)
 
-    *   22,80
+        *   kleine Schleuse
 
+        *   183
 
-*    *
-        *   kleine Schleuse ..................
+        *   11,45
 
 
+    *        *
+        *
+        *   Diese Länge darf mit Erlaubnis der zuständigen Behörde auf 185 m
+            erhöht werden. In diesem Fall ist § 6.28 Nummer 7 Buchstabe a und e
+            nicht anzuwenden.
 
 
-    *   183,00\*)
+    *        *
+        *   d)
 
-    *   11,45
+        *   Schleusen Gerstheim und Straßburg
 
+        *
+        *
 
-*    *
-        c)  Schleusen Gerstheim und Straßburg:
+    *        *
+        *
+        *   aa)
 
+        *   große Schleuse
 
+        *   185
 
+        *   22,90
 
-    *
-    *
 
-*    *
-        *   große Schleuse ...................
+    *        *
+        *
+        *   bb)
 
+        *   kleine Schleuse
 
+        *   185
 
+        *   11,45
 
-    *   185,00
 
-    *   22,90
+    *        *
+        *   e)
 
+        *   Schleusen Gambsheim und Iffezheim
 
-*    *
-        *   kleine Schleuse ..................
+        *   270
 
+        *   22,90
 
 
+    *        *
+        *
+        *   Die zuständige Behörde kann eine größere Länge zulassen.
 
-    *   185,00
 
-    *   11,45
+    *        *   3.2
 
+        *   a)
 
-*    *
-        d)  Schleusen Gambsheim und Iffezheim:
+        *   Schleusen **Iffezheim**                              (km 334,00) bis
+            **Lorch**                              (km 540,20)
 
+        *   193
 
+        *   22,90
 
 
-    *   270,00
+    *        *
+        *   b)
 
-    *   22,90
+        *   **Karlsruhe**                              (km 359,80) bis **Lorch**
+            (km 540,20) zusätzlich
 
+        *   153
 
-*    *   II
+        *   34,35
 
-    *   Schleusen Iffezheim (km 334,00) - Karlsruhe (km 359,80) in der Berg-
-        und Talfahrt ...........
 
-    *   186,50
+    *        *
+        *
+        *   nur Talfahrt und bei einem Wasserstand am Pegel Kaub von 1,20 m und
+            mehr, wenn nicht die zuständige Behörde die Fahrt bei einem
+            niedrigeren Wasserstand ausdrücklich zugelassen hat. Sofern am
+            schiebenden Fahrzeug Schubleichter längsseits gekuppelt mitgeführt
+            werden, müssen diese unbeladen sein.
 
-    *   22,90
 
+    *        *   3.3
 
-*    *   III
+        *   **Lorch**                              (km 540,20) bis **St. Goar**
+            (km 556,00)
 
-    *   Karlsruhe (km 359,80) - Lorch (km 540,20)
+        *
+        *
 
-    *
-    *
+    *        *
+        *   a)
 
-*    *
-        a)  in der Berg- und Talfahrt ........
+        *   Bergfahrt
 
+        *   186,50
 
+        *   22,90
 
 
-    *   186,50
+    *        *
+        *   b)
 
-    *   22,90
+        *   Talfahrt
 
+        *   116,50
 
-*    *
-        b)  in der Talfahrt wahlweise ........
+        *   22,90
 
 
+    *        *
+        *
+        *   Die zuständige Behörde kann eine größere Länge zulassen.
 
+        *
+        *
 
-    *   153,00
+    *        *
+        *   c)
 
-    *   34,35\*\*\*)
+        *   bei einem Wasserstand am Pegel Kaub zwischen 0,85 m und der
+            Hochwassermarke I zusätzlich für Schubverbände
 
 
-*    *   IV
+    *        *
+        *
+        *   aa)
 
-    *   Lorch (km 540,20) - St. Goar (km 556,00)
+        *   Bergfahrt
 
-    *
-    *
+        *   193
 
-*    *
-        a)  in der Bergfahrt .................
+        *   22,90
 
 
+    *        *
+        *
+        *   bb)
 
+        *   Talfahrt
 
-    *   186,50
+        *   193
 
-    *   22,90
+        *   12,50
 
 
-*    *
-        b)  in der Talfahrt ..................
+    *        *
+        *   d)
 
+        *   Buchstabe c gilt nur, wenn der Schubverband
 
+        *
+        *
 
+    *        *
+        *
+        *   aa)
 
-    *   110,00\*\*)
+        *   bei einer Breite bis zu 12,50 m
 
-    *   22,90
+        *
+        *
 
+    *        *
+        *
+        *
+        *   aaa) Mehrschraubenantrieb und eine oder mehrere vom Steuerstand
+            bedienbare Bugsteueranlagen von insgesamt mindestens 360 kW Leistung
+            oder
 
-*    *   V
 
-    *   St. Goar (km 556,00) - Gorinchem (km 952,50)
+    *        *
+        *
+        *
+        *   bbb) Einschraubenantrieb und eine oder mehrere vom Steuerstand
+            bedienbare Bugsteueranlagen von insgesamt mindestens 500 kW Leistung,
 
-    *
-    *
 
-*    *
-        a)  in der Berg- und Talfahrt ........
+    *        *
+        *
+        *
+        *   davon mindestens die Hälfte der Leistung jeweils an der Spitze des
+            Verbandes oder an den vorderen Leichtern, hat;
 
 
+    *        *
+        *
+        *   bb)
 
+        *   bei einer Breite von mehr als 12,50 m
 
-    *   186,50
+        *
+        *
 
-    *   22,90
+    *        *
+        *
+        *
+        *   Mehrschraubenantrieb mit zwei voneinander unabhängigen Antrieben und
+            eine oder mehrere vom Steuerstand bedienbare Bugsteueranlagen von
+            insgesamt mindestens 500 kW Leistung, davon mindestens die Hälfte der
+            Leistung an der Spitze des Verbandes oder an den vorderen Leichtern,
+            hat;
 
 
-*    *
-        b)  in der Talfahrt wahlweise ........
+    *        *
+        *
+        *   cc)
 
+        *   bei einer Länge von mehr als 186,50 m in der Talfahrt
 
+        *
+        *
 
+    *        *
+        *
+        *
+        *   mit einem Mehrschraubenantrieb ausgerüstet ist und bei einem
+            Wasserstand am Pegel Kaub von mehr als 3,50 m über eine spezifische
+            Leistung von mindestens 0,5 kW pro Ladungstonne verfügt.
 
-    *   153,00
 
-    *   34,35\*\*\*)
+    *        *   3.4
 
+        *   a)
 
-*    *   VI
+        *   **St. Goar**                              (km 556,00) bis
+            **Gorinchem**                              (km 952,50)
 
-    *   Pannerden (km 867,46) - Lekkanal (km 949,40) in der Berg- und Talfahrt
-        ...........
+        *   193
 
-    *   110,00\*\*)
+        *   22,90
 
-    *   17,70
 
+    *        *
+        *   b)
 
-*    *   VII
+        *   Talfahrt zusätzlich
 
-    *   Lekkanal (km 949,40) - Krimpen (km 989,20) in der Berg- und Talfahrt
+        *   153
 
-    *
-    *
+        *   34,35
 
-*    *   entweder ............................
 
-    *   116,50
+    *        *
+        *   c)
 
-    *   22,90
+        *   Buchstabe b gilt auf der Strecke
 
+        *
+        *
 
-*    *   oder ................................
+    *        *
+        *
+        *   aa)
 
-    *   140,00
+        *   St. Goar (km 556,00) bis Rolandswerth (km 641,80) nur bei einem
+            Wasserstand am Pegel Kaub von 1,20 m und mehr,
 
-    *   17,70
 
+    *        *
+        *
+        *   bb)
 
-*    *   oder mit einer Bugsteueranlage von ausreichender Leistung
-        ..............
+        *   Rolandswerth (km 641,80) bis Spyck’sche Fähre (km 857,40) nur bei
+            einem Wasserstand am Pegel Ruhrort von 2,10 m und mehr,
 
-    *   186,50
 
-    *   12,00\*\*)
+    *        *
+        *
+        *   cc)
 
+        *   Spyck’sche Fähre (km 857,40) bis Gorinchem (km 952,50) nur bei einem
+            Wasserstand am Pegel Lobith von 8,50 m und mehr,
 
-*    *
-        \*) Diese Länge darf mit Erlaubnis der zuständigen Behörde auf 185,00 m
-            erhöht werden. In diesem Fall ist § 6.28 Nr. 7 Buchstabe a und e nicht
-            anzuwenden.
 
+    *        *
+        *
+        *   wenn nicht die zuständige Behörde die Fahrt bei einem niedrigeren
+            Wasserstand ausdrücklich zugelassen hat.
 
-        \*\*) Die zuständige Behörde kann Schubverbände mit größeren Abmessungen
-            zulassen.
 
+    *        *
+        *
+        *   Sofern am schiebenden Fahrzeug Schubleichter längsseits gekuppelt
+            mitgeführt werden, müssen diese unbeladen sein.
 
-        \*\*\*) Die Schubleichter längsseits des Schubbootes müssen unbeladen sein.
 
+    *        *   3.5
 
+        *   **Bad Salzig**                              (km 564,30) bis
+            **Gorinchem**                              (km 952,50) unbeschadet der
+            Bestimmungen in Nummer 3.4 für Schubverbände
 
 
+    *        *
+        *   a)
 
+        *   Bergfahrt (lange Formation)
 
+        *   269,50
 
-2.  Ein Schubverband mit größeren als den in Nummer 1 festgelegten
-    Abmessungen kann von der für die betreffende Strecke zuständigen
-    Behörde für einen begrenzten Versuchszeitraum zugelassen werden.
+        *   22,90
 
 
-3.  Unterhalb der Schleusen Iffezheim bis Gorinchem kann die in Nummer 1
-    festgelegte Länge des Schubverbandes um höchstens 6,50 m verlängert
-    und die Breite des Schubbootes auf 15,00 m vergrößert werden, wenn
+    *        *
+        *   b)
 
-    a)  die Länge des Schubbootes 40,00 m nicht überschreitet und
+        *   Talfahrt (breite Formation)
 
+        *   193
 
-    b)  die gesamte Länge des geschobenen Teils des Verbandes 153,00 m nicht
-        überschreitet.
+        *   34,35
 
 
+    *        *
+        *   c)
 
+        *   In den Fällen der Buchstaben a und b darf ein Schubverband
 
 
-4.  Ein Schubverband darf die Breite von 22,90 auf folgenden Strecken
-    nicht überschreiten:
+    *        *
+        *
+        *   aa)
 
-    a)  auf der Strecke Karlsruhe (km 359,80) - Lorch (km 540,00) und St. Goar
-        (km 556,00) - Rolandswerth (km 641,80), wenn der Wasserstand am Pegel
-        Kaub 1,20 m unterschreitet;
+        *   nicht mehr als sechs Schubleichter im Verband umfassen. In der
+            Talfahrt dürfen höchstens vier Schubleichter einen Tiefgang von 1,50 m
+            oder mehr haben. Trägerschiffsleichter dürfen nur längsseits von
+            anderen Leichtern mitgeführt werden; dabei gelten vier
+            Trägerschiffsleichter hintereinander als ein Schubleichter;
 
 
-    b)  auf der Strecke Rolandswerth (km 641,80) - Spyck'sche Fähre (km
-        857,40), wenn der Wasserstand am Pegel Ruhrort 2,10 m unterschreitet;
+    *        *
+        *
+        *   bb)
 
+        *   die Fahrt nur antreten, wenn an der Spitze des Verbandes eine vom
+            Steuerstand des schiebenden Fahrzeuges aus zu bedienende
+            Bugsteueranlage vorhanden ist.
 
-    c)  auf der Strecke Spyck'sche Fähre (km 857,40) - Gorinchem (km 952,50)
-        in der Talfahrt, wenn der Wasserstand am Pegel Lobith 9,50 m
-        unterschreitet.
 
+    *        *
+        *   d)
 
+        *   Auf dem Streckenabschnitt Bad Salzig (km 564,30) bis Spyck’sche Fähre
+            (km 857,40) darf darüber hinaus ein Schubverband die Fahrt nur bei
+            einem Wasserstand am Pegel Ruhrort zwischen 2,75 m und 7,15 m
+            antreten, wenn nicht die zuständige Behörde die Fahrt bei anderen
+            Wasserständen ausdrücklich zugelassen hat.
 
 
-    Die zuständige Behörde kann die Fahrt bei niedrigeren Wasserständen
-    zulassen.
+    *        *
+        *   e)
 
+        *   Auf dem Streckenabschnitt Spyck’sche Fähre (km 857,40) bis Gorinchem
+            (km 952,50) darf, wenn nicht die zuständige Behörde die Fahrt unter
+            anderen Bedingungen ausdrücklich zugelassen hat, darüber hinaus ein
+            Schubverband die Fahrt nur antreten
 
 
+    *        *
+        *
+        *   aa)
 
+        *   bei einem Wasserstand am Pegel Lobith zwischen 8,50 m und 13,50 m;
 
-#### § 11.03 Höchstabmessungen für Schubverbände unter bestimmten Voraussetzungen
 
+    *        *
+        *
+        *   bb)
 
-1.  Abweichend von § 11.02 werden für einen Schubverband auf der Strecke
-    zwischen Bad Salzig (km 564,30) - Gorinchem (km 952,50) die folgenden
-    Höchstabmessungen
+        *   wenn er keine gefährlichen Güter mitführt, für deren Beförderung ein
+            Zulassungszeugnis nach ADN erforderlich ist;
 
 
+    *        *
+        *
+        *   cc)
 
+        *   und, bei einem Schubboot bis 40 m Länge, wenn darüber hinaus folgende
+            Bedingungen erfüllt sind:
 
-*    *   Zusammenstellung
 
-    *   Höchstabmessungen
+    *        *
+        *
+        *
+        *   aaa) die größtmögliche Antriebsleistung des Schubbootes darf 4 500 kW
+            nicht überschreiten;
 
 
-*    *   Länge in m
+    *        *
+        *
+        *
+        *   bbb) in der langen Formation müssen mindestens vier Schubleichter
+            einen Tiefgang von 2,50 m oder mehr haben. Die Talfahrt in der breiten
+            Formation darf auf dieser Strecke auch ohne Bugsteueranlage
+            durchgeführt werden, wenn mindestens zwei und höchstens vier
+            Schubleichter einen Tiefgang von 2,50 m oder mehr haben und zwei davon
+            in der Achse des Verbandes liegen.
 
-    *   Breite in m
 
+    *        *   3.6
 
-*    *   Breite Formation
+        *   a)
 
-    *   193,00
+        *   **Pannerden**                              (km 867,46) bis
+            **Lekkanal**                              (km 949,40)
 
-    *   34,35
+        *   135
 
+        *   15
 
-*    *   Lange Formation
 
-    *   269,50
+    *        *
+        *   b)
 
-    *   22,90
+        *   für Schubverbände mit einer größeren Länge als 110 m und einer
+            Bugsteueranlage von ausreichender Leistung. Ein Überholungs- und
+            Begegnungsverbot gilt zwischen **IJsselkop**
+            (km 878,60) und **Arnheim**                              (km 885,00).
 
+        *   186,50
 
+        *   11,45
 
 
-*   unter den folgenden Bedingungen zugelassen:
+    *        *
+        *   Die zuständige Behörde kann eine größere Länge zulassen. Dabei
+            betragen die Höchstabmessungen der Schubverbände, die auf dem
+            Amsterdam-Rhein-Kanal fahren und den Lek bei Wijk bij Duurstede
+            kreuzen, in der Länge 200 m und in der Breite 23,50 m.
 
-    a)  die vorstehend genannten Höchstabmessungen müssen im Schiffsattest des
-        Schubbootes zugelassen sein;
 
+    *        *   3.7
 
-    b)  die Länge des Schubbootes darf 40,00 m nicht überschreiten;
+        *   **Lekkanal**                              (km 949,40) bis **Krimpen**
+            (km 989,20)
 
 
-    c)  es dürfen nicht mehr als sechs Schubleichter in den Verband
-        eingestellt werden; Trägerschiffsleichter dürfen nicht mitgeführt
-        werden;
+    *        *
+        *   a)
 
+        *   kurze Formation
 
-    d)  die Talfahrt darf nur in der breiten Formation durchgeführt werden.
-        Dabei müssen folgende Voraussetzungen erfüllt sein:
+        *   116,50
 
-        -   es müssen mindestens zwei Schubleichter an der Spitze des Verbandes
-            mit einer vom Steuerstand des Schubbootes aus zu bedienenden Passiv-
-            Bugruderanlage ausgerüstet sein. Die Ruderblätter müssen für jeden
-            Schubleichter eine wirksame Fläche von mindestens 2
-            qm haben. Die zuständige Behörde kann Bugsteueranlagen mit einer
-            gleichwertigen Wirkung zulassen;
+        *   22,90
 
 
-        -   es dürfen höchstens vier Schubleichter einen Tiefgang von 1,50 m oder
-            mehr haben.
+    *        *
+        *   b)
 
+        *   lange Formation
 
+        *   193
 
+        *   11,45
 
 
+    *        *
+        *   Die zuständige Behörde kann größere Abmessungen zulassen.
 
 
 
-2.  Zusätzlich zu Nummer 1 ist auf dem Streckenabschnitt Bad Salzig (km
-    564,30) - Spyck'sche Fähre (km 857,40) zu beachten:
 
-    a)  die Fahrt darf nur angetreten werden bei Wasserständen am Pegel
-        Ruhrort zwischen 2,75 m und 6,00 m. Die zuständige Behörde kann die
-        Fahrt bei anderen Wasserständen zulassen;
 
 
-    b)  die Fahrt darf nicht durchgeführt werden auf Streckenabschnitten, auf
-        denen der Wasserstand die Hochwassermarke I erreicht hat;
 
 
-    c)  die Talfahrt in der breiten Formation darf auch ohne Bugruder
-        durchgeführt werden, wenn mindestens zwei und höchstens vier
-        Schubleichter einen Tiefgang von 1,50 m und mehr haben.
+#### (XXXX) §§ 11.03 bis 11.05 (weggefallen)
 
-
-
-
-
-3.  Zusätzlich zu Nummer 1 ist auf dem Streckenabschnitt Spyck'sche Fähre
-    (km 857,40) - Gorinchem (km 952,50) zu beachten:
-
-    a)  die Fahrt darf nur angetreten werden bei Wasserständen am Pegel Lobith
-        zwischen 9,50 m und 13,50 m. Die zuständige Behörde kann die Fahrt bei
-        anderen Wasserständen zulassen;
-
-
-    b)  die größtmögliche Antriebsleistung des Schubbootes darf 4.500 kW nicht
-        überschreiten;
-
-
-    c)  die Bergfahrt darf nur in der langen Formation durchgeführt werden;
-
-
-    d)  in der langen Formation müssen mindestens vier Schubleichter einen
-        Tiefgang von 2,50 m oder mehr haben. Die zuständige Behörde kann
-        andere Zusammenstellungen und einen geringeren Tiefgang zulassen;
-
-
-    e)  die Talfahrt in der breiten Formation darf auch ohne Bugruder
-        durchgeführt werden, wenn mindestens zwei und höchstens vier
-        Schubleichter einen Tiefgang von 2,50 m oder mehr haben und zwei davon
-        in der Achse des Verbandes liegen;
-
-
-    f)  gefährliche Güter, für deren Beförderung ein Zulassungszeugnis nach
-        ADNR erforderlich ist, dürfen nicht mitgeführt werden.
-
-
-
-
-
-
-
-
-#### § 11.04 Höchstabmessungen der Schubverbände an der Kreuzung des Lek mit dem Amsterdam-Rhein-Kanal
-
-Abweichend von § 11.02 Nr. 1 betragen die Höchstabmessungen der
-Schubverbände, die auf dem Amsterdam-Rhein-Kanal fahren und den Lek
-bei Wijk bij Duurstede kreuzen, in der Länge 200 m und in der Breite
-23,00 m. Die zuständige Behörde kann größere Abmessungen zulassen.
-
-
-#### § 11.05 Höchstabmessungen sonstiger Fahrzeugzusammenstellungen
-
-Für andere starre Fahrzeugzusammenstellungen als Schubverbände gelten
-die gleichen Höchstabmessungen, die nach § 11.02 Nr. 1 und 2 für
-Schubverbände maßgeblich sind.
 
 
 ### Kapitel 12 - Stromstrecken mit Meldepflicht oder Wahrschauregelung
@@ -7585,206 +7900,214 @@ Schubverbände maßgeblich sind.
 
 
 
-#### § 12.02 Wahrschauregelung auf der Strecke Oberwesel-St. Goar
+#### § 12.02 Funktion der Lichtwahrschau auf der Strecke Oberwesel – St. Goar
 
 
-1.  An der Strecke Oberwesel-St. Goar sind folgende Signalstellen
+1.  Die Strecke, die von der Revierzentrale Oberwesel gewahrschaut wird
+    (Wahrschaustrecke), befindet sich im Bereich von km 548,50 bis km
+    555,43 (Anlage 9).
+
+
+
+
+2.  An der Strecke Oberwesel – St. Goar sind folgende Signalstellen
     eingerichtet:
 
 
+    *        *   Signalstelle A:
+
+        *   km 550,57, linkes Ufer, am Ochsenturm bei Oberwesel;
 
 
-*    *   Signalstelle A:
+    *        *   Signalstelle B:
 
-    *   km 550,57, linkes Ufer,
-
-
-*    *   am Ochstenturm bei Oberwesel;
+        *   km 552,80, linkes Ufer, am Kammereck;
 
 
-*    *   Signalstelle B:
+    *        *   Signalstelle C:
 
-    *   km 552,80, linkes Ufer,
-
-
-*    *   am Kammereck;
+        *   km 553,61, linkes Ufer, am Betteck;
 
 
-*    *   Signalstelle C:
+    *        *   Signalstelle D:
 
-    *   km 553,61, linkes Ufer,
-
-
-*    *   am Betteck;
+        *   km 554,34, linkes Ufer, gegenüber der Loreley („Die Lützelsteine“);
 
 
-*    *   Signalstelle D:
+    *        *   Signalstelle E:
 
-    *   km 554,34, linkes Ufer,
-
-
-*    *   gegenüber der Loreley;
-
-
-*    *   Signalstelle E:
-
-    *   km 555,43, linkes Ufer,
-
-
-*    *   an der Bank.
+        *   km 555,43, linkes Ufer, an der Bank.
 
 
 
 
-2.  Der Bergfahrt wird die Annäherung von Talfahrern - mit Ausnahme von
-    Kleinfahrzeugen - an den Signalstellen C, D und E angezeigt.
 
-    Jede dieser Signalstellen zeigt der Bergfahrt ihre Zeichen auf
+3.  Der Bergfahrt wird die Annäherung von Talfahrern – mit Ausnahme von
+    Kleinfahrzeugen – an den Signalstellen A, C, D und E angezeigt.
+
+    Jede dieser Signalstellen zeigt der Bergfahrt ihre Lichtzeichen auf
     übereinander stehenden Feldern, die folgenden Teilstrecken zugeordnet
     sind:
 
+    *        *   **Feld**
+
+        *   **Nummer der Teilstrecke**
+
+        *   **Oberstromgrenze der Teilstrecke**
+
+        *   **Unterstromgrenze der Teilstrecke**
+
+
+    *        *   Signalstelle A: am Ochsenturm
+
+
+    *        *   oben
+
+        *   1
+
+        *   km 548,50
+
+        *   km 549,50
+
+
+    *        *   unten
+
+        *   2
+
+        *   km 549,50
+
+        *   km 550,57
+
+
+    *        *   Signalstelle C: am Betteck
+
+
+    *        *   oben
+
+        *   3
+
+        *   km 550,57
+
+        *   km 551,30
+
+
+    *        *   Mitte
+
+        *   4
+
+        *   km 551,30
+
+        *   km 552,40
+
+
+    *        *   unten
+
+        *   5
+
+        *   km 552,40
+
+        *   km 553,60
+
+
+    *        *   Signalstelle D: gegenüber der Loreley („Die Lützelsteine“)
+
+
+    *        *   oben
+
+        *   4
+
+        *   km 551,30
+
+        *   km 552,40
+
+
+    *        *   Mitte
+
+        *   5
+
+        *   km 552,40
+
+        *   km 553,61
+
+
+    *        *   unten
+
+        *   6
+
+        *   km 553,61
+
+        *   km 554,34
+
+
+    *        *   Signalstelle E: an der Bank
+
+
+    *        *   oben
+
+        *   6
+
+        *   km 553,61
+
+        *   km 554,34
+
+
+    *        *   unten
+
+        *   7
+
+        *   km 554,34
+
+        *   km 555,43
 
 
 
-*    *   Feld
-
-    *   Nr. der Teilstrecke
-
-    *   Grenzen der Teilstrecke
 
 
-*    *   Signalstelle C
-
-    *
-    *
-    *
-
-*    *   oben
-
-    *   1
-
-    *   km 550,57
-
-    *   km 551,30
-
-
-*    *   Mitte
-
-    *   2
-
-    *   km 551,30
-
-    *   km 552,11
-
-
-*    *   unten
-
-    *   3
-
-    *   km 552,11
-
-    *   km 554,34
-
-
-*    *   Signalstelle D
-
-    *
-    *
-    *
-
-*    *   oben
-
-    *   1
-
-    *   km 550,57
-
-    *   km 551,30
-
-
-*    *   Mitte
-
-    *   2
-
-    *   km 551,30
-
-    *   km 552,11
-
-
-*    *   unten
-
-    *   3
-
-    *   km 552,11
-
-    *   km 554,34
-
-
-*    *   Signalstelle E
-
-    *
-    *
-    *
-
-*    *   oben
-
-    *   3
-
-    *   km 552,11
-
-    *   km 554,34
-
-
-*    *   unten
-
-    *   4
-
-    *   km 554,34
-
-    *   km 555,43
-
-
-
-
-3.  Die Zeichen an den Signalstellen bedeuten für die ihnen zugeordneten
+4.  Die Zeichen an den Signalstellen bedeuten für die ihnen zugeordneten
     Teilstrecken:
 
     a)  Drei weiße, ein Dreieck bildende Lichtlinien (Bild 1):
 
-        In der Teilstrecke fährt mindestens ein Verband mit einer Länge über
-        110 m zu Tal.
 
-        ... nicht darstellbares Bild 1
+        *            *   In der Teilstrecke fährt mindestens ein Verband mit einer Länge über
+                110 m zu Tal.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0010.jpg](bgbl2_2016_j0724_0010.jpg)
+
+
 
 
     b)  Zwei dachförmig gegeneinander geneigte weiße Lichtlinien (Bild 2):
 
-        In der Teilstrecke fährt mindestens ein Verband mit einer Länge bis
-        110 m oder ein Fahrzeug mit einer Länge über 110 m zu Tal.
 
-        ... nicht darstellbares Bild 2
+        *            *   In der Teilstrecke fährt mindestens ein Verband mit einer Länge bis
+                110 m oder ein Fahrzeug mit einer Länge über 110 m oder mit einer
+                Breite über 15 m zu Tal.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0020.jpg](bgbl2_2016_j0724_0020.jpg)
+
+
 
 
     c)  Eine nach rechts geneigte weiße Lichtlinie (Bild 3):
 
-        In der Teilstrecke fährt mindestens ein Einzelfahrer mit einer Länge
-        bis 110 m zu Tal.
 
-        ... nicht darstellbares Bild 3
+        *            *   In der Teilstrecke fährt mindestens ein Fahrzeug mit einer Länge bis
+                110 m zu Tal.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0030.jpg](bgbl2_2016_j0724_0030.jpg)
+
+
 
 
     d)  Eine waagerechte weiße Lichtlinie (Bild 4):
 
-        In der Teilstrecke befindet sich kein Talfahrer.
 
-        ... nicht darstellbares Bild 4
+        *            *   In der Teilstrecke befindet sich kein Talfahrer.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0040.jpg](bgbl2_2016_j0724_0040.jpg)
+
+
 
 
 
@@ -7794,32 +8117,128 @@ Schubverbände maßgeblich sind.
 
     a)  an der Signalstelle A
 
-        ein weißes Licht, nur bergwärts sichtbar:
+        aa) ein weißes Licht, nur für die Talfahrt sichtbar:
 
-        die Talschifffahrt wird den Bergfahrern gewahrschaut;
+            den Talfahrern wird mitgeteilt, dass die Lichtwahrschau in Betrieb
+            ist.
+
+
+        bb) zusätzlich ein weißes Blinklicht, nur für die Talfahrt sichtbar:
+
+            ein Verband mit einer Länge über 110 m fährt am Tauberwerth
+            (Teilstrecke 3) zu Berg.
+
+
+
 
 
     b)  an der Signalstelle B
 
-        ein weißes Licht, nur bergwärts sichtbar:
+        ein weißes Blinklicht, nur für die Talfahrt sichtbar:
 
-        ein Verband mit einer Länge über 110 m umfährt das Betteck zu Berg;
+        ein Verband mit einer Länge über 110 m umfährt das Betteck zu Berg.
 
 
 
+
+
+6.  Eine Sperrung der Schifffahrt für die Talfahrt wird an den
+    Signalstellen A oder B durch zwei nur für die Talfahrt sichtbare rote
+    Lichter übereinander angezeigt.
+
+    Eine Sperrung der Schifffahrt für die Bergfahrt wird an den
+    Signalstellen D oder E durch zwei nur für die Bergfahrt sichtbare rote
+    Lichter übereinander angezeigt.
+
+
+
+
+
+#### § 12.03 Besondere Regeln für die Fahrt in der Wahrschaustrecke
+
+
+1.  In bestimmten Verkehrssituationen besteht ein Begegnungsverbot am
+    Bankeck (km 555,60 bis km 555,20), am Betteck (km 553,61 bis km
+    553,30) und am Jungferngrund (km 551,20 bis km 550,60).
+
+    Dieses Begegnungsverbot gilt
+
+    a)  für bergfahrende Fahrzeuge und Verbände, deren Länge 110 m nicht
+        überschreitet, ausgenommen Kleinfahrzeuge,
+
+        wenn diesen an der Signalstelle A, C oder E im unteren Feld ein
+        Lichtzeichen gem. § 12.02 Nummer 4 Buchstabe a angezeigt wird;
+
+
+    b)  für bergfahrende Fahrzeuge mit einer Länge über 110 m,
+
+        wenn diesen an der Signalstelle A, C oder E im unteren Feld ein
+        Lichtzeichen gem. § 12.02 Nummer 4 Buchstabe a oder b angezeigt wird;
+
+
+    c)  für bergfahrende Verbände mit einer Länge über 110 m,
+
+        wenn diesen an der Signalstelle A, C oder E im unteren Feld ein
+        Lichtzeichen gem. § 12.02 Nummer 4 Buchstabe a, b oder c angezeigt
+        wird.
+
+
+
+
+    Bei einem Begegnungsverbot nach Satz 1 müssen die Bergfahrer unterhalb
+    des Bankecks, des Bettecks oder des Tauberwerths anhalten, bis die
+    Talfahrer am km 555,60 bzw. am km 553,60 oder am km 551,20
+    vorbeigefahren sind.
+
+
+2.  Die Bergfahrer, ausgenommen Kleinfahrzeuge, müssen bei der Annäherung
+    an das Bankeck, das Betteck oder das Tauberwerth die Talfahrer mit
+    Sprechfunk ansprechen und diese auffordern, ihnen Art, Namen, Standort
+    und Fahrtrichtung des Fahrzeugs mitzuteilen.
+
+
+3.  Nach Überschreiten der Hochwassermarke I am Pegel Kaub (4,60 m) gilt
+    für alle Fahrzeuge und Verbände, ausgenommen Kleinfahrzeuge, am
+    Bankeck (km 555,60 bis km 555,20), am Betteck (km 553,60 bis km
+    553,30) und am Jungferngrund (km 551,20 bis km 550,60) ein Begegnungs-
+    und Überholverbot.
+
+
+4.  Zu Tal fahrende Fahrzeuge mit einer Breite von 15 m und mehr müssen
+    bei km 548,00 auf Kanal 18 „Oberwesel Wahrschau“ rufen und
+    Fahrzeugart, Namen, Standort, Breite und Fahrtrichtung ihres Fahrzeugs
+    mitteilen.
 
 
 5.  Fahrzeuge, ausgenommen Kleinfahrzeuge, die innerhalb der
-    Wahrschaustrecke wenden und wieder zurückfahren, müssen dies über Funk
-    (Kanal 18) der Revierzentrale Oberwesel mitteilen.
+    Wahrschaustrecke an- bzw. ablegen oder wenden und wieder zurückfahren,
+    müssen dies über Kanal 18 der Revierzentrale über das Rufzeichen
+    „Oberwesel Wahrschau“ anzeigen.
 
 
-6.  Eine Sperrung der Talschifffahrt wird an den Signalstellen A oder B
-    durch zwei nur bergwärts sichtbare rote Lichter übereinander
-    angezeigt.
+6.  Ist die Lichtwahrschau außer Betrieb, gelten, ausgenommen für
+    Kleinfahrzeuge, folgende Regelungen:
 
-    Eine Sperrung der Bergschiffahrt wird an den Signalstellen D oder E
-    durch zwei nur talwärts sichtbare rote Lichter übereinander angezeigt.
+    a)  Die Regelungen unter Nummer 1 und 2 gelten für alle zu Berg fahrenden
+        Fahrzeuge und Verbände.
+
+        Meldet sich kein Talfahrer dürfen die Bergfahrer das Bankeck, Betteck
+        oder den Jungferngrund nur umfahren, wenn sie vorher auf Kanal 10
+        einen tiefen Ton von 1 Sekunde Dauer empfangen haben. Dieser Ton dient
+        der Kontrolle des ordnungsgemäßen Funkbetriebs auf der Strecke
+        Oberwesel bis St. Goar.
+
+
+    b)  Talfahrer müssen während der Vorbeifahrt am km 548,50 oberhalb des
+        Hafens Oberwesel, an der oberen Trennungstonne am Geisenrücken (km
+        552,00) und am Betteck (km 553,60) Art, Namen, Standort und
+        Fahrtrichtung ihres Fahrzeugs ansagen. Dieselben Angaben müssen sie
+        ansagen, wenn sie von einem Bergfahrer angesprochen werden. Nach jeder
+        Meldung muss die Sprechfunkanlage wieder auf Empfang geschaltet
+        werden.
+
+
+
 
 
 
@@ -7839,7 +8258,7 @@ Schubverbände maßgeblich sind.
 
 
 2.  Dieses Kapitel gilt für die unter Nummer 1 genannten Fahrzeuge von
-    Basel (Mittlere Rheinbrücke, km 166,64) bis zum unteren Vorhafen der
+    Basel (Mittlere Rheinbrücke, km 166,53) bis zum unteren Vorhafen der
     Schleusen Iffezheim (km 335,92).
 
 
@@ -7945,20 +8364,21 @@ Bescheinigung der zuständigen Behörde ersetzt.
 #### § 14.02 Basel
 
 
-1.  Die Reede von Basel erstreckt sich am linken Ufer von km 167,75 bis km
-    168,40 und am rechten Ufer von km 167,75 bis km 169,80.
+1.  Die Reede von Basel erstreckt sich am rechten Ufer von km 167,82 bis
+    km 169,99.
 
 
 2.  Für Fahrzeuge, die keine Bezeichnung nach § 3.14 führen müssen, werden
     am rechten Ufer bestimmt:
 
-    a)  Liegestelle "Uferplatz" von km 167,85 (Dreirosenbrücke) bis km 168,04;
+    a)  Liegestelle „Uferplatz – GMS 1 und 2“ von km 167,88 (unterhalb der
+        Dreirosenbrücke) bis km 168,09;
 
 
-    b)  Liegestelle "Rheinquai-Wiesemündung" von km 169,20 bis km 169,34;
+    b)  Liegestelle „Rheinquai-Wiesemündung“ von km 169,19 bis km 169,33;
 
 
-    c)  Liegestelle "Rheinquai-Dreiländereck" von km 169,60 bis km 169,71;
+    c)  Liegestelle „Rheinquai-Dreiländereck“ von km 169,61 bis km 169,72;
 
         sie kann in der Zeit vom 1. November bis zum 15. März benutzt werden,
         außerhalb dieser Zeit nur mit Erlaubnis des Hafenmeisters.
@@ -7967,10 +8387,11 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
-3.  Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nr. 1 führen müssen,
+3.  Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen müssen,
     wird am rechten Ufer bestimmt:
 
-    Liegestelle "Oberer Klybeckquai" von km 168,05 bis km 168,36.
+    Liegestelle „Oberer Klybeckquai – TMS 1 und 2“ von km 168,09 bis km
+    168,33.
 
 
 4.  Fahrzeugen, die eine Bezeichnung nach § 3.14 Nr. 2 oder 3 führen
@@ -7991,7 +8412,8 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 1.  Die Reede erstreckt sich vor Mannheim am rechten Ufer von km 412,35
     bis km 417,15 und von km 423,50 bis km 431,80 sowie vor Ludwigshafen
-    am linken Ufer von km 419,77 bis km 431,90.
+    am linken Ufer von km 419,77 bis km 424,83 und von km 425,50 bis km
+    431,90.
 
 
 2.  Für Fahrzeuge, die keine Bezeichnung nach § 3.14 führen müssen, werden
@@ -8001,7 +8423,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
         i.  vor Mannheim-Rheinau
 
-            von km 413,30 bis km 414,25,
+            von km 413,40 bis km 414,25,
 
             von km 414,56 bis km 414,90,
 
@@ -8012,10 +8434,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
             von km 423,50 bis km 424,00,
 
-            von km 424,76 bis km 425,00 nur für Fahrzeuge, die in dieser
-            Uferstrecke laden oder löschen wollen,
-
-            von km 425,00 bis km 427,00,
+            von km 425,36 bis km 427,00,
 
             von km 428,72 bis km 429,60,
 
@@ -8025,19 +8444,19 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
-    b)  Liegestelle am linken Ufer vor Ludwigshafen von km 424,83 bis km
+    b)  Liegestelle am linken Ufer vor Ludwigshafen von km 425,50 bis km
         426,20.
 
 
 
 
 
-3.  Für die Fahrzeuge, die die Bezeichnung nach § 3.14 Nr. 1 führen
-    müssen, werden bestimmt:
+3.  Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen müssen,
+    werden bestimmt:
 
     a)  Liegestellen am rechten Ufer
 
-        von km 413,00 bis km 413,30,
+        von km 413,10 bis km 413,40,
 
         von km 430,30 bis km 431,10;
 
@@ -8049,7 +8468,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 4.  Für Fahrzeuge, die bei der BASF Aktiengesellschaft laden oder löschen
-    wollen oder dort geladen oder gelöscht haben wird bestimmt:
+    wollen oder dort geladen oder gelöscht haben, wird bestimmt:
 
     Liegestelle am linken Ufer von km 426,20 bis km 431,47.
 
@@ -9056,10 +9475,10 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 128 bis
 135)
 
 
-#### Anlage 9
+#### Anlage 9 Lichtwahrschau Oberwesel – St. Goar Rhein-km 548,50 – 555,43
 
-(ohne Inhalt)
-
+(Fundstelle: BGBl. I 2016, 726
+![bgbl2_2016_j0726_0010.jpg](bgbl2_2016_j0726_0010.jpg)
 
 #### Anlage 10
 
@@ -9250,7 +9669,7 @@ afgifte en inname van afval in de Rijn- en binnenvaart (CDNI)
 
 #### Anlage 11
 
-(ohne Inhalt)
+(Text in Bearbeitung)
 
 
 #### Anlage 12

@@ -1,5 +1,6 @@
+Nationale Sonderbestimmungen
 ---
-Title: Nationale Sonderbestimmungen (Anhang X zur Binnenschiffsuntersuchungsordnung)
+Title: (Anhang X zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh X
 layout: default
 origslug: binschuo2008anh_x
@@ -7,13 +8,31 @@ slug: binschuo2008anh_x
 
 ---
 
-# Nationale Sonderbestimmungen (Anhang X zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh X)
+# (Anhang X zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh X)
 
 Ausfertigungsdatum
 :   2008-12-06
 
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 683 - 770]
+
+Änderung durch
+:   Art. 1 Nr. 21 V v. 20.12.2012 I 2802 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 Nr. 12 V v. 30.5.2014 I 610 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 539 V v. 31.8.2015 I 1474 (Nr. 35) ist berücksichtigt
+
+Änderung durch
+:   Art. 2 § 2 V v. 29.11.2016 I 2668 (Nr. 56) ist berücksichtigt
+
+Änderung durch
+:   Art. 1 Nr. 9 V v. 16.12.2016 I 2948 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 Nr. 7 V v. 2.3.2017 I 330 (Nr. 10) noch nicht berücksichtigt
 
 
 ## Inhaltsverzeichnis
@@ -97,6 +116,11 @@ Fundstelle
     *   Zusätzliche Ausrüstung
 
 
+*    *   2.08
+
+    *   Landeklappen
+
+
 
 
 ## **Kapitel 3**
@@ -127,17 +151,17 @@ Fundstelle
 
 *    *   3.05
 
-    *   Abnahme
+    *   Prüfung
 
 
 *    *   3.06
 
-    *   Prüfungen
+    *   Prüfbedingungen
 
 
 *    *   3.07
 
-    *   Abnahmeprotokoll
+    *   Bescheinigung
 
 
 
@@ -149,13 +173,23 @@ Fundstelle
 
 *    *   4.01
 
-    *   Übergangsbestimmungen für Fähren, die schon in Betrieb sind und
-        Gültigkeit der bisherigen Fährzeugnisse
+    *   Übergangsbestimmungen für Fähren, die schon in Betrieb sind
 
 
 *    *   4.02
 
     *   Sonstige Abweichungen
+
+
+*    *   4.03
+
+    *   Gültigkeit der bisherigen Fährzeugnisse
+
+
+*    *   4.04
+
+    *   Übergangsbestimmungen für Fähren zur Beförderung von nicht mehr als
+        zwölf Personen
 
 
 
@@ -217,7 +251,7 @@ Fundstelle
 
 *    *   6.01
 
-    *   Fristen
+    *   Übergangsbestimmungen für Barkassen, die in Betrieb sind
 
 
 
@@ -427,6 +461,31 @@ max.12 Fahrgästen
 
 
 
+## **Teil IV**
+
+**Allgemeines**
+## **Kapitel 10**
+
+## Gleichwertigkeit und Abweichungen
+
+
+*    *   10.01
+
+    *   Gleichwertigkeit und Abweichungen hinsichtlich Bau und Ausrüstung
+
+
+*    *   10.02
+
+    *   Abweichungen hinsichtlich Zulassung und Besatzung
+
+
+*    *   10.03
+
+    *   Sonstige Abweichungen und Ausnahmen
+
+
+
+
 ## **Dienstanweisungen**
 
 
@@ -470,8 +529,8 @@ max.12 Fahrgästen
 
 *    *   Muster Nr. 2:
 
-    *   Muster des Abnahmeprotokolls für kleine Fahrgastschiffe zur
-        Beförderung von max. 12 Fahrgästen
+    *   Muster des Abnahmeprotokolls für kleine Fahrgastschiffe (Zeesboote und
+        Taxiboote) zur Beförderung von maximal zwölf Fahrgästen
 
 
 
@@ -503,8 +562,10 @@ In diesem Anhang gelten als:
     Wagenmotorfähren;
 
 
-5.  „Kahnfähre“ eine zur Beförderung von Personen gebaute Fähre, die durch
-    Muskelkraft, ersatzweise auch mit Hilfsantrieb, fortbewegt wird;
+5.  „Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre,
+    die durch Muskelkraft fortbewegt wird; zusätzlich kann – zur
+    Beherrschung besonderer Betriebslagen – ein Hilfsantrieb installiert
+    sein;
 
 
 6.  „Personenmotorfähre“ eine Personenfähre mit maschinellem Antrieb;
@@ -576,7 +637,28 @@ In diesem Anhang gelten als:
     Landfahrzeugs einschließlich seiner Ladung in Tonnen, das allein und
     ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich
     mittiger Aufstellung auf dem Fährdeck einer Wagenfähre befördert
-    werden kann.
+    werden kann;
+
+
+20. Abweichend von Anhang II, III und XII gelten folgende
+    Begriffsbestimmungen:
+
+    *        *   statt
+
+        *   gilt
+
+
+    *        *   „Schiffsattest“
+
+        *   „Fährzeugnis“
+
+
+    *        *   „Gemeinschaftszeugnis“
+
+        *   „Fährzeugnis“
+
+
+
 
 
 
@@ -600,52 +682,78 @@ In diesem Anhang gelten als:
 
 4.  Anhang II Kapitel 15 gilt mit folgenden Abweichungen:
 
-    a)  § 15.01 Nr.3 gilt nicht,
+    a)  § 15.01 Nummer 3 gilt nicht.
 
 
-    b)  befinden sich die Verkehrsflächen, die für die Nutzung durch Personen
+    b)  Befinden sich die Verkehrsflächen, die für die Nutzung durch Personen
         mit eingeschränkter Mobilität vorgesehen sind, auf freiem Fährdeck und
-        ist dieser über ausreichend breite Landeklappen zugänglich, so müssen
-        nur die dafür vorgesehenen Plätze den Anforderungen aus § 15.01 Nr. 4
-        entsprechen,
+        ist dieses über ausreichend breite Landeklappen zugänglich, so müssen
+        nur die für Personen mit eingeschränkter Mobilität vorgesehenen Plätze
+        den Anforderungen des § 15.01 Nummer 4 entsprechen.
 
 
-    c)  Landeklappen sind als Sammelflächen nach § 15.06 Nr. 8 geeignet, wenn
-        die Festigkeit und Stabilität nachgewiesen wird und die Landeklappen
-        durch Absperrvorrichtungen wie Schwenkbalken, Geländer oder
-        Absperrketten gesichert sein. Die Absperrvorrichtungen müssen deutlich
-        sichtbar gekennzeichnet sein und mindestens die
-        Festigkeitsanforderungen nach DIN EN 711, Ausgabe März 1995 erfüllen,
+    c)  Landeklappen sind als Sammelflächen nach § 15.06 Nummer 8 geeignet,
+        wenn die Festigkeit und die Stabilität nachgewiesen und die
+        Landeklappen durch feste Absperrvorrichtungen nach § 2.07 Nummer 1
+        gesichert sind.
 
 
-    d)  Landstege nach § 15.06 Nr. 12 können durch mindestens zwei
-        gegenüberliegende Landeklappen ersetzt werden, wenn diese dafür
-        geeignet sind,
+    d)  Landstege nach § 15.06 Nummer 12 können durch mindestens zwei
+        gegenüberliegende Landeklappen ersetzt werden, wenn diese geeignet
+        sind, die Aufgabe der Landstege zu erfüllen; bei Personenfähren genügt
+        eine Landeklappe.
 
 
-    e)  Toiletten nach § 15.06 Nr. 17 sind nur erforderlich, wenn beim
+    e)  Toiletten nach § 15.06 Nummer 17 sind nur erforderlich, wenn beim
         Übersetzverkehr von einem Ufer zum anderen die Fahrtdauer 10 Minuten
-        übersteigt,
+        übersteigt. Soweit keine Toiletten erforderlich sind, sind
+        Einrichtungen zum Sammeln und Entsorgen häuslicher Abwässer nach §
+        15\.14 nicht erforderlich.
 
 
-    f)  ein zweites unabhängiges Antriebssystem nach § 15.07 ist für seil- und
-        kettengebundenen Fähren sowie Kahnfähren nicht erforderlich,
+    f)  Ein zweites unabhängiges Antriebssystem nach § 15.07 ist für seil- und
+        kettengebundene Fähren nicht erforderlich.
 
 
-    g)  Einrichtungen zum Sammeln und Entsorgen von häuslichen Abfällen nach §
-        15\.14 sind erforderlich, wenn Toiletten nach Buchstabe e an Bord
-        vorhanden sind.
+    g)  Abweichend von § 15.10 Nummer 7 können Lichtmaschinen als
+        Notstromquelle genutzt werden, wenn folgende Bedingungen erfüllt sind:
+
+        aa) es sind mindestens drei voneinander unabhängige Hauptmaschinenräume
+            mit jeweils einer Antriebsmaschine und einer entsprechenden
+            Lichtmaschine vorhanden,
+
+
+        bb) jede dieser Lichtmaschinen kann im Bedarfsfall die Funktion des
+            Notstromaggregats übernehmen und
+
+
+        cc) die Hauptmaschinenräume können nicht gleichzeitig geflutet werden.
 
 
 
 
 
-5.  Auf Wasserstraßen der Zone 1 oder 2 sind aus Anhang III nur die §§
-    1\.02 oder 10.07 oder Kapitel 7 anzuwenden.
 
 
-6.  Auf Wasserstraßen der Zone 3 außerhalb des Rheins oder der Zone 4 sind
-    aus Anhang IV nur die Kapitel 2 oder 4 anzuwenden.
+
+5.  Anhang III gilt mit folgenden Abweichungen:
+
+    a)  § 6.05 gilt nicht für Fähren auf Wasserstraßen der Zone 2-Binnen,
+
+
+    b)  Kapitel 3 und 4 sowie § 6.05 gilt nicht für Fähren auf Wasserstraßen
+        der Zone 2-See,
+
+
+    c)  Die §§ 10.02 bis 10.04 gelten nicht für Fähren auf Wasserstraßen der
+        Zone 1.
+
+
+
+
+
+6.  Auf Wasserstraßen der Zone 4 sind aus Anhang IV die §§ 3.02 und 3.03
+    nicht anzuwenden.
 
 
 7.  Auf Wasserstraßen der Zone 1 und Zone 2-See sind seil- und
@@ -654,6 +762,123 @@ In diesem Anhang gelten als:
 
 8.  Bei seil- und kettengebundenen Fähren gelten die Seil- und
     Kettenanlagen als Hauptantriebssystem.
+
+
+9.  Auf Fähren, die für die Beförderung von weniger als 100 Fahrgästen
+    zugelassen sind und deren L
+    WL                    25 m nicht überschreitet, ist abweichend von
+    Anhang II
+
+    a)  eine motorisch angetriebene Lenzpumpe nach § 15.08 Nummer 5,
+
+
+    b)  eine tragbare Feuerlöschpumpe nach § 15.12 Nummer 2 und
+
+
+    c)  ein Hydrant am Steuerhaus nach § 15.12 Nummer 3 Buchstabe a
+
+
+
+    ausreichend.
+
+
+10. Auf Personenfähren, die für die Beförderung von bis zu 12 Fahrgästen
+    zugelassen sind und deren Länge 15 m nicht überschreitet, können
+    folgende Erleichterungen angewendet werden:
+
+    a)  aus Anhang II gelten nicht:
+
+        aa) § 15.08 Nummer 4 bis 6 und Nummer 9,
+
+
+        bb) § 15.09 Nummer 1 Satz 1 und Nummer 11,
+
+
+        cc) § 15.12 Nummer 1 bis 8,
+
+
+
+
+
+    b)  aus Anhang X:
+
+        § 2.02 Nummer 8.
+
+
+
+
+
+11. Für Kahnfähren und Kahnseilfähren gelten anstelle der Nummern 1 bis 10
+    folgende Anforderungen:
+
+    a)  Für alle Kahnfähren und Kahnseilfähren § 2.01 Nummer 5, § 2.02 Nummer
+        9, § 2.07 Nummer 1 und 2, §§ 3.04 bis 3.07, § 2.07 Nummer 1 jedoch nur
+        sinngemäß.
+
+
+    b)  Für alle Kahnfähren und Kahnseilfähren aus Anhang II:
+
+        aa) Kapitel 3 sinngemäß,
+
+
+        bb) § 8.08 Nummer 1 und 2, wobei eine Handlenzpumpe oder ein Schöpfgefäß
+            ausreicht,
+
+
+        cc) Kapitel 9 sinngemäß,
+
+
+        dd) § 10.01, wobei ein Anker mit 25 kg und eine Ankerkette oder ein
+            Ankerseil von 30 m ausreicht und soweit Anhang X § 2.06 Nummer 2 nicht
+            zutrifft,
+
+
+        ee) § 10.02 Nummer 1 Satz 2 Buchstabe b, wobei ein Behälter ausreicht,
+
+
+        ff) § 10.02 Nummer 2 Buchstabe a, c und e bis h,
+
+
+        gg) § 10.05 Nummer 2,
+
+
+        hh) § 15.01 Nummer 2,
+
+
+        ii) § 15.06 Nummer 10 sinngemäß,
+
+
+        jj) § 15.09 Nummer 1, wobei zwei Rettungsringe ausreichen,
+
+
+        kk) § 15.09 Nummer 4, 8 und 9.
+
+
+
+
+
+    c)  Für alle Kahnfähren und Kahnseilfähren muss für alle Fahrgäste
+        festeingebautes Sitzmobiliar vorhanden sein.
+
+
+    d)  Für Kahnfähren und Kahnseilfähren mit einem Hilfsantrieb oder
+        Hilfsmotor gelten zusätzlich aus Anhang II folgende Anforderungen:
+
+        aa) Kapitel 8 und 8a sinngemäß,
+
+
+        bb) § 10.03, wobei ein Feuerlöscher ausreicht.
+
+
+
+
+
+    e)  Die Untersuchungskommission kann für alle Kahnfähren und
+        Kahnseilfähren insbesondere zur Berücksichtigung besonderer örtlicher
+        oder baulicher Gegebenheiten zusätzliche Anforderungen stellen.
+
+
+
 
 
 
@@ -736,9 +961,9 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
 
 1.  Der Antragsteller hat den Nachweis der hinreichenden Intaktstabilität
-    durch eine Berechnung nach Anhang II § 15.03 Nr. 1 bis 6 in Verbindung
-    mit Anhang III § 1.02, § 7.04 oder § 10.08 in Abhängigkeit von der zu
-    befahrenden Wasserstraße zu erbringen.
+    durch eine Berechnung nach Anhang II § 15.03 Nummer 1 bis 6 in
+    Verbindung mit Anhang III §§ 1.02, 7.03 oder 10.08 in Abhängigkeit von
+    der zu befahrenden Wasserstraße zu erbringen.
 
 
 2.  Bei Fähren in Pontonform können dabei die Koordinaten des
@@ -836,12 +1061,10 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
     Im Falle des Satzes 1 ist die Annahme einer Verschiebung der
     Landfahrzeuge höchstens bis zum Schrammbord ausreichend. Die Erfüllung
-    der Voraussetzungen nach Anhang II § 15.03 Nr. 1 bis 6 in Verbindung
-    mit Anhang III § 1.02, § 7.04 oder § 10.07 in Abhängigkeit von der zu
-    befahrenden Wasserstraße muss für die Ladefälle nach den Buchstaben a
-    bis e nachgewiesen sein. Die Zentralstelle
-    Schiffsuntersuchungskommission / Schiffseichamt kann entsprechende
-    Nachweise für weitere Ladefälle verlangen.
+    der Voraussetzungen nach Nummer 1 muss für die Ladefälle nach den
+    Buchstaben a bis e nachgewiesen sein. Die Generaldirektion
+    Wasserstraßen und Schifffahrt kann entsprechende Nachweise für weitere
+    Ladefälle verlangen.
 
 
 5.  Als Ergebnis der Berechnung sind festzulegen:
@@ -875,10 +1098,7 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
 
         ee) die zulässige Achslast einer Einzelachse und einer Doppelachse von
-            Landfahrzeugen in Tonnen (t),
-
-
-        ff) Militärlastenklasse.
+            Landfahrzeugen in Tonnen (t).
 
 
 
@@ -888,11 +1108,14 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
 
 6.  Der Antragsteller hat den Nachweis der hinreichenden Leckstabilität
-    durch eine Berechnung nach Anhang II § 15.03 Nr. 7 bis 13 in
-    Verbindung mit Anhang III § 1.02, § 7.04 oder § 10.08 sowie Anhang IV
-    § 4.02 in Abhängigkeit von der zu befahrenden Wasserstraße zu
-    erbringen. Dabei darf der B/3 Abstand auf B/5 Abstand vermindert
-    werden,
+    durch eine Berechnung nach Anhang II § 15.03 Nummer 7 bis 13 in
+    Verbindung mit Anhang III §§ 1.02, 7.03 oder 10.08 sowie Anhang IV §
+    4\.03 in Abhängigkeit von der zu befahrenden Wasserstraße zu erbringen.
+    Dabei darf der B/3 Abstand auf B/5 Abstand vermindert werden. Für
+    Fähren, die für die Beförderung von 50 aber weniger als 100 Fahrgästen
+    zugelassen sind und deren L
+    WL                    25 m nicht überschreitet, gilt Anhang II § 15.15
+    Nummer 1 entsprechend.
 
 
 7.  Während der Fahrt und bei Be- und Entladen der Fähre darf der nach
@@ -904,10 +1127,62 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
     Verbindung in einer festen Lage gehalten.
 
 
-8.  Luftkästen oder andere Auftriebskörpern in oder an Kahnfähren und
-    Kahnseilfähren müssen bei voller Beladung und Flutung der Fähre einen
-    Reserveauftrieb von 100 Newton je Person und eine stabile aufrechte
-    Schwimmlage gewährleisten.
+8.  Für Personenfähren für die Beförderung von bis zu 12 Fahrgästen, deren
+    Länge 15 m nicht überschreitet, müssen im symmetrisch gefluteten
+    Zustand folgende Kriterien durch eine Berechnung nachgewiesen werden:
+
+    a)  die Fähre darf maximal bis zur Tauchgrenze eintauchen und
+
+
+    b)  die verbleibende metazentrische Höhe G
+        MR                          darf 0,10 m nicht unterschreiten.
+
+
+
+    Der erforderliche Restauftrieb ist durch
+
+    a)  die geeignete Wahl des Materials des Schiffskörpers,
+
+
+    b)  Auftriebskörper aus geschlossenzelligem Schaum, die fest mit dem Rumpf
+        verbunden sind,
+
+
+    c)  örtliche Unterteilungen, die wasserdichte Teilräume bilden,
+
+
+    d)  einen 1-Abteilungsstatus nach Anhang II § 15.03 Nummer 9 oder
+
+
+    e)  eine Kombination aus den genannten Möglichkeiten nach Buchstabe a bis
+        d
+
+
+
+    zu gewährleisten.
+
+
+9.  Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die:
+
+    a)  Intaktstabilität; ein Belastungsversuch, wobei dieser mit dem halben
+        Gewicht der höchstzulässigen Zahl der Fahrgäste und bei der
+        ungünstigsten Füllung der Brennstoff- und Wasserbehälter durchzuführen
+        ist. Die Fahrgäste sind dabei als stehend anzunehmen und ihr Gewicht
+        ist soweit wie möglich seitlich auf der für Fahrgäste verfügbaren
+        Fläche unterzubringen. Dabei darf ein Krängungswinkel von 7° nicht
+        überschritten sowie ein Restfreibord und ein Restsicherheitsabstand
+        von 0,20 m in Zone 4 und von 0,30 m in Zone 3 und Zone 2-Binnen nicht
+        unterschritten werden.
+
+
+    b)  Leckstabilität; ein rechnerischer Nachweis, wobei bei voller Beladung
+        und Flutung der Fähre ein Reserveauftrieb von 100 Newton je Person und
+        eine stabile aufrechte Schwimmlage verbleiben muss, bei der die
+        verbleibende metazentrische Höhe G
+        MR                          0,10 m nicht unterschritten werden darf.
+
+
+
 
 
 
@@ -937,12 +1212,13 @@ Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
 #### § 2.05 Rettungsmittel
 
 
-1.  Einzelrettungsmittel können durch Sammelrettungsmittel nach Anhang XII
-    Artikel 4 § 15.09 Nr. 5 ersetzt werden.
+1.  Einzelrettungsmittel nach Anhang II § 15.09 Nummer 4 können durch
+    Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nummer 5 in
+    Verbindung mit Nummer 7 bis 9 ersetzt werden.
 
 
-2.  Landeklappen gelten als geeignete Einrichtungen nach Anhang II § 15.09
-    Nr. 3, wenn sie dafür geeignet sind.
+2.  Landeklappen können als Übergangseinrichtungen nach Anhang II § 15.09
+    Nummer 3 angesehen werden, sofern sie hierfür geeignet sind.
 
 
 3.  Zusätzlich zu Nr. 1 müssen Personenfähren, die für mehr als 250
@@ -969,9 +1245,9 @@ Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
     zu sein.
 
 
-2.  Das örtlich zuständige Wasser- und Schifffahrtsamt kann seil- und
-    kettengebundene Fähren sowie Kahnfähren auf den Wasserstraßen der Zone
-    4 von dem Erfordernis einer Ankerausrüstung befreien, wenn die
+2.  Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann seil-
+    und kettengebundene Fähren sowie Kahnfähren auf den Wasserstraßen der
+    Zone 4 von dem Erfordernis einer Ankerausrüstung befreien, wenn die
     Leichtigkeit und Sicherheit des Verkehrs gewährleistet ist.
 
 
@@ -982,15 +1258,77 @@ Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
 
 
 1.  Die bordseitigen, dem Zu- und Abgang dienenden Öffnungen von Personen-
-    und Wagenfähren müssen abweichend von Anhang II § 15.06 Nr. 10
-    Buchstabe b durch Absperrvorrichtungen wie Schwenkbalken, Geländer
-    oder Absperrketten gesichert sein. Die Absperrvorrichtungen müssen
-    deutlich sichtbar gekennzeichnet sein und mindestens die
-    Festigkeitsanforderungen nach DIN EN 711, Ausgabe März 1995 erfüllen.
+    und Wagenfähren müssen abweichend von Anhang II § 15.06 Nummer 10
+    Buchstabe a und b durch feste oder flexible Absperrvorrichtungen wie
+    folgt gesichert sein:
+
+    a)  Alle Absperrvorrichtungen müssen:
+
+        aa) eine Höhe von mindestens 1,10 m aufweisen,
 
 
-2.  Kahn- und Kahnseilfähren müssen zusätzlich mit einem Paar Riemen
-    ausgerüstet sein.
+        bb) deutlich sichtbar gekennzeichnet sein und
+
+
+        cc) mit geeigneten Zwischenzügen oder Feldauskleidung versehen sein;
+
+
+
+
+
+    b)  feste Absperrvorrichtungen wie Schwenkbalken, Schranken und Geländer
+        müssen mindestens folgende Festigkeitsanforderungen erfüllen:
+
+        aa) Belastungsannahme von 1 000 N/m,
+
+
+        bb) Höchst-Auslenkung ohne bleibende Verformung und ohne Berücksichtigung
+            des Lagerspiels von 50 mm;
+
+
+
+
+
+    c)  flexible Absperrvorrichtungen wie Absperrketten und Kunststoffseile
+        dürfen auf Fahrbahndecks verwendet werden,
+
+        aa) wenn hinter der Absperrvorrichtung mindestens 2 m Decksfläche oder
+            Landeklappe folgt,
+
+
+        bb) der Deckbereich von 0,8 m vor der Kette oder dem Seil für die
+            Fahrgäste durch deutlich sichtbare Markierung als gesperrt
+            gekennzeichnet ist und
+
+
+        cc) die Kette oder das Seil eine Mindestbruchkraft von 40 kN hat.
+
+
+
+        Landeklappen können als Absperrvorrichtungen genutzt werden, wenn sie
+        im hochgestellten Zustand eine Höhe von mindestens 1,10 m über dem
+        Fahrbahndeck erreichen und festgestellt werden können.
+
+
+
+
+
+2.  Kahnfähren und Kahnseilfähren müssen mit einem Paar Riemen oder
+    vergleichbaren Vortriebsmitteln ausgerüstet sein. Ein Hilfsantrieb zur
+    Beherrschung besonderer Betriebslagen ist vorzuhalten.
+
+
+
+
+
+#### § 2.08 Landeklappen
+
+
+1.  Die Festigkeit von Landeklappen muss ihrem Einsatzzweck entsprechen.
+
+
+2.  Die Landeklappen sind seitlich mit geeigneten Absturzsicherungen zu
+    versehen.
 
 
 
@@ -1453,7 +1791,7 @@ Begriffsbestimmungen:
 
 
     zu berücksichtigen. Die Werte müssen sich nachweisbar auf die
-    Fährstelle beziehen und müssen vom zuständigen Wasser- und
+    Fährstelle beziehen und müssen vom zuständigen Wasserstraßen- und
     Schifffahrtsamt bestätigt sein. Eine Querprofilzeichnung der
     Fährstelle ist der Rechnung beizufügen.
 
@@ -1538,10 +1876,7 @@ Begriffsbestimmungen:
 
 
         ee) die zulässige Achslast einer Einzelachse und einer Doppelachse von
-            Landfahrzeugen in Tonnen (t),
-
-
-        ff) Militärlastenklasse,
+            Landfahrzeugen in Tonnen (t).
 
 
 
@@ -1604,18 +1939,30 @@ Begriffsbestimmungen:
 
 
 
-#### § 3.05 Abnahme
+#### § 3.05 Prüfung
 
-Vor Inbetriebnahme einer Seil- und Kettenanlage, nach jeder Änderung
-oder Instandsetzung und vor jedem Ablauf der Gültigkeitsdauer des
-Abnahmeprotokolls nach § 3.07 ist die gesamte Seil- und Kettenanlage
-von einem von der Untersuchungskommission anerkannten Sachverständigen
-abzunehmen. Bei dieser Abnahme hat er zu überprüfen, ob die Anlage
-diesem Kapitel entspricht. Er hat der Untersuchungskommission hierüber
-ein Abnahmeprotokoll vorzulegen.
+Seil- und Kettenanlagen sind
+
+a)  vor der ersten Inbetriebnahme,
 
 
-#### § 3.06 Prüfungen
+b)  vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+    Instandsetzung und
+
+
+c)  bei jeder Erneuerung der Bescheinigung nach § 3.07
+
+
+
+von einem Sachverständigen daraufhin zu prüfen, ob die Anlage den
+Anforderungen dieses Kapitels entspricht. Über die Prüfung ist ein vom
+Sachverständigen unterzeichnetes Abnahmeprotokoll nach Muster 1 dieses
+Anhangs auszustellen, aus dem das Datum der Prüfung und die
+Gültigkeitsdauer ersichtlich sind. Eine Kopie hiervon ist der
+Untersuchungskommission vom Sachverständigen vorzulegen.
+
+
+#### § 3.06 Prüfbedingungen
 
 Die Anlage ist wie folgt zu prüfen:
 
@@ -1629,10 +1976,10 @@ Die Anlage ist wie folgt zu prüfen:
 
 2.  Das Tragseil ist in Zeitabständen von maximal zehn Jahren nach
     Herstellung von einer amtlich anerkannten Stelle oder von einem von
-    der Zentralstelle Schiffsuntersuchungskommissi-on/Schiffseichamt
-    anerkannten Sachverständigen mittels zerstörungsfreier
-    (magnetinduktiver) Seilprüfung zu prüfen. Die Ergebnisse sind in einem
-    Bericht zu dokumentieren.
+    der Generaldirektion Wasserstraßen und Schifffahrt anerkannten
+    Sachverständigen mittels zerstörungsfreier (magnetinduktiver)
+    Seilprüfung zu prüfen. Die Ergebnisse sind in einem Bericht zu
+    dokumentieren.
 
 
 3.  Die Prüfung der Zug-, Spann- und Abspannseile beinhaltet äußerlich
@@ -1671,26 +2018,24 @@ Die Anlage ist wie folgt zu prüfen:
 
 
 
-#### § 3.07 Abnahmeprotokoll
+#### § 3.07 Bescheinigung
 
 
-1.  Die Übereinstimmung jeder Seil- und Kettenanlage mit diesem Kapitel
-    ist durch ein Abnahmeprotokoll nach Muster 1 dieses Anhangs zu
-    bescheinigen. Ein nach § 3.06 Nr. 2 erforderlicher Bericht über die
-    zerstörungsfreie (magnetinduktive) Seilprüfung ist dem
-    Abnahmeprotokoll als Anlage beizufügen.
+1.  Die Übereinstimmung jeder Seil- und Kettenanlage mit den Anforderungen
+    dieses Kapitels ist im Fährzeugnis zu bescheinigen.
 
 
-2.  Die Gültigkeitsdauer des Abnahmeprotokolls beträgt höchstens fünf
-    Jahre. In begründeten Fällen z.B. auf Grund von Mängeln oder
-    entsprechend dem Grad der Ablegereife kann der Sachverständige eine
-    kürzere Gültigkeitsdauer festlegen. Die Gültigkeitsdauer wird im
-    Abnahmeprotokoll vermerkt und ist bei der Gültigkeitsdauer des
-    Fährzeugnisses zu berücksichtigen.
+2.  Diese Bescheinigung wird im Anschluss an die Prüfung nach § 3.05 von
+    der Untersuchungskommission ausgestellt.
 
 
-3.  Spätestens mit Ablauf der Gültigkeitsdauer des Abnahmeprotokolls muss
-    eine neue Prüfung nach § 3.06 stattfinden.
+3.  Die Gültigkeitsdauer der Bescheinigung beträgt höchstens fünf Jahre.
+    Einer Erneuerung muss eine neue Prüfung nach § 3.05 vorausgehen.
+    Ausnahmsweise kann die Untersuchungskommission auf begründeten Antrag
+    des Eigners oder seines Bevollmächtigten die Gültigkeit der
+    Bescheinigung um höchstens drei Monate verlängern, ohne dass eine
+    Prüfung nach § 3.05 vorausgehen muss. Diese Verlängerung ist im
+    Fährzeugnis einzutragen.
 
 
 
@@ -1699,129 +2044,70 @@ Die Anlage ist wie folgt zu prüfen:
 ### Kapitel 4 - Übergangs- und Sonderbestimmungen für Fähren
 
 
-#### § 4.01 Übergangsbestimmungen für Fähren, die schon in Betrieb sind, und Gültigkeit der bisherigen Fährzeugnisse
+#### § 4.01 Übergangsbestimmungen für Fähren, die schon in Betrieb sind
 
 
-1.  Für eine Fähre wird das Fährzeugnis nach einer Untersuchung nach
-    Anhang II § 2.09 Nr. 1, 3 und 4 erteilt, die nach Ablauf des geltenden
-    Fährzeugnisses, jedoch spätestens bis zum 30. Dezember 2018
-    durchgeführt wird, um festzustellen, ob das Fahrzeug den technischen
-    Vorschriften dieses Anhangs entspricht.
+1.  Fähren, die den Vorschriften der Kapitel 1 bis 3 nicht entsprechen,
+    müssen den in nachstehender Tabelle und den in den Nummern 2 bis 3
+    aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle
+    bedeuten
 
 
-2.  Hält die Fähre Anforderungen der Kapitel 1 bis 3 nicht ein und ist die
-    Untersuchungskommission der Ansicht, dass diese Unzulänglichkeiten
-    keine offenkundige Gefahr darstellen, so kann die Fähre ihren Betrieb
-    so lange fortsetzen, bis die als unzulänglich ausgewiesenen Bauteile
-    oder Bereiche der Fähre ersetzt oder geändert worden sind; danach
-    müssen diese Bauteile oder Bereiche den Vorschriften dieses Anhanges
-    entsprechen. Die festgestellten Unzulänglichkeiten sind im Fährzeugnis
-    zu vermerken.
+    *        *   –
 
-
-3.  Eine offenkundige Gefahr gilt insbesondere als gegeben, wenn
-    Vorschriften hinsichtlich der Festigkeit des Baus, der Fahr- oder
-    Manövriereigenschaften oder besonderer Merkmale der Fähre dieses
-    Anhangs berührt sind. Zulässige Abweichungen sind nicht als
-    Unzulänglichkeiten festzuhalten, die eine offenkundige Gefahr
-    darstellen. Keine offenkundige Gefahr gilt als gegeben, wenn die Fähre
-    den Bestimmungen der Binnenschiffs-Untersuchungsordnung in der bis zum
-    Ablauf des 31. Dezember 2008 geltenden Fassung entspricht.
-
-
-4.  Der Ersatz bestehender Bauteile durch identische Teile oder Teile von
-    gleichwertiger Technologie und Bauart während routinemäßig
-    durchgeführter Instandsetzungs- und Wartungsarbeiten gilt nicht als
-    Ersatz im Sinne von Nummer 2.
-
-
-5.  Die Fährzeugnisse, die vor dem 30. Dezember 2008 erteilt worden sind,
-    bleiben bis zu dem eingetragenen Ablaufdatum gültig. Anhang II § 2.09
-    Nr. 2 bleibt unberührt.
-
-
-6.  Unbeschadet der Nummern 2 bis 4 müssen Fähren, die den Vorschriften
-    dieses Anhangs nicht vollständig entsprechen, den nach erstmaliger
-    Erteilung ihres Fährzeugnisses oder einer anderen Verkehrszulassung in
-    Kraft getretenen Vorschriften gemäß den in nachstehender Tabelle
-    aufgeführten Übergangsbestimmungen angepasst werden.
-    In der Tabelle bedeuten
-
-    *        *   – „N.E.U.“:
+        *   „N.E.U.“:
 
         *   Die Vorschrift gilt nicht für Fähren, die schon in Betrieb sind, es
-            sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h.,
+            sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h.
             die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau
             der betroffenen Teile oder Bereiche. Werden bestehende Teile durch
             Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies
             keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.
 
 
-    *        *   – „Erteilung oder Erneuerung des Fährzeugnisses“:
+    *        *   –
+
+        *   „Erteilung oder
+            Erneuerung des
+            Fährzeugnisses“:
 
         *   Die Vorschrift muss bei der Erteilung oder der nächsten Erneuerung der
             Gültigkeitsdauer des Fährzeugnisses, die auf den 30. Dezember 2008
             folgt, erfüllt sein. Endet die Gültigkeitsdauer des Fährzeugnisses
-            zwischen dem 30. Dezember 2008 und einen Tag vor 30. Dezember 2009, so
-            gilt diese Vorschrift erst ab dem 30. Dezember 2009 verpflichtend.
+            zwischen dem 30. Dezember 2008 und einen Tag vor dem 30. Dezember
+            2009, so gilt diese Vorschrift erst ab dem 30. Dezember 2009
+            verpflichtend.
 
 
 
 
-    *        *   **§ und Nummer**
 
-        *   **Inhalt**
+    *        *   §§ und Nummer
 
-        *   **Frist oder Bemerkungen**
+        *   Inhalt
 
-
-    *        *   1.02
-
-        *   Allgemeines
-
-            -   Anhang II § 15.09 Nr.1, 2 und 4,
-
-
-            -   Anhang II § 15.10 Nr. 6,
-
-
-            -   Anhang II § 15.12 Nr. 9 sofern nur ein Maschinenraum vorhanden ist,
-
-
-            -   Anhang II § 15.13 Nr. 1 bis 3t
-
-
-
-
-        *   Es gelten die jeweiligen Übergangsvorschriften des Anhangs II
+        *   Frist oder Bemerkungen
 
 
     *        *   2.01 Nr. 4
 
         *   Fährdecks
 
-        *   N.E.U., spätestens bei Erteilung oder Erneuerung des Fährzeugnisses
-            nach dem 30. Dezember 2029
+        *   N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30.
+            Dezember 2029
 
 
     *        *   2.02
 
         *   Nachweis Intakt- und Leckstabilität
 
-        *   N.E.U., spätestens bei Erteilung oder Erneuerung des Fährzeugnisses
-            nach dem 30. Dezember 2049
-
-
-    *        *   2.05
-
-        *   Rettungsmittel
-
-        *   N.E.U., spätestens bei Erneuerung des Fährzeugnisses
+        *   N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30.
+            Dezember 2049
 
 
     *        *   2.07 Nr. 1
 
-        *   Festigkeitsanforderungen an Absperrvorrichtungen
+        *   Anforderungen an Absperrvorrichtungen
 
         *   N.E.U., spätestens bei Erneuerung des Fährzeugnisses
 
@@ -1830,32 +2116,52 @@ Die Anlage ist wie folgt zu prüfen:
 
         *   Nachweis Intaktstabilität für Gierseilfähren
 
-        *   N.E.U., spätestens bei Erteilung oder Erneuerung des Fährzeugnisses
-            nach dem 30. Dezember 2049
+        *   N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30.
+            Dezember 2049
 
 
     *        *   3.04 Nr. 3
 
         *   Nachweis der ausreichenden Festigkeit durch Berechnung
 
-        *   N.E.U., spätestens bei Erteilung oder Erneuerung des Fährzeugnisses
-            nach dem 30. Dezember 2029
+        *   N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30.
+            Dezember 2029
 
 
     *        *   3.05
+            3\.06
+            3\.07
 
-        *   Abnahme, Prüfungen und Abnahmeprotokoll
+        *   Prüfung, Prüfbedingungen und Bescheinigung
 
         *   N.E.U., spätestens bei Erneuerung des Fährzeugnisses
 
 
-    *        *   3.06
-
-
-    *        *   3.07
 
 
 
+2.  Hält eine Fähre die Anforderungen nach den Kapiteln 1 bis 3, die in
+    der Tabelle unter Nummer 1 nicht aufgeführt sind, nicht ein und ist
+    die Untersuchungskommission der Ansicht, dass diese Unzulänglichkeiten
+    keine offenkundige Gefahr darstellen, so kann die Fähre ihren Betrieb
+    so lange fortsetzen, bis die als unzulänglich ausgewiesenen Bauteile
+    oder Bereiche der Fähre ersetzt oder geändert worden sind; danach
+    müssen diese Bauteile oder Bereiche den Vorschriften dieses Anhangs
+    entsprechen. Der Ersatz bestehender Bauteile durch identische Teile
+    oder Teile von gleichwertiger Technologie und Bauart während
+    routinemäßig durchgeführter Instandsetzungs- und Wartungsarbeiten gilt
+    nicht als Ersatz. Die festgestellten Unzulänglichkeiten sind im
+    Fährzeugnis zu vermerken.
+
+
+3.  Eine offenkundige Gefahr gilt insbesondere als gegeben, wenn
+    Vorschriften hinsichtlich der Festigkeit des Baus, der Fahr- oder
+    Manövriereigenschaften oder besonderer Merkmale der Fähre dieses
+    Anhangs berührt sind. Zulässige Abweichungen sind nicht als
+    Unzulänglichkeiten festzuhalten, die eine offenkundige Gefahr
+    darstellen. Keine offenkundige Gefahr gilt als gegeben, wenn die Fähre
+    den Bestimmungen der Binnenschiffs-Untersuchungsordnung, in der
+    Fassung vom 30. Dezember 2008 entsprochen hat.
 
 
 
@@ -1863,12 +2169,39 @@ Die Anlage ist wie folgt zu prüfen:
 
 #### § 4.02 Sonstige Abweichungen
 
-Falls die Anwendung der in diesem Kapitel genannten Bestimmungen nach
-Ablauf der Übergangsbestimmungen praktisch schwer ausführbar ist oder
-unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
-aufgrund von Empfehlungen des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung Abweichungen von diesen Vorschriften gestatten. Diese
-Abweichungen sind in das Fährzeugnis einzutragen.
+
+1.  Wenn die Anwendung der in diesem Kapitel genannten Bestimmungen nach
+    Ablauf der Übergangsbestimmungen praktisch schwer ausführbar ist oder
+    unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
+    aufgrund von Empfehlungen des Bundesministeriums für Verkehr und
+    digitale Infrastruktur Abweichungen von diesen Vorschriften gestatten.
+    Diese Abweichungen sind in das Fährzeugnis einzutragen.
+
+
+2.  Verweist diese Vorschrift bei den Beschaffenheitsanforderungen an
+    Ausrüstungsgegenstände auf eine Deutsche, Europäische oder
+    Internationale Norm, so dürfen nach einer Neufassung oder
+    Überarbeitung dieser Norm diese Ausrüstungsgegenstände noch längstens
+    20 Jahre nach Neufassung oder Überarbeitung der Norm weiter verwendet
+    werden.
+
+
+
+
+
+#### § 4.03 Gültigkeit der bisherigen Fährzeugnisse
+
+Die Fährzeugnisse, die vor dem 30. Dezember 2008 erteilt worden sind,
+bleiben bis zu dem jeweils eingetragenen Ablaufdatum gültig.
+
+
+#### § 4.04 Übergangsbestimmungen für Fähren zur Beförderung von nicht mehr als zwölf Personen
+
+Fähren zur Beförderung von nicht mehr als zwölf Personen, die im
+Zeitraum vom 15. Oktober 1999 bis zum 31. Dezember 2012 eine
+technische Zulassung zum Verkehr hatten oder in diesem Zeitraum
+erstmals am Fährverkehr teilnahmen, können als im Betrieb befindlich
+betrachtet werden.
 
 
 ## Teil II - Barkassen
@@ -1880,11 +2213,10 @@ Abweichungen sind in das Fährzeugnis einzutragen.
 #### § 5.01 Begriffsbestimmungen
 
 Im Sinne dieses Kapitels sind Barkassen zur Beförderung von Fahrgästen
-gegen Entgelt (Personenbarkassen) oder zum Schleppen
-(Schleppbarkassen) gebaute und eingerichtete Binnenschiffe bis 25 m
-Länge, mit Plicht mit versenktem Innenboden. Bei Personenbarkassen
-befindet sich der Fahrgastraum in der versenkten Plicht; diese ist zu
-mindestens 1/3 ihrer Länge offen.
+(Personenbarkassen) oder zum Schleppen (Schleppbarkassen) gebaute und
+eingerichtete Binnenschiffe bis 25 m Länge, mit Plicht mit versenktem
+Innenboden. Bei Personenbarkassen befindet sich der Fahrgastraum in
+der versenkten Plicht; diese ist zu mindestens 1/3 ihrer Länge offen.
 
 
 #### § 5.02 Allgemeines
@@ -1910,6 +2242,10 @@ mindestens 1/3 ihrer Länge offen.
 3.  Das Fahrtgebiet ist in der Fahrtauglichkeitsbescheinigung einzutragen.
 
 
+4.  Die Gültigkeit der Fahrtauglichkeitsbescheinigung für
+    Personenbarkassen beträgt höchstens 5 Jahre.
+
+
 
 
 
@@ -1921,21 +2257,21 @@ mindestens 1/3 ihrer Länge offen.
     Entwässerungssystem vorhanden sein, durch das eingedrungenes Wasser
     nach außenbords abfließen oder befördert werden kann. Eine Barkasse,
 
-    a)  die zur Beförderung von Fahrgästen in Zone 1 oder 2 zugelassen ist,
-        muss abweichend von Anhang II § 15.02 Nr. 2 durch wasserdichte Schotte
-        so unterteilt sein, dass das vollbesetzte und ausgerüstete Fahrzeug
-        nach dem Fluten einer beliebigen wasserdichten Abteilung in aufrechter
-        Schwimmlage schwimmfähig bleibt,
+    a)  die zur Beförderung von Fahrgästen in Zone 1 oder 2-See zugelassen
+        ist, muss abweichend von Anhang II § 15.02 Nr. 2 durch wasserdichte
+        Schotte so unterteilt sein, dass das vollbesetzte und ausgerüstete
+        Fahrzeug nach dem Fluten einer beliebigen wasserdichten Abteilung in
+        aufrechter Schwimmlage schwimmfähig bleibt,
 
 
-    b)  die nur zur Beförderung von Fahrgästen in Zone 3 oder 4 zugelassen
-        ist, braucht die Forderungen bezüglich der Lage des Innenbodens nach
-        Satz 1, des Entwässerungssystem nach Satz 2 und der Schotteinteilung
-        nach Satz 3 Buchstabe a nicht zu erfüllen, wenn durch wasserdichte
-        Hohlräume, durch fest angebrachte Auftriebskörper oder in anderer
-        geeigneter Weise bei vollbesetztem und ausgerüstetem Fahrzeug sowie
-        mit Wasser gefüllter Plicht ein ausreichender Auftrieb verbleibt und
-        die Barkasse in aufrechter Schwimmlage schwimmfähig bleibt. Ein
+    b)  die nur zur Beförderung von Fahrgästen in Zone 2-Binnen, Zone 3 oder 4
+        zugelassen ist, braucht die Forderungen bezüglich der Lage des
+        Innenbodens nach Satz 1, des Entwässerungssystem nach Satz 2 und der
+        Schotteinteilung nach Satz 3 Buchstabe a nicht zu erfüllen, wenn durch
+        wasserdichte Hohlräume, durch fest angebrachte Auftriebskörper oder in
+        anderer geeigneter Weise bei vollbesetztem und ausgerüstetem Fahrzeug
+        sowie mit Wasser gefüllter Plicht ein ausreichender Auftrieb verbleibt
+        und die Barkasse in aufrechter Schwimmlage schwimmfähig bleibt. Ein
         ausreichender Auftrieb ist gegeben, wenn im Endzustand der Flutung die
         tiefste Stelle der Bordwand mindestens 0,10 m und jede ungesicherte
         Öffnung mindestens 0,40 m über dem Wasserspiegel liegt.
@@ -1980,8 +2316,9 @@ mindestens 1/3 ihrer Länge offen.
 
 1.  Die sich aus der freien Decksfläche ergebende höchstzulässige Zahl der
     Fahrgäste ist bei Barkassen nach Anhang II § 15.05 Nr. 2 Buchstabe b
-    in Verbindung mit Anhang III § 1.02 und § 7.04 in Abhängigkeit von der
-    zu befahrenden Wasserstraße zu ermitteln.
+    in Verbindung mit Anhang III § 1.02 Buchstabe a, §§ 7.04 und 10.08
+    Nummer 2 in Abhängigkeit von der zu befahrenden Wasserstraße zu
+    ermitteln.
 
 
 2.  Barkassen zur Beförderung von Fahrgästen müssen einen rechnerischen
@@ -2003,32 +2340,36 @@ mindestens 1/3 ihrer Länge offen.
 Für die Berechnung des Freibordes, für die Überprüfung des
 Sicherheitsabstandes und für die Festsetzung der Ebene der größten
 Einsenkung ist Anhang II § 15.03 Nr. 3 in Verbindung mit Anhang III §
-8\.07 und § 8.10 in Abhängigkeit von der zu befahrenden Wasserstraße
-sinngemäß anzuwenden.
+1\.02 Buchstabe a, §§ 7.03 und 10.05 in Abhängigkeit von der zu
+befahrenden Wasserstraße sinngemäß anzuwenden.
 
 
 #### § 5.06 Rettungsmittel
 
 
-1.  Mindestens ein Rettungsring nach Anhang II § 10.05 muss mit einer
-    mindestens 30 m langen, schwimmfähigen Leine von 8 bis 11 mm
+1.  Mindestens ein Rettungsring nach Anhang II § 10.05 Nummer 1 muss mit
+    einer mindestens 30 m langen, schwimmfähigen Leine von 8 bis 11 mm
     Durchmesser versehen sein.
 
 
-2.  Zusätzlich zu den Rettungsringen und Rettungswesten nach Anhang II §
-    10\.05 müssen für insgesamt 100% der höchstzulässigen Zahl der
-    Fahrgäste Einzelrettungsmittel oder Sammelrettungsmittel nach Anhang
-    II § 15.09 Nr. 4 bis 9 oder nach Anhang XII Artikel 4 § 15.09 Nr. 5 an
-    Bord sein.
+2.  Zusätzlich zu den Rettungswesten nach Anhang II § 10.05 Nummer 2
+    müssen für insgesamt 100 % der höchstzulässigen Zahl der Fahrgäste
+    Rettungswesten nach Anhang II § 10.05 Nummer 2 in Verbindung mit
+    Nummer 3 an Bord sein, wobei auch Feststoff- oder halbautomatisch
+    aufblasbare Rettungswesten nach den in Anhang II § 10.05 Nummer 2
+    genannten Normen zulässig sind. Rettungswesten nach Satz 1 können
+    durch Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nummer 5
+    in Verbindung mit Nummer 7 bis 9 ersetzt werden.
 
 
-3.  Mindestens 30% aller Rettungsmittel müssen frei aufschwimmbar gelagert
-    sein. Sind Sammelrettungsmittel vorhanden, dann müssen diese stets
-    frei aufschwimmbar gelagert sein.
+3.  Rettungswesten müssen im Fahrgastbereich gelagert sein. Sind
+    Sammelrettungsmittel vorhanden, müssen diese stets frei aufschwimmbar
+    gelagert sein.
 
 
-4.  Hat eine Barkasse festüberdachte Räume, so müssen mindestens 30% der
-    Rettungsmittel in diesen Räumen griffbereit gelagert sein.
+4.  Hat eine Barkasse festüberdachte Räume, so müssen mindestens 30 vom
+    Hundert der Rettungswesten in der offenen Plicht griffbereit gelagert
+    sein.
 
 
 
@@ -2054,9 +2395,10 @@ sinngemäß anzuwenden.
 #### § 5.08 Ausrüstung
 
 
-1.  Ausrüstungsgegenstände nach Anhang II § 10.02 Nr. 1 Buchstabe e und f
-    (Behälter) und nach Anhang II § 10.02 Nr. 2 Buchstabe d (Landsteg)
-    braucht eine Barkasse nicht an Bord zu haben.
+1.  Ausrüstungsgegenstände nach Anhang II § 10.02 Nummer 1 Satz 2
+    Buchstabe b Doppelbuchstabe bb bis ee (Behälter) und nach Anhang II §
+    10\.02 Nummer 2 Buchstabe d (Landsteg) braucht eine Barkasse nicht an
+    Bord zu haben.
 
 
 2.  Als Einrichtung zur Brandbekämpfung müssen insgesamt zwei tragbare
@@ -2071,25 +2413,156 @@ sinngemäß anzuwenden.
 ### Kapitel 6 - Übergangs- und Sonderbestimmungen für Barkassen
 
 
-#### § 6.01 Fristen
+#### § 6.01 Übergangsbestimmungen für Barkassen, die in Betrieb sind
 
 
-1.  Die Begriffsbestimmung nach § 5.01 ist bei der ersten Erneuerung der
-    Fahrtauglichkeitsbescheinigung anzuwenden. Barkassen, die am 1. Januar
-    2007 im Besitz einer gültigen Fahrtauglichkeitsbescheinigung waren und
-    durch die neue Begriffsbestimmung zum Fahrgastschiff wurden, können
-    als im Betrieb befindlich betrachtet werden.
+1.  Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen,
+    müssen den in nachstehender Tabelle und den in den Nummern 2 bis 3
+    aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle
+    bedeuten
+
+    *        *   –
+
+        *   „E.U.“:
+
+        *   Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es
+            sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h.
+            die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen
+            Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in
+            gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“
+            im Sinne dieser Übergangsbestimmungen.
 
 
-2.  Die §§ 5.02 bis 5.08, außer § 5.03 Nr. 1, § 5.04 und § 5.05 sind bei
-    der ersten Erneuerung der Fahrtauglichkeitsbescheinigung anzuwenden.
+    *        *   –
+
+        *   „Erneuerung der
+            Fahrtauglichkeitsbescheinigung“
+
+        *   Die Vorschrift muss bei der nächsten Erneuerung der Gültigkeitsdauer
+            der Fahrtauglichkeitsbescheinigung, die auf den 30. Dezember 2008
+            folgt, erfüllt sein.
 
 
-3.  § 5.03 Nr. 1, § 5.04 und § 5.05 ist auf Barkassen, die am 1. April
-    1988 bereits in Betrieb wa-ren und am 1. Januar 2007 im Besitz einer
-    gültigen Fahrtauglichkeitsbescheinigung waren oder in den
-    Anwendungsbereich der Binnenschiffs-Untersuchungsordnung fielen oder
-    die sich in Bau oder Umbau befanden, ab dem 1. Januar 2013 anzuwenden.
+
+
+    *        *   §§ und
+            Nummer
+
+        *   Inhalt
+
+        *   Frist oder Bemerkungen
+
+
+    *        *   5.02
+
+        *   Nr. 1
+
+        *   Allgemeines
+
+        *   E.U.
+
+
+    *        *   5.03
+
+        *   Nr. 1
+
+        *   Schiffskörper und Schwimmfähigkeit im Leckfall
+
+        *   spätestens ab dem 1. Januar 2013
+
+
+    *        *   5.03
+
+        *   Nr. 2
+
+        *   Motoren, Geräuschpegel
+
+        *   spätestens bei der ersten Erneuerung der
+            Fahrtauglichkeitsbescheinigung nach dem 1. Januar 2009
+
+
+    *        *
+        *   Nr. 3
+
+        *   Wetterschutz
+
+        *   spätestens bei der ersten Erneuerung der
+            Fahrtauglichkeitsbescheinigung nach dem 1. Januar 2009
+
+
+    *        *
+        *   Nr. 4
+
+        *   Barkassen, die zur Beförderung von Fahrgästen nicht zugelassen sind
+
+        *   spätestens bei der ersten Erneuerung der
+            Fahrtauglichkeitsbescheinigung nach dem 1. Januar 2009
+
+
+    *        *   5.04
+
+        *   Stabilität und höchstzulässige Zahl der Fahrgäste
+
+        *   spätestens ab dem 1. Januar 2013
+
+
+    *        *   5.05
+
+        *   Freibord und Sicherheitsabstand
+
+        *   spätestens ab dem 1. Januar 2013
+
+
+    *        *   5.06
+
+        *   Rettungsmittel
+
+        *   spätestens bei der ersten Erneuerung der
+            Fahrtauglichkeitsbescheinigung nach dem 1. Januar 2009
+
+
+    *        *   5.07
+
+        *   Anker
+
+        *   spätestens bei der ersten Erneuerung der
+            Fahrtauglichkeitsbescheinigung nach dem 1. Januar 2009
+
+
+    *        *   5.08
+
+        *   Ausrüstung
+
+        *   spätestens bei der ersten Erneuerung der
+            Fahrtauglichkeitsbescheinigung nach dem 1. Januar 2009
+
+
+
+
+
+2.  Hält eine Barkasse die Anforderungen nach Kapitel 5, die in der
+    Tabelle unter Nummer 1 nicht aufgeführt sind, nicht ein und ist die
+    Untersuchungskommission der Ansicht, dass diese Unzulänglichkeiten
+    keine offenkundige Gefahr darstellen, so kann die Barkasse ihren
+    Betrieb so lange fortsetzen, bis die als unzulänglich ausgewiesenen
+    Bauteile oder Bereiche der Barkasse ersetzt oder geändert worden sind;
+    danach müssen diese Bauteile oder Bereiche den Vorschriften dieses
+    Anhanges entsprechen. Der Ersatz bestehender Bauteile durch identische
+    Teile oder Teile von gleichwertiger Technologie und Bauart während
+    routinemäßig durchgeführter Instandsetzungs- und Wartungsarbeiten gilt
+    nicht als Ersatz. Die festgestellten Unzulänglichkeiten sind in der
+    Fahrtauglichkeitsbescheinigung zu vermerken.
+
+
+3.  Eine offenkundige Gefahr gilt insbesondere als gegeben, wenn
+    Vorschriften hinsichtlich der Festigkeit des Baus, der Fahr- oder
+    Manövriereigenschaften oder besonderer Merkmale der Barkasse dieses
+    Anhangs berührt sind. Zulässige Abweichungen sind nicht als
+    Unzulänglichkeiten festzuhalten, die eine offenkundige Gefahr
+    darstellen. Keine offenkundige Gefahr gilt als gegeben, wenn die
+    Barkasse den Bestimmungen der Binnenschiffs-Untersuchungsordnung in
+    der Fassung vom 30. Dezember 2008 entsprochen hat, vorbehaltlich der
+    Bestimmungen in Nummer 1.
 
 
 
@@ -2110,28 +2583,8 @@ nicht mehr als 12 Fahrgästen gebaut und eingerichtet ist.
 
 #### § 7.02 Allgemeine Bestimmungen
 
-
-1.  Für kleine Fahrgastschiffe sind die Anhänge III, IV und XII mit den
-    sich aus den nachfolgen-den Vorschriften ergebenden Maßgaben
-    anzuwenden.
-
-
-2.  Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt kann
-    von den Bestimmungen dieser Verordnung Ausnahmen zulassen, soweit
-    dadurch die Sicherheit der Fahrgäste und der Schifffahrt nicht
-    beeinträchtigt wird. Die Zentralstelle Schiffsuntersuchungskommissi-
-    on/Schiffseichamt kann eine von § 7 Abs. 1 der
-    Binnenschifferpatentverordnung abweichende Qualifikation des
-    Schiffsführers und die Qualifikation des zweiten Besatzungsmitglieds
-    bestimmen; Näheres regeln die §§ 8.16 und 9.16. Die Einhaltung der in
-    den folgenden Kapiteln zugelassenen Ausnahmen kann durch ein
-    Abnahmeprotokoll nach Muster 2 zu diesem Anhang eines von der
-    Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt
-    anerkannten Sachverständigen für kleine Fahrgastschiffe nachgewiesen
-    werden.
-
-
-
+Für kleine Fahrgastschiffe sind die Anhänge II oder XII sowie III, IV
+und XI anzuwenden.
 
 
 ### Kapitel 8 - Sonderbestimmungen für Zeesboote
@@ -2165,8 +2618,7 @@ b)  den Einsatz des Motors als Hilfsantrieb, insbesondere für das Aus- und
 1.  Der einwandfreie Zustand vom Rumpf, Rigg und Segel ist durch die
     Bescheinigung eines Sachverständigen zu bestätigen. Diese
     Bescheinigung gilt maximal 5 Jahre und ist an Bord mitzuführen sowie
-    der Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt
-    vorzulegen.
+    der Generaldirektion Wasserstraßen und Schifffahrt vorzulegen.
 
 
 2.  Ein sicherer Einstieg und Zugang zur Plicht muss gewährleistet sein.
@@ -2257,8 +2709,8 @@ d)  Abgasleitungen gegen das Eindringen von Wasser geschützt sein.
 
 #### § 8.08 Lenzeinrichtung
 
-Die Lenzeinrichtung muss Anhang II § 8.06 entsprechen. Abweichend von
-Anhang II § 8.06 müssen zwei Lenzpumpen vorhanden sein. Die
+Die Lenzeinrichtung muss Anhang II § 8.08 entsprechen. Abweichend von
+Anhang II § 8.08 müssen zwei Lenzpumpen vorhanden sein. Die
 Mindestfördermenge der ersten Pumpe muss 120 l/min betragen. Die
 zweite Lenzpumpe kann eine Handlenzpumpe sein.
 
@@ -2446,10 +2898,9 @@ b)  den Besitz eines Sportküstenschifferscheines, eines
 
 #### § 8.17 Fahrtauglichkeitsbescheinigungen
 
-Die von der Zentralstelle
-Schiffsuntersuchungskommission/Schiffseichamt auszustellende
-Fahrtauglichkeitsbescheinigung gilt maximal 5 Jahre; sie muss folgende
-Auflagen enthalten:
+Die von der Generaldirektion Wasserstraßen und Schifffahrt
+auszustellende Fahrtauglichkeitsbescheinigung gilt maximal 5 Jahre;
+sie muss folgende Auflagen enthalten:
 
 a)  Die Zulassung ist beschränkt auf:
 
@@ -2506,19 +2957,19 @@ verschiedenen Anlegestellen ohne festen Fahrplan dient und dessen
 Länge des Schiffskörpers L 12 m nicht überschreitet.
 
 
-#### § 9.02 Allgemeins Bestimmungen
+#### § 9.02 Allgemeine Bestimmungen
 
 
-1.  Für Taxiboote auf Wasserstraßen der Zonen 2, 3 oder 4 ist unbeschadet
-    des § 7.02 die Verordnung über das Inverkehrbringen von Sportbooten
-    mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben
+1.  Für Taxiboote auf Wasserstraßen der Zonen 2, 3 oder 4 ist abweichend
+    von § 7.02 die Verordnung über Sportboote und Wassermotorräder mit den
+    sich aus den nachfolgenden Vorschriften ergebenden Maßgaben
     anzuwenden.
 
 
 2.  Ein Taxiboot muss mindestens der Auslegungskategorie C entsprechen
     sowie ein Konformitätsbewertungsverfahren nach Modul G (Einzelprüfung)
-    durchlaufen haben. Die Konformitätserklärung ist der Zentralstelle
-    Schiffsuntersuchungskommission/Schiffseichamt vorzulegen.
+    durchlaufen haben. Die Konformitätserklärung ist der Generaldirektion
+    Wasserstraßen und Schifffahrt vorzulegen.
 
 
 
@@ -2526,18 +2977,22 @@ Länge des Schiffskörpers L 12 m nicht überschreitet.
 
 #### § 9.03 Schiffskörper
 
-Der Schiffskörper muss aus Stahl oder einem hinsichtlich Festigkeit
-und Brandschutz gleichwertigen Werkstoff bestehen. Der Innenboden des
-Fahrgastbereiches muss wasserdicht sein und oberhalb der Ebene der
-größten Einsenkung liegen. Eingedrungenes Wasser muss über eine fest
-installierte Lenzeinrichtung mit einer Gesamtleistung von 110 l/min
-nach außenbords gelangen.
+Der Schiffskörper muss aus Stahl oder aus einem hinsichtlich der
+Festigkeit nach Anhang II § 15.02 Nummer 1 und des Brandschutzes nach
+Anhang II § 15.11 Nummer 1 gleichwertigen Werkstoff bestehen. Der
+Innenboden des Fahrgastbereiches muss wasserdicht sein und oberhalb
+der Ebene der größten Einsenkung liegen. Eingedrungenes Wasser muss
+über eine fest installierte Lenzeinrichtung mit einer Gesamtleistung
+von 110 l/min nach außenbords gelangen.
 
 
 #### § 9.04 Schwimmfähigkeit im Leckfall
 
-Die Schwimmfähigkeit im Leckfall ist rechnerisch nachzuweisen. Ein
-ausreichender Restauftrieb ist gegeben, wenn im Endzustand der Flutung
+Die Schwimmfähigkeit im Leckfall ist rechnerisch nach Maßgabe der
+Anforderungen der Verordnung über Sportboote und Wassermotorräder oder
+nach Maßgabe des Anhangs II § 15.03 Nummer 7 bis 13 in Verbindung mit
+§ 15.15 Nummer 1 nachzuweisen. Ein ausreichender Restauftrieb ist
+gegeben, wenn im Endzustand der Flutung
 
 a)  die tiefste Stelle der Bordwand mindestens
 
@@ -2765,13 +3220,13 @@ größer sein.
 
 #### § 9.14 Sonstige Ausrüstung
 
-Anhang II § 10.02, außer Nr. 1 Buchstabe e und f (Behälter) sowie Nr.
-2 Buchstabe d (Landsteg), ist anzuwenden. Ein- und Ausstiege müssen
-ein gefahrloses Begehen an den vorgesehenen Anlegestellen ermöglichen.
-In Zone 2-See müssen Geräte und Ausrüstungsgegenstände nach Anhang III
-§ 6.02 bis § 6.04 und nach § 6.06 an Bord sein. In Zone 2-Binnen
-gelten hinsichtlich Kompass und Radargerät die Bestimmungen nach
-Anhang III § 1.01 Nr. 2 und 3.
+Anhang II § 10.02 Nummer 1 Satz 1 und 2 Buchstabe a und b
+Doppelbuchstabe aa sowie Nummer 2 Buchstabe a bis c und e bis i ist
+anzuwenden. Ein- und Ausstiege müssen ein gefahrloses Begehen an den
+vorgesehenen Anlegestellen ermöglichen. In Zone 2-See müssen Geräte
+und Ausrüstungsgegenstände nach Anhang III § 6.02 bis § 6.04 und nach
+§ 6.06 an Bord sein. In Zone 2-Binnen gelten hinsichtlich Kompass und
+Radargerät die Bestimmungen nach Anhang III § 1.01 Nr. 2 und 3.
 
 
 #### § 9.15 Kennzeichnung
@@ -2783,6 +3238,7 @@ mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
 #### § 9.16 Besatzung
 
+Anhang XI ist nach folgender Maßgabe anzuwenden:
 
 1.  Das Taxiboot ist mindestens mit einem Schiffsführer und einem
     Decksmann zu besetzen. Der Schiffsführer muss mindestens im Besitz
@@ -2792,8 +3248,8 @@ mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
 
 2.  Für die Fahrt auf Bundeswasserstraßen der Zone 3 und 4 kann die
-    Zentralstelle Schiffsunter-suchungskommission/Schiffseichamt auf
-    Antrag zulassen, dass auf einem Taxiboot der Decksmann entfällt, wenn
+    Generaldirektion Wasserstraßen und Schifffahrt auf Antrag zulassen,
+    dass auf einem Taxiboot der Decksmann entfällt, wenn
 
     a)  der Schiffsführer mindestens ein modifiziertes C2-Patent besitzt und
 
@@ -2851,17 +3307,116 @@ maximal 5 Jahre. In der Fahrtauglichkeitsbescheinigung ist im Feld
 „Art des Fahrzeuges“ die Bezeichnung „Taxiboot“ einzutragen.
 
 
+## Teil IV - Allgemeines
+
+
+### Kapitel 10 - Gleichwertigkeit und Abweichungen
+
+
+#### § 10.01 Gleichwertigkeit und Abweichungen hinsichtlich Bau und Ausrüstung
+
+
+1.  Schreiben die Bestimmungen des Teils I bis III vor, dass bestimmte
+    Werkstoffe, Einrichtungen oder Ausrüstungen auf einem Fahrzeug
+    einzubauen oder mitzuführen sind oder dass bestimmte bauliche
+    Maßnahmen oder bestimmte Anordnungen zu treffen sind, kann die
+    Untersuchungskommission gestatten, dass auf diesem Fahrzeug andere
+    Werkstoffe, Einrichtungen oder Ausrüstungen eingebaut oder mitgeführt
+    werden oder dass andere bauliche Maßnahmen oder andere Anordnungen
+    getroffen werden, wenn sie aufgrund von Empfehlungen des
+    Bundesministeriums für Verkehr, Bau und Stadtentwicklung als
+    gleichwertig anerkannt sind.
+
+
+2.  Wenn das Bundesministerium für Verkehr, Bau und Stadtentwicklung noch
+    keine Empfehlung zu einer Gleichwertigkeit nach Nummer 1 ausgesprochen
+    hat, kann die Untersuchungskommission eine vorläufige
+    Fahrtauglichkeitsbescheinigung erteilen. Die Generaldirektion
+    Wasserstraßen und Schifffahrt berichtet dem Bundesministerium für
+    Verkehr, Bau und Stadtentwicklung innerhalb eines Monats nach
+    Erteilung der vorläufigen Fahrtauglichkeitsbescheinigung nach Anhang
+    II § 2.05 Nummer 1 Buchstabe g unter Angabe des Namens und der
+    europäischen Schiffsnummer des Fahrzeugs, der Art der Abweichung sowie
+    der Registrierung und des Heimatortes.
+
+
+3.  Zu Versuchszwecken und für einen begrenzten Zeitraum kann eine
+    Untersuchungskommission aufgrund einer Empfehlung des
+    Bundesministeriums für Verkehr, Bau und Stadtentwicklung für ein
+    Fahrzeug mit technischen Neuerungen, die von den Bestimmungen des
+    Teils I bis III abweichen, eine Fahrtauglichkeitsbescheinigung
+    ausstellen, sofern diese Neuerungen eine hinreichende Sicherheit
+    bieten.
+
+
+4.  Die Gleichwertigkeiten und Abweichungen nach den Nummern 1 und 3 sind
+    in die Fahrtauglichkeitsbescheinigung einzutragen.
+
+
+
+
+
+#### § 10.02 Abweichungen hinsichtlich Zulassung und Besatzung
+
+Für Zeesboote nach Kapitel 8 und Taxiboote nach Kapitel 9 sind die
+jeweiligen Vorschriften mit den folgenden Maßgaben anzuwenden:
+
+a)  Die Untersuchungen im Sinne des § 5 Absatz 1 in Verbindung mit Absatz
+    5 und des Anhangs II §§ 2.08 bis 2.11 können von einem von der
+    Generaldirektion Wasserstraßen und Schifffahrt anerkannten
+    Sachverständigen für kleine Fahrgastschiffe durchgeführt werden.
+
+
+b)  Die Ergebnisse einer Untersuchung sind in einem Abnahmeprotokoll nach
+    dem Muster 2 zu bescheinigen.
+
+
+c)  Auf der Grundlage dieses Abnahmeprotokolls stellt die Generaldirektion
+    Wasserstraßen und Schifffahrt ein Gemeinschaftszeugnis nach Maßgabe
+    des Anhangs II § 2.04 aus.
+
+
+d)  Die Generaldirektion Wasserstraßen und Schifffahrt kann eine von § 7
+    Absatz 1 der Binnenschifferpatentverordnung abweichende Qualifikation
+    des Schiffsführers und die Qualifikation des zweiten
+    Besatzungsmitglieds nach Maßgabe der §§ 8.16 und 9.16 bestimmen.
+
+
+
+
+
+#### § 10.03 Sonstige Abweichungen und Ausnahmen
+
+
+1.  Die Untersuchungskommission kann auf Basis der vom Bundesministerium
+    für Verkehr und digitale Infrastruktur zu erlassenden Richtlinien für
+    Fahrzeuge, die nicht vom Anhang II oder XII erfasst sind, Ausnahmen
+    von den Bestimmungen dieser Verordnung erlassen. Diese Ausnahmen sind
+    in die Fahrtauglichkeitsbescheinigung einzutragen.
+
+
+2.  Verweist diese Vorschrift bei den Beschaffenheitsanforderungen an
+    Ausrüstungsgegenstände auf eine Deutsche, Europäische oder
+    Internationale Norm, so dürfen nach einer Neufassung oder
+    Überarbeitung dieser Norm diese Ausrüstungsgegenstände noch längstens
+    20 Jahre nach Neufassung oder Überarbeitung der Norm weiter verwendet
+    werden.
+
+
+
+
+
 #### (XXXX) Dienstanweisung Nr. 1 Berechnungsgrundlagen für Hochseilanlagen der Gierfähren auf Wasserstraßen zu Anhang X § 3.04
 
 Text in Bearbeitung
 
 
-#### Anlage 1 zur Dienstanweisung Nr. 1 des Anhang X *% Ermittlung der Seilkräfte
+#### Anlage 1 zur Dienstanweisung Nr. 1 des Anhang X \*% Ermittlung der Seilkräfte
 
 Text in Bearbeitung
 
 
-#### Anlage 2 zur Dienstanweisung Nr. 1 des Anhang X *% Querwiderstandsbeiwert
+#### Anlage 2 zur Dienstanweisung Nr. 1 des Anhang X \*% Querwiderstandsbeiwert
 
 Text in Bearbeitung
 
@@ -2871,12 +3426,19 @@ Text in Bearbeitung
 Text in Bearbeitung
 
 
-#### Muster Nr. 1 Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren *% zu Anhang X § 3.07 Nr. 1
-
-Text in Bearbeitung
+#### Muster Nr. 1 Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren zu Anhang X § 3.05
 
 
-#### Muster Nr. 2 Muster des Abnahmeprotokolls für kleine Fahrgastschiffe zur Beförderung von maximal 12 Fahrgästen *% zu Anhang X § 7.02 Nr. 2
 
-Text in Bearbeitung
+
+
+
+Muster des Abnahmeprotokolls für kleine Fahrgastschiffe (Zeesboote und
+Taxiboote) zur Beförderung von maximal zwölf Fahrgästen
+
+#### Muster Nr. 2 zu Anhang X § 10.02 Buchstabe b
+
+
+
+
 

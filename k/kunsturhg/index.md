@@ -209,8 +209,8 @@ widerrechtlicher Verbreitung oder Vorführung eines Werkes sowie
 die Strafverfolgung wegen widerrechtlicher Verbreitung oder
 Schaustellung eines Bildnisses verjähren in drei Jahren.
 
-(2) Die Verjährung beginnt mit dem Tag, an welchem die widerrechtliche
-Handlung zuletzt stattgefunden hat.
+(2) Die Verjährung beginnt mit dem Tage, an welchem die
+widerrechtliche Handlung zuletzt stattgefunden hat.
 
 
 ## § 49

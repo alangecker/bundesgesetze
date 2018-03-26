@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1786
 
+Geändert durch
+:   Art. 22 G v. 8.7.2016 I 1594
+
 
 
 ## Eingangsformel
@@ -28,11 +31,8 @@ beschlossen:
 -
 
 
-## Art 5 Umsetzung der Entscheidung des Bundesverfassungsgerichts zum Familienzuschlag für dritte und weitere Kinder für das Jahr 2001
+## Art 5 (weggefallen)
 
-Der Familienzuschlag nach Anlage V des Bundesbesoldungsgesetzes wird
-für das Jahr 2001 für das dritte und jedes weitere zu
-berücksichtigende Kind um je 203,60 DM erhöht.
 
 
 ## Art 6 Inkrafttreten

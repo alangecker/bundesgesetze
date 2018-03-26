@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1807
 
-Geändert durch
-:   Art. 1 G v. 29.7.2011 I 1702
+Zuletzt geändert durch
+:   Art. 1 G v. 22.12.2014 I 2431
 
 
 ## § 1 Errichtung des Sondervermögens
@@ -120,10 +120,9 @@ Rechten und Verbindlichkeiten getrennt zu halten.
 nicht der Zustimmung des Bundesrates bedarf, nähere Einzelheiten zu
 den Einnahmen nach Absatz 1 Nummer 1 zu regeln.
 
-(3) Der Bund kann dem Sondervermögen im Wirtschaftsplanjahr 2011 zum
-Ausgleich eines Finanzierungsdefizits unter den Voraussetzungen des §
-37 Absatz 1 der Bundeshaushaltsordnung eine Zuweisung bis zu einer
-Obergrenze von 225 Millionen Euro gewähren.
+(3) Der Bund kann dem Sondervermögen „Energie- und Klimafonds“
+jährlich einen Bundeszuschuss nach Maßgabe des jeweiligen
+Haushaltsgesetzes gewähren.
 
 (4) Eine Kreditaufnahme des Sondervermögens am Kreditmarkt ist nicht
 zulässig. Vom Wirtschaftsplanjahr 2012 an kann das Sondervermögen zum
@@ -178,8 +177,9 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 6 Satz 3)
 
-## Anlage (zu § 6 Satz 3) Wirtschaftsplan des Energie- und Klimafonds
+## Anlage Wirtschaftsplan des Energie- und Klimafonds
 
 (Fundstelle: BGBl. I 2010, 1809 - 1813)
 

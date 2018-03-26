@@ -684,7 +684,7 @@ einen geeigneten Prüfer prüfen zu lassen und der zuständigen Behörde
 den Prüfungsbericht bis spätestens zum 31. Dezember des
 darauffolgenden Jahres zu übermitteln. Sofern der Gewerbetreibende im
 Berichtszeitraum keine nach § 34c Abs. 1 Satz 1 der Gewerbeordnung
-erlaubnispflichtige Tätigkeit ausgeübt hat, hat der spätestens bis zu
+erlaubnispflichtige Tätigkeit ausgeübt hat, hat er spätestens bis zu
 dem in Satz 1 genannten Termin anstelle des Prüfungsberichts eine
 entsprechende Erklärung zu übermitteln. Der Prüfungsbericht muß einen
 Vermerk darüber enthalten, ob Verstöße des Gewerbetreibenden

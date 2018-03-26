@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.3.2010 I 203;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 88 G v. 22.12.2011 I 3044
+:   Art. 6 V v. 3.5.2016 I 1057
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -239,10 +239,11 @@ eingerichtet werden, müssen folgende Anforderungen erfüllen:
 
 
 (2) Für Viehausstellungen, für Viehmärkte geringen Umfangs und für
-Jahr- und Wochenmärkte, die nach § 16 Absatz 2 des Tierseuchengesetzes
-von der amtstierärztlichen Beaufsichtigung befreit sind, kann die
-zuständige Behörde Ausnahmen von Absatz 1 Nummer 1 bis 7 genehmigen,
-soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
+Jahr- und Wochenmärkte, die nach § 25 Absatz 2 des
+Tiergesundheitsgesetzes von der amtstierärztlichen Beaufsichtigung
+befreit sind, kann die zuständige Behörde Ausnahmen von Absatz 1
+Nummer 1 bis 7 genehmigen, soweit Belange der Tierseuchenbekämpfung
+nicht entgegenstehen.
 
 (3) Die zuständige Behörde kann für Viehmärkte anordnen, dass diese
 
@@ -510,17 +511,17 @@ tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom
 25\.6.2004, S. 22) in der jeweils geltenden Fassung zugelassene
 Schlachtstätte gilt als nach dieser Verordnung zugelassen.
 
-(3) Die zuständige Behörde teilt dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz die Zulassung von
-Viehhandelsunternehmen, Transportunternehmen und Sammelstellen unter
-Angabe der erteilten Registriernummer sowie die Rücknahme, den
-Widerruf oder das Ruhen der Zulassung mit.
+(3) Die zuständige Behörde teilt dem Bundesministerium für Ernährung
+und Landwirtschaft die Zulassung von Viehhandelsunternehmen,
+Transportunternehmen und Sammelstellen unter Angabe der erteilten
+Registriernummer sowie die Rücknahme, den Widerruf oder das Ruhen der
+Zulassung mit.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz gibt die Zulassung der Viehhandelsunternehmen,
-Transportunternehmen und Sammelstellen unter Angabe der jeweils
-erteilten Registriernummer sowie die Rücknahme, den Widerruf oder das
-Ruhen der Zulassung im Bundesanzeiger bekannt.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft gibt die
+Zulassung der Viehhandelsunternehmen, Transportunternehmen und
+Sammelstellen unter Angabe der jeweils erteilten Registriernummer
+sowie die Rücknahme, den Widerruf oder das Ruhen der Zulassung im
+Bundesanzeiger bekannt.
 
 
 ### § 16 Ruhen der Zulassung
@@ -546,12 +547,22 @@ Transport, spätestens jedoch nach Ablauf von 29 Stunden seit Beginn
 des Transportes, zu reinigen und zu desinfizieren. Dies gilt nicht für
 nichtgewerblich genutzte bestandseigene Viehtransportfahrzeuge, mit
 denen nur Vieh aus dem eigenen Bestand transportiert wird. Satz 1 gilt
-entsprechend für Eisenbahnwagen sowie Räume und Teile von Räumen in
-Eisenbahnwagen, Flugzeugen und Schiffen, die zur Beförderung lebenden
-Viehs benutzt worden sind. Abweichend von Satz 1 kann die Reinigung
-und Desinfektion nach Abschluss mehrerer Transporte lebenden Viehs von
-demselben Herkunftsbetrieb in denselben Bestimmungsbetrieb
-durchgeführt werden, spätestens jedoch nach Ablauf von 29 Stunden.
+entsprechend für
+
+1.  Eisenbahnwagen sowie Räume und Teile von Räumen in Eisenbahnwagen und
+    Schiffen und
+
+
+2.  die bei der Beförderung lebenden Viehs in den in Nummer 1 genannten
+    Transportmitteln oder Teilen von ihnen oder in Flugzeugen benutzten
+    Behältnissen und Gerätschaften.
+
+
+
+Abweichend von Satz 1 kann die Reinigung und Desinfektion nach
+Abschluss mehrerer Transporte lebenden Viehs von demselben
+Herkunftsbetrieb in denselben Bestimmungsbetrieb durchgeführt werden,
+spätestens jedoch nach Ablauf von 29 Stunden.
 
 (2) Viehtransportfahrzeuge, mit denen Vieh zu Viehladestellen,
 Sammelstellen oder Schlachtstätten verbracht worden ist, müssen, bevor
@@ -824,14 +835,15 @@ Desinfektionskontrollbuch müssen dem Muster der Anlage 3 entsprechen.
 (2) Die Eintragungen sind unverzüglich nach Ausführung der
 aufzeichnungspflichtigen Tätigkeit in dauerhafter Weise vorzunehmen.
 
-(3) Die Kontrollbücher und das Deckregister sind für die Zeit ihrer
-Verwendung und im Anschluss daran drei Jahre lang aufzubewahren. Die
-Frist beginnt mit dem Ablauf des 31. Dezember desjenigen Jahres, in
-dem die letzte Eintragung gemacht worden ist. Ergänzend zu § 73 Absatz
-2, 3 und 5 des Tierseuchengesetzes hat im Falle eines elektronisch
-geführten Kontrollbuches oder Deckregisters der
-Aufzeichnungspflichtige der zuständigen Behörde einen Ausdruck auf
-seine Kosten vorzulegen.
+(3) Die Kontrollbücher und das Deckregister sind von denjenigen
+Personen, die das jeweilige Kontrollbuch oder das Deckregister zu
+führen haben, für die Zeit ihrer Verwendung und im Anschluss daran
+drei Jahre lang aufzubewahren. Die Frist beginnt mit dem Ablauf des
+31\. Dezember desjenigen Jahres, in dem die letzte Eintragung gemacht
+worden ist. Ergänzend zu § 24 Absatz 4, 5 und 9 des
+Tiergesundheitsgesetzes hat im Falle eines elektronisch geführten
+Kontrollbuches oder Deckregisters der Aufzeichnungspflichtige der
+zuständigen Behörde einen Ausdruck auf seine Kosten vorzulegen.
 
 
 ## Abschnitt 9 - Tierhaltung
@@ -1742,7 +1754,7 @@ unverzüglich mitzuteilen.
 Verordnung (EG) Nr. 504/2008 von der Ausstellung eines Equidenpasses
 absehen will, übermittelt sie die für die Unterrichtung der
 Europäischen Union erforderlichen Angaben dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz.
+Ernährung und Landwirtschaft.
 
 (4) Nach dem Tod, der Schlachtung oder dem Verlust eines Einhufers hat
 der jeweilige Tierhalter den Equidenpass unter Angabe des Todes- oder
@@ -1811,161 +1823,147 @@ deren jederzeitige Ablesbarkeit gewährleistet ist.
 
 ### § 46 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer
-
-    a)  mit einer Genehmigung nach § 7 Satz 1, § 10 Absatz 1 Satz 1 oder
-        Absatz 2 Satz 3 oder § 18 Absatz 2 oder
-
-
-    b)  mit einer Zulassung nach § 12 Absatz 1 Satz 1, § 13 Absatz 1, § 14
-        Absatz 1 Satz 1
-
-
-
-    verbundenen vollziehbaren Auflage oder
+1.  entgegen § 1 Absatz 2 in Verbindung mit Absatz 1 Satz 1, auch in
+    Verbindung mit § 1 Absatz 1 Satz 3, nicht dafür sorgt, dass eine dort
+    genannte Anforderung eingehalten wird,
 
 
 2.  einer vollziehbaren Anordnung nach § 2 Absatz 5, § 3 Absatz 3, § 4
-    Absatz 2 in Verbindung mit Absatz 1, § 6 Absatz 1 Satz 3, § 17 Absatz
-    3 oder § 18 Absatz 3
+    Absatz 2, § 6 Absatz 1 Satz 3, § 17 Absatz 3 oder § 18 Absatz 3
+    zuwiderhandelt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 1 Absatz 2 in Verbindung mit Absatz 1 Satz 1 und 3 nicht
-    dafür sorgt, dass die dort genannten Anforderungen an ein dort
-    genanntes Beförderungsmittel eingehalten werden,
-
-
-2.  entgegen § 4 Absatz 1, § 11 Satz 1 oder 2, § 26 Absatz 1 Satz 1 oder 2
-    oder Absatz 3 Satz 1, § 28, § 29 Absatz 1 Satz 1 oder 2 oder Absatz 2,
+3.  entgegen § 4 Absatz 1, § 11, § 26 Absatz 1 Satz 1 oder Satz 2 oder
+    Absatz 3 Satz 1, § 28, § 29 Absatz 1 Satz 1 oder Satz 2 oder Absatz 2,
     § 35, § 40 Satz 1 oder § 45 Absatz 1 Satz 1 eine Anzeige nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig erstattet,
 
 
-3.  entgegen § 5 Satz 1 ein Tier ohne die vorgeschriebene Kennzeichnung
-    auftreibt,
+4.  entgegen § 5 Satz 1 ein Tier auftreibt,
 
 
-4.  ohne Genehmigung nach § 7 Satz 1 Vieh abtreibt,
+5.  ohne Genehmigung nach § 7 Satz 1 Vieh abtreibt,
 
 
-5.  entgegen § 9 ein Tier kastriert,
+6.  einer mit einer Genehmigung nach § 7 Satz 1, § 10 Absatz 1 Satz 1 oder
+    § 18 Absatz 2 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
-6.  entgegen § 10 Absatz 1 Satz 1 eine Wanderschafherde ohne Genehmigung
+7.  entgegen § 9 ein Tier kastriert,
+
+
+8.  ohne Genehmigung nach § 10 Absatz 1 Satz 1 eine Wanderschafherde
     treibt,
 
 
-7.  entgegen § 10 Absatz 3 Satz 2 in Verbindung mit Absatz 1 Satz 1 eine
-    Aufzeichnung und eine Genehmigung nicht mitführt oder nicht vorlegt,
+9.  einer vollziehbaren Auflage nach § 10 Absatz 2 Satz 3 zuwiderhandelt,
 
 
-8.  entgegen § 12 Absatz 1 Satz 1, § 13 Absatz 1 oder § 14 Absatz 1 Satz 1
-    ein Viehhandelsunternehmen, ein Transportunternehmen oder eine
-    Sammelstelle ohne Zulassung betreibt,
+10. entgegen § 10 Absatz 3 Satz 2 eine Aufzeichnung oder eine Genehmigung
+    nicht mitführt oder nicht oder nicht rechtzeitig vorlegt,
 
 
-9.  entgegen § 17 Absatz 1 Satz 1 oder 3 oder Absatz 2 Satz 1, jeweils in
-    Verbindung mit Absatz 4, die dort genannten Viehtransportfahrzeuge,
-    Behältnisse, Gerätschaften oder Beförderungsmittel nicht, nicht
-    richtig oder nicht rechtzeitig reinigt oder desinfiziert,
+11. ohne Zulassung nach § 12 Absatz 1 Satz 1, § 13 Absatz 1 oder § 14
+    Absatz 1 Satz 1 ein Viehhandelsunternehmen, ein Transportunternehmen
+    oder eine Sammelstelle betreibt,
 
 
-10. entgegen § 18 Absatz 1 die dort genannten Flächen, Räume oder
-    Gerätschaften nicht reinigt, nicht desinfiziert oder nicht reinigen
-    oder nicht desinfizieren lässt,
+12. einer mit einer Zulassung nach § 12 Absatz 1 Satz 1, § 13 Absatz 1
+    oder § 14 Absatz 1 Satz 1 verbundenen vollziehbaren Auflage
+    zuwiderhandelt,
 
 
-11. entgegen § 19 Dung, Streumaterial oder Futterreste nicht oder nicht
-    richtig beseitigt, nicht oder nicht richtig behandelt oder nicht oder
-    nicht richtig beseitigen oder nicht oder nicht richtig behandeln
+13. entgegen § 17 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder
+    entgegen § 17 Absatz 2 Satz 1, jeweils in Verbindung mit § 17 Absatz
+    4, eine Reinigung oder eine Desinfektion nicht oder nicht rechtzeitig
+    durchführt,
+
+
+14. entgegen § 18 Absatz 1 eine dort genannte Fläche, einen dort genannten
+    Raum, eine dort genannte Gerätschaft oder ein dort genanntes
+    Beförderungsmittel nicht oder nicht rechtzeitig reinigt, nicht oder
+    nicht rechtzeitig desinfiziert, nicht oder nicht rechtzeitig reinigen
+    lässt und nicht oder nicht rechtzeitig desinfizieren lässt,
+
+
+15. entgegen § 19 Dung, Streumaterial oder einen Futterrest nicht oder
+    nicht rechtzeitig beseitigt, nicht oder nicht rechtzeitig behandelt,
+    nicht oder nicht rechtzeitig beseitigen lässt und nicht oder nicht
+    rechtzeitig behandeln lässt,
+
+
+16. entgegen § 21 Absatz 1 Satz 1, § 23 Satz 1, auch in Verbindung mit
+    Satz 2, oder entgegen § 24 ein dort genanntes Buch oder ein
+    Deckregister nicht, nicht richtig oder nicht vollständig führt,
+
+
+17. ohne Genehmigung nach § 21 Absatz 1 Satz 4 ein dort genanntes Buch
+    entfernt,
+
+
+18. entgegen § 21 Absatz 2 Satz 1 oder § 22 Absatz 1 ein dort genanntes
+    Buch nicht mitführt,
+
+
+19. entgegen § 22 Absatz 2 in Verbindung mit § 25 Absatz 2 eine
+    Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise oder nicht rechtzeitig macht,
+
+
+20. entgegen § 25 Absatz 3 Satz 1, auch in Verbindung mit § 37 Absatz 2
+    oder § 42 Absatz 2, ein dort genanntes Buch oder Register nicht oder
+    nicht für die vorgeschriebene Dauer aufbewahrt,
+
+
+21. entgegen § 27 Absatz 1 Satz 1 oder Absatz 5, § 34 Absatz 1 Satz 1 oder
+    Satz 2 oder Absatz 5 Satz 1, § 39 Absatz 1, 4 Satz 1 oder Absatz 6
+    Satz 1 ein dort genanntes Tier nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig kennzeichnet und nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig kennzeichnen lässt,
+
+
+22. ohne Genehmigung nach § 27 Absatz 6 Satz 1, § 34 Absatz 6 Satz 1 oder
+    § 39 Absatz 7 Satz 1 eine Ohrmarke oder ein Kennzeichen entfernt oder
+    entfernen lässt,
+
+
+23. entgegen § 30 Absatz 1 oder § 41 Absatz 1 Satz 1 ein Rind oder ein
+    Schwein verbringt oder ausführt,
+
+
+24. entgegen § 33 Absatz 1, § 38 Absatz 1, § 43 Absatz 1 oder § 44b ein
+    dort genanntes Tier übernimmt,
+
+
+25. ohne Genehmigung nach § 33 Absatz 2, § 38 Absatz 2, § 43 Absatz 2 oder
+    § 44 Absatz 4 eine Ohrmarke, ein Kennzeichen oder einen Transponder in
+    den Verkehr bringt,
+
+
+26. entgegen § 42 Absatz 1 Satz 1 oder § 45 Absatz 1 Satz 2 ein dort
+    genanntes Register nicht, nicht richtig oder nicht vollständig führt,
+
+
+27. entgegen § 44 Absatz 1 eine Kennzeichnung nicht richtig vornehmen
     lässt,
 
 
-12. entgegen § 21 Absatz 1 Satz 1 in Verbindung mit Satz 3 und 4, § 23, §
-    24 in Verbindung mit § 25 Absatz 1 Satz 1 oder 4 oder Absatz 2 ein
-    Viehhandelskontrollbuch, ein Kastrationskontrollbuch, ein
-    Klauenpflegekontrollbuch oder ein Deckregister nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig führt,
+28. entgegen § 44a Absatz 2 eine Mitteilung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht oder
 
 
-13. entgegen § 21 Absatz 2 Satz 1 in Verbindung mit Absatz 1, § 22 Absatz
-    1 ein Transportkontrollbuch oder ein Desinfektionskontrollbuch nicht
-    oder nicht vollständig mitführt,
-
-
-14. entgegen § 22 Absatz 2 oder § 25 Absatz 2 eine Aufzeichnung oder
-    Eintragung nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig macht,
-
-
-15. entgegen § 25 Absatz 3 Satz 1, auch in Verbindung mit § 37 Absatz 2
-    oder § 42 Absatz 2, ein dort genanntes Buch oder Register nicht
-    aufbewahrt,
-
-
-16. entgegen § 27 Absatz 1 Satz 1 oder Absatz 5, § 34 Absatz 1 Satz 1 oder
-    2 oder Absatz 5 Satz 1, § 39 Absatz 1, 4 Satz 1 oder Absatz 6 Satz 1
-    ein Rind, ein Schaf, eine Ziege oder ein Schwein nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig kennzeichnet oder
-    kennzeichnen lässt,
-
-
-17. entgegen § 27 Absatz 6 Satz 1, § 34 Absatz 6 Satz 1 oder § 39 Absatz 7
-    Satz 1 eine Ohrmarke oder ein Kennzeichen entfernt oder entfernen
-    lässt,
-
-
-18. entgegen § 30 Absatz 1 oder § 41 Absatz 1 Satz 1 ein Rind oder ein
-    Schwein verbringt, abgibt, ausführt oder einstellt,
-
-
-19. entgegen § 32 Absatz 1 in Verbindung mit Absatz 2, § 37 Absatz 1 in
-    Verbindung mit Absatz 2, § 42 Absatz 1 Satz 1 in Verbindung mit Absatz
-    2 oder § 45 Absatz 1 Satz 2 in Verbindung mit Satz 4, jeweils in
-    Verbindung mit § 25 Absatz 1 Satz 1 oder 4 oder Absatz 2, ein
-    Bestandsregister nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig führt,
-
-
-20. entgegen § 33 Absatz 1, § 38 Absatz 1, § 43 Absatz 1 oder § 44b ein
-    Rind, ein Schaf, eine Ziege, ein Schwein oder einen Einhufer
-    übernimmt,
-
-
-21. entgegen § 33 Absatz 2, § 38 Absatz 2, § 43 Absatz 2 oder § 44 Absatz
-    4 eine Ohrmarke, ein Kennzeichen oder einen Transponder in den Verkehr
-    bringt,
-
-
-22. entgegen § 44 Absatz 1 die Durchführung der Kennzeichnung nicht oder
-    nicht ordnungsgemäß vornehmen lässt,
-
-
-23. entgegen § 44a Absatz 2 Satz 1 die dort genannten Angaben nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
-
-
-24. entgegen § 44a Absatz 2 Satz 2 eine Änderung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig mitteilt oder
-
-
-25. entgegen § 44a Absatz 4 Satz 1 den Equidenpass nicht oder nicht
+29. entgegen § 44a Absatz 4 Satz 1 einen Equidenpass nicht oder nicht
     rechtzeitig zurücksendet.
 
 
 
 
-(3) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 6 des
-Tierseuchengesetzes handelt, wer gegen die Verordnung (EG) Nr.
+(2) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
 1760/2000 des Europäischen Parlaments und des Rates vom 17. Juli 2000
 zur Einführung eines Systems zur Kennzeichnung und Registrierung von
 Rindern und über die Etikettierung von Rindfleisch und
@@ -1996,10 +1994,10 @@ vorsätzlich oder fahrlässig
 
 
 
-(4) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 6 des
-Tierseuchengesetzes handelt, wer gegen die Verordnung (EG) Nr. 21/2004
-des Rates vom 17. Dezember 2003 zur Einführung eines Systems zur
-Kennzeichnung und Registrierung von Schafen und Ziegen und zur
+(3) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
+21/2004 des Rates vom 17. Dezember 2003 zur Einführung eines Systems
+zur Kennzeichnung und Registrierung von Schafen und Ziegen und zur
 Änderung der Verordnung (EG) Nr. 1782/2003 sowie der Richtlinien
 92/102/EWG und 64/432/EWG (ABl. L 5 vom 9.1.2004, S. 8) verstößt,
 indem er vorsätzlich oder fahrlässig
@@ -2076,8 +2074,9 @@ anzuwenden.
 ### § 48 (Inkrafttreten, Außerkrafttreten)
 
 
+(zu § 12 Absatz 2, § 13 Absatz 2, § 14 Absatz 2 und § 17 Absatz 3)
 
-### Anlage 1 (zu § 12 Absatz 2, § 13 Absatz 2, § 14 Absatz 2 und § 17 Absatz 3) Voraussetzungen für die Zulassung eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
+### Anlage 1 Voraussetzungen für die Zulassung eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
 (Fundstelle: BGBl. I 2010, 220)
 
@@ -2153,8 +2152,9 @@ anzuwenden.
 
 
 
+(zu § 12 Absatz 2, § 13 Absatz 2 und § 14 Absatz 2)
 
-### Anlage 2 (zu § 12 Absatz 2, § 13 Absatz 2 und § 14 Absatz 2) Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
+### Anlage 2 Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
 (Fundstelle: BGBl. I 2010, 221)
 
@@ -2190,8 +2190,9 @@ anzuwenden.
 
 
 
+(zu § 25 Absatz 1)
 
-### Anlage 3 (zu § 25 Absatz 1) Muster für Kontrollbücher
+### Anlage 3 Muster für Kontrollbücher
 
 (Fundstelle: BGBl. I 2010, 222)
 ### **A. Viehhandelskontrollbuch**
@@ -2412,10 +2413,11 @@ anzuwenden.
 
 
 
+   (zu § 27 Absatz 3 und 4)
 
-### Anlage 4 (zu § 27 Absatz 3 und 4) Ohrmarken zur Rinderkennzeichnung
+### Anlage 4 Ohrmarken zur Rinderkennzeichnung
 
-   (Fundstelle: BGBl. I 2010, 223 - 224)
+(Fundstelle: BGBl. I 2010, 223 - 224)
 **1. Ohrmarke (Vorderseite/Lochteil)**
 
 *    *        ![bgbl1_2010_j0203-1_0010.jpg](bgbl1_2010_j0203-1_0010.jpg)
@@ -2521,8 +2523,9 @@ anzuwenden.
     15 = Sachsen-Anhalt               16 = Thüringen
     siehe 1. Ohrmarke (Vorderseite/Lochteil)
 [^f772935_21_BJNR127400007BJNE005601377]: 
+(zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2)
 
-### Anlage 5 (zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2) Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2
+### Anlage 5 Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2
 
 (Fundstelle: BGBl. I 2010, 225 - 226)
 Der auf dem Vorderteil einer Ohrmarke anzubringende und der auf dem
@@ -2964,8 +2967,9 @@ aufzubauen:
 
 
 
+(zu § 28 und § 32 Absatz 1)
 
-### Anlage 6 (zu § 28 und § 32 Absatz 1) Rasseschlüssel
+### Anlage 6 Rasseschlüssel
 
 (Fundstelle: BGBl. I 2010, 227)
 
@@ -3487,8 +3491,9 @@ aufzubauen:
 
 
 
+(zu § 32 Absatz 1)
 
-### Anlage 8 (zu § 32 Absatz 1) Bestandsregister für Rinderhaltungen
+### Anlage 8 Bestandsregister für Rinderhaltungen
 
 (Fundstelle: BGBl. I 2010, 229)
 Seite: …
@@ -3639,8 +3644,9 @@ Seite: …
     Ursprungsland bei nicht im Inland geborenen Tieren; ursprüngliche
     Kennzeichnung von aus Drittländern stammenden Tieren u. a.
 [^f772935_23_BJNR127400007BJNE006001377]: 
+(zu § 34 Absatz 3 und 4)
 
-### Anlage 9 (zu § 34 Absatz 3 und 4) Ohrmarken zur Kennzeichnung von Schafen und Ziegen
+### Anlage 9 Ohrmarken zur Kennzeichnung von Schafen und Ziegen
 
 (Fundstelle: BGBl. I 2010, 230 - 231)
 **Nummer 1**
@@ -3829,8 +3835,9 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
     13 = Mecklenburg-Vorpommern               14 = Sachsen
     15 = Sachsen-Anhalt               16 = Thüringen
 
+(zu § 36 Absatz 1)
 
-### Anlage 10 (zu § 36 Absatz 1) Begleitpapier
+### Anlage 10 Begleitpapier
 
 (Fundstelle: BGBl. I 2010, 232)
 
@@ -3942,8 +3949,9 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 [^f772935_25_BJNR127400007BJNE006201377]:     Nicht Zutreffendes streichen.
 [^f772935_26_BJNR127400007BJNE006201377]:     Nicht zutreffende Tierart streichen.
 [^f772935_27_BJNR127400007BJNE006201377]: 
+(zu § 37 Absatz 1)
 
-### Anlage 11 (zu § 37 Absatz 1) Bestandsregister
+### Anlage 11 Bestandsregister
 
 (Fundstelle: BGBl. I 2010, 232)
 Seite: ...
@@ -4137,8 +4145,9 @@ der zuständigen Behörde
 [^f772935_29_BJNR127400007BJNE006302377]:     Ersatz der Angaben durch Vorlage des Zuchtbuches mit diesen Angaben
     möglich.
 [^f772935_30_BJNR127400007BJNE006302377]: 
+(zu § 42 Absatz 1)
 
-### Anlage 12 (zu § 42 Absatz 1) Bestandsregister für Schweinehaltungen
+### Anlage 12 Bestandsregister für Schweinehaltungen
 
 (Fundstelle: BGBl. I 2010, 235)
 Seite: …

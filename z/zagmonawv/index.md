@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3591
 
+Geändert durch
+:   Art. 3 V v. 6.12.2013 I 4209
+
 
 ## Eingangsformel
 
@@ -88,12 +91,13 @@ Zahlungsinstituten mit den folgenden Formularen einzureichen:
 
 
 Zahlungsinstitute, die zugleich Kreditinstitut im Sinne des § 1 Absatz
-1 Satz 1 des Kreditwesengesetzes sind und Monatsausweise nach Maßgabe
-des § 25 des Kreditwesengesetzes in Verbindung mit der
-Monatsausweisverordnung einzureichen haben, haben anstelle der in Satz
-1 Nummer 1 und 2 genannten Formulare die Formulare aus den Anlagen 4
-und 5 (ESTZAG und EGVZAG) zu verwenden; die Pflicht zur Verwendung des
-Formulars aus der Anlage 3 (ZVZAG) bleibt daneben bestehen.
+1 Satz 1 des Kreditwesengesetzes sind und Finanzinformationen nach
+Maßgabe des § 25 des Kreditwesengesetzes in Verbindung mit der
+Finanzinformationenverordnung einzureichen haben, haben anstelle der
+in Satz 1 Nummer 1 und 2 genannten Formulare die Formulare aus den
+Anlagen 4 und 5 (ESTZAG und EGVZAG) zu verwenden; die Pflicht zur
+Verwendung des Formulars aus der Anlage 3 (ZVZAG) bleibt daneben
+bestehen.
 
 (2) Die Monatsausweise sowie die weiteren Angaben nach § 3 sind der
 Deutschen Bundesbank jeweils nach dem Stand zum Ende des

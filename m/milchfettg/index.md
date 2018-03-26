@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 135
 
 Zuletzt geändert durch
-:   Art. 198 V v. 31.10.2006 I 2407
+:   Art. 397 V v. 31.8.2015 I 1474
 
 
 ## Erster Teil - Milch und Milcherzeugnisse
@@ -172,7 +172,7 @@ und Molkereien oder zwischen Molkereien und Abnehmern über das Gebiet
 eines Landes hinaus und kommt eine gemeinsame Regelung der beteiligten
 obersten Landesbehörden nicht zustande, so entscheidet auf Antrag
 einer beteiligten obersten Landesbehörde das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium).
+Ernährung und Landwirtschaft (Bundesministerium).
 
 
 ### § 10 Förderung und Erhaltung der Güte
@@ -269,7 +269,7 @@ entsprechend den Gesetzen und der Satzung erfüllt.
 ### § 20 Preisregelung
 
 (1) Das Bundesministerium kann im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie
+Bundesministerium für Wirtschaft und Energie
 
 1.  durch Rechtsverordnung für das Gebiet des Bundes oder mehrere Länder
     Preise für Milch, Butter, Schmalz, sonstige Speisefette und -öle,
@@ -299,18 +299,18 @@ erfolgt, können die Landesregierungen durch Rechtsverordnung Preise,
 Bearbeitungs- und Handelsspannen, Zahlungs- und Lieferungsbedingungen
 für Milch festsetzen; sie können diese Befugnis auf oberste
 Landesbehörden übertragen. Das Bundesministerium kann im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie mit
-Zustimmung des Bundesrates Richtlinien hierfür erlassen. Für die Fälle
+mit dem Bundesministerium für Wirtschaft und Energie mit Zustimmung
+des Bundesrates Richtlinien hierfür erlassen. Für die Fälle
 übergebietlicher Lieferungen findet § 9 mit der Maßgabe entsprechende
 Anwendung, daß die Entscheidungen im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie ergehen. Wenn eine
+Bundesministerium für Wirtschaft und Energie ergehen. Wenn eine
 Preisregelung nach Absatz 1 Nr. 1 oder 2 für Milch erfolgt, treten
 entgegenstehende Bestimmungen der Länder außer Kraft.
 
 (3) Soweit Preise bei Abgabe durch die Molkereien nicht festgesetzt
 werden, kann das Bundesministerium im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung bestimmen,
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+bestimmen,
 
 1.  daß die Preise für Butter, Käse und andere Milcherzeugnisse von
     Notierungskommissionen an bestimmten Orten unter Berücksichtigung der
@@ -323,9 +323,9 @@ Rechtsverordnung bestimmen,
 
 
 Das Bundesministerium kann im Einvernehmen mit dem Bundesministerium
-für Wirtschaft und Technologie nähere Bestimmungen über das Verfahren
-der Notierung sowie über die Zusammensetzung der
-Notierungskommissionen treffen.
+für Wirtschaft und Energie nähere Bestimmungen über das Verfahren der
+Notierung sowie über die Zusammensetzung der Notierungskommissionen
+treffen.
 
 (4) Preise und Preisspannen sind nur festzusetzen, soweit dies
 erforderlich ist, um eine angemessene Preisgestaltung sicherzustellen.

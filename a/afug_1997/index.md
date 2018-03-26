@@ -16,7 +16,16 @@ Fundstelle
 :   BGBl I: 1997, 1494
 
 Zuletzt geändert durch
-:   § 22 Abs. 2 G v. 26.2.2008 I 220
+:   Art. 4 Abs. 113 G v. 7.8.2013 I 3154
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 Abs. 108 G v. 18.7.2016 I 1666 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 8 G v. 4.11.2016 I 2473 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Geltungsbereich
@@ -66,10 +75,10 @@ Prüfung für Funkamateure erfolgreich abgelegt oder eine Amateurfunk-
 Prüfungsbescheinigung nach § 2 Nr. 1 vorgelegt hat.
 
 (2) Die Regulierungsbehörde teilt dem Funkamateur auf Antrag weitere
-Rufzeichen zu. Das Bundesministerium für Wirtschaft und Technologie
-wird ermächtigt, durch Rechtsverordnung das Verfahren der Zuteilung
-und Einzelheiten der Anwendung und Mitbenutzung von Rufzeichen zu
-regeln.
+Rufzeichen zu. Das Bundesministerium für Verkehr und digitale
+Infrastruktur wird ermächtigt, durch Rechtsverordnung das Verfahren
+der Zuteilung und Einzelheiten der Anwendung und Mitbenutzung von
+Rufzeichen zu regeln.
 
 (3) Eine Amateurfunkstelle darf erst nach der Zulassung zur Teilnahme
 am Amateurfunkdienst und der Zuteilung
@@ -109,7 +118,7 @@ zugeteilt worden sind.
 
 ## § 4 Fachliche Prüfung, Anerkennung von Amateurfunkzeugnissen fremder Verwaltungen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung die Durchführung und die
 inhaltlichen Anforderungen der fachlichen Prüfung für Funkamateure,
 den Ausbildungsfunkbetrieb, die Einteilung der verschiedenen Arten von
@@ -168,12 +177,12 @@ Amateurfunkdienst betreffen, für und an Dritte nicht übermitteln. Satz
 
 ## § 6 Technische und betriebliche Rahmenbedingungen
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
-durch Rechtsverordnung unter Berücksichtigung internationaler
-Vereinbarungen und anderer den Amateurfunkdienst betreffenden
-internationalen Empfehlungen die technischen und betrieblichen
-Rahmenbedingungen für die Durchführung des Amateurfunkdienstes
-festzulegen, insbesondere für
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung unter Berücksichtigung
+internationaler Vereinbarungen und anderer den Amateurfunkdienst
+betreffenden internationalen Empfehlungen die technischen und
+betrieblichen Rahmenbedingungen für die Durchführung des
+Amateurfunkdienstes festzulegen, insbesondere für
 
 1.  die Planung und Fortschreibung der im Frequenznutzungsplan für den
     Amateurfunkdienst ausgewiesenen Frequenzen für Relaisfunkstellen als
@@ -234,11 +243,11 @@ Telekommunikationsendeinrichtungen findet insoweit Anwendung.
 
 ## § 8 Gebühren und Auslagen
 
-Für Amtshandlungen nach diesem Gesetz werden Kosten (Gebühren und
-Auslagen) erhoben. Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium
-der Finanzen durch Rechtsverordnung nach Maßgabe des
-Verwaltungskostengesetzes die Gebühren festzulegen für
+Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz
+werden Gebühren und Auslagen erhoben. Das Bundesministerium für
+Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium der Finanzen durch Rechtsverordnung nach
+Maßgabe des Bundesgebührengesetzes die Gebühren festzulegen für
 
 1.  die Erteilung von Amateurfunkzeugnissen nach bestandener fachlicher
     Prüfung,
@@ -252,8 +261,9 @@ Verwaltungskostengesetzes die Gebühren festzulegen für
 
 
 4.  die Rücknahme und die Ablehnung von Anträgen auf die in den Nummern 1
-    bis 3 genannten Amtshandlungen sowie den Widerruf solcher
-    Amtshandlungen,
+    bis 3 genannten individuell zurechenbaren öffentlichen Leistungen
+    sowie den Widerruf solcher individuell zurechenbaren öffentlichen
+    Leistungen,
 
 
 5.  die Anordnung der Einschränkung des Betriebes oder die

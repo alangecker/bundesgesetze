@@ -17,7 +17,7 @@ Fundstelle
 :   RGBl I: 1938, 12
 
 Zuletzt geändert durch
-:   Art. 15 G v. 3.12.2001 I 3306
+:   Art. 4 Abs. 47 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -70,7 +70,7 @@ mittellos ist.
 ihm auch derjenige, zu dessen Gunsten der Antrag gestellt ist.
 
 
-## Art II -
+## Art II - 
 
 
 

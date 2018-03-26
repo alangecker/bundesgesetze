@@ -1,6 +1,7 @@
+Eingeschränkte technische Vorschriften für Fahrzeuge auf
+Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4
 ---
-Title: Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen
-  der Zonen 3 außerhalb des Rheins und 4 (Anhang IV zur Binnenschiffsuntersuchungsordnung)
+Title: (Anhang IV zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh IV
 layout: default
 origslug: binschuo2008anh_iv
@@ -8,13 +9,19 @@ slug: binschuo2008anh_iv
 
 ---
 
-# Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4 (Anhang IV zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh IV)
+# (Anhang IV zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh IV)
 
 Ausfertigungsdatum
 :   2008-12-06
 
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 502 - 510]
+
+Geändert durch
+:   Art. 1 Nr. 17 V v. 20.12.2012 I 2802
+
+Änderung durch
+:   Art. 1 Nr. 4 V v. 2.3.2017 I 330 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -124,16 +131,22 @@ Kapitel 4
 *    *   4.01
 
     *
-    *   Rettungsmittel
+    *   Allgemeines
 
 
 *    *   4.02
 
     *
-    *   2-Abteilungsstatus
+    *   Rettungsmittel
 
 
 *    *   4.03
+
+    *
+    *   2-Abteilungsstatus
+
+
+*    *   4.04
 
     *
     *   Zweites unabhängiges Antriebssystem
@@ -217,8 +230,8 @@ ohne Ballast für den Rudergänger 250 m nicht überschreiten.
 #### § 2.01 Rettungsmittel
 
 Einzelrettungsmittel nach Anhang II § 15.09 Nr. 4 können durch
-Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5 ersetzt
-werden.
+Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nummer 5 in
+Verbindung mit Nummer 7 bis 9 ersetzt werden.
 
 
 #### § 2.02 2-Abteilungsstatus
@@ -294,24 +307,30 @@ ohne Ballast für den Rudergänger 250 m nicht überschreiten.
 
 #### § 4.01 Rettungsmittel
 
+Für die Fahrt von Fahrgastschiffen auf Wasserstraßen der Zone 4 gelten
+die Bestimmungen der §§ 3.02 und 3.03 nicht.
+
+
+#### § 4.02 Rettungsmittel
+
 Einzelrettungsmittel nach Anhang II § 15.09 Nr. 4 können durch
 Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5 ersetzt
 werden.
 
 
-#### § 4.02 2-Abteilungsstatus
+#### § 4.03 2-Abteilungsstatus
 
 Fahrgastschiffe müssen auf Wasserstrassen der Zone 4 den
 2-Abteilungsstatus nicht einhalten.
 
 
-#### § 4.03 Zweites unabhängiges Antriebssystem
+#### § 4.04 Zweites unabhängiges Antriebssystem
 
 Fahrgastschiffe müssen auf Wasserstrassen der Zone 4 nicht mit einem
 zweiten unabhängigen Antriebssystem ausgerüstet sein.
 
 
-## Teil III -
+## Teil III - 
 
 
 ### Kapitel 5 - Übergangs- und Sonderbestimmungen
@@ -325,10 +344,10 @@ zweiten unabhängigen Antriebssystem ausgerüstet sein.
     diesem Anhang erstmals vor dem 30. Dezember 2008 erteilt wurde.
 
 
-2.  Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tag der
-    Erteilung ihrer Fahrtauglichkeitsbescheinigung oder der anderen
-    Verkehrszulassung den technischen Vorschriften der Binnenschiffs-
-    Untersuchungsordnung entsprechen.
+2.  Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tage der
+    Erteilung oder letzten Erneuerung ihres Gemeinschaftszeugnisses oder
+    der anderen Verkehrszulassung den technischen Vorschriften der
+    Binnenschiffs-Untersuchungsordnung entsprochen haben.
 
 
 3.  Die Fahrtauglichkeitsbescheinigungen, die vor dem 30. Dezember 2008
@@ -342,12 +361,11 @@ zweiten unabhängigen Antriebssystem ausgerüstet sein.
 #### § 5.02 Abweichungen für Fahrzeuge, die schon in Betrieb sind
 
 
-1.  Unbeschadet der §§ 5.03 und 5.04 müssen Fahrzeuge, die den
-    Vorschriften dieses Anhangs nicht vollständig entsprechen, den nach
-    erstmaliger Erteilung ihrer Fahrtauglichkeitsbescheinigung oder der
-    anderen Verkehrszulassung in Kraft getretenen Vorschriften gemäß den
-    in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst
-    werden.
+1.  Fahrzeuge die den Vorschriften dieses Anhangs nicht vollständig
+    entsprechen, müssen den nach erstmaliger Erteilung ihrer
+    Fahrtauglichkeitsbescheinigung oder der anderen Verkehrszulassung in
+    Kraft getretenen Vorschriften nach den in nachstehender Tabelle
+    aufgeführten Übergangsbestimmungen angepasst werden.
 
 
 2.  In der nachstehenden Tabelle bedeuten
@@ -445,23 +463,51 @@ zweiten unabhängigen Antriebssystem ausgerüstet sein.
 
 #### § 5.03 Sonstige Abweichungen
 
-Falls die Anwendung der in diesem Kapitel genannten Bestimmungen nach
-Ablauf der Übergangsbestimmungen praktisch schwer ausführbar ist oder
-unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
-aufgrund von Empfehlungen des Ausschusses Abweichungen von diesen
-Vorschriften gestatten. Diese Abweichungen sind in die
-Fahrtauglichkeitsbescheinigung einzutragen.
+(Fundstelle: BGBl. I 2017, 351 – 352)
+
+
+1.  Wenn die Anwendung der in diesem Kapitel genannten Bestimmungen nach
+    Ablauf der Übergangsbestimmungen praktisch schwer ausführbar ist oder
+    unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
+    aufgrund von Empfehlungen des Ausschusses Abweichungen von diesen
+    Vorschriften gestatten. Diese Abweichungen sind in das Zusätzliche
+    Gemeinschaftszeugnis einzutragen.
+
+
+2.  Verweist diese Vorschrift bei den Beschaffenheitsanforderungen an
+    Ausrüstungsgegenstände auf eine Deutsche, Europäische oder
+    Internationale Norm, so dürfen nach einer Neufassung oder
+    Überarbeitung dieser Norm diese Ausrüstungsgegenstände noch längstens
+    20 Jahre nach Neufassung oder Überarbeitung der Norm weiter verwendet
+    werden.
+
+
+
 
 
 #### § 5.04 Übergangsbestimmung für Fahrzeuge nach Anhang II Kapitel 15, 17 und 21 sowie nach Anhang XII Artikel 5
 
 
-1.  Für ein Fahrzeug nach Anhang II Kapitel 15, 17 und 21 oder nach Anhang
-    XII Artikel 5 wird die Fahrtauglichkeitsbescheinigung nach einer
-    Untersuchung gemäß Anhang II § 2.09 Nr. 1, 3 und 4 erteilt, die nach
-    Ablauf der geltenden Fahrtauglichkeitsbescheinigung, jedoch spätestens
-    bis zum 30. Dezember 2018 durchgeführt wird, um festzustellen, ob das
-    Fahrzeug den technischen Vorschriften des Anhangs IV entspricht.
+1.  Abweichend von § 5.02 wird für
+
+    a)  Fahrgastschiffe nach Anhang II Kapitel 15,
+
+
+    b)  für schwimmende Geräte nach Anhang II Kapitel 17,
+
+
+    c)  für Sportboote nach Anhang II Kapitel 21 sowie
+
+
+    d)  für Segelfahrgastschiffe nach Anhang XII Artikel 5
+
+
+
+    die Fahrtauglichkeitsbescheinigung nach einer Untersuchung nach Anhang
+    II § 2.09 Nummer 1, 3 und 4 erteilt, die nach Ablauf der geltenden
+    Fahrtauglichkeitsbescheinigung jedoch spätestens bis zu 30. Dezember
+    2018 durchgeführt wird, um festzustellen, ob das Fahrzeug den
+    technischen Vorschriften dieses Anhangs entspricht.
 
 
 2.  Hält das Fahrzeug Anforderungen des Kapitel 1 bis 4 nicht ein und ist
@@ -480,8 +526,9 @@ Fahrtauglichkeitsbescheinigung einzutragen.
     Anhangs berührt sind. Zulässige Abweichungen sind nicht als
     Unzulänglichkeiten festzuhalten, die eine offenkundige Gefahr
     darstellen. Keine offenkundige Gefahr gilt als gegeben, wenn das
-    Fahrzeug den Bestimmungen der Binnenschiffsuntersuchungsordnung in der
-    Fassung vom 30. Dezember 2008 entspricht.
+    Fahrzeug zum Zeitpunkt der letzten Untersuchung den Bestimmungen der
+    Binnenschiffsuntersuchungsordnung in der Fassung entsprochen hat, die
+    am 30. Dezember 2008 gegolten hat.
 
 
 4.  Der Ersatz bestehender Bauteile durch identische Teile oder Teile von

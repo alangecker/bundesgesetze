@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 774
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2011 I 2835
+:   Art. 4 V v. 8.8.2017 I 3158
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2000/30/EG des
 Europäischen Parlaments und des Rates vom 6. Juni 2000 über die
@@ -296,23 +296,29 @@ spätestens zwei Monate nach deren Ablauf einen nach dem Muster in
 Anlage 3 für ihren Bereich erstellten Bericht über die Anwendung
 dieser Verordnung mit folgenden Angaben:
 
-1.  kontrollierte Nutzfahrzeuge, aufgeschlüsselt nach Fahrzeugklassen des
-    Anhangs I der Richtlinie 2010/47/EU,
+1.  Anzahl der kontrollierten Nutzfahrzeuge, aufgeschlüsselt nach den
+    Fahrzeugklassen des Anhangs I Nummer 6 der Richtlinie 2000/30/EG in
+    der durch die Richtlinie 2010/47/EU geänderten Fassung und nach dem
+    Zulassungsland,
 
 
-2.  Zulassungsländer, aufgeschlüsselt nach Deutschland, Mitgliedstaaten
-    und Drittstaaten,
+2.  Anzahl der festgestellten Mängel zu den Prüfpunkten des Anhangs I
+    Nummer 10 der Richtlinie 2000/30/EG in der durch die Richtlinie
+    2010/47/EU geänderten Fassung, aufgeschlüsselt nach den
+    Fahrzeugklassen des Anhangs I Nummer 6 der Richtlinie 2000/30/EG in
+    der durch die Richtlinie 2010/47/EU geänderten Form und nach dem
+    Zulassungsland.
 
 
-3.  kontrollierte Prüfpunkte und festgestellte Mängel.
 
-
-
+Das Musterformular ist in elektronischem Format für jedes
+Zulassungsland zu erstellen und dem Bundesamt für Güterverkehr
+ausschließlich per De-Mail oder E-Mail zu übermitteln.
 
 (2) Das Bundesamt für Güterverkehr erstellt auf Grund der Berichte
 nach Absatz 1 einen für Deutschland zusammengefassten Bericht und
-übersendet diesen dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung zur Weiterleitung an die Kommission der Europäischen
+übersendet diesen dem Bundesministerium für Verkehr und digitale
+Infrastruktur zur Weiterleitung an die Kommission der Europäischen
 Gemeinschaften.
 
 (3) Die erste Übermittlung von Daten erstreckt sich auf den
@@ -356,251 +362,291 @@ Der Bundesrat hat zugestimmt.
 ## Anlage 2 (weggefallen)
 
 
+(zu § 10 Absatz 1)
 
-## Anlage 3 (zu § 10 Abs. 1) Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Wartungsmängeln
+## Anlage 3 Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
 
-Fundstelle des Originaltextes: BGBl. I 2003, 781;
-bzgl. der einzelnen Änderungen vgl. Fußnote
-
-*    *   Bundesland: .............. Bundespolizei/Zollverwaltung
-
-    *   Jahr: ...............
+(Fundstelle: BGBl. I 2017, 3164 — 3165)
 
 
-*    *   Lfd. Nr.
+*    *   Berichterstattendes Land:
+        ..........
 
-    *   Art/Inhalt
-
-    *   Fahrzeuge/Zulassungsland in dem Gebiet
-
-
-*    *   Inland
-
-    *   Sonstige EU/EWR- Staaten
-
-    *   Nicht- EU/EWR- Staaten
-
-    *   Gesamt
+    *   Bundespolizei/Zollverwaltung:
+        ..........
 
 
-*    *   1
+*    *   Zulassungsstaat:
+        ..........
 
-    *   Anzahl kontrollierter Nutzfahrzeuge insgesamt
+    *   Zeitraum: von
+        .......... bis
+        ..........
 
-    *
-    *
-    *
-    *
 
-*    *
-    *   davon
 
-    *
-    *
-    *
-    *
 
-*    *   1.1
 
-    *   leichtes Nutzfahrzeug (3,5 - 12 t)
+*    *   Fahrzeug-
+        klasse
 
-    *
-    *
-    *
-    *
+    *   N2
 
-*    *   1.2
+    *   N3
 
-    *   schweres Nutzfahrzeug (über 12 t)
+    *   O3
 
-    *
-    *
-    *
-    *
+    *   O4
 
-*    *   1.3
+    *   M2
 
-    *   Anhänger
+    *   M3
 
-    *
-    *
-    *
-    *
+    *   Andere Fahr-
+        zeugklasse
 
-*    *   1.4
+    *   Insgesamt
 
-    *   Sattelanhänger
-
-    *
-    *
-    *
-    *
-
-*    *   1.5
-
-    *   Lastzug
-
-    *
-    *
-    *
-    *
-
-*    *   1.6
-
-    *   Sattelzug
-
-    *
-    *
-    *
-    *
-
-*    *   1.7
-
-    *   Kraftomnibus
-
-    *
-    *
-    *
-    *
-
-*    *   2
-
-    *   Anzahl beanstandeter Nutzfahrzeuge insgesamt
-
-    *
-    *
-    *
-    *
 
 *    *
-    *   davon Mängel an
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+    *   Anzahl kontrollierter Fahrzeuge
+
+    *   Anzahl von Untersagungen der Weiterfahrt
+
+
+*    *   Mängel im Einzelnen
+
+
+*    *
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+    *   Kontrolliert
+
+    *   Nicht vorschriftsmäßig
+
+
+*    *   (0) Identifizierung
 
     *
     *
     *
     *
-
-*    *   2.1
-
-    *   Bremsanlage und deren Bestandteile
-
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *
     *
 
-*    *   2.2
-
-    *   Auspuffanlage
+*    *   (1) Bremsanlage
 
     *
     *
     *
     *
-
-*    *   2.3
-
-    *   Abgastrübung (Dieselmotoren)
-
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *
     *
 
-*    *   2.4
-
-    *   Gasförmige Emissionen (Benzin-, Erdgas- oder Flüssiggasmotoren)
+*    *   (2) Lenkung
 
     *
     *
     *
     *
-
-*    *   2.5
-
-    *   Lenkanlage
-
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *
     *
 
-*    *   2.6
-
-    *   Beleuchtungs- und Signaleinrichtungen
+*    *   (3) Sicht
 
     *
     *
     *
     *
-
-*    *   2.7
-
-    *   Räder/Reifen
-
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *
     *
 
-*    *   2.8
-
-    *   Federung (sichtbare Mängel)
+*    *   (4) Lichtanlage und Elektrik
 
     *
     *
     *
     *
-
-*    *   2.9
-
-    *   Fahrgestell (sichtbare Mängel)
-
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *
     *
 
-*    *   2.10
-
-    *   Fahrtschreiber (Einbau)
+*    *   (5) Achsen, Räder, Reifen, Aufhängung
 
     *
     *
     *
     *
-
-*    *   2.11
-
-    *   Geschwindigkeitsbegrenzer (Einbau oder Funktion)
-
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *
     *
 
-*    *   2.12
-
-    *   Austritt von Kraftstoff und/oder Öl
+*    *   (6) Fahrgestell und am Fahrgestell befestigte Teile
 
     *
     *
     *
     *
-
-*    *   3
-
-    *   Anzahl/Zurückweisungen an der EU/EWR-Außengrenze
-
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *
     *
 
-*    *   4
+*    *   (7) Sonstige
+        Geräte einschließlich Fahrtenschreiber und Geschwindigkeitsbegrenzer
 
-    *   Anzahl/Benutzung vorläufig untersagt
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *   (8) Umweltbelastung durch Emissionen und Austritt von Kraftstoff
+        und/oder Öl
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
     *
     *
     *

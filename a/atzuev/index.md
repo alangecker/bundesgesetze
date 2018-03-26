@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1525
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.6.2010 I 825
+:   Art. 22 G v. 27.6.2017 I 1966
 
 
 ## Eingangsformel
@@ -50,7 +50,7 @@ werden soll, bedarf es nur, wenn die zuständige Behörde die
 zu einer Entwendung oder Freisetzung radioaktiver Stoffe führen
 können, die Überprüfung erfordert.
 2             Satz 1 gilt nicht für die Beförderung von Großquellen im
-Sinne des § 23 Absatz 2 des Atomgesetzes und den Umgang mit
+Sinne des § 23d Satz 3 des Atomgesetzes und den Umgang mit
 umschlossenen radioaktiven Stoffen im Sinne des § 3 Absatz 2 Nummer 29
 Buchstabe b der Strahlenschutzverordnung im nichtmedizinischen
 Bereich, deren Aktivität den Aktivitätswert von 1 000 Terabecquerel
@@ -347,9 +347,9 @@ Aufsichtsverfahren, die sich auf Anlagen oder Tätigkeiten nach den §§
 oder 16 der Strahlenschutzverordnung beziehen.
 3             Überträgt der Inhaber einer Genehmigung nach § 4 des
 Atomgesetzes oder einer Genehmigung zur Beförderung von Großquellen im
-Sinne des § 23 Absatz 2 des Atomgesetzes einem Dritten Aufgaben, die
-in der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind,
-ist auch der Dritte antragsberechtigt.
+Sinne des § 23d Satz 3 des Atomgesetzes einem Dritten Aufgaben, die in
+der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind, ist
+auch der Dritte antragsberechtigt.
 4             Für Sachverständige nach § 12b Absatz 1 Satz 1 Nummer 4
 des Atomgesetzes wird die Überprüfung der Zuverlässigkeit des
 Betroffenen durch die zuziehende Behörde veranlaßt.
@@ -652,10 +652,8 @@ entscheidet die zuständige Behörde.
 2             Absatz 3 Satz 1 bis 3 gilt entsprechend.
 
 
-## § 10 Übergangsregelung
+## § 10 (weggefallen)
 
-Zuverlässigkeitsüberprüfungen, die vor dem 1. Juli 2010 beantragt
-wurden, sind nach dem bis dahin geltenden Recht zu Ende zu führen.
 
 
 ## § 11 (weggefallen)

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 851
 
+Geändert durch
+:   Art. 59 G v. 8.7.2016 I 1594
+
 
 
 ## Eingangsformel
@@ -28,16 +31,8 @@ beschlossen:
 -
 
 
-## Art 2 Übergangsvorschrift zum Soldatenversorgungsgesetz
+## Art 2 (weggefallen)
 
-Für die am Tage vor dem Inkrafttreten dieses Gesetzes vorhandenen
-Empfänger von Übergangsgebührnissen gilt § 11 Abs. 2 des
-Soldatenversorgungsgesetzes mit der Maßgabe, daß mindestens die Bezüge
-zu gewähren sind, die bei Fortgeltung des § 11 Abs. 2 des
-Soldatenversorgungsgesetzes in der vor dem Inkrafttreten dieses
-Gesetzes geltenden Fassung zustehen würden; dies gilt entsprechend für
-die Empfänger eines Ausbildungszuschusses nach § 5 Abs. 4 des
-Soldatenversorgungsgesetzes.
 
 
 ## (XXXX) Art 3 bis Art 8 (weggefallen)

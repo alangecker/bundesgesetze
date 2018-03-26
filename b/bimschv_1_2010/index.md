@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 38
 
+Zuletzt geändert durch
+:   Art. 16 Abs. 4 G v. 10.3.2017 I 420
+
 [^fn772806_01_BJNR003800010]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
     Informationsverfahren auf dem Gebiet der Normen und technischen
@@ -58,12 +61,9 @@ Bundes-Immissionsschutzgesetzes bedürfen.
         in ähnlicher Weise zuzubereiten,
 
 
-    c)  Branntwein in Kleinbrennereien nach § 34 des Gesetzes über das
-        Branntweinmonopol in der im Bundesgesetzblatt Teil III,
-        Gliederungsnummer 612-7, veröffentlichten bereinigten Fassung, das
-        zuletzt durch Artikel 7 des Gesetzes vom 13. Dezember 2007 (BGBl. I S.
-        2897) geändert worden ist, mit einer jährlichen Betriebszeit von nicht
-        mehr als 20 Tagen herzustellen oder
+    c)  Alkohol in Kleinbrennereien mit einer jährlichen Erzeugung von nicht
+        mehr als 10 Hektoliter Alkohol und einer jährlichen Betriebszeit von
+        nicht mehr als 20 Tagen herzustellen oder
 
 
     d)  Warmwasser in Badeöfen zu erzeugen,
@@ -1089,8 +1089,8 @@ nach Landesrecht zuständigen Behörde bis zum 30. April des folgenden
 Jahres vor. Der zuständige Zentralinnungsverband des
 Schornsteinfegerhandwerks erstellt für jedes Kalenderjahr eine
 entsprechende länderübergreifende Übersicht und legt diese dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit bis
-zum 30. Juni des folgenden Jahres vor.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+bis zum 30. Juni des folgenden Jahres vor.
 
 
 ### § 17 Eigenüberwachung
@@ -1115,8 +1115,8 @@ Aufzeichnungen.
 die Ergebnisse der Messungen nach den §§ 14 und 15 und teilt diese den
 für den Immissionsschutz zuständigen obersten Landesbehörden oder den
 nach Landesrecht zuständigen Behörden und dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit innerhalb der Zeiträume nach
-§ 16 Satz 2 und 3 mit.
+Umwelt, Naturschutz, Bau und Reaktorsicherheit innerhalb der Zeiträume
+nach § 16 Satz 2 und 3 mit.
 
 
 ### § 18 Überwachung von Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung von 10 Megawatt bis 20 Megawatt
@@ -1750,8 +1750,9 @@ zuletzt durch Artikel 4 der Verordnung vom 14. August 2003 (BGBl I
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 12)
 
-### Anlage 1 (zu § 12) Messöffnung
+### Anlage 1 Messöffnung
 
 (Fundstelle: BGBl. I 2010, 50)
 
@@ -1777,8 +1778,10 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz
+2)
 
-### Anlage 2 (zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2) Anforderungen an die Durchführung der Messungen im Betrieb
+### Anlage 2 Anforderungen an die Durchführung der Messungen im Betrieb
 
 (Fundstelle: BGBl. I 2010, 51 - 53)
 
@@ -2184,8 +2187,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 2 Nummer 11, § 6)
 
-### Anlage 3 (zu § 2 Nummer 11, § 6) Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
+### Anlage 3 Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
 
 (Fundstelle: BGBl. I 2010, 54)
 
@@ -2251,8 +2255,10 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2
+Nummer 2, Absatz 6)
 
-### Anlage 4 (zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6) Anforderungen bei der Typprüfung
+### Anlage 4 Anforderungen bei der Typprüfung
 
 (Fundstelle: BGBl. I 2010, 55 - 56)
 

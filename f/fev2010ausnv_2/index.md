@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3113
 
+Zuletzt geändert durch
+:   Art. 11 G v. 1.6.2017 I 1354
+
 
 ## Eingangsformel
 
@@ -51,7 +54,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage (zu § 1)
 
-(Fundstelle: BGBl. I 2011, 3114)
+(Fundstelle: BGBl. I 2011, 3114;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## 1. Anforderungen an die Fahrer
 
@@ -59,10 +63,9 @@ Der Kraftfahrzeugführer muss eine vom Bundeskriminalamt oder von den
 Polizeien der Länder durchgeführte zusätzliche Fahrausbildung
 nachgewiesen haben. An der zusätzlichen Fahrausbildung können nur
 Inhaber der Fahrerlaubnis der Klasse B teilnehmen, die zu Beginn der
-zusätzlichen Fahrausbildung nicht mit Punkten im
-Verkehrszentralregister belastet sind. Der Nachweis erfolgt durch
-Vorlage eines Auszuges aus dem Verkehrszentralregister, der nicht
-älter als sechs Monate sein darf.
+zusätzlichen Fahrausbildung nicht mit Punkten im Fahreignungsregister
+belastet sind. Der Nachweis erfolgt durch Vorlage eines Auszuges aus
+dem Fahreignungsregister, der nicht älter als sechs Monate sein darf.
 
 ## 2. Anforderungen an die zusätzliche Fahrausbildung
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1960, 93, 94
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 9 G v. 12.4.2012 I 579
+:   Art. 7 G v. 11.11.2016 I 2500
 
 
 ## Inhaltsverzeichnis
@@ -378,13 +378,13 @@ des Hinterbliebenen, der zuerst einen Anspruch anmeldet.
 (2) Ergibt sich nach Absatz 1 die Zuständigkeit der
 landwirtschaftlichen Berufsgenossenschaft oder eines
 Unfallversicherungsträgers der öffentlichen Hand, so ist die
-Unfallkasse des Bundes zuständig.
+Unfallversicherung Bund und Bahn zuständig.
 
-(3) Die Unfallkasse des Bundes ist zuständig für die Feststellung und
-Gewährung von Leistungen an Umsiedler im Sinne des § 1 Abs. 2 Nr. 2
-des Bundesvertriebenengesetzes, die einen Anspruch auf Zahlung einer
-Rente aus der gesetzlichen Unfallversicherung ihres Herkunftslands
-haben.
+(3) Die Unfallversicherung Bund und Bahn ist zuständig für die
+Feststellung und Gewährung von Leistungen an Umsiedler im Sinne des §
+1 Abs. 2 Nr. 2 des Bundesvertriebenengesetzes, die einen Anspruch auf
+Zahlung einer Rente aus der gesetzlichen Unfallversicherung ihres
+Herkunftslands haben.
 
 
 ### § 10
@@ -657,10 +657,10 @@ sind.
 wenn sie sich bei einem Wechsel des Versicherungsträgers verringert
 hat.
 
-(2)
+(2) (weggefallen)
 
 (3) Beitragszeiten, die während des Bezugs einer Altersrente
-zurückgelegt sind, werden bis zur Vollendung des 65. Lebensjahres
+zurückgelegt sind, werden bis zum Erreichen der Regelaltersgrenze
 angerechnet; dies gilt auch für Beitragszeiten, die während des Bezugs
 einer Leistung zurückgelegt sind, die anstelle einer Altersrente
 erbracht wird.

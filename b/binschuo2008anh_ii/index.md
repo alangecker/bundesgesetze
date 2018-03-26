@@ -1,7 +1,8 @@
+Technische Mindestvorschriften für Schiffe auf dem Rhein und auf
+Binnenwasserstraßen der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein
+Schiffsattest beantragen
 ---
-Title: Technische Mindestvorschriften für Schiffe auf dem Rhein und auf Binnenwasserstraßen
-  der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein Schiffsattest beantragen (Anhang
-  II zur Binnenschiffsuntersuchungsordnung)
+Title: (Anhang II zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh II
 layout: default
 origslug: binschuo2008anh_ii
@@ -9,7 +10,7 @@ slug: binschuo2008anh_ii
 
 ---
 
-# Technische Mindestvorschriften für Schiffe auf dem Rhein und auf Binnenwasserstraßen der Zonen 1, 2, 3 und 4 für Fahrzeuge, die ein Schiffsattest beantragen (Anhang II zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh II)
+# (Anhang II zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh II)
 
 Ausfertigungsdatum
 :   2008-12-06
@@ -17,8 +18,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 9 bis 475]
 
-Geändert durch
-:   Art. 12 Nr. 9 V v. 16.12.2011 II 1300
+Zuletzt geändert durch
+:   Art. 2 Nr. 1 V v. 16.6.2014 I 748
+
+Änderung durch
+:   Art. 1 Nr. 7 V v. 16.12.2016 I 2948 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 Nr. 2 V v. 2.3.2017 I 330 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -63,8 +70,8 @@ Allgemeines
 
 *    *   1.07
 
-    *   Dienstanweisungen für die Untersuchungskommissionen und die nach
-        Kapitel 23 zuständigen Behörden
+    *   Dienstanweisungen für die Untersuchungskommissionen und die
+        zuständigen Behörden
 
 
 
@@ -338,7 +345,7 @@ Steuereinrichtungen
 
 *    *   6.09
 
-    *   Abnahme und wiederkehrende Prüfungen
+    *   Prüfung
 
 
 
@@ -377,7 +384,7 @@ Steuerhaus
 
 *    *   7.06
 
-    *   Navigationsgeräte
+    *   Informations- und Navigationsgeräte
 
 
 *    *   7.07
@@ -511,7 +518,7 @@ luftverunreinigenden Partikeln von Dieselmotoren
 
 *    *   8a.07
 
-    *   Anerkennung gleichwertiger anderer Normen
+    *   (ohne Inhalt)
 
 
 *    *   8a.08
@@ -538,6 +545,50 @@ luftverunreinigenden Partikeln von Dieselmotoren
 *    *   8a.12
 
     *   Zuständige Behörden und Technische Dienste
+
+
+
+Kapitel 8b
+Sonderbestimmungen für Fahrzeuge,
+auf denen Antriebs- oder Hilfssysteme installiert sind, die
+mit Brennstoffen mit einem Flammpunkt von 55° C oder darunter
+betrieben werden
+##
+
+
+*    *   8b.01
+
+    *   Allgemeines
+
+
+*    *   8b.02
+
+    *   Prüfung
+
+
+*    *   8b.03
+
+    *   Sicherheitsorganisation
+
+
+*    *   8b.04
+
+    *   Umweltschutzanforderungen
+
+
+*    *   8b.05
+
+    *   Kennzeichnung
+
+
+*    *   8b.06
+
+    *   Unabhängiger Antrieb
+
+
+*    *   8b.07
+
+    *   Technische Dienste
 
 
 
@@ -922,17 +973,82 @@ Flüssiggasanlagen für Haushaltszwecke
 
 *    *   14.13
 
-    *   Abnahme
+    *   Prüfung
 
 
 *    *   14.14
 
-    *   Prüfungen
+    *   Prüfbedingungen
 
 
 *    *   14.15
 
     *   Bescheinigung
+
+
+
+**Kapitel 14a**
+## **Bordkläranlagen für Fahrgastschiffe**
+
+
+*    *   14a.01
+
+    *   Begriffsbestimmungen
+
+
+*    *   14a.02
+
+    *   Allgemeine Bestimmungen
+
+
+*    *   14a.03
+
+    *   Antrag auf Typgenehmigung
+
+
+*    *   14a.04
+
+    *   Typgenehmigungsverfahren
+
+
+*    *   14a.05
+
+    *   Änderung von Typgenehmigungen
+
+
+*    *   14a.06
+
+    *   Übereinstimmung der Typgenehmigung
+
+
+*    *   14a.07
+
+    *   (ohne Inhalt)
+
+
+*    *   14a.08
+
+    *   Kontrolle der Seriennummern
+
+
+*    *   14a.09
+
+    *   Übereinstimmung der Produktion
+
+
+*    *   14a.10
+
+    *   Nichtübereinstimmung mit dem typgenehmigten Bordkläranlagentyp
+
+
+*    *   14a.11
+
+    *   Stichprobenmessung/Sonderprüfung
+
+
+*    *   14a.12
+
+    *   Zuständige Behörden und technische Dienste
 
 
 
@@ -1192,17 +1308,7 @@ Sonderbestimmungen für Sportfahrzeuge
 
 *    *   21.01
 
-    *   Allgemeines
-
-
-*    *   21.02
-
     *   Anwendung des Teils II
-
-
-*    *   21.03
-
-    *   (weggefallen)
 
 
 
@@ -1327,7 +1433,7 @@ Sonderbestimmungen für schnelle Schiffe
 
 *    *   22b.11
 
-    *   Feuerschutz und Feuerbekämpfung
+    *   Brandschutz und Brandbekämpfung
 
 
 *    *   22b.12
@@ -1451,7 +1557,7 @@ Kapitel 24
 
 *    *   24.05
 
-    *   Übergangsbestimmungen zu Kapitel 23 "Besatzungen"
+    *   (ohne Inhalt)
 
 
 *    *   24.06
@@ -1467,6 +1573,11 @@ Kapitel 24
 *    *   24.08
 
     *   Übergangsbestimmungen zu § 2.18
+
+
+*    *   24.09
+
+    *   Übergangsbestimmungen aus Anlass des Überganges vom ADNR auf das ADN
 
 
 
@@ -1536,7 +1647,7 @@ Anlagen
 
 *    *   Anlage M:
 
-    *   (ohne Inhalt)
+    *   Navigationsradaranlagen und Wendeanzeiger in der Rheinschifffahrt
 
 
 *    *   Anlage N:
@@ -1560,9 +1671,26 @@ Anlagen
     *   Dienstanweisungen
 
 
+*    *   Anlage R:
+
+    *   Bordkläranlagen – Ergänzende Bestimmungen und Muster von
+        Bescheinigungen –
 
 
-## Teil I -
+*    *   Anlage S:
+
+    *   Bordkläranlagen – Prüfverfahren –
+
+
+*    *   Anlage T
+
+    *   Zusätzliche Bestimmungen für Fahrzeuge, die mit Brennstoffen mit einem
+        Flammpunkt von 55° C oder darunter betrieben werden
+
+
+
+
+## Teil I - 
 
 
 ### Kapitel 1 - Allgemeines
@@ -1900,45 +2028,52 @@ In dieser Verordnung gelten als:
 54. „Trennwand“ eine nicht wasserdichte Wand;
 
 
-55. „Länge“ oder "L" die größte Länge des Schiffskörpers in m, ohne Ruder
-    und Bugspriet;
+55. „Länge“ („L“) die größte Länge des Schiffskörpers in m, ohne Ruder und
+    Bugspriet;
 
 
-56. „Länge über alles“ die größte Länge des Fahrzeuges in m einschließlich
-    aller festen Anbauten wie Teile von Ruder- und Antriebsanlagen,
-    maschinelle Einrichtungen und Ähnliches (Höchstabmessung im Sinne der
-    Rheinschifffahrtspolizeiverordnung);
+56. „Länge über alles“ („L
+    OA                   “) die größte Länge des Fahrzeugs in m
+    einschließlich aller festen Anbauten wie Teile von Ruder- und
+    Antriebsanlagen, maschinelle Einrichtungen und Ähnliches;
 
 
-57. „Länge“ oder "L
-    WL                   " die in der Ebene der größten Einsenkung des
+57. „Länge in der Wasserlinie“ („L
+    WL                   “) die in der Ebene der größten Einsenkung des
     Schiffes gemessene größte Länge des Schiffskörpers in m;
 
 
-58. „Breite“ oder "B" die größte Breite des Schiffskörpers in m, gemessen
-    an der Außenseite der Beplattung (ohne Schaufelräder; Scheuerleisten
-    und Ähnliches);
+58. „Breite“ („B“) die größte Breite des Schiffskörpers in m, gemessen an
+    der Außenseite der Beplattung (ohne Schaufelräder, Scheuerleisten und
+    Ähnliches);
 
 
-59. „Breite über alles“ die größte Breite des Fahrzeuges in m
+59. „Breite über alles“ („B
+    OA                   “) die größte Breite des Fahrzeuges in m
     einschließlich aller festen Anbauten wie Schaufelräder,
-    Scheuerleisten, maschinelle Einrichtungen und Ähnliches
-    (Höchstabmessung im Sinne der Rheinschifffahrtspolizeiverordnung);
+    Scheuerleisten, maschinelle Einrichtungen und Ähnliches;
 
 
-60. „Breite“ oder "B
-    WL                   " die in der Ebene der größten Einsenkung des
+60. „Breite in der Wasserlinie“ („B
+    WL                   “) die in der Ebene der größten Einsenkung des
     Schiffes an der Außenseite der Beplattung gemessene größte Breite des
     Schiffskörpers in m;
 
 
-61. „Seitenhöhe“ oder "H" kleinster senkrechter Abstand zwischen
+61. „Seitenhöhe“ („H“) der kleinste senkrechte Abstand zwischen der
     Unterkante der Bodenbeplattung oder des Kiels und dem tiefsten Punkt
     des Decks an der Seite des Schiffes in m;
 
 
-62. „Tiefgang“ oder "T" der senkrechte Abstand vom tiefsten Punkt des
-    Schiffskörpers an der Unterkante der Bodenbeplattung oder des Kiels
+62. „Tiefgang“ („T“) der senkrechte Abstand vom tiefsten Punkt des
+    Schiffskörpers, ohne Berücksichtigung des Kiels oder anderer fester
+    Anbauten, bis zur Ebene der größten Einsenkung des Schiffskörpers in
+    m;
+
+
+62a. „Tiefgang über alles“ („T
+    OA                   “) der senkrechte Abstand vom tiefsten Punkt des
+    Schiffskörpers, einschließlich des Kiels oder anderer fester Anbauten,
     bis zur Ebene der größten Einsenkung des Schiffskörpers in m;
 
 
@@ -2046,8 +2181,8 @@ In dieser Verordnung gelten als:
 
 82. „Anerkannte Klassifikationsgesellschaft“ eine
     Klassifikationsgesellschaft, die von allen Rheinuferstaaten und
-    Belgien anerkannt ist, nämlich: Germanischer Lloyd, Bureau Veritas und
-    Lloyd's Register of Shipping;
+    Belgien anerkannt ist, nämlich: DNV GL, Bureau Veritas (BV) und
+    Lloyd´s Register of Shipping (LR);
 
 
 83. „Höchste Klasse“:
@@ -2079,7 +2214,7 @@ In dieser Verordnung gelten als:
 
 
 
-**Radargeräte**
+**Informations- und Navigationsgeräte**
 
 84. „Radargerät“ eine elektronische Navigationshilfe zur Erfassung und
     Darstellung der Umgebung und des Verkehrs;
@@ -2118,7 +2253,37 @@ In dieser Verordnung gelten als:
     Schwierigkeiten bei der Benutzung öffentlicher Verkehrsmittel haben,
     wie z. B. ältere Menschen, Behinderte, Personen mit Behinderungen der
     Sinnesorgane, Rollstuhlbenutzer, schwangere Frauen und Personen in
-    Begleitung von kleinen Kindern.
+    Begleitung von kleinen Kindern;
+
+
+91. „ADN“ die dem Europäischen Übereinkommen vom 26. Mai 2000 über die
+    internationale Beförderung von gefährlichen Gütern auf
+    Binnenwasserstraßen in der Anlage beigefügte Verordnung (BGBl. 2007 II
+    S. 1906, 1908; 2009 II S. 534; 2010 II S. 122, 123, 1183, 1184), die
+    zuletzt durch Artikel 1 der Verordnung vom 17. Dezember 2010 (BGBl.
+    2010 II S. 1550, 1551) geändert worden ist, in der jeweils geltenden
+    Fassung;
+
+
+92. „Sachverständiger“ eine von der zuständigen Behörde oder von einer
+    autorisierten Institution eines der Rheinanliegerstaaten oder Belgiens
+    anerkannte Person, die auf Grund ihrer fachlichen Ausbildung und
+    Erfahrung besondere Kenntnisse auf dem zu prüfenden Gebiet hat, mit
+    den einschlägigen Vorschriften und allgemein anerkannten Regeln der
+    Technik, insbesondere DIN EN-Normen, sachbezogene Regelwerke,
+    technische Regeln anderer Mitgliedstaaten der Europäischen Union,
+    umfassend vertraut ist und die jeweiligen Anlagen oder Einrichtungen
+    prüfen und gutachtlich beurteilen kann;
+
+
+93. „Sachkundiger“ eine auf Grund ihrer fachlichen Ausbildung und
+    Erfahrung über ausreichende Kenntnisse auf dem zu prüfenden Gebiet
+    verfügende Person, die mit den einschlägigen Vorschriften und
+    allgemein anerkannten Regeln der Technik, insbesondere DIN EN-Normen,
+    sachbezogene Regelwerke, technische Regeln anderer Mitgliedstaaten der
+    Europäischen Union, soweit vertraut ist, dass sie die
+    Funktionssicherheit der jeweiligen Anlagen oder Einrichtungen
+    beurteilen kann.
 
 
 
@@ -2139,14 +2304,14 @@ In dieser Verordnung gelten als:
 
 
 
-2.  Darüber hinaus gilt diese Verordnung für alle
+2.  Darüber hinaus gilt dieser Anhang für alle
 
     a)  Schlepp- und Schubboote, die dazu bestimmt sind, Schiffe nach Nummer 1
         oder schwimmende Geräte zu schleppen, zu schieben oder längsseits
         gekuppelt mitzuführen;
 
 
-    b)  Schiffe, die über ein Zulassungszeugnis nach ADNR verfügen;
+    b)  Schiffe, die über ein Zulassungszeugnis nach ADN verfügen;
 
 
     c)  Fahrgastschiffe
@@ -2205,25 +2370,20 @@ Belgien gleichzeitig in Kraft gesetzt und unter der gleichen
 Voraussetzung aufgehoben.
 
 
-#### § 1.07 Dienstanweisungen für die Untersuchungskommissionen und die nach Kapitel 23 zuständigen Behörden
+#### § 1.07 Dienstanweisungen für die Untersuchungskommissionen und die zuständigen Behörden
 
 
 1.  Zur Erleichterung und Vereinheitlichung der Anwendung dieser
     Verordnung kann die Zentralkommission für die Rheinschifffahrt
-    Dienstanweisungen für die Untersuchungskommissionen beschließen.
-    Diese Dienstanweisungen werden den Untersuchungskommissionen zur
-    Kenntnis gebracht.
+    Dienstanweisungen für die Untersuchungskommissionen und die nach
+    diesem Anhang zuständigen Behörden beschließen. Diese
+    Dienstanweisungen werden den Untersuchungskommissionen und den sonst
+    zuständigen Behörden zur Kenntnis gebracht.
 
 
-2.  Zur Erleichterung und Vereinheitlichung der Anwendung des Kapitels 23
-    kann die Zentralkommission für die Rheinschifffahrt Dienstanweisungen
-    für die nach diesem Kapitel zuständigen Behörden beschließen.
-    Diese Dienstanweisungen werden diesen zuständigen Behörden zur
-    Kenntnis gebracht.
-
-
-3.  Die Untersuchungskommissionen und die nach Kapitel 23 zuständigen
-    Behörden sind an diese Dienstanweisungen gebunden.
+2.  Die Untersuchungskommissionen und die zuständigen Behörden sind an
+    diese Dienstanweisungen gebunden, soweit diese in diese Verordnung
+    aufgenommen werden.
 
 
 
@@ -2250,8 +2410,8 @@ Voraussetzung aufgehoben.
         Binnenschifffahrt,
 
 
-    c)  ein Sachverständiger für Nautik mit Schifferpatent, das zum Führen des
-        zu untersuchenden Fahrzeugs berechtigt.
+    c)  ein Sachverständiger für Nautik mit Binnenschifferpatent, das zum
+        Führen des zu untersuchenden Fahrzeugs berechtigt.
 
 
 
@@ -2448,7 +2608,7 @@ c)  in den Fällen der Nummer 1 Buchstabe g für sechs Monate. Es darf nur
 
 
 1.  Jede Namensänderung, jeden Eigentumswechsel, jede neue Eichung des
-    Fahrzeuges sowie jede Änderung der Registrierung oder des Heimatorts
+    Fahrzeugs sowie jede Änderung der Registrierung oder des Heimatorts
     hat der Eigner oder sein Bevollmächtigter einer
     Untersuchungskommission mitzuteilen. Er hat dabei das Schiffsattest
     zur Eintragung der Änderung vorzulegen.
@@ -2501,7 +2661,7 @@ c)  in den Fällen der Nummer 1 Buchstabe g für sechs Monate. Es darf nur
     Bevollmächtigten kann die Untersuchungskommission die Gültigkeitsdauer
     des Schiffsattestes ohne Nachuntersuchung um höchstens ein Jahr
     verlängern. Diese Verlängerung wird schriftlich erteilt und muss sich
-    an Bord des Fahrzeuges befinden.
+    an Bord des Fahrzeugs befinden.
 
 
 3.  Die Untersuchungskommission, die die Nachuntersuchung durchführt, legt
@@ -2657,14 +2817,14 @@ sind.
     entsprechend.
 
 
-3.  Zur Durchführung von Verwaltungsmaßnahmen zur Aufrechthaltung von
+3.  Zur Durchführung von Verwaltungsmaßnahmen zur Aufrechterhaltung der
     Sicherheit und Leichtigkeit des Schiffsverkehrs sowie zur Erfüllung
-    der §§ 2.02 bis 2.15, 2.18 und der §§ 5 und 9 bis 14 dieser Verordnung
-    wird den zuständigen Behörden der Rheinuferstaaten oder Belgiens, der
-    Mitgliedstaaten der Europäischen Union und, sofern ein gleichwertiges
-    Datenschutzniveau sichergestellt ist, den zuständigen Behörden von
-    Drittstaaten aufgrund von Verwaltungsvereinbarungen die Einsichtnahme
-    in das Verzeichnis nach Anlage C gewährt.
+    der §§ 2.02 bis 2.15 dieses Anhangs und der §§ 5 und 9 bis 14 dieser
+    Verordnung wird den zuständigen Behörden der Rheinuferstaaten oder
+    Belgiens, der Mitgliedstaaten der Europäischen Union und, sofern ein
+    gleichwertiges Datenschutzniveau sichergestellt ist, den zuständigen
+    Behörden von Drittstaaten auf Grund von Verwaltungsvereinbarungen die
+    Einsichtnahme in das Verzeichnis nach Anlage C gewährt.
 
 
 
@@ -2694,10 +2854,10 @@ sind.
 
 3.  Einem Fahrzeug kann nur eine einzige europäische Schiffsnummer erteilt
     werden. Die europäische Schiffsnummer wird nur ein Mal vergeben und
-    bleibt während der gesamten Lebensdauer des Fahrzeuges bestehen.
+    bleibt während der gesamten Lebensdauer des Fahrzeugs bestehen.
 
 
-4.  Der Eigner des Fahrzeuges oder sein Bevollmächtigter muss bei der
+4.  Der Eigner des Fahrzeugs oder sein Bevollmächtigter muss bei der
     zuständigen Behörde die Erteilung der europäischen Schiffsnummer
     beantragen. Ebenso ist er dafür verantwortlich, die im Schiffsattest
     eingetragene europäische Schiffsnummer auf dem Fahrzeug anbringen zu
@@ -2715,7 +2875,7 @@ sind.
     alle anderen für die Erteilung der europäischen Schiffsnummer
     zuständigen Behörden, die in dem Verzeichnis nach Nummer 5 aufgeführt
     sind, über jede von ihr neu erteilte europäische Schiffsnummer sowie
-    über die zur Identifikation des Fahrzeuges notwendigen Daten gemäß
+    über die zur Identifikation des Fahrzeugs notwendigen Daten gemäß
     Anlage P zu unterrichten. Diese Daten können den zuständigen Behörden
     der Rheinuferstaaten oder Belgiens, der Mitgliedstaaten der
     Europäischen Union und, sofern ein gleichwertiges Datenschutzniveau
@@ -2801,12 +2961,10 @@ sind.
         entfallen.
 
 
-    b)  Bei Untersuchungen nach § 2.09 sind die Mindestdicken der Boden-,
-        Kimm- und Seitenbeplattung der Außenhaut nach folgendem Verfahren zu
-        überprüfen:
-        Bei Schiffen, die aus Stahl gebaut sind, ist als Mindestdicke t
-        min                          der größere der nach folgenden Formeln
-        ermittelten Werte zu nehmen:
+    b)  Bei Untersuchungen nach § 2.09 müssen bei Schiffen, die aus Stahl
+        gebaut sind, die Mindestdicken der Boden-, Kimm- und Seitenbeplattung
+        mindestens dem größeren der nach folgenden Formeln ermittelten Werte
+        entsprechen:
 
         1.  Für Schiffe mit L von mehr als 40 m: t
             min                                = f · b · c (2,3 + 0,04 L) [mm];
@@ -3394,13 +3552,18 @@ abgeladen sein.“
 
 #### § 5.01 Allgemeines
 
-Schiffe und Verbände müssen über ausreichende Fahr- und
-Manövriereigenschaften verfügen:
-Schiffe ohne Maschinenantrieb, die dazu bestimmt sind, geschleppt zu
-werden, müssen den besonderen Anforderungen der
-Untersuchungskommission entsprechen;
-Schiffe mit Maschinenantrieb und Verbände müssen den §§ 5.02 bis 5.10
-entsprechen.
+
+1.  Schiffe ohne Maschinenantrieb, die dazu bestimmt sind, geschleppt zu
+    werden, müssen den besonderen Anforderungen der
+    Untersuchungskommission an die Fahr- und Manövriereigenschaften
+    entsprechen.
+
+
+2.  Schiffe mit Maschinenantrieb und Verbände müssen den §§ 5.02 bis 5.10
+    entsprechen.
+
+
+
 
 
 #### § 5.02 Probefahrten
@@ -3785,7 +3948,7 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 
 
-#### § 6.09 Abnahme und wiederkehrende Prüfungen
+#### § 6.09 Prüfung
 
 
 1.  Die ordnungsgemäße Installation der Steuereinrichtung ist von einer
@@ -3906,6 +4069,9 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 2.  Der Sichtschatten vor dem Bug des leeren Schiffes mit halben Vorräten
     und ohne Ballast darf für den Rudergänger 250 m nicht überschreiten.
+    Zur weiteren Verkürzung des Sichtschattens dürfen nur geeignete
+    Hilfsmittel verwendet werden. Bei der Untersuchung dürfen diese
+    Hilfsmittel nicht berücksichtigt werden.
 
 
 3.  Das freie Blickfeld von dem Ort, an dem sich der Rudergänger
@@ -3913,18 +4079,37 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     Davon muss ein Blickfeld von mindestens 140° innerhalb des vorderen
     Halbkreises liegen. In der üblichen Sichtachse des Rudergängers dürfen
     sich keine Fensterpfosten, Stützen oder Aufbauten befinden. Ist auch
-    bei einem freien Blickfeld von 240° oder mehr eine ausreichende freie
+    bei einem freien Blickfeld von 240° oder mehr eine ausreichend freie
     Sicht nach hinten nicht gewährleistet, kann die
     Untersuchungskommission zusätzliche Maßnahmen verlangen, insbesondere
-    den Einbau von optischen Hilfsmitteln.
+    den Einbau geeigneter Hilfsmittel. Die Höhe der Unterkante der
+    Seitenfenster muss möglichst gering und die Höhe der Oberkante der
+    Seitenfenster und heckseitigen Fenster möglichst groß sein. Bei der
+    Feststellung, ob die Anforderungen dieses Paragraphen an die freie
+    Sicht aus dem Steuerhaus erfüllt werden, ist davon auszugehen, dass
+    die Augenhöhe des Rudergängers 1,65 m über dem Fußboden des
+    Steuerhauses am Steuerstand beträgt.
 
 
-4.  Die klare Sicht durch die Frontfenster muss durch geeignete Mittel bei
+4.  Die Oberkante der bugseitigen Steuerhausfenster muss hoch genug sein,
+    um einer Person am Steuerstand freie Sicht voraus zu gewähren.
+
+    Diese Anforderung gilt als erfüllt, wenn eine Person am Steuerstand
+    mit einer Augenhöhe von 1,80 m freie Sicht hat, die noch mindestens
+    10° über die Horizontalebene auf Augenhöhe reicht.
+
+
+5.  Die klare Sicht durch die Frontfenster muss durch geeignete Mittel bei
     jeder Witterung gewährleistet sein.
 
 
-5.  In Steuerhäusern verwendete Fensterscheiben müssen eine
-    Mindestlichtdurchlässigkeit von 75 % haben.
+6.  Im Steuerhaus verwendete Fensterscheiben müssen aus Sicherheitsglas
+    sein und eine Mindestlichtdurchlässigkeit von 75 % haben. Um Reflexe
+    zu vermeiden, müssen die vorderen Steuerhausfenster reflexfrei oder so
+    eingesetzt sein, dass Reflexe effektiv ausgeschlossen sind. Die
+    Anforderung des zweiten Satzes gilt als erfüllt, wenn die Fenster
+    gegen die Vertikalebene geneigt sind und oben um mindestens 10° und
+    höchstens 25° nach außen gestellt sind.
 
 
 
@@ -4049,15 +4234,15 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 9.  Bei Ruderpropeller-, Wasserstrahl-, Zykloidalpropeller- und
     Bugstrahlanlagen sind gleichwertige Bedienungs-, Anzeige- und
-    Überwachungseinrichtungen zulässig.Die Anforderungen nach Nummer 1 bis
-    8 sind sinngemäß und unter Beachtung der besonderen Eigenschaften und
-    der gewählten Anordnung der genannten aktiven Steuer- und
+    Überwachungseinrichtungen zulässig. Die Anforderungen nach Nummer 1
+    bis 8 sind sinngemäß und unter Beachtung der besonderen Eigenschaften
+    und der gewählten Anordnung der genannten aktiven Steuer- und
     Antriebsorgane zu erfüllen. In Analogie zu Nummer 2 muss für jede
     Anlage die Bedienung mittels eines Hebels erfolgen, der sich auf einem
     Kreisbogen zu einer senkrechten, zur Richtung der Schubkraft der
-    Anlage annähernd parallelen Ebene bewegt. Aus der Position des Hebels
-    muss für jede Anlage die Richtung der auf das Schiff wirkenden
-    Schubkraft erkennbar sein.
+    Anlage annähernd parallelen Ebene bewegt. Aus der Stellung des Hebels
+    muss die Richtung der auf das Schiff wirkenden Schubkraft erkennbar
+    sein.
     Sofern Ruderpropeller- oder Zykloidalpropelleranlagen nicht mittels
     Hebel bedient werden, kann die Untersuchungskommission Abweichungen
     von Nummer 2 zulassen. Die Abweichungen sind von der
@@ -4071,9 +4256,15 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 #### § 7.05 Signallichter, Licht- und Schallzeichen
 
 
-1.  Signallichter müssen den Anforderungen der Vorschriften über die Farbe
-    und Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten
-    in der Rheinschifffahrt entsprechen.
+1.  Signallichter und deren Gehäuse und Zubehör müssen das
+    Zulassungskennzeichen tragen, das nach § 5 Absatz 3 in Verbindung mit
+    § 2 Definition 11 der Schiffsausrüstungsverordnung vom 1. Oktober 2008
+    (BGBl. I S. 1913) vorgeschrieben ist. Eine Kennzeichnung auf Grund
+    eines Artikel 11 der Richtlinie 96/98/EG des Rates vom 20. Dezember
+    1996 über Schiffsausrüstung (ABl. L 46 vom 17.2.1997, S. 25), die
+    zuletzt durch die Richtlinie 2011/75/EU (ABl. L 239 vom 15.9.2011, S.
+    1) geändert worden ist, umsetzenden Rechtsaktes eines Mitgliedstaates
+    der Europäischen Union gilt als gleichwertig.
 
 
 2.  Zur Kontrolle der Signallichter müssen Stromanzeigelampen oder
@@ -4103,17 +4294,24 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 
 
-#### § 7.06 Navigationsgeräte
+#### § 7.06 Informations- und Navigationsgeräte
 
 
-1.  Radargerät und Wendeanzeiger müssen einem von der zuständigen Behörde
-    zugelassenen Typ entsprechen. Die Vorschriften für den Einbau und die
-    Funktionsprüfung von Navigationsradaranlagen und Wendeanzeigern in der
-    Rheinschifffahrt müssen eingehalten sein. Inland ECDIS Geräte, die im
-    Navigationsmodus betrieben werden können, gelten als Radargeräte. Sie
-    müssen zusätzlich die Anforderungen des Inland ECDIS Standards
-    erfüllen. Der Wendeanzeiger muss vor dem Rudergänger in dessen
-    Blickfeld angebracht sein.
+1.  Navigationsradaranlagen und Wendeanzeiger müssen den Anforderungen der
+    Anlage M Teil I und Teil II oder den Anforderungen des Anhangs IX Teil
+    I und Teil II entsprechen. Die Einhaltung der Anforderungen wird durch
+    eine von der zuständigen Behörde erteilte Typgenehmigung festgestellt.
+    Inland-ECDIS-Geräte, die im Navigationsmodus betrieben werden können,
+    gelten als Navigationsradaranlagen. Sie müssen zusätzlich die
+    Anforderungen des Inland-ECDIS-Standards in der am Tag der Erteilung
+    der Typgenehmigung gültigen Ausgabe erfüllen. Die Vorschriften für den
+    Einbau und die Funktionsprüfung von Navigationsradaranlagen und
+    Wendeanzeigern nach Anlage M Teil III müssen eingehalten sein. Der
+    Wendeanzeiger muss vor dem Rudergänger in dessen Blickfeld angebracht
+    sein. Die Verzeichnisse der nach Anlage M oder auf Grund als
+    gleichwertig anerkannter Typgenehmigungen zugelassenen
+    Navigationsradaranlagen und Wendeanzeiger werden von der
+    Zentralkommission veröffentlicht.
 
 
 2.  Bei Radar-Einmannsteuerständen
@@ -4135,13 +4333,14 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 
 3.  Inland AIS Geräte müssen einem von der zuständigen Behörde eines
-    Rheinuferstaates oder Belgiens auf Grundlage des Test Standards
-    (Beschluss 2007-I-15) zugelassenen Typ entsprechen.
-    Die Vorschriften für den Einbau und die Funktionsprüfung von Inland
-    AIS Geräten nach Anlage N Teil I müssen eingehalten sein.
-    Der Teststandard sowie die Verzeichnisse der nach Anlage N oder
+    Rheinuferstaates oder Belgiens auf der Grundlage des Test Standards
+    (Beschluss 2007-I-15), Edition 2.0 (www.ccr-
+    zkr.org/files/documents/ris/ais20\_d.pdf), zugelassenen Typ
+    entsprechen. Die Vorschriften für den Einbau und die Funktionsprüfung
+    von Inland AIS Geräten nach Anlage N Teil I müssen eingehalten sein.
+    Der Test Standard sowie die Verzeichnisse der nach Anlage N oder
     aufgrund als gleichwertig anerkannter Typgenehmigungen zugelassenen
-    AIS Geräte werden von der Zentralkommission veröffentlicht.“
+    AIS Geräte werden von der Zentralkommission veröffentlicht.
 
 
 
@@ -4261,9 +4460,31 @@ Schiffsattest einzutragen:
     Regeln der Technik ausgelegt, ausgeführt und eingebaut sein.
 
 
-2.  Überwachungsbedürftige Anlagen, insbesondere Dampfkessel, andere
-    Druckbehälter sowie deren Zubehör und Aufzüge müssen den Vorschriften
-    eines der Rheinuferstaaten oder Belgiens entsprechen.
+2.  Druckbehälter für den Schiffsbetrieb sind
+
+    a)  vor der ersten Inbetriebnahme,
+
+
+    b)  vor der Wiederinbetriebnahme nach einer Änderung oder Instandsetzung
+        und
+
+
+    c)  regelmäßig, mindestens jedoch alle fünf Jahre,
+
+
+
+    durch einen Sachverständigen auf ihren betriebssicheren Zustand zu
+    prüfen. Die Prüfung umfasst eine innere und äußere Prüfung. Bei
+    Druckluftbehältern, die innen nicht einwandfrei besichtigt werden
+    können, oder deren einwandfreier Zustand bei der inneren Besichtigung
+    nicht eindeutig erkannt wurde, ist zusätzlich ein anderes
+    zerstörungsfreies Prüfverfahren oder eine Wasserdruckprüfung
+    vorzunehmen. Über die Prüfung ist eine vom Sachverständigen
+    unterzeichnete Bescheinigung auszustellen, aus der das Datum der
+    Prüfung ersichtlich ist. Andere überwachungsbedürftige Anlagen,
+    insbesondere Dampfkessel, andere Druckbehälter sowie deren Zubehör und
+    Aufzüge, müssen den Vorschriften eines der Rheinuferstaaten oder
+    Belgiens entsprechen.
 
 
 3.  Es dürfen nur Verbrennungsmotoren eingebaut sein, die mit Brennstoffen
@@ -4736,65 +4957,7 @@ Schiffsattest einzutragen:
 
 
 
-#### § 8a.07 Anerkennung gleichwertiger anderer Normen
-
-
-1.  Nach Maßgabe der folgenden Tabelle gelten Typgenehmigungen
-    entsprechend den Richtlinien der Europäischen Gemeinschaft als
-    gleichwertig mit den Typgenehmigungen entsprechend den Bedingungen und
-    Bestimmungen dieses Kapitels:
-
-    *        *   **Motoranwendung**
-
-        *   **Richtlinie**
-
-        *   **Motorkategorie**
-
-
-    *        *   Schiffshauptantrieb
-
-        *   2004/26/EG
-
-        *   V
-
-
-    *        *   Hilfsmotor mit konstanter Drehzahl
-
-        *   2004/26/EG
-
-        *   V
-
-
-    *        *   97/68/EG
-
-        *   H, I, J, K
-
-
-    *        *   D, E, F, G
-
-
-    *        *   Hilfsmotor mit variabler Drehzahl und variabler Last
-
-        *   2004/26/EG
-
-        *   V
-
-
-    *        *   H, I, J, K
-            L, M, N,P
-            Q, R
-
-
-
-
-
-2.  Die Zentralkommission für die Rheinschifffahrt kann die
-    Gleichwertigkeit von anderen entsprechenden Normen in internationalen
-    Vorschriften oder in Vorschriften der Rheinuferstaaten oder Belgiens
-    oder dritter Staaten mit den Bedingungen und Bestimmungen dieses
-    Kapitels für die Typgenehmigung von Motoren anerkennen.
-
-
+#### § 8a.07 (ohne Inhalt)
 
 
 
@@ -5035,6 +5198,313 @@ Schiffsattest einzutragen:
 
 6.  Isolierungen von Maschinenteilen müssen § 3.04 Nr. 3 Absatz 2
     entsprechen.
+
+
+
+
+
+### Kapitel 8b - Sonderbestimmungen für Fahrzeuge, auf denen Antriebs- oder Hilfssysteme installiert sind, die mit Brennstoffen mit einem Flammpunkt von 55° C oder darunter betrieben werden
+
+
+#### § 8b.01 Allgemeines
+
+
+1.  Für die Zwecke dieses Kapitels bezeichnet der Begriff „Antriebs- oder
+    Hilfssysteme“ alle Systeme, die Brennstoff nutzen, einschließlich
+
+    a)  Brennstofftanks und Tankanschlüsse,
+
+
+    b)  Gasaufbereitungssysteme,
+
+
+    c)  Leitungen und Ventile,
+
+
+    d)  Motoren und Turbinen,
+
+
+    e)  Kontroll-, Überwachungs- und Sicherheitssysteme.
+
+
+
+
+
+2.  Abweichend von § 8.01 Nummer 3 und § 8.05 Nummer 1, 6, 9, 11 und 12
+    und den Bestimmungen von Kapitel 8a dürfen auf Fahrzeugen Antriebs-
+    und Hilfssysteme installiert werden, die Brennstoffe mit einem
+    Flammpunkt von 55° C oder darunter nutzen, sofern die für diese
+    Brennstoffe in diesem Kapitel und der Anlage T festgelegten
+    Anforderungen eingehalten wurden.
+
+
+3.  Antriebs- und Hilfssysteme nach Nummer 2 müssen unter Aufsicht der
+    Untersuchungskommission gebaut und installiert sein.
+
+
+4.  Die Untersuchungskommission kann sich zur Erfüllung von Aufgaben nach
+    diesem Kapitel eines Technischen Dienstes nach § 8b.07 bedienen.
+
+
+5.  Vor der ersten Inbetriebnahme eines Antriebs- oder Hilfssystems nach
+    Nummer 2 müssen der Untersuchungskommission folgende Unterlagen
+    vorgelegt werden:
+
+    a)  eine Risikobewertung nach Anlage T,
+
+
+    b)  eine Beschreibung des Antriebs- oder Hilfssystems,
+
+
+    c)  Pläne des Antriebs- oder Hilfssystems,
+
+
+    d)  ein Plan über die Druck- und Temperaturverteilung innerhalb des
+        Systems,
+
+
+    e)  ein Betriebshandbuch mit sämtlichen anwendbaren Verfahren, das für den
+        praktischen Einsatz des Systems bestimmt ist,
+
+
+    f)  eine Sicherheitsrolle nach § 8b.03,
+
+
+    g)  eine Kopie der Bescheinigung über die Prüfung nach § 8b.02 Nummer 4.
+
+
+
+
+
+6.  Eine Kopie der unter Nummer 5 genannten Dokumente ist an Bord
+    mitzuführen.
+
+
+
+
+
+#### § 8b.02 Prüfung
+
+
+1.  Antriebs- und Hilfssysteme, die mit Brennstoffen mit einem Flammpunkt
+    von 55° C oder darunter betrieben werden, müssen
+
+    a)  vor der ersten Inbetriebnahme,
+
+
+    b)  nach jeder Änderung oder Instandsetzung,
+
+
+    c)  regelmäßig mindestens jedes Jahr
+
+
+
+
+    von einer Untersuchungskommission geprüft werden. Dabei müssen die
+    einschlägigen Vorgaben der Hersteller berücksichtigt werden.
+
+
+2.  Prüfungen nach Nummer 1 Buchstabe a und c müssen mindestens Folgendes
+    umfassen:
+
+    a)  Kontrolle auf Übereinstimmung der Antriebs- und Hilfssysteme mit den
+        genehmigten Plänen und bei wiederkehrenden Prüfungen, ob Änderungen an
+        den Antriebs- und Hilfssystemen vorgenommen wurden,
+
+
+    b)  gegebenenfalls eine Funktionsprüfung der Antriebs- und Hilfssysteme
+        mit allen betrieblichen Möglichkeiten,
+
+
+    c)  Sicht- und Dichtheitsprüfung der Systemkomponenten, insbesondere
+        Ventile, Leitungen, Schläuche, Zylinder, Pumpen und Filter,
+
+
+    d)  Sichtprüfung der elektrischen und elektronischen Anlagenteile,
+
+
+    e)  Prüfung der Kontroll-, Überwachungs- und Sicherheitssysteme.
+
+
+
+
+
+3.  Die unter Nummer 1 Buchstabe b genannten Prüfungen müssen die
+    betroffenen Teile nach Nummer 2 umfassen.
+
+
+4.  Über jede Prüfung nach Nummer 1 ist eine Bescheinigung auszustellen,
+    aus der das Datum der Prüfung ersichtlich ist.
+
+
+
+
+
+#### § 8b.03 Sicherheitsorganisation
+
+
+1.  Auf Fahrzeugen, auf denen Antriebs- oder Hilfssysteme installiert
+    sind, die mit Brennstoffen mit einem Flammpunkt von 55° C oder
+    darunter betrieben werden, muss eine Sicherheitsrolle vorhanden sein.
+    Zur Sicherheitsrolle gehören Sicherheitsanweisungen nach Nummer 2 und
+    ein Sicherheitsplan nach Nummer 3.
+
+
+2.  Diese Sicherheitsanweisungen müssen mindestens folgende Informationen
+    umfassen:
+
+    a)  Notabschaltung des Systems,
+
+
+    b)  zu ergreifende Maßnahmen im Falle einer unbeabsichtigten Freisetzung
+        von flüssigem oder gasförmigem Brennstoff, zum Beispiel beim Bunkern,
+
+
+    c)  zu ergreifende Maßnahmen im Falle eines Feuers oder sonstiger
+        Zwischenfälle an Bord,
+
+
+    d)  zu ergreifende Maßnahmen im Falle einer Kollision,
+
+
+    e)  Einsatz der Sicherheitsausrüstung,
+
+
+    f)  Alarmierung,
+
+
+    g)  Evakuierungsverfahren.
+
+
+
+
+
+3.  Der Sicherheitsplan muss mindestens folgende Informationen enthalten:
+
+    a)  gefährdete Bereiche,
+
+
+    b)  Fluchtwege, Notausgänge und gasdichte Räume,
+
+
+    c)  Rettungsmittel und Beiboote,
+
+
+    d)  Feuerlöscher sowie Feuerlösch- und Sprühanlagen,
+
+
+    e)  Alarmanlagen,
+
+
+    f)  Bedienungsorgane der Notabschaltvorrichtungen,
+
+
+    g)  Feuerklappen,
+
+
+    h)  Notstromquellen,
+
+
+    i)  Bedienungsorgane der Lüftungsanlagen,
+
+
+    j)  Absperrorgane der Brennstoffleitungen,
+
+
+    k)  Sicherheitseinrichtungen.
+
+
+
+
+
+4.  Die Sicherheitsrolle muss
+
+    a)  einen Sichtvermerk der Untersuchungskommission tragen und
+
+
+    b)  an einer oder mehreren geeigneten Stelle(n) an Bord deutlich sichtbar
+        aufgehängt sein.
+
+
+
+
+
+
+
+
+#### § 8b.04 Umweltschutzanforderungen
+
+
+1.  Emissionen aus Motoren und Turbinen dürfen die einschlägigen
+    Grenzwerte nach § 8a.02 nicht überschreiten.
+
+
+2.  Bei Antriebs- und Hilfssystemen, die Erdgas nutzen, beziehen sich die
+    Werte auf Kohlenwasserstoffe mit Ausnahme von Methan (CH
+    4                   ).
+
+
+3.  Die Einhaltung der Bestimmungen nach Nummer 1 ist der
+    Untersuchungskommission mittels eines Berichts über die
+    Prüfstandsmessung der gasförmigen Emissionen und der
+    Partikelemissionen nach dem Stand der Technik nachzuweisen.
+
+
+4.  Die Treibhausgasemissionen müssen durch geeignete Maßnahmen auf ein
+    Minimum reduziert werden. Die Maßnahmen sind in der Dokumentation nach
+    § 8b.01 Nummer 5 Buchstabe b anzugeben.
+
+
+
+
+
+#### § 8b.05 Kennzeichnung
+
+Betriebsräume und Systemkomponenten müssen mit einer Kennzeichnung
+versehen sein, aus der klar hervorgeht, für welche Brennstoffe sie
+verwendet werden.
+
+
+#### § 8b.06 Unabhängiger Antrieb
+
+Das Fahrzeug muss im Falle einer automatischen Abschaltung des
+Antriebssystems oder eines Teils des Antriebssystems sich aus eigener
+Kraft fortbewegen können.
+
+
+#### § 8b.07 Technische Dienste
+
+
+1.  Die Technischen Dienste müssen der Europäischen Norm DIN EN ISO
+    17020:2012 genügen.
+
+
+2.  Hersteller und Vertreiber von Antriebs- oder Hilfssystemen oder von
+    Teilen dieser Systeme können nicht als Technische Dienste anerkannt
+    werden.
+
+
+3.  Die Kenntnisse des Technischen Dienstes müssen den jeweiligen
+    Anforderungen aus Anlage T entsprechen.
+
+
+4.  Die Überwachung und Prüfung nach § 8b.01 und 8b.02 kann von
+    unterschiedlichen Technischen Diensten ausgeführt werden, sofern
+    sämtliche in Nummer 3 beschriebenen Kenntnisse in dem Prozess
+    berücksichtigt werden.
+
+
+5.  Technische Dienste außerhalb der Rheinuferstaaten und Belgiens können
+    nur auf Empfehlung der Zentralkommission für die Rheinschifffahrt
+    anerkannt werden.
+
+
+6.  Die Rheinuferstaaten und Belgien teilen dem Sekretariat der
+    Zentralkommission für die Rheinschifffahrt die Namen und Anschriften
+    der Untersuchungskommissionen und Technischen Dienste mit, die für die
+    Durchführung von Aufgaben nach diesem Kapitel verantwortlich sind. Das
+    Sekretariat veröffentlicht die Angaben auf der Website der
+    Zentralkommission für die Rheinschifffahrt.
 
 
 
@@ -6668,7 +7138,7 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     Bugankern ausgerüstet sein, deren Gesamtmasse P nach folgender Formel
     zu berechnen ist:
 
-    *        *   P = k · B ·T [kg].
+    *        *   P = k · B · T [kg].
 
 
 
@@ -6718,7 +7188,7 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     sind, ausgenommen Schubboote, müssen mit Bugankern ausgerüstet sein,
     deren Gesamtmasse P nach folgender Formel zu berechnen ist:
 
-    *        *   P = k · B ·T [kg].
+    *        *   P = k · B · T [kg].
 
 
 
@@ -6874,8 +7344,9 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     ergibt, ist die Mindestbruchkraft der Ankerkette nach der vorhandenen
     größeren Masse zu ermitteln.
     Sind solche schwereren Anker und die dazugehörigen stärkeren
-    Ankerketten an Bord, sind die Sollmassen und Mindestbruchkräfte nach
-    den Nummern 1 bis 6 und 11 in das Schiffsattest einzutragen.
+    Ankerketten an Bord, sind nur die Sollwerte für die Ankermassen und
+    für die Mindestbruchkräfte nach den Nummern 1 bis 6 und 11 in das
+    Schiffsattest einzutragen.
 
 
 13. Verbindungsteile (Wirbel) zwischen Anker und Kette müssen einer
@@ -6905,20 +7376,38 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
 
     c)  vom Bordnetz unabhängige Ersatzlichter für die vorgeschriebenen
-        Lichter für das Stilliegen;
+        Lichter für das Stillliegen.
 
 
-    d)  ein gekennzeichneter feuerbeständiger Behälter mit Deckel zur Aufnahme
-        ölhaltiger Putzlappen;
+
+    Außerdem müssen mindestens die folgenden Behälter vorhanden sein:
+
+    a)  gekennzeichnete Behälter für Hausmüll;
 
 
-    e)  je ein gekennzeichneter feuerbeständiger Behälter mit Deckel zum
-        Sammeln der übrigen festen Sonderabfälle und ein gekennzeichneter
-        feuerbeständiger Behälter mit Deckel zum Sammeln der übrigen flüssigen
-        Sonderabfälle nach Rheinschifffahrtspolizeiverordnung;
+    b)  je ein gekennzeichneter Behälter aus Stahl oder einem anderen
+        stoßfesten und nicht brennbaren Werkstoff mit dicht schließendem
+        Deckel von ausreichender Größe, mindestens aber 10 l Inhalt, zur
+        Aufnahme der
+
+        aa) ölhaltigen Putzlappen,
 
 
-    f)  ein gekennzeichneter feuerbeständiger Behälter mit Deckel für Slops.
+        bb) festen Sonderabfälle,
+
+
+        cc) flüssigen Sonderabfälle,
+
+
+        dd) Slops,
+
+
+        ee) sonstigen fetthaltigen Schiffsabfälle.
+
+
+
+        Die Behälter nach den Doppelbuchstaben cc und dd sind nur
+        erforderlich, sofern diese Abfälle anfallen.
 
 
 
@@ -7012,7 +7501,8 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
 
 1.  An folgenden Stellen muss je ein tragbarer Feuerlöscher entsprechend
-    der Europäischen Norm EN 3 : 1996 vorhanden sein:
+    den Europäischen Normen DIN EN 3-7:2007 und DIN EN 3-8:2007 vorhanden
+    sein:
 
     a)  im Steuerhaus;
 
@@ -7029,8 +7519,9 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     d)  bei jedem Eingang zu Maschinen- und Kesselräumen;
 
 
-    e)  an geeigneter Stelle im Unterdecksteil der Maschinenräume bei
-        Maschinenleistungen von zusammen mehr als 100 kW;
+    e)  an geeigneten Stellen im Unterdecksteil von Maschinen- und
+        Kesselräumen, so angeordnet, dass der Weg zu einem Feuerlöschgerät von
+        keinem Punkt des Raumes aus mehr als 10 Meter beträgt.
 
 
 
@@ -7039,8 +7530,14 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 2.  Für die in Nummer 1 geforderten tragbaren Feuerlöscher dürfen nur
     Pulverlöscher mit einer Füllmasse von mindestens 6 kg oder andere
     tragbare Feuerlöscher gleicher Löschkapazität verwendet werden. Sie
-    müssen für die Brandklassen A, B und C sowie für das Löschen von
-    Bränden in elektrischen Anlagen bis 1 000 V geeignet sein.
+    müssen für die Brandklassen A, B und C geeignet sein. Abweichend davon
+    sind auf Schiffen, auf denen keine Flüssiggasanlagen installiert sind,
+    Sprühschaumfeuerlöscher mit bis – 20º C frostsicheren
+    wasserfilmbildenden Schaummitteln (AFFF-AR) zugelassen, auch wenn sie
+    nicht für die Brandklasse C geeignet sind. Die Mindestfüllmenge dieser
+    Feuerlöscher muss 9 Liter betragen. Sämtliche Feuerlöscher müssen sich
+    für das Löschen von Bränden in elektrischen Anlagen bis 1 000 Volt
+    eignen.
 
 
 3.  Zusätzlich dürfen Pulver-, Nass- oder Schaumfeuerlöscher verwendet
@@ -7056,10 +7553,10 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     vorgehalten und verwendet werden.
 
 
-5.  Tragbare Feuerlöscher müssen mindestens alle zwei Jahre geprüft
-    werden. Über die Prüfung ist eine vom Prüfer unterzeichnete
-    Bescheinigung auszustellen, aus der das Datum der Prüfung ersichtlich
-    ist.
+5.  Tragbare Feuerlöscher sind mindestens alle zwei Jahre von einem
+    Sachkundigen zu prüfen. Über die Prüfung ist eine vom Sachkundigen
+    unterzeichnete Kennzeichnung am Feuerlöscher anzubringen, aus der das
+    Datum der Prüfung ersichtlich ist.
 
 
 6.  Sind tragbare Feuerlöscher verdeckt aufgestellt, muss die Abdeckung
@@ -7102,30 +7599,33 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
 6.  Die Anlagen sind
 
-    a)  vor Inbetriebnahme;
+    a)  vor der ersten Inbetriebnahme,
 
 
-    b)  vor Wiederinbetriebnahme nach Auslösung;
+    b)  vor der Wiederinbetriebnahme nach Auslösung,
 
 
-    c)  nach Änderung oder Instandsetzung;
+    c)  vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+        Instandsetzung und
 
 
-    d)  regelmäßig mindestens alle zwei Jahre
+    d)  regelmäßig, mindestens jedoch alle zwei Jahre,
 
 
 
-    durch einen Sachverständigen zu prüfen.
+    durch einen Sachverständigen zu prüfen. Prüfungen nach Buchstabe d
+    können auch von einem Sachkundigen einer Fachfirma für
+    Feuerlöschanlagen durchgeführt werden.
 
 
-7.  Bei der Prüfung nach Nummer 6 hat der Sachverständige zu prüfen, ob
-    die Anlagen den Anforderungen dieses Paragraphen entsprechen.
-    Die Prüfung hat mindestens zu umfassen:
+7.  Bei der Prüfung nach Nummer 6 hat der Sachverständige oder der
+    Sachkundige zu prüfen, ob die Anlagen den Anforderungen dieses
+    Paragraphen entsprechen. Die Prüfung hat mindestens zu umfassen:
 
-    a)  äußere Inspektion der gesamten Anlage;
+    a)  äußere Inspektion der gesamten Anlage,
 
 
-    b)  Kontrolle der Funktionsfähigkeit der Sicherheitsanlagen und der Düsen;
+    b)  Kontrolle der Funktionsfähigkeit der Sicherheitsanlagen und der Düsen,
 
 
     c)  Kontrolle des Druckbehälter-Pumpen-Systems.
@@ -7134,9 +7634,9 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
 
 
-8.  Über die Prüfung ist eine vom Sachverständigen unterzeichnete
-    Bescheinigung auszustellen, aus der das Datum der Prüfung ersichtlich
-    ist.
+8.  Über die Prüfung ist eine vom Sachverständigen oder Sachkundigen
+    unterzeichnete Bescheinigung auszustellen, aus der das Datum der
+    Prüfung ersichtlich ist.
 
 
 9.  Die Anzahl der vorhandenen Anlagen ist im Schiffsattest zu vermerken.
@@ -7394,24 +7894,27 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
     b)  Die Anlage ist
 
-        aa) vor Inbetriebnahme;
+        aa) vor der ersten Inbetriebnahme,
 
 
-        bb) vor Wiederinbetriebnahme nach Auslösung;
+        bb) vor der Wiederinbetriebnahme nach Auslösung,
 
 
-        cc) nach Änderung oder Instandsetzung;
+        cc) vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+            Instandsetzung und
 
 
-        dd) regelmäßig mindestens alle zwei Jahre
+        dd) regelmäßig, mindestens jedoch alle zwei Jahre,
 
 
 
-        durch einen Sachverständigen zu prüfen.
+        durch einen Sachverständigen zu prüfen. Prüfungen nach Doppelbuchstabe
+        dd können auch von einem Sachkundigen einer Fachfirma für
+        Feuerlöschanlagen durchgeführt werden.
 
 
-    c)  Bei der Prüfung hat der Sachverständige zu prüfen, ob die Anlage den
-        Anforderungen dieses Kapitels entspricht.
+    c)  Bei der Prüfung hat der Sachverständige oder der Sachkundige zu
+        prüfen, ob die Anlage den Anforderungen dieses Paragraphen entspricht.
 
 
     d)  Die Prüfung hat mindestens zu umfassen:
@@ -7441,9 +7944,9 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
 
 
-    e)  Über die Prüfung ist eine vom Sachverständigen unterzeichnete
-        Bescheinigung auszustellen, aus der das Datum der Prüfung ersichtlich
-        ist.
+    e)  Über die Prüfung ist eine vom Sachverständigen oder Sachkundigen
+        unterzeichnete Bescheinigung auszustellen, aus der auch das Datum der
+        Prüfung ersichtlich ist.
 
 
     f)  Die Anzahl der fest installierten Feuerlöschanlagen ist im
@@ -7741,7 +8244,7 @@ zulässig.
 #### § 11.02 Schutz vor Sturz und Absturz
 
 
-1.  Decks und Gangborde müssen eben und frei von Stolperstellen sein;
+1.  Decks und Gangborde müssen eben und frei von Stolperstellen sein.
     Wasser darf sich auf ihnen nicht ansammeln können.
 
 
@@ -7754,23 +8257,73 @@ zulässig.
     sein.
 
 
-4.  Außenkanten der Decks sowie solche Arbeitsbereiche, bei denen die
-    Fallhöhe mehr als 1 m betragen kann, müssen mit Schanzkleidern oder
-    Lukensüllen von jeweils mindestens 0,70 m Höhe oder mit Geländern
-    entsprechend der europäischen Norm EN 711 : 1995 versehen sein, die
-    aus Handlauf, Zwischenzug in Kniehöhe und Fußleiste bestehen. Bei
-    Gangborden muss eine Fußleiste und ein durchlaufender Handlauf am
-    Lukensüll vorhanden sein. Sind Gangbordgeländer vorhanden, die nicht
-    umlegbar sind, kann auf den Handlauf am Lukensüll verzichtet werden.
+4.[^F785348_02_BJNR245010008BJNE012301301]
+  Die Außenkanten der Decks und Gangborde sowie solche Arbeitsbereiche,
+    bei denen die Fallhöhe mehr als 1 m betragen kann, müssen mit
+    Schanzkleidern oder Lukensüllen von jeweils mindestens 0,90 m Höhe
+    oder mit durchgehenden Geländern entsprechend der Norm DIN EN 711:1995
+    versehen sein. Sind Gangbordgeländer umlegbar, müssen
+
+    a)  an den Lukensüllen zusätzlich durchgehende Handläufe mit einem
+        Durchmesser von 0,02 bis 0,04 m in einer Höhe von 0,7 bis 1,1 m und
 
 
-5.  In Arbeitsbereichen, in denen die Fallhöhe mehr als 1 Meter beträgt,
+    b)  an gut sichtbaren Stellen am Anfang der Gangborde Hinweisschilder nach
+        Anlage I Bild 10 von mindestens 15 cm Durchmesser
+
+
+
+    angebracht sein.
+
+
+5.  Abweichend von Nummer 4 brauchen bei Schubleichtern und Schleppkähnen
+    ohne Wohnungen keine Schanzkleider oder Geländer vorhanden zu sein,
+    wenn
+
+    a)  an den Außenkanten der Decks und Gangborde Fußleisten,
+
+
+    b)  an den Lukensüllen Handläufe nach Nummer 4 Buchstabe a und
+
+
+    c)  an gut sichtbaren Stellen an Deck Hinweisschilder nach Anlage I Bild
+        10 von mindestens 15 cm Durchmesser
+
+
+
+    angebracht sind.
+
+
+6.  Abweichend von Nummer 4 brauchen bei Schiffen mit einem
+    Glattaußenkantendeck oder einem Trunkdeck die Geländer nicht
+    unmittelbar an den Außenkanten dieser Decks oder der Gangborde
+    angebracht zu sein, wenn
+
+    a)  die Verkehrswege auf diesen Decks verlaufen,
+
+
+    b)  die Verkehrswege und Arbeitsbereiche auf diesen Decks von festen
+        Geländern nach der Norm DIN EN 711:1995\* umgeben sind und
+
+
+    c)  an gut sichtbaren Stellen an den Übergängen zu den nicht durch
+        Geländer geschützten Bereichen Hinweisschilder nach Anlage I Bild 10
+        von mindestens 15 cm Durchmesser angebracht sind.
+
+
+
+
+
+7.  In Arbeitsbereichen, in denen die Fallhöhe mehr als 1 Meter beträgt,
     kann die Untersuchungskommission geeignete Einrichtungen und
     Ausrüstungen zum sicheren Arbeiten fordern.
 
 
 
 
+    Amtlicher Hinweis: Diese Norm entspricht der Europäischen Norm EN
+    711:1995.
+[^F785348_02_BJNR245010008BJNE012301301]: 
 
 #### § 11.03 Abmessung der Arbeitsplätze
 
@@ -7788,14 +8341,9 @@ genügend Bewegungsfreiheit hat.
 
 
 2.  Bis zu einer Höhe von 0,90 m über dem Gangbord kann die lichte Breite
-    des Gangbords bis auf 0,54 m verringert werden, wenn darüber eine
-    lichte Breite, zwischen Bordwandaußenkante und Laderauminnenkante, von
-    mindestens 0,65 m vorhanden ist. Die lichte Breite des Gangbords kann
-    in diesem Fall weiter bis auf 0,50 m verringert werden, wenn an den
-    Außenkanten der Gangborde Geländer entsprechend der europäischen Norm
-    EN 711 : 1995 als Absturzsicherung aufgebaut sind. Bei Schiffen mit L
-    von nicht mehr als 55 m mit Wohnungen nur auf dem Hinterschiff kann
-    auf das Geländer verzichtet werden.
+    des Gangbords bis auf 0,50 m verringert werden, wenn darüber eine
+    lichte Breite zwischen Bordwandaußenkante und Laderauminnenkante von
+    mindestens 0,65 m vorhanden ist.
 
 
 3.  Die Anforderungen nach Nummer 1 und 2 gelten bis zu einer Höhe von
@@ -8067,50 +8615,60 @@ genügend Bewegungsfreiheit hat.
     geeignet sein.
 
 
-6.  Vor der ersten Inbetriebnahme und vor der Wiederinbetriebnahme nach
-    wesentlichen Änderungen sind ausreichende Festigkeit und hinreichende
-    Stabilität rechnerisch und durch eine Belastungsprüfung an Bord
-    nachzuweisen.
-    Für Krane, deren Nutzlast 2000 kg nicht überschreitet, kann der
-    Sachverständige entscheiden, den rechnerischen Nachweis durch eine
-    Erprobung mit dem 1,25-fachen der Nutzlast, die über den vollen
-    Fahrweg abgefahren wird, ganz oder teilweise zu ersetzen.
-    Die Abnahme nach Satz 1 oder 2 muss durch einen von der
-    Untersuchungskommission anerkannten Sachverständigen durchgeführt
-    werden.
+6.  Krane sind
+
+    a)  vor der ersten Inbetriebnahme,
 
 
-7.  Krane sind regelmäßig, mindestens jedoch alle zwölf Monate von einem
-    Sachkundigen untersuchen zu lassen. Hierbei ist der arbeitssichere
-    Zustand des Kranes durch Sicht- und Funktionskontrolle festzustellen.
+    b)  vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+        Instandsetzung und
 
 
-8.  Spätestens alle zehn Jahre nach Abnahme ist der Kran erneut durch
-    einen von der Untersuchungskommission anerkannten Sachverständigen
-    prüfen zu lassen.
+    c)  regelmäßig, mindestens jedoch alle zehn Jahre,
 
 
-9.  Krane, deren Nutzlast 2000 kg überschreitet, die dem Ladungsumschlag
+
+    durch einen Sachverständigen zu prüfen. Dabei sind ausreichende
+    Festigkeit und hinreichende Stabilität rechnerisch und durch eine
+    Belastungsprüfung an Bord nachzuweisen. Für Krane, deren Nutzlast 2
+    000 kg nicht überschreitet, kann der Sachverständige entscheiden, den
+    rechnerischen Nachweis durch eine Erprobung mit dem 1,25-Fachen der
+    Nutzlast, die über den vollen Fahrweg abgefahren wird, ganz oder
+    teilweise zu ersetzen. Über die Prüfung ist eine vom Sachverständigen
+    unterzeichnete Bescheinigung auszustellen, aus der das Datum der
+    Prüfung ersichtlich ist.
+
+
+7.  Krane sind regelmäßig, mindestens jedoch einmal jährlich von einem
+    Sachkundigen zu prüfen. Hierbei ist der arbeitssichere Zustand des
+    Krans durch Sicht- und Funktionskontrolle festzustellen. Über die
+    Prüfung ist eine vom Sachkundigen unterzeichnete Bescheinigung
+    auszustellen, aus der das Datum der Prüfung ersichtlich ist.
+
+
+8.  Krane, deren Nutzlast 2000 kg überschreitet, die dem Ladungsumschlag
     dienen oder an Bord von Hebeböcken, Pontons und sonstigen schwimmenden
     Geräten oder Baustellenfahrzeugen aufgestellt sind, müssen darüber
     hinaus den Vorschriften eines Rheinuferstaates oder Belgiens
     entsprechen.
 
 
-10. Für sämtliche Krane müssen sich mindestens folgende Unterlagen an Bord
-    befinden:
+9.  Für Krane muss sich die Bedienungsanleitung des Kranherstellers an
+    Bord befinden. Diese muss mindestens folgende Angaben enthalten:
 
-    a)  Bedienungsanleitung des Kranherstellers mit mindestens folgenden
-        Angaben:
-        Verwendungsbereich und Funktion der Bedienungsorgane;
-        höchstzulässige Nutzlast entsprechend der Ausladung;
-        maximal zulässige Neigung des Krans;
-        Anleitung für Montage und Instandhaltung;
-        Richtlinien für die regelmäßigen Untersuchungen;
-        allgemeine technische Daten;
+    a)  Verwendungsbereich und Funktion der Bedienungsorgane,
 
 
-    b)  Bescheinigung über erfolgte Prüfungen nach Nummer 6 bis 8 oder 9.
+    b)  höchstzulässige Nutzlast entsprechend der Ausladung,
+
+
+    c)  maximal zulässige Neigung des Krans,
+
+
+    d)  Anleitung für Montage und Instandhaltung,
+
+
+    e)  allgemeine technische Daten.
 
 
 
@@ -8742,6 +9300,758 @@ i)  Luftheizgeräte dürfen ihre Heizluft nicht aus einem Maschinenraum
 
 
 
+### Kapitel 14a - Bordkläranlagen für Fahrgastschiffe
+
+
+#### § 14a.01 Begriffsbestimmungen
+
+Im Sinne dieses Kapitels gilt als:
+
+1.  „Bordkläranlage“ eine Kläranlage zur Abwasserreinigung in kompakter
+    Bauweise für an Bord anfallende häusliche Abwassermengen;
+
+
+2.  „Typgenehmigung“ die Entscheidung, mit der die zuständige Behörde
+    bestätigt, dass eine Bordkläranlage den technischen Anforderungen
+    dieses Kapitels genügt;
+
+
+3.  „Sonderprüfung“ das Verfahren nach § 14a.11, durch das die zuständige
+    Behörde sicherstellt, dass die in einem Fahrzeug betriebene
+    Bordkläranlage den Anforderungen dieses Kapitels genügt;
+
+
+4.  „Hersteller“ die gegenüber der zuständigen Behörde für alle Belange
+    des Typgenehmigungsverfahrens und die Übereinstimmung der Produktion
+    verantwortliche Person oder Stelle; diese Person oder Stelle muss
+    nicht an allen Stufen der Konstruktion der Bordkläranlage beteiligt
+    sein; wird die Bordkläranlage erst nach ihrer ursprünglichen Fertigung
+    durch entsprechende Veränderungen und Ergänzungen für die Verwendung
+    auf einem Fahrzeug im Sinne dieses Kapitels hergerichtet, gilt die
+    Person oder Stelle als Hersteller, die die Veränderungen oder
+    Ergänzungen vorgenommen hat;
+
+
+5.  „Beschreibungsbogen“ das Dokument nach Anlage R Teil II, in dem die
+    vom Antragsteller zu liefernden Informationen aufgeführt sind;
+
+
+6.  „Beschreibungsmappe“ die Gesamtheit der Daten, Zeichnungen,
+    Fotografien und sonstiger Dokumente, die der Antragsteller dem
+    technischen Dienst oder der zuständigen Behörde nach den Anforderungen
+    im Beschreibungsbogen einzureichen hat;
+
+
+7.  „Beschreibungsunterlagen“ die Beschreibungsmappe zuzüglich aller
+    Prüfberichte und sonstiger Dokumente, die der technische Dienst oder
+    die zuständige Behörde in Ausübung ihrer Funktionen beigefügt haben;
+
+
+8.  „Typgenehmigungsbogen“ das nach Anlage R Teil III erstellte Dokument,
+    mit dem die zuständige Behörde die Typgenehmigung bescheinigt;
+
+
+9.  „Bordkläranlagenparameterprotokoll“ das nach Anlage R Teil VIII
+    erstellte Dokument, in dem alle Parameter, einschließlich der Bauteile
+    (Komponenten) und Einstellungen der Bordkläranlage, die das Niveau der
+    Abwasserreinigung beeinflussen, einschließlich deren Änderungen,
+    festgehalten sind;
+
+
+10. „Anleitung des Herstellers zur Kontrolle der für die Abwasserreinigung
+    relevanten Komponenten und Parameter der Bordkläranlage“ das nach §
+    14a.11 Nummer 4 zu Zwecken der Durchführung der Sonderprüfungen
+    erstellte Dokument;
+
+
+11. „häusliches Abwasser“ das Abwasser aus Küchen, Essräumen, Waschräumen
+    und Waschküchen sowie Fäkalwasser;
+
+
+12. „Klärschlamm“ die Rückstände, die bei Betrieb einer Bordkläranlage an
+    Bord des Fahrzeugs entstehen.
+
+
+
+
+
+#### § 14a.02 Allgemeine Bestimmungen
+
+
+1.  Dieses Kapitel gilt für alle Bordkläranlagen, die auf Fahrgastschiffen
+    eingebaut sind.
+
+
+2.  Bordkläranlagen müssen
+
+    a)  bei der Typprüfung die Grenzwerte der Tabelle 1 einhalten:
+
+
+        Tabelle 1
+        Während der Typprüfung im Ablauf
+        ## der Bordkläranlage (Testanlage) einzuhaltende Grenzwerte
+
+        *            *   Parameter
+
+            *   Konzentration
+
+            *   Probenahmeart
+
+
+        *            *   Stufe I
+                ab 1.11.2009
+
+            *   Stufe II
+                ab 1.1.2011
+
+
+        *            *   Biochemischer Sauerstoffbedarf (BSB
+                5                                   )
+[^F785348_04_BJNR245010008BJNE027400301]
+                DIN EN 1899-1 und 1899-2:1998-05
+[^F785348_05_BJNR245010008BJNE027400301]
+
+            *   25 mg/l
+
+            *   20 mg/l
+
+            *   24-h-Mischprobe, homogenisiert
+
+
+        *            *   40 mg/l
+
+            *   25 mg/l
+
+            *   Stichprobe, homogenisiert
+
+
+        *            *[^F785348_06_BJNR245010008BJNE027400301]
+   Chemischer Sauerstoffbedarf (CSB)
+                ISO 6060:1989
+                1
+
+            *   125 mg/l
+
+            *   100 mg/l
+
+            *   24-h-Mischprobe, homogenisiert
+
+
+        *            *   180 mg/l
+
+            *   125 mg/l
+
+            *   Stichprobe, homogenisiert
+
+
+        *            *   Gesamter organisch gebundener Kohlenstoff (TOC)
+                DIN EN 1484:1997
+[^F785348_07_BJNR245010008BJNE027400301]
+                1
+
+            *   –
+
+            *   35 mg/l
+
+            *   24-h-Mischprobe, homogenisiert
+
+
+        *            *   –
+
+            *   45 mg/l
+
+            *   Stichprobe, homogenisiert
+
+
+
+
+
+    b)  im Betrieb die Überwachungswerte nach Tabelle 2 einhalten:
+
+
+        Tabelle 2
+        Während des Betriebes an Bord von Fahrgastschiffen
+        ## im Ablauf der Bordkläranlage einzuhaltende Überwachungswerte
+
+        *            *   Parameter
+
+            *   Konzentration
+
+            *   Probenahmeart
+
+
+        *            *   Stufe I
+                ab 1.11.2009
+
+            *   Stufe II
+                ab 1.1.2011
+
+
+        *            *   Biochemischer Sauerstoffbedarf (BSB
+                5                                   )
+[^F785348_08_BJNR245010008BJNE027400301]
+                DIN EN 1899-1 und 1899-2:1998-05
+                \*
+
+            *   40 mg/l
+
+            *   25 mg/l
+
+            *   Stichprobe, homogenisiert
+
+
+        *            *[^F785348_09_BJNR245010008BJNE027400301]
+   Chemischer Sauerstoffbedarf (CSB)
+                ISO 6060:1989
+                1
+
+            *   180 mg/l
+
+            *   125 mg/l
+
+            *   Stichprobe, homogenisiert
+
+
+        *            *   –
+
+            *   150 mg/l
+
+            *   Stichprobe
+
+
+        *            *   Gesamter organisch gebundener Kohlenstoff (TOC)
+                DIN EN 1484:1997
+                1                                   \*\*
+
+            *   –
+
+            *   45 mg/l
+
+            *   Stichprobe, homogenisiert
+
+
+
+
+
+
+
+
+3.  Verfahren unter Einsatz von chlorhaltigen Mitteln sind nicht zulässig.
+    Ebenso unzulässig ist es, häusliche Abwässer zu verdünnen, um auf
+    diese Art eine Reduzierung der spezifischen Belastung und dadurch auch
+    eine Entsorgung zu ermöglichen.
+
+
+4.  Für die Speicherung, Frischhaltung (sofern dies das Anlagenkonzept
+    erfordert) und Abgabe des Klärschlamms sind ausreichende Vorkehrungen
+    zu treffen. Hierzu gehört auch ein Managementplan für die
+    Klärschlämme.
+
+
+5.  Die Einhaltung der Grenzwerte nach Nummer 2 Buchstabe a Tabelle 1 wird
+    durch eine Typprüfung bestätigt und durch eine Typgenehmigung
+    festgestellt. Die Typgenehmigung wird in einem Typgenehmigungsbogen
+    bescheinigt. Der Eigner oder sein Bevollmächtigter hat dem Antrag auf
+    Untersuchung nach § 2.02 eine Kopie des Typgenehmigungsbogens
+    beizufügen. Eine Kopie des Typgenehmigungsbogens und des
+    Bordkläranlagenparameterprotokolls sind an Bord mitzuführen.
+
+
+6.  Nach dem Einbau der Bordkläranlage an Bord ist vom Hersteller vor
+    Aufnahme des Regelbetriebs eine Funktionsprüfung durchzuführen. Die
+    Bordkläranlage ist mit folgenden Angaben in das Schiffsattest unter
+    Nummer 52 einzutragen:
+
+    a)  Name,
+
+
+    b)  Typgenehmigungsnummer,
+
+
+    c)  Seriennummer und
+
+
+    d)  Baujahr.
+
+
+
+
+
+7.  Nach jeder wesentlichen Änderung einer Bordkläranlage, die sich auf
+    die Abwasserreinigung auswirkt, muss eine Sonderprüfung nach § 14a.11
+    Nummer 3 durchgeführt werden.
+
+
+8.  Die zuständige Behörde kann sich zur Erfüllung von Aufgaben nach
+    diesem Kapitel eines technischen Dienstes bedienen.
+
+
+9.  Zur Sicherung der Funktionsfähigkeit ist die Bordkläranlage nach den
+    Herstellerangaben regelmäßig zu warten. Ein entsprechender
+    Wartungsnachweis ist an Bord mitzuführen.
+
+
+
+
+    Die Rheinuferstaaten und Belgien können gleichwertige Verfahren
+    anwenden.
+[^F785348_04_BJNR245010008BJNE027400301]:     Amtlicher Hinweis: Diese Norm entspricht der Europäischen Norm ISO
+    5815-1 und 5815-2:2003.
+[^F785348_05_BJNR245010008BJNE027400301]:     Anstatt des Chemischen Sauerstoffbedarfs (CSB) kann auch der gesamte
+    organisch gebundene Kohlenstoff (TOC) für die Typprüfung herangezogen
+    werden.
+[^F785348_06_BJNR245010008BJNE027400301]:     Amtlicher Hinweis: Diese Norm entspricht der Europäischen Norm EN
+    1484:1997.
+[^F785348_07_BJNR245010008BJNE027400301]:     Die Rheinuferstaaten und Belgien können gleichwertige Verfahren
+    anwenden.
+[^F785348_08_BJNR245010008BJNE027400301]:     Anstatt des Chemischen Sauerstoffbedarfs (CSB) kann auch der gesamte
+    organisch gebundene Kohlenstoff (TOC) für die Kontrolle herangezogen
+    werden.
+[^F785348_09_BJNR245010008BJNE027400301]: 
+
+#### § 14a.03 Antrag auf Typgenehmigung
+
+
+1.  Ein Antrag auf Typgenehmigung für einen Bordkläranlagentyp ist vom
+    Hersteller bei der zuständigen Behörde zu stellen. Dem Antrag sind
+    eine Beschreibungsmappe nach § 14a.01 Nummer 6 und der Entwurf eines
+    Bordkläranlagenparameterprotokolls nach § 14a.01 Nummer 9 sowie der
+    Entwurf einer Anleitung des Herstellers zur Kontrolle der für die
+    Abwasserreinigung relevanten Komponenten und Parameter des
+    Bordkläranlagentyps nach § 14a.01 Nummer 10 beizufügen. Der Hersteller
+    hat für die Typprüfung den Prototyp einer Bordkläranlage vorzuführen.
+
+
+2.  Stellt die zuständige Behörde im Fall eines Antrags auf Typgenehmigung
+    für einen Bordkläranlagentyp fest, dass der eingereichte Antrag
+    hinsichtlich des vorgestellten Prototyps der Bordkläranlage für die in
+    Anlage R Teil II Anhang 1 beschriebenen Merkmale dieses Typs von
+    Bordkläranlagen nicht repräsentativ ist, so ist ein anderer und,
+    sofern aus Sicht der zuständigen Behörde erforderlich, ein
+    zusätzlicher, von der zuständigen Behörde zu bezeichnender Prototyp
+    zur Genehmigung nach Nummer 1 bereitzustellen.
+
+
+3.  Ein Antrag auf Typgenehmigung für einen Bordkläranlagentyp darf nicht
+    bei mehr als einer zuständigen Behörde gestellt werden. Für jeden zu
+    genehmigenden Bordkläranlagentyp ist ein gesonderter Antrag zu
+    stellen.
+
+
+
+
+
+#### § 14a.04 Typgenehmigungsverfahren
+
+
+1.  Die zuständige Behörde, bei der der Antrag gestellt wird, erteilt die
+    Typgenehmigung für den Bordkläranlagentyp, der den Beschreibungen in
+    der Beschreibungsmappe entspricht und den Anforderungen dieses
+    Kapitels genügt. Die Erfüllung dieser Anforderungen wird nach Anlage S
+    dieser Verordnung geprüft.
+
+
+2.  Die zuständige Behörde füllt für jeden Bordkläranlagentyp, für den sie
+    eine Typgenehmigung ausstellt, alle einschlägigen Teile des
+    Typgenehmigungsbogens aus, dessen Muster in Anlage R Teil III
+    enthalten ist; sie erstellt oder prüft das Inhaltsverzeichnis zu den
+    Beschreibungsunterlagen. Typgenehmigungsbogen sind nach dem Verfahren
+    in Anlage R Teil IV zu nummerieren. Der ausgefüllte
+    Typgenehmigungsbogen und seine Anlagen sind dem Antragsteller
+    zuzustellen.
+
+
+3.  Erfüllt die zu genehmigende Bordkläranlage ihre Funktion oder hat sie
+    spezifische Eigenschaften nur in Verbindung mit anderen Teilen des
+    Fahrzeugs, in das sie eingebaut werden soll, und kann aus diesem Grund
+    die Einhaltung einer oder mehrerer Anforderungen nur geprüft werden,
+    wenn die zu genehmigende Bordkläranlage mit anderen echten oder
+    simulierten Fahrzeugteilen zusammen betrieben wird, so ist der
+    Geltungsbereich der Typgenehmigung für diese Bordkläranlage
+    entsprechend einzuschränken. Im Typgenehmigungsbogen für einen
+    Bordkläranlagentyp sind in solchen Fällen alle Einschränkungen seiner
+    Verwendung sowie sämtliche Einbauvorschriften aufzuführen.
+
+
+4.  Jede zuständige Behörde übermittelt
+
+    a)  den übrigen zuständigen Behörden bei jeder Änderung die Liste der
+        Bordkläranlagentypen mit den Einzelheiten in Anlage R Teil V, deren
+        Genehmigung sie in dem betreffenden Zeitraum erteilt, verweigert oder
+        entzogen hat;
+
+
+    b)  auf Ersuchen einer anderen zuständigen Behörde
+
+        aa) eine Kopie des Typgenehmigungsbogens, mit oder ohne
+            Beschreibungsunterlagen, für jeden Bordkläranlagentyp, dessen
+            Genehmigung sie erteilt, verweigert oder entzogen hat, und
+            gegebenenfalls
+
+
+        bb) die Liste der Bordkläranlagen, die entsprechend den erteilten
+            Typgenehmigungen hergestellt wurden, nach der Beschreibung in § 14a.06
+            Nummer 3, die die Einzelheiten nach Anlage R Teil VI enthält.
+
+
+
+
+
+
+
+
+5.  Jede zuständige Behörde übermittelt dem Sekretariat der
+    Zentralkommission für die Rheinschifffahrt jährlich und zusätzlich
+    dazu bei Erhalt eines entsprechenden Antrags eine Kopie des
+    Datenblatts nach Anlage R Teil VII über die Bordkläranlagentypen, für
+    die seit der letzten Benachrichtigung eine Genehmigung erteilt worden
+    ist.
+
+
+
+
+
+#### § 14a.05 Änderung von Typgenehmigungen
+
+
+1.  Die zuständige Behörde, die die Typgenehmigung erteilt hat, ergreift
+    die erforderlichen Maßnahmen, um sicherzustellen, dass ihr jede
+    Änderung der in den Beschreibungsunterlagen erwähnten Einzelheiten
+    mitgeteilt wird.
+
+
+2.  Der Antrag auf eine Änderung oder Erweiterung einer Typgenehmigung ist
+    ausschließlich an die zuständige Behörde zu stellen, die die
+    ursprüngliche Typgenehmigung erteilt hat.
+
+
+3.  Sind in den Beschreibungsunterlagen beschriebene Merkmale der
+    Bordkläranlage geändert worden, so stellt die zuständige Behörde
+    Folgendes aus:
+
+    a)  korrigierte Seiten der Beschreibungsunterlagen, wobei sie jede
+        einzelne Seite so kennzeichnet, dass die Art der Änderung und das
+        Datum der Neuausgabe deutlich ersichtlich sind; bei jeder Neuausgabe
+        von Seiten ist das Inhaltsverzeichnis zu den Beschreibungsunterlagen
+        (das dem Typgenehmigungsbogen als Anlage beigefügt ist) entsprechend
+        auf den neuesten Stand zu bringen;
+
+
+    b)  einen revidierten Typgenehmigungsbogen mit einer Erweiterungsnummer,
+        sofern Angaben darin mit Ausnahme der Anhänge geändert wurden oder die
+        Mindestanforderungen dieses Kapitels sich seit dem ursprünglichen
+        Genehmigungsdatum geändert haben; aus dem revidierten
+        Genehmigungsbogen müssen der Grund für seine Änderung und das Datum
+        der Neuausgabe klar hervorgehen.
+
+
+
+    Stellt die zuständige Behörde, die die Typgenehmigung erteilt hat,
+    fest, dass wegen einer an den Beschreibungsunterlagen vorgenommenen
+    Änderung neue Versuche oder Prüfungen gerechtfertigt sind, so
+    unterrichtet sie hiervon den Hersteller und stellt die oben
+    angegebenen Unterlagen erst nach der Durchführung erfolgreicher neuer
+    Versuche oder Prüfungen aus.
+
+
+
+
+
+#### § 14a.06 Übereinstimmung der Typgenehmigung
+
+
+1.  An jeder in Übereinstimmung mit der Typgenehmigung hergestellten
+    Bordkläranlage müssen die in Anlage R Teil I festgelegten Kennzeichen,
+    einschließlich der Typgenehmigungsnummer, vom Hersteller angebracht
+    sein.
+
+
+2.  Enthält die Typgenehmigung Einschränkungen der Verwendung nach §
+    14a.04 Nummer 3, so müssen jeder hergestellten Einheit detaillierte
+    Angaben über diese Einschränkungen und sämtliche Einbauvorschriften
+    vom Hersteller beigefügt sein.
+
+
+3.  Der Hersteller übermittelt auf Anforderung der zuständigen Behörde,
+    die die Typgenehmigung erteilt hat, binnen 45 Tagen nach Ablauf jedes
+    Kalenderjahres und sofort nach jedem von der zuständigen Behörde
+    angegebenen zusätzlichen Zeitpunkt eine Liste mit den Seriennummern
+    aller Bordkläranlagen, die in Übereinstimmung mit den Anforderungen
+    dieses Kapitels seit dem letzten Bericht oder seit dem Zeitpunkt, zu
+    dem diese Bestimmungen erstmalig in Kraft getreten sind, hergestellt
+    wurden. Auf dieser Liste müssen die Korrelationen zwischen den
+    Seriennummern und den entsprechenden Bordkläranlagentypen und den
+    Typgenehmigungsnummern angegeben werden. Außerdem muss die Liste
+    besondere Informationen enthalten, wenn der Hersteller die Produktion
+    eines typgenehmigten Bordkläranlagentyps einstellt. Wenn die
+    zuständige Behörde keine regelmäßige Übermittlung dieser Liste vom
+    Hersteller verlangt, muss dieser die registrierten Daten für einen
+    Zeitraum von mindestens 40 Jahren aufbewahren.
+
+
+
+
+
+#### § 14a.07 (ohne Inhalt)
+
+
+
+#### § 14a.08 Kontrolle der Seriennummern
+
+
+1.  Die zuständige Behörde, die eine Typgenehmigung erteilt, sorgt dafür,
+    dass die Seriennummern der in Übereinstimmung mit den Anforderungen
+    dieses Kapitels hergestellten Bordkläranlagen registriert und
+    kontrolliert werden. Sie kann hierbei mit anderen nach dieser
+    Verordnung zuständigen Behörden und mit den zuständigen Behörden der
+    Mitgliedstaaten der Zentralkommission für die Rheinschifffahrt
+    zusammenarbeiten.
+
+
+2.  Eine zusätzliche Kontrolle der Seriennummern kann in Verbindung mit
+    der Kontrolle der Übereinstimmung der Produktion mit den Anforderungen
+    nach § 14a.09 erfolgen.
+
+
+3.  Bezüglich der Kontrolle der Seriennummern teilen der Hersteller oder
+    seine in den Rheinuferstaaten und Belgien niedergelassenen
+    Beauftragten der zuständigen Behörde auf Anforderung unverzüglich alle
+    erforderlichen Informationen über seine oder ihre Direktkäufer sowie
+    die Seriennummern der Bordkläranlagen mit, die als nach § 14a.06
+    Nummer 3 hergestellt gemeldet worden sind.
+
+
+4.  Ist ein Hersteller nicht in der Lage, auf Ersuchen der zuständigen
+    Behörde die in § 14a.06 festgelegten Anforderungen einzuhalten, so
+    kann die Genehmigung für den betroffenen Bordkläranlagentyp widerrufen
+    werden. In einem solchen Fall wird das Informationsverfahren nach §
+    14a.10 Nummer 4 angewandt.
+
+
+
+
+
+#### § 14a.09 Übereinstimmung der Produktion
+
+
+1.  Die zuständige Behörde, die eine Typgenehmigung erteilt, vergewissert
+    sich vorher, dass geeignete Vorkehrungen getroffen wurden, um eine
+    wirksame Kontrolle der Übereinstimmung der Produktion mit den
+    Anforderungen der Anlage R Teil I sicherzustellen. Sie kann hierbei
+    mit anderen nach dieser Verordnung zuständigen Behörden und mit den
+    zuständigen Behörden der Mitgliedstaaten der Zentralkommission für die
+    Rheinschifffahrt zusammenarbeiten.
+
+
+2.  Die zuständige Behörde, die eine Typgenehmigung erteilt hat,
+    vergewissert sich, dass die in Nummer 1 genannten Vorkehrungen
+    hinsichtlich der Bestimmungen der Anlage R Teil I weiterhin ausreichen
+    und jede nach den Anforderungen dieses Kapitels mit einer
+    Typgenehmigungsnummer ausgestattete Bordkläranlage weiterhin der
+    Beschreibung im Typgenehmigungsbogen und seinen Anhängen für den
+    typgenehmigten Bordkläranlagentyp entspricht. Sie kann hierbei mit
+    anderen nach dieser Verordnung zuständigen Behörden und mit den
+    zuständigen Behörden der Mitgliedstaaten der Zentralkommission für die
+    Rheinschifffahrt zusammenarbeiten.
+
+
+3.  Die zuständige Behörde kann vergleichbare Kontrollen anderer
+    zuständiger Behörden als den Bestimmungen der Nummern 1 und 2
+    gleichwertig anerkennen.
+
+
+
+
+
+#### § 14a.10 Nichtübereinstimmung mit dem typgenehmigten Bordkläranlagentyp
+
+
+1.  Eine Nichtübereinstimmung mit dem typgenehmigten Bordkläranlagentyp
+    liegt vor, wenn Abweichungen von den Merkmalen im Typgenehmigungsbogen
+    oder gegebenenfalls von den Beschreibungsunterlagen festgestellt
+    werden, die von der zuständigen Behörde, die die Typgenehmigung
+    erteilt hat, nicht nach § 14a.05 Nummer 3 genehmigt worden sind.
+
+
+2.  Stellt die zuständige Behörde, die eine Typgenehmigung erteilt hat,
+    fest, dass Bordkläranlagen nicht mit dem Bordkläranlagentyp
+    übereinstimmen, für den sie die Genehmigung erteilt hat, so ergreift
+    sie die erforderlichen Maßnahmen, um sicherzustellen, dass die in
+    Produktion befindlichen Bordkläranlagen wieder mit dem typgenehmigten
+    Bordkläranlagentyp übereinstimmen. Die zuständige Behörde, die die
+    mangelnde Übereinstimmung festgestellt hat, unterrichtet die anderen
+    zuständigen Behörden und das Sekretariat der Zentralkommission für die
+    Rheinschifffahrt von den getroffenen Maßnahmen, die bis zum Entzug der
+    Typgenehmigung reichen können.
+
+
+3.  Kann eine zuständige Behörde nachweisen, dass Bordkläranlagen, die mit
+    einer Typgenehmigungsnummer versehen sind, nicht mit dem
+    typgenehmigten Bordkläranlagentyp übereinstimmen, so kann sie von der
+    zuständigen Behörde, die die Typgenehmigung erteilt hat, verlangen,
+    dass der in Produktion befindliche Bordkläranlagentyp auf
+    Übereinstimmung mit dem typgenehmigten Bordkläranlagentyp geprüft
+    wird. Die hierzu notwendigen Maßnahmen sind binnen sechs Monaten nach
+    dem Antragsdatum zu ergreifen.
+
+
+4.  Die zuständigen Behörden unterrichten sich gegenseitig und das
+    Sekretariat der Zentralkommission für die Rheinschifffahrt innerhalb
+    eines Monats über jeden Entzug einer Typgenehmigung und über die
+    Gründe hierfür.
+
+
+
+
+
+#### § 14a.11 Stichprobenmessung/Sonderprüfung
+
+
+1.  Spätestens drei Monate nach der Inbetriebnahme eines Fahrgastschiffes
+    oder bei nachträglichem Einbau der Bordkläranlage nach deren Einbau
+    und der entsprechenden Funktionsprüfung nimmt die zuständige Behörde
+    während des Betriebs des Fahrgastschiffes eine Stichprobe zur Prüfung
+    der Einhaltung der in § 14a.02 Nummer 2 Tabelle 2 aufgeführten
+    Überwachungswerte. Die zuständige Behörde führt zudem Kontrollen der
+    Funktionsfähigkeit der Bordkläranlage mittels Stichprobenmessungen zur
+    Prüfung der Einhaltung der in § 14a.02 Nummer 2 Tabelle 2 aufgeführten
+    Überwachungswerte in unregelmäßigen Abständen durch. Stellt die
+    zuständige Behörde fest, dass die Werte der Stichprobenmessungen die
+    Überwachungswerte nach § 14a.02 Nummer 2 Tabelle 2 nicht einhalten,
+    kann sie verlangen:
+
+    a)  dass die Mängel der Bordkläranlage behoben werden, um einen
+        ordnungsgemäßen Betrieb zu gewährleisten;
+
+
+    b)  dass die Übereinstimmung der Bordkläranlage mit der Typgenehmigung
+        wiederhergestellt wird oder
+
+
+    c)  dass eine Sonderprüfung nach Nummer 3 durchgeführt wird.
+
+
+
+    Wurden die Mängel behoben und die Übereinstimmung der Bordkläranlage
+    mit den Vorgaben der Typgenehmigung wieder hergestellt, kann die
+    zuständige Behörde neue Stichprobenmessungen vornehmen. Werden die
+    Mängel nicht behoben oder wird die Übereinstimmung der Bordkläranlage
+    mit den Vorgaben der Typgenehmigung nicht wiederhergestellt,
+    versiegelt die zuständige Behörde die Bordkläranlage und informiert
+    die Untersuchungskommission, die einen entsprechenden Eintrag in das
+    Schiffsatttest unter Nummer 52 macht.
+
+
+2.  Die Messungen der Stichproben erfolgen nach den in § 14a.02 Nummer 2
+    Tabelle 2 vorgegebenen Normen.
+
+
+3.  Stellt die zuständige Behörde an der Bordkläranlage Auffälligkeiten
+    fest, die auf eine Abweichung von der Typgenehmigung hindeuten, führt
+    die zuständige Behörde eine Sonderprüfung durch, um den aktuellen
+    Zustand der Bordkläranlage in Bezug auf die im
+    Bordkläranlagenparameterprotokoll spezifizierten Komponenten, die
+    Kalibrierung und die Einstellung der Parameter der Bordkläranlage
+    festzustellen. Kommt die zuständige Behörde zu dem Ergebnis, dass die
+    Bordkläranlage nicht mit dem typgenehmigten Bordkläranlagentyp
+    übereinstimmt, kann sie
+
+    a)  verlangen, dass
+
+        aa) die Übereinstimmung der Bordkläranlage wiederhergestellt wird oder
+
+
+        bb) die Typgenehmigung nach § 14a.05 entsprechend geändert wird oder
+
+
+
+
+
+    b)  eine Messung gemäß Prüfvorschrift nach Anlage S anordnen.
+
+
+
+    Wird die Übereinstimmung nicht wiederhergestellt oder wird die
+    Typgenehmigung nicht entsprechend geändert oder wird aus den Messungen
+    nach Satz 2 Buchstabe b ersichtlich, dass die in § 14a.02 Nummer 2
+    Tabelle 1 festgelegten Grenzwerte nicht eingehalten werden, versiegelt
+    die zuständige Behörde die Bordkläranlage und informiert die
+    Untersuchungskommission, die einen entsprechenden Eintrag in das
+    Schiffsattest unter Nummer 52 macht.
+
+
+4.  Die Prüfungen nach Nummer 3 erfolgen anhand der Anleitung des
+    Herstellers zur Kontrolle der für die Abwasserreinigung relevanten
+    Komponenten und Parameter der Bordkläranlage. In dieser, vom
+    Hersteller zu erstellenden und von einer zuständigen Behörde zu
+    genehmigenden Anleitung, sind die für die Abwasserreinigung relevanten
+    Bauteile sowie Einstellungen, Bemessungskriterien und Parameter
+    spezifiziert, unter deren Verwendung und Einhaltung von der
+    fortwährenden Erfüllung der Werte nach § 14a.02 Nummer 2 Tabelle 1 und
+    2 ausgegangen werden kann. Sie enthält zu mindestens die folgenden
+    Angaben:
+
+    a)  die Angabe des Bordkläranlagentyps mit Verfahrensbeschreibung und die
+        Angabe, ob Abwasserspeichertanks der Bordkläranlage vorzuschalten
+        sind;
+
+
+    b)  eine Auflistung der für die Abwasserreinigung spezifischen
+        Komponenten;
+
+
+    c)  angewendete Auslegungs- und Bemessungskriterien, Bemessungsvorgaben
+        und Regelwerke;
+
+
+    d)  schematische Darstellung der Bordkläranlage mit eindeutigen Merkmalen
+        zur Identifizierung der zugelassenen, für die Abwasserreinigung
+        relevanten Komponenten (z. B. auf den Komponenten befindliche
+        Bauteilnummern).
+
+
+
+
+
+5.  Die Wiederinbetriebnahme einer nach Nummer 3 Satz 3 stillgelegten
+    Bordkläranlage darf nur nach einer Sonderprüfung nach Nummer 3 Satz 1
+    erfolgen.
+
+
+
+
+
+#### § 14a.12 Zuständige Behörden und technische Dienste
+
+
+1.  Die Rheinuferstaaten und Belgien teilen dem Sekretariat der
+    Zentralkommission für die Rheinschifffahrt die Namen und Anschriften
+    der zuständigen Behörden und technischen Dienste mit, die für die
+    Durchführung von Aufgaben nach diesem Kapitel verantwortlich sind. Die
+    technischen Dienste müssen der Norm über die allgemeinen Anforderungen
+    an die Kompetenz von Prüf- und Kalibrierlaboratorien DIN EN ISO/IEC
+    17025:2005-08 unter Beachtung der nachfolgenden Bedingungen genügen:
+
+    a)  Bordkläranlagenhersteller können nicht als technische Dienste
+        anerkannt werden;
+
+
+    b)  für die Zwecke dieses Kapitels kann ein technischer Dienst mit
+        Zustimmung der zuständigen Behörde Einrichtungen außerhalb der eigenen
+        Prüfstelle benutzen.
+
+
+
+
+
+2.  Technische Dienste außerhalb der Mitgliedstaaten der Zentralkommission
+    können nur auf Empfehlung der Zentralkommission für die
+    Rheinschifffahrt anerkannt werden.
+
+
+
+
+
 #### § 14.02 Anlagen
 
 
@@ -9017,20 +10327,29 @@ als leer gelten.“
 Zuleitungen dichtgesetzt sein.“
 
 
-#### § 14.13 Abnahme
+#### § 14.13 Prüfung
 
-Vor Inbetriebnahme einer Flüssiggasanlage, nach jeder Änderung oder
-Instandsetzung und bei jeder Erneuerung der Bescheinigung nach § 14.15
-ist die gesamte Anlage von einem von der Untersuchungskommission
-anerkannten Sachverständigen abzunehmen. Bei dieser Abnahme hat er zu
-überprüfen, ob die Anlage diesem Kapitel entspricht. Bei
-Fahrgastschiffen hat er zusätzlich festzustellen, ob eine gültige
-Bescheinigung über den ordnungsgemäßen Einbau der Gaswarnanlage nach
-Artikel 15.15 Nummer 9 oder deren Prüfung vorliegt. Er hat der
-Untersuchungskommission hierüber einen Abnahmebericht vorzulegen.
+Flüssiggasanlagen sind
+
+a)  vor der ersten Inbetriebnahme,
 
 
-#### § 14.14 Prüfungen
+b)  vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+    Instandsetzung und
+
+
+c)  bei jeder Erneuerung der Bescheinigung nach § 14.15
+
+
+
+von einem Sachverständigen daraufhin zu prüfen, ob die Anlage den
+Anforderungen dieses Kapitels entspricht. Über die Prüfung ist eine
+vom Sachverständigen unterzeichnete Bescheinigung auszustellen, aus
+der das Datum der Prüfung ersichtlich ist. Eine Kopie hiervon ist der
+Untersuchungskommission vom Sachverständigen vorzulegen.
+
+
+#### § 14.14 Prüfbedingungen
 
 Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
@@ -9098,20 +10417,20 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 #### § 14.15 Bescheinigung
 
 
-1.  Die Übereinstimmung jeder Flüssiggasanlage mit diesem Kapitel ist im
-    Schiffsattest zu bescheinigen.
+1.  Die Übereinstimmung jeder Flüssiggasanlage mit den Anforderungen
+    dieses Kapitels ist im Schiffsattest zu bescheinigen.
 
 
-2.  Diese Bescheinigung wird im Anschluss an die Abnahme nach § 14.13 von
+2.  Diese Bescheinigung wird im Anschluss an die Prüfung nach § 14.13 von
     der Untersuchungskommission ausgestellt.
 
 
 3.  Die Gültigkeitsdauer der Bescheinigung beträgt höchstens drei Jahre.
-    Einer Erneuerung muss eine neue Abnahme nach § 14.13 vorausgehen.
+    Einer Erneuerung muss eine neue Prüfung nach § 14.13 vorausgehen.
     Ausnahmsweise kann die Untersuchungskommission auf begründeten Antrag
     des Eigners oder seines Bevollmächtigten die Gültigkeit der
     Bescheinigung um höchstens drei Monate verlängern, ohne dass eine
-    Abnahme nach § 14.13 vorausgehen muss. Diese Verlängerung ist im
+    Prüfung nach § 14.13 vorausgehen muss. Diese Verlängerung ist im
     Schiffsattest einzutragen.
 
 
@@ -9132,7 +10451,7 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     b)  §§ 4.01 bis 4.03;
 
 
-    c)  § 8.08 Nr. 2 Satz 2 Nr. 7;
+    c)  § 8.08 Nummer 2 Satz 2 und Nummer 7;
 
 
     d)  § 9.14 Nr. 3 Satz 2 bei Nennspannungen über 50V.
@@ -9176,6 +10495,19 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Empfehlungen der Zentralkommission für die Rheinschifffahrt
     Abweichungen von diesen Vorschriften gestatten. Diese Abweichungen
     sind in das Schiffsattest einzutragen.
+
+
+5.  Abweichend von § 7.02 Nummer 2 Satz 1 darf der Sichtschatten vor dem
+    Bug des leeren Schiffes mit halben Vorräten und ohne Ballast für den
+    Rudergänger zwei Schiffslängen oder 250 m, je nachdem welcher Wert
+    geringer ist, nicht überschreiten.
+
+
+6.  Abweichend von § 7.02 Nummer 3 Satz 3 muss ein Fahrgastschiff mit
+    geeigneten Hilfsmitteln ausgerüstet sein, wenn eine freie Sicht nach
+    achtern nicht gewährleistet ist. Sofern diese Hilfsmittel bei Nacht
+    keine freie Sicht ermöglichen, ist eine entsprechende Beschränkung im
+    Schiffsattest unter Nummer 52 zu vermerken.
 
 
 
@@ -9259,8 +10591,8 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 7.  Kollisionsschotte dürfen keine Öffnungen und keine Türen haben.
 
 
-8.  Schotte nach Nummer 5, die Maschinenräume von Fahrgasträumen oder
-    Wohnräumen für Bordpersonal trennen, dürfen keine Türen haben.
+8.  Schotte, die Maschinenräume von Fahrgasträumen oder Wohnräumen für
+    Bordpersonal trennen, dürfen keine Türen haben.
 
 
 9.  Handbetätigte Türen in Schotten nach Nummer 5 ohne Fernbedienung sind
@@ -9672,13 +11004,13 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 
 5.  Das Moment aus Wind (M
-    w                   ) ist wie folgt zu berechnen:
+    W                   ) ist wie folgt zu berechnen:
 
     *        *   M
             W                              = p
-            w                              · A
-            w                              · (l
-            w                              + T/2) [kNm]
+            W                              • A
+            W                              • (l
+            W                              + T/2) [kNm]
 
 
 
@@ -9708,6 +11040,10 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 
 
+
+    Bei der Berechnung des Lateralplanes sind die vorgesehenen
+    Einhausungen der Decks durch Planen oder ähnliche mobile Einrichtungen
+    zu berücksichtigen.
 
 
 6.  Das Moment aus Zentrifugalkraft (M
@@ -9829,13 +11165,14 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 
 
-    a)  Für den 1-Abteilungsstatus können die Schotte als nicht beschädigt
+    a)  Für den Einabteilungsstatus können die Schotte als nicht beschädigt
         angenommen werden, wenn der Abstand zwischen zwei benachbarten
         Schotten größer ist als die Länge des Lecks. Längsschotte, die sich in
         einem Abstand von weniger als B/3 zu der Außenhaut, gemessen im
         rechten Winkel zur Schiffsmittellinie in der Ebene der größten
         Einsenkung, befinden, dürfen in der Rechnung nicht berücksichtigt
-        werden.
+        werden. Eine Schottversetzung in einem Querschott, die länger ist als
+        2,50 m, gilt als Längsschott.
 
 
     b)  Für den 2-Abteilungsstatus wird jedes Schott innerhalb der
@@ -9950,13 +11287,15 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
    Dabei ist:
 
-        *            *   φE
+        *            *   φ
+                E
 
             *   der Krängungswinkel im Endzustand der Flutung unter Berücksichtigung
                 des Moments nach Nummer 4;
 
 
-        *            *   φm
+        *            *   φ
+                m
 
             *   der Winkel der verschwindenden Stabilität oder der Winkel, bei dem die
                 erste ungeschützte Öffnung zu Wasser kommt, oder 25°; der niedrigere
@@ -10104,6 +11443,10 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 
 
+    Decksbereiche, die durch Planen oder ähnliche mobile Einrichtungen
+    nicht nur nach oben, sondern auch seitlich teilweise oder vollständig
+    eingehaust sind, müssen den gleichen Anforderungen wie geschlossene
+    Fahrgasträume genügen.
 
 
 2.  Schränke nach § 11.13 und Räume zur Lagerung brennbarer Flüssigkeiten
@@ -10458,9 +11801,10 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 
 15. Aufbauten, die vollständig oder deren Dächer aus Panoramascheiben
-    bestehen, dürfen nur aus Materialien hergestellt sein, die im
-    Schadensfall die Verletzungsgefahr für Personen möglichst gering
-    halten.
+    bestehen, oder Einhausungen durch Planen oder ähnliche mobile
+    Einrichtungen sowie deren Unterkonstruktion dürfen nur aus solchen
+    Materialien hergestellt und müssen so konstruiert sein, dass im
+    Schadensfall die Verletzungsgefahr für Personen möglichst gering ist.
 
 
 16. Trinkwasseranlagen müssen mindestens den Anforderungen des § 12.05
@@ -10939,7 +12283,9 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
     a)  von Räumen müssen entsprechend den folgenden Tabellen ausgeführt sein:
 
-        aa) Tabelle für Trennflächen von Räumen, in denen keine
+[^BJNR245010008bjne017400000_05_BJNR245010008BJNE017401305]
+            aa)
+        *   Tabelle für Trennflächen von Räumen, in denen keine
             Druckwassersprühanlagen nach § 10.03a installiert sind
 
             *                *   Räume
@@ -10961,12 +12307,12 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
             *                *   Kontrollstationen
 
-                *   -
+                *   –
 
                 *   A0
 
-                *   A0/B15
-                    (1)
+                *[^BJNR245010008bjne017400000_01_BJNR245010008BJNE017401305]
+   A0/B15
 
                 *   A30
 
@@ -10974,13 +12320,13 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
                 *   A60
 
-                *   A60
+                *   A30/A60
 
 
             *                *   Treppenschächte
 
                 *
-                *   -
+                *   –
 
                 *   A0
 
@@ -10990,22 +12336,23 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
                 *   A60
 
-                *   A60
+                *   A30
 
 
             *                *   Sammelflächen
 
                 *
                 *
-                *
-                *   A30/B15
-                    (2)
+                *   –
+
+                *[^BJNR245010008bjne017400000_02_BJNR245010008BJNE017401305]
+   A30/B15
 
                 *   A60
 
                 *   A60
 
-                *   A60
+                *   A30/A60
 
 
             *                *   Unterkunftsräume
@@ -11013,14 +12360,14 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *
                 *
-                *   -/B15
-                    (3)
+                *[^BJNR245010008bjne017400000_03_BJNR245010008BJNE017401305]
+   -/A0/B15
 
                 *   A60
 
                 *   A60
 
-                *   A60
+                *   A30
 
 
             *                *   Maschinenräume
@@ -11029,8 +12376,8 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *
                 *
-                *   A60/A0
-                    (4)
+                *[^BJNR245010008bjne017400000_04_BJNR245010008BJNE017401305]
+   A60/A0
 
                 *   A60
 
@@ -11046,8 +12393,8 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *   A0
 
-                *   A60/B15
-                    (5)
+                *[^BJNR245010008bjne017400000_06_BJNR245010008BJNE017401305]
+   A30/B15
 
 
             *                *   Vorratsräume
@@ -11058,7 +12405,7 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *
                 *
-                *   -
+                *   –
 
 
 
@@ -11086,12 +12433,11 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
             *                *   Kontrollstationen
 
-                *   -
+                *   –
 
                 *   A0
 
                 *   A0/B15
-                    (1)
 
                 *   A0
 
@@ -11099,13 +12445,13 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
                 *   A30
 
-                *   A30
+                *   A0/A30
 
 
             *                *   Treppenschächte
 
                 *
-                *   -
+                *   –
 
                 *   A0
 
@@ -11122,16 +12468,15 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
                 *
                 *
-                *   -
+                *   –
 
                 *   A30/B15
-                    (2)
 
                 *   A60
 
                 *   A30
 
-                *   A30
+                *   A0/A30
 
 
             *                *   Unterkunftsräume
@@ -11139,8 +12484,7 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *
                 *
-                *   -/B0
-                    (3)
+                *   -/B15/B0
 
                 *   A60
 
@@ -11156,7 +12500,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *
                 *   A60/A0
-                    (4)
 
                 *   A60
 
@@ -11170,9 +12513,9 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *
                 *
-                *   -
+                *   –
 
-                *   A60/B15
+                *   A0/B15
 
 
             *                *   Vorratsräume
@@ -11183,15 +12526,10 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
                 *
                 *
                 *
-                *   -
+                *   –
 
 
 
-[^BJNR245010008bjne017400000_01_BJNR245010008BJNE017400000]
-[^BJNR245010008bjne017400000_02_BJNR245010008BJNE017400000]
-[^BJNR245010008bjne017400000_03_BJNR245010008BJNE017400000]
-[^BJNR245010008bjne017400000_04_BJNR245010008BJNE017400000]
-[^BJNR245010008bjne017400000_05_BJNR245010008BJNE017400000]
 
 
 
@@ -11290,8 +12628,9 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 4.  In Unterkunftsräumen angebrachte Decken und Wandverkleidungen
     einschließlich ihrer Unterkonstruktion müssen, sofern die Räume nicht
     über eine Druckwassersprühanlage nach § 10.03a verfügen, aus nicht
-    brennbaren Werkstoffen hergestellt sein mit Ausnahme ihrer
-    Oberflächen, die zumindest schwer entflammbar sein müssen.
+    brennbaren Werkstoffen hergestellt sein, mit Ausnahme ihrer
+    Oberflächen, die zumindest schwer entflammbar sein müssen. Satz 1 gilt
+    nicht für Saunen.
 
 
 5.  In Unterkunftsräumen, in denen sich Sammelflächen befinden, müssen
@@ -11310,6 +12649,11 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Dies gilt nicht für Isolierungen von kühlmittelführenden Leitungen.
     Die Oberflächen der Isolierungen dieser Leitungen müssen zumindest
     schwer entflammbar sein.
+
+
+7a. Planen oder ähnliche mobile Einrichtungen, mit denen Decksbereiche
+    teilweise oder vollständig eingehaust werden, sowie deren
+    Unterkonstruktionen müssen schwer entflammbar sein.
 
 
 8.  Türen in Trennflächen nach Nummer 2 müssen folgenden Anforderungen
@@ -11491,18 +12835,22 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Trennflächen zwischen Kontrollstationen und innenliegenden
     Sammelflächen müssen dem Typ A0 entsprechen, bei außenliegenden
     Sammelflächen jedoch lediglich dem Typ B15.
-[^BJNR245010008bjne017400000_01_BJNR245010008BJNE017400000]:     Trennflächen zwischen Unterkunftsräumen und innenliegenden
+[^BJNR245010008bjne017400000_01_BJNR245010008BJNE017401305]:     Trennflächen zwischen Unterkunftsräumen und innenliegenden
     Sammelflächen müssen dem Typ A30 entsprechen, bei außenliegenden
     Sammelflächen jedoch lediglich dem Typ B15.
-[^BJNR245010008bjne017400000_02_BJNR245010008BJNE017400000]:     Wände von Kabinen untereinander, Wände zwischen Kabinen und Gängen und
+[^BJNR245010008bjne017400000_02_BJNR245010008BJNE017401305]:     Wände von Kabinen untereinander, Wände zwischen Kabinen und Gängen und
     senkrechte Trennflächen von Fahrgastbereichen nach Nummer 10 müssen
     dem Typ B15, bei Räumen mit Druckwassersprühanlagen dem Typ B0
-    entsprechen.
-[^BJNR245010008bjne017400000_03_BJNR245010008BJNE017400000]:     Trennflächen zwischen Maschinenräumen nach §§ 15.07 und 15.10 Nr. 6
-    müssen dem Typ A60, im Übrigen dem Typ A0 entsprechen.
-[^BJNR245010008bjne017400000_04_BJNR245010008BJNE017400000]:     Für Trennflächen von Küchen zu Kühlräumen oder zu Vorratsräumen für
+    entsprechen. Trennflächen zwischen Kabinen und Saunen müssen dem Typ
+    A0, bei Räumen mit Druckwassersprühanlagen dem Typ B15 entsprechen.
+[^BJNR245010008bjne017400000_03_BJNR245010008BJNE017401305]:     Trennflächen zwischen Maschinenräumen nach den §§ 15.07 und 15.10
+    Nummer 6 müssen dem Typ A60, im Übrigen dem Typ A0 entsprechen.
+[^BJNR245010008bjne017400000_04_BJNR245010008BJNE017401305]:     Trennflächen zwischen Vorratsräumen zur Lagerung von brennbaren
+    Flüssigkeiten und Kontrollstationen sowie Sammelflächen müssen dem Typ
+    A60, bei Räumen mit Druckwassersprühanlagen dem Typ A 30 entsprechen.
+[^BJNR245010008bjne017400000_05_BJNR245010008BJNE017401305]:     Für Trennflächen von Küchen zu Kühlräumen oder zu Vorratsräumen für
     Nahrungsmittel ist B15 ausreichend.
-[^BJNR245010008bjne017400000_05_BJNR245010008BJNE017400000]: 
+[^BJNR245010008bjne017400000_06_BJNR245010008BJNE017401305]: 
 
 #### § 15.12 Brandbekämpfung
 
@@ -11806,8 +13154,8 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 #### § 15.14 Einrichtung zum Sammeln und Entsorgen von häuslichen Abwässern
 
 
-1.  Fahrgastschiffe müssen mit Abwassersammeltanks oder geeigneten
-    Bordkläranlagen ausgerüstet sein.
+1.  Fahrgastschiffe müssen mit Sammeltanks für häusliche Abwässer nach
+    Nummer 2 oder Bordkläranlagen nach Kapitel 14a ausgerüstet sein.
 
 
 2.  Abwassersammeltanks müssen einen ausreichenden Inhalt haben. Die Tanks
@@ -11870,9 +13218,9 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Beförderung von höchstens 250 Fahrgästen zugelassen sind und deren L
     WL                    25 m nicht überschreitet, von der Erfüllung des
     § 10.04 absehen, wenn das Fahrgastschiff mit einer beidseitig
-    erreichbaren Plattform kurz oberhalb der Schwimmwasserlinie
-    ausgerüstet ist, die es ermöglicht, Personen aus dem Wasser zu bergen.
-    Das Fahrgastschiff kann mit einer vergleichbaren Einrichtung versehen
+    erreichbaren Plattform kurz oberhalb der Wasserlinie ausgerüstet ist,
+    die es ermöglicht, Personen aus dem Wasser zu bergen. Das
+    Fahrgastschiff kann mit einer vergleichbaren Einrichtung versehen
     sein, wobei:
 
     a)  für die Bedienung der Einrichtung eine Person ausreichen muss;
@@ -13004,13 +14352,7 @@ Für Kanalpenichen gelten:
 ### Kapitel 21 - Sonderbestimmungen für Sportfahrzeuge
 
 
-#### § 21.01 Allgemeines
-
-Für Sportfahrzeuge gelten für Bau, Ausrüstung und Besatzung nur die §§
-21\.02 und 21.03.
-
-
-#### § 21.02 Anwendung des Teils II
+#### § 21.01 Anwendung des Teils II
 
 
 1.  Für Sportfahrzeuge gelten:
@@ -13202,39 +14544,31 @@ nachgewiesen sein.
 #### § 22a.04 Schwimmfähigkeit und Stabilität
 
 
-1.  Für Fahrzeuge mit L von mehr als 110 m, ausgenommen Fahrgastschiffe,
-    gelten die Nummern 2 bis 9.
+1.  Für Fahrzeuge mit einer Länge von mehr als 110 m, ausgenommen
+    Fahrgastschiffe, gelten die Nummern 2 bis 10.
 
 
-2.  Die ausreichende Stabilität einschließlich Leckstabilität muss für den
-    ungünstigsten Beladungszustand nachgewiesen sein.
-    Die Grundwerte für die Stabilitätsberechnung - Schiffsleergewicht und
-    Lage des Gewichtsschwerpunktes - müssen ermittelt werden entweder
-    durch
-
-    -   einen Krängungsversuch oder
+2.  Die Grundwerte für die Stabilitätsberechnung – Schiffsleergewicht und
+    Lage des Gewichtsschwerpunktes – müssen durch einen Krängungsversuch
+    nach der IMO-Entschließung MSC 267 (85) Anhang 1 (VkBl. 2009 S. 724)
+    ermittelt werden.
 
 
-    -   eine detaillierte Gewichtsrechnung: Hierbei muss das
-        Schiffsleergewicht durch einen Tiefgangsnachweis am Fahrzeug
-        kontrolliert werden, wobei die durch Gewichtsberechnung ermittelten
-        Massen nicht mehr als ± 5 % von dem durch Tiefgangsablesung
-        ermittelten Schiffsleergewicht abweichen dürfen.
-
-
-
-
-
-
-
-3.  Die Schwimmfähigkeit im Leckfall muss für das voll abgeladene Fahrzeug
-    nachgewiesen werden.
-    Hierbei muss für die kritischen Zwischenzustände und für den
-    Endzustand der Flutung der rechnerische Nachweis der genügenden
-    Stabilität erbracht werden. Treten in Zwischenzuständen negative
-    Stabilitätswerte auf, können sie von der zuständigen Behörde
-    akzeptiert werden, wenn für nachfolgende Zwischenzustände ausreichende
-    Stabilität nachgewiesen wird.
+3.  Der Antragsteller muss durch eine Berechnung, die auf einem Verfahren
+    des wegfallenden Auftriebs beruht, nachweisen, dass im Leckfall die
+    Schwimmfähigkeit und die Stabilität des Schiffes angemessen sind. Alle
+    Berechnungen müssen mit freiem Trimm und freier Tauchung durchgeführt
+    werden. Die ausreichende Schwimmfähigkeit und Stabilität des Schiffes
+    im Leckfall müssen bei einer Ladung, die dessen maximaler Tauchung
+    entspricht und gleichmäßig über sämtliche Laderäume verteilt ist,
+    sowie bei maximalen Vorräten und vollem Tank nachgewiesen werden. Für
+    inhomogene Ladung ist die Stabilitätsberechnung für den ungünstigsten
+    Beladungsfall durchzuführen. Diese Stabilitätsberechnung ist an Bord
+    mitzuführen. Hierbei muss für die Zwischenzustände der Flutung (25 %,
+    50 % und 75 % der Füllung im Endzustand der Flutung und gegebenenfalls
+    für den Zustand unmittelbar vor der Querflutung) und für den
+    Endzustand der Flutung unter den vorstehenden Ladebedingungen der
+    rechnerische Nachweis der genügenden Stabilität erbracht werden.
 
 
 4.  Für den Leckfall sind folgende Annahmen zu berücksichtigen:
@@ -13273,7 +14607,7 @@ nachgewiesen sein.
 
         *            *   Senkrechte Ausdehnung:
 
-            *   von der Basis 0,39 m aufwärts, Sumpf ausgenommen.
+            *   von der Basis aufwärts bis 0,39 m, Sumpf ausgenommen.
 
 
 
@@ -13281,22 +14615,24 @@ nachgewiesen sein.
 
     c)  Alle in den Beschädigungsbereich fallende Schotte sind als leck
         anzusehen, das heißt, die Schotteinteilung muss so gewählt sein, dass
-        das Fahrzeug, auch nach dem Fluten von zwei oder mehr direkt
-        hintereinander liegenden Abteilungen schwimmfähig bleibt. Für den
+        das Fahrzeug auch nach dem Fluten von zwei oder mehreren direkt
+        hintereinanderliegenden Abteilungen schwimmfähig bleibt. Für den
         Hauptmaschinenraum braucht nur die Schwimmfähigkeit für den
-        Einabteilungsstatus nachgewiesen zu werden, d. h.
-        Maschinenraumendschotte gelten als nicht beschädigt.
-        Bei Bodenbeschädigungen sind auch querschiffs nebeneinander liegende
+        Einabteilungsstatus nachgewiesen zu werden, das heißt,
+        Maschinenraumendschotte gelten als nicht beschädigt. Bei
+        Bodenbeschädigungen sind auch querschiffs nebeneinanderliegende
         Abteilungen als geflutet anzusehen.
 
 
     d)  Flutbarkeiten
-        Es ist mit einer Flutbarkeit von 95 % zu rechnen.
-        Abweichend von dieser Annahme darf mit folgenden Flutbarkeiten
-        gerechnet werden:
 
-        aa)
-            *                *   Maschinen- und Betriebsräume:
+        Die Flutbarkeit wird zu 95 % angenommen. Wird durch eine Berechnung
+        nachgewiesen, dass die mittlere Flutbarkeit einer Abteilung kleiner
+        als 95 % ist, so kann der errechnete Wert eingesetzt werden. Die
+        folgenden Werte dürfen nicht unterschritten werden:
+
+        –
+            *                *   Maschinen- und Betriebsräume
 
                 *   85 %
 
@@ -13304,70 +14640,129 @@ nachgewiesen sein.
 
 
 
-        bb)
-            *                *   Doppelböden, Brennstofftanks, Ballasttanks usw. je nachdem, ob sie
-                    ihrer Bestimmung entsprechend für das auf der Ebene der tiefsten
-                    Einsenkung schwimmende Fahrzeug als voll oder leer angenommen werden
-                    müssen:
+        –
+            *                *   Laderäume
 
-                *
-
-            *                *   0 oder 95 %.
-
-
-
-            Wird durch eine Berechnung nachgewiesen, dass die mittlere Flutbarkeit
-            irgendeiner Abteilung kleiner ist, so kann der errechnete Wert
-            eingesetzt werden.
+                *   70 %
 
 
 
 
 
-    e)  Die Unterkante von nicht wasserdicht verschließbaren Öffnungen (z. B.
-        von Türen, Fenstern, Einstiegsluken) muss im Endzustand der Flutung
-        mindestens 100 mm über der Schwimmebene liegen.
+        –
+            *                *   Doppelböden, Brennstofftanks, Ballasttanks usw., je nachdem, ob sie
+                    ihrer
+                    Bestimmung entsprechend für das auf der Ebene der tiefsten Einsenkung
+                    schwimmende Fahrzeug als voll oder leer angenommen werden müssen
+
+                *   0 oder 95 %.
 
 
 
 
 
-5.  Die Stabilität im Leckfall ist ausreichend, wenn auf der Grundlage der
-    Annahmen nach Nummer 4
-
-    a)  im Endzustand der Flutung ein verbleibender Sicherheitsabstand von 100
-        mm nicht unterschritten und eine Neigung des Fahrzeugs von 5° nicht
-        überschritten werden oder
 
 
-    b)  Berechnungen nach dem in der Verordnung über die Beförderung
-        gefährlicher Güter auf dem Rhein (ADNR) in Teil 9 vorgeschriebenen
-        Verfahren zur Leckstabilitätsrechnung ein positives Ergebnis haben.
+
+    e)  Für die Berechnung des freien Oberflächeneffektes in allen
+        Zwischenzuständen der Flutung wird von der Bruttogrundfläche der
+        beschädigten Räume ausgegangen.
 
 
 
 
 
-6.  Werden Quer- oder Niederflutöffnungen zur Verringerung von Asymmetrien
-    vorgesehen, muss der Ausgleich innerhalb von 15 Minuten erfolgen, wenn
-    im Zwischenzustand ausreichende Leckstabilitätswerte nachgewiesen
-    werden.
+5.  In allen Zwischenzuständen der Flutung nach Nummer 3 müssen die
+    folgenden Kriterien eingehalten werden:
+
+    a)  Der Krängungswinkel φ der Gleichgewichtslage des jeweiligen
+        Zwischenzustandes darf 15°, im Falle ungesicherter Container 5°, nicht
+        überschreiten.
 
 
-7.  Wenn Öffnungen, über die unbeschädigte Abteilungen zusätzlich fluten
+    b)  Über die Krängung in der Gleichgewichtslage des jeweiligen
+        Zwischenzustandes hinaus muss der positive Bereich der Hebelarmkurve
+        einen aufrichtenden Hebel GZ*                          0,02 m, im
+        Falle ungesicherter Container 0,03 m, aufweisen, ehe die erste
+        ungeschützte Öffnung eintaucht oder ein Krängungswinkel φ von 27°, im
+        Falle ungesicherter Container 15°, erreicht ist.
+
+
+    c)  Nicht wasserdichte Öffnungen dürfen nicht eintauchen, bevor die
+        Krängung in der Gleichgewichtslage des jeweiligen Zwischenzustandes
+        erreicht ist.
+
+
+
+
+
+6.  Im Endzustand der Flutung müssen die folgenden Kriterien eingehalten
+    werden:
+
+    a)  Die Unterkante von nicht wasserdicht verschließbaren Öffnungen,
+        insbesondere von Türen, Fenstern, Einstiegsluken, muss mindestens 0,10
+        m über der Schwimmebene liegen.
+
+
+    b)  Der Krängungswinkel φ der Gleichgewichtslage darf 12°, im Falle
+        ungesicherter Container 5°, nicht überschreiten.
+
+
+    c)  Über die Krängung in der Gleichgewichtlage hinaus muss der positive
+        Bereich der Hebelarmkurve einen aufrichtenden Hebel GZ
+        R*                          0,05 m aufweisen und die Fläche unter der
+        Kurve muss mindestens 0,0065 m · rad erreichen, ehe die erste
+        ungeschützte Öffnung eintaucht oder ein Krängungswinkel φ von 27°, im
+        Falle ungesicherter Container 10°, erreicht ist.
+
+
+
+    d)  Wenn nicht wasserdichte Öffnungen eintauchen, bevor die
+        Gleichgewichtslage erreicht ist, wird die Flutung der Räume, die mit
+        ihnen verbunden sind, in der Leckstabilitätsrechnung berücksichtigt.
+
+
+
+
+
+7.  Werden Querflutöffnungen zur Verringerung von asymmetrischen Flutungen
+    vorgesehen, müssen folgende Bedingungen eingehalten werden:
+
+    a)  Für die Berechnung der Querflutung ist die IMO-Entschließung A.266
+        (VIII) (VkBl. 2010 S. 457) anzuwenden.
+
+
+    b)  Sie müssen selbsttätig wirken.
+
+
+    c)  Sie dürfen nicht mit Absperrarmaturen versehen sein.
+
+
+    d)  Die Zeit für den vollständigen Ausgleich darf 15 Minuten nicht
+        überschreiten.
+
+
+
+
+
+8.  Wenn Öffnungen, über die unbeschädigte Abteilungen zusätzlich fluten
     können, wasserdicht verschlossen werden können, müssen diese
-    Verschlusseinrichtungen entsprechend ihren Anforderungen beschriftet
-    sein.
+    Verschlusseinrichtungen auf beiden Seiten gut lesbar mit der folgenden
+    Beschriftung versehen sein:
+
+    *        *   „Öffnung sofort nach Durchgang schließen”.
 
 
-8.  Der rechnerische Nachweis nach den Nummern 2 bis 5 gilt als erbracht,
-    wenn Leckstabilitätsrechnungen nach der Verordnung über die
-    Beförderung gefährlicher Güter auf dem Rhein (ADNR), Teil 9, mit
-    positivem Ergebnis vorgelegt werden.
 
 
-9.  Soweit zur Erfüllung der Forderungen nach Nummer 2 oder 3 notwendig,
-    ist die Ebene der größten Einsenkung neu festzusetzen.
+
+9.  Der rechnerische Nachweis nach den Nummern 3 bis 7 gilt als erbracht,
+    wenn Leckstabilitätsrechnungen nach Teil 9 des ADN mit positivem
+    Ergebnis vorgelegt werden.
+
+
+10. Soweit zur Erfüllung der Forderung nach Nummer 3 notwendig, ist die
+    Ebene der größten Einsenkung neu festzulegen.
 
 
 
@@ -13395,8 +14790,7 @@ nachgewiesen sein.
     c)  über ein festinstalliertes Lenzsystem nach § 8.08 verfügen;
 
 
-    d)  die Anforderungen des Anhangs XI, Kapitel 2 § 2.09 Nummer 1.1
-        erfüllen.
+    d)  die Anforderungen des Anhangs XI § 2.01 Nummer 1.1 erfüllen.
 
 
 
@@ -13417,10 +14811,9 @@ nachgewiesen sein.
         nicht mehr gegeben ist. Der Nachweis ist an Bord mitzuführen;
 
 
-    c)  als Doppelhüllenschiffe nach der Verordnung über die Beförderung
-        gefährlicher Güter auf dem Rhein (ADNR) gebaut sein. Motorschiffe
-        müssen den Nummern 9.1.0.91 bis 9.1.0.95, Tankschiffe den Nummern
-        9\.3.2.11.7 und 9.3.2.13 bis 9.3.2.15 des Teils 9 des ADNR entsprechen;
+    c)  als Doppelhüllenschiffe nach ADN gebaut sein; Trockengüterschiffe
+        müssen den Absätzen 9.1.0.91 bis 9.1.0.95, Tankschiffe den Absätzen
+        9\.3.2.11.7 und 9.3.2.13 bis 9.3.2.15 des Teils 9 des ADN entsprechen;
 
 
     d)  über einen Mehrschraubenantrieb nach Nummer 1 Buchstabe a erster
@@ -14024,7 +15417,7 @@ e)  Neben den Ausgängen muss genügend Raum für ein Besatzungsmitglied
 
 
 
-#### § 22b.11 Feuerschutz und Feuerbekämpfung
+#### § 22b.11 Brandschutz und Brandbekämpfung
 
 
 1.  Gänge, öffentlich zugängliche Räume und Wohnungen sowie Küchen und
@@ -14235,7 +15628,7 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
 
-## Teil IV -
+## Teil IV - 
 
 
 ### Kapitel 24 - Übergangs- und Schlussbestimmungen
@@ -14559,7 +15952,7 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     *        *   7.02
 
         *   Nr. 3
-            Absatz 2
+            Satz 2
 
         *   Freie Sicht in der Sichtachse des Rudergängers
 
@@ -14568,12 +15961,45 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
     *        *
-        *   Nr. 5
+        *   Nr. 6
 
         *   Mindestlichtdurchlässigkeit
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2010
+
+
+    *        *
+        *
+        *
+        *   N.E.U. für Fahrzeuge mit getönten Fensterscheiben, die folgenden
+            Bedingungen genügen:
+
+            –   Die Scheiben sind grün eingefärbt und weisen eine
+                Mindestlichtdurchlässigkeit von 60 % auf.
+
+
+            –   Die Decke des Steuerhauses ist so gestaltet, dass Reflexionen auf den
+                Scheiben ausgeschlossen sind.
+
+
+            –   Beleuchtungsquellen im Steuerhaus sind stufenlos regelbar oder
+                abschaltbar.
+
+
+            –   Alle zumutbaren Maßnahmen zur Vermeidung anderer Reflexionen sind
+                getroffen.
+
+
+
+
+
+    *        *
+        *   Nr. 6
+
+        *   Aus Sicherheitsglas
+
+        *   N.E.U.
 
 
     *        *   7.03
@@ -14640,14 +16066,71 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach 1.1.2010
 
 
+    *        *   7.05
+
+        *   Nr. 1
+
+        *   Signallichter, deren Gehäuse, Zubehör und Lichtquellen
+
+        *   Signalleuchten, deren Gehäuse, Zubehör und Lichtquellen, die den
+            Anforderungen der am 30. November 2009 geltenden Vorschriften über die
+            Farbe und Lichtstärke der Bordlichter sowie die Zulassung von
+            Signalleuchten in der Rheinschifffahrt entsprechen, dürfen weiterhin
+            verwendet werden.
+
+
+    *        *   7.06
+
+        *   Nr. 1
+
+        *   Navigationsradaranlagen, die vor dem 1. Januar 1990 zugelassen wurden
+
+        *   Navigationsradaranlagen, die vor dem 1. Januar 1990 zugelassen und vor
+            dem 1. Januar 2000 eingebaut wurden, dürfen bis zur Erneuerung des
+            Schiffsattestes nach dem 31. Dezember 2009, längstens jedoch bis zum
+            Ablauf des 31. Dezember 2011 eingebaut sein und betrieben werden, wenn
+            eine gültige Einbaubescheinigung (1989-II-35, VkBl. 1989 S. 830 Nr.
+            127 Anlage 3) vorhanden ist.
+
+
+    *        *
+        *
+        *   Wendeanzeiger, die vor dem 1. Januar 1990 zugelassen wurden
+
+        *   Wendeanzeiger, die vor dem 1. Januar 1990 zugelassen und vor dem 1.
+            Januar 2000 eingebaut wurden, dürfen bis zur Erneuerung des
+            Schiffsattestes nach dem 1. Januar 2015 eingebaut sein und betrieben
+            werden, wenn eine gültige Einbaubescheinigung (1989-II-35, VkBl. 1989
+            S. 830 Nr. 127 Anlage 3) vorhanden ist.
+
+
+    *        *
+        *
+        *   Navigationsradaranlagen und Wendeanzeiger, die ab dem 1. Januar 1990
+            zugelassen wurden
+
+        *   Navigationsradaranlagen und Wendeanzeiger, die ab dem 1. Januar 1990
+            auf Grund der Vorschriften betreffend die Mindestanforderungen und
+            Prüfbedingungen für Navigationsradaranlagen in der Rheinschifffahrt
+            sowie der Vorschriften betreffend die Mindestanforderungen und
+            Prüfbedingungen für Wendeanzeiger in der Rheinschifffahrt zugelassen
+            wurden, dürfen weiterhin eingebaut und, wenn eine gültige
+            Einbaubescheinigung auf Grund der Vorschriften für den Einbau und die
+            Funktionsprüfung von Navigationsradaranlagen und Wendeanzeigern in der
+            Rheinschifffahrt (1989-II-35, VkBl. 1989 S. 830 Nr. 127 Anlage 3) oder
+            der Anlage M Teil III dieser Verordnung vorhanden ist, betrieben
+            werden.
+
+
     *        *   7.06
 
         *   Nr. 3
 
         *   Inland AIS Geräte
 
-        *   IMO Class A Transponder, die nachweislich vor dem 1.4.2008 eingebaut
-            waren, sind bis zum 31.12.2011 zugelassen
+        *   Inland AIS Geräte, deren Typgenehmigung auf Basis der Edition 1.0 und
+            1\.01 des Test Standards erfolgte, dürfen bis zum 30.11.2015 eingebaut
+            und über dieses Datum hinaus weiterhin betrieben werden.
 
 
     *        *   7.09
@@ -14724,10 +16207,9 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     *        *
         *   Nr. 6
 
-        *   Wellendurchführungen von Antriebsanlagen
+        *   Isolierung von Maschinenteilen
 
-        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
-            1\.1.2015
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
 
 
     *        *   8.03
@@ -14743,11 +16225,9 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     *        *
         *   Nr. 3
 
-        *   Einrichtungen zur automatischen Drehzahlreduzierung
+        *   (weggefallen)
 
-        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
-            1\.1.2010
-
+        *
 
     *        *
         *   Nr. 4
@@ -14756,6 +16236,15 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2010
+
+
+    *        *
+        *   Nr. 5
+
+        *   Wellendurchführungen von Antriebsanlagen
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2015
 
 
     *        *   8.05
@@ -14865,6 +16354,15 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
         *   N.E.U., spätestens bei Erneuerung de Schiffsattestes nach dem 1.1.2010
 
 
+    *        *
+        *   Nr. 9
+
+        *   Peileinrichtung in Laderaumbilgen
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2010
+
+
     *        *   8.09
 
         *   Nr. 2
@@ -14917,7 +16415,7 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
 
-[^bjnr245010008bjne24800000_01_BJNR245010008BJNE024800000]
+[^bjnr245010008bjne24800000_01_BJNR245010008BJNE024803305]
 
     *        *   P
             N ****
@@ -15166,12 +16664,24 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
     *        *   10.02
 
-        *   Nr. 2 Buchstabe a
+        *   Nr. 1 Satz 2
+            Buchstabe b
+
+        *   Behälter aus Stahl oder einem anderen stoßfesten und nicht brennbaren
+            Werkstoff mit mindestens 10 l Inhalt
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
+
+
+    *        *
+        *   Nr. 2
+            Buchstabe a
 
         *   Bescheinigung für Drahtseile und andere Seile
 
         *   Erstes Seil, das auf dem Schiff ersetzt wird: N.E.U., spätestens
-            1\.1.2008 Zweites und drittes Seil: 1.1.2013
+            1\.1.2008
+            Zweites und drittes Seil: 1.1.2013
 
 
     *        *   10.03
@@ -15253,16 +16763,36 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
             Arbeitsbereichen
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
-            1\.1.2015
+            1\.1.2020
+
+
+    *        *
+        *
+        *   Höhe der Lukensülle
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2035
 
 
     *        *   11.04
 
-        *
-        *   Gangbord
+        *   Nr. 1
 
-        *   (\*\*) Erste Erneuerung des Schiffsattestes nach dem 1.1.2035 bei mehr
-            als 7,30 m Breite
+        *   Lichte Breite des Gangbords
+
+        *[^bjnr245010008bjne024800000_03_BJNR245010008BJNE024803305]
+   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2035 bei Fahrzeugen mit mehr als 7,30 m Breite
+
+
+    *        *
+        *   Nr. 2
+
+        *   Gangbordgeländer
+
+        *   Für Schiffe mit L < 55 m und Wohnungen nur auf dem Hinterschiff gilt
+            die Vorschrift bei N.E.U., spätestens bei Erneuerung des
+            Schiffsattestes nach dem 1.1.2020
 
 
     *        *   11.05
@@ -15315,8 +16845,7 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
 
-[^bjnr245010008bjne024800000_02_BJNR245010008BJNE024800000]
-[^bjnr245010008bjne024800000_03_BJNR245010008BJNE024800000]
+[^bjnr245010008bjne024800000_02_BJNR245010008BJNE024803305]
 
     *        *   §§ und Nr.
 
@@ -15352,11 +16881,9 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
     *        *   11.12
 
-        *   Nr. 2 bis 6 und 8 bis 10
+        *   Nr. 2, 4, 5 und 9
 
-        *   Krane: Fabrikschild, höchstzulässige Belastung, Schutzvorrichtungen,
-            rechnerischer Nachweis, Prüfung durch Sachverständige, Unterlagen an
-            Bord
+        *   Fabrikschild, Schutzvorrichtungen, Unterlagen an Bord
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2015
@@ -15488,10 +17015,9 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     *        *   12.05
 
         *
-        *   Trinkwasseranlagen
+        *   (weggefallen)
 
-        *   N.E.U., spätestens 31.12.2006
-
+        *
 
     *        *   12.06
 
@@ -15510,6 +17036,36 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2035
+
+
+    *        *
+        *
+        *   **Kapitel 14a**
+
+        *
+
+    *        *   14a.02
+
+        *   Nr. 2 Tabelle 1 und 2 und Nr. 5
+
+        *   Grenz-/Überwachungswerte und Typgenehmigungen
+
+        *   N.E.U., sofern
+
+            a)  die Grenz- und Überwachungswerte nicht mehr als das Zweifache der
+                Werte der Stufe II betragen,
+
+
+            b)  die Bordkläranlage über eine Hersteller- oder gutachterliche
+                Bescheinigung verfügt, dass sie die typischen Belastungsverläufe, die
+                auf diesem Fahrzeug auftreten, bewältigen kann und
+
+
+            c)  ein Klärschlammmanagement vorliegt, das den Bedingungen des Einsatzes
+                einer Bordkläranlage auf einem Fahrgastschiff entspricht.
+
+
+
 
 
     *        *
@@ -15623,7 +17179,7 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
     *        *
-        *   Nr. 7 bis 13
+        *   Nr. 7 und 8
 
         *   Leckstabilität
 
@@ -15634,9 +17190,38 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     *        *
         *   Nr. 9
 
+        *   Leckstabilität
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
+
+
+    *        *
+        *
+        *   Senkrechte Ausdehnung des Bodenlecks
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
+            Für Schiffe mit einem wasserdichten Deck in einem Abstand von
+            mindestens 0,50 m und weniger als 0,60 m vom Schiffsboden, die
+            erstmals ein Schiffsattest vor dem 31.12.2005 erhalten haben, gilt
+            N.E.U.
+
+
+    *        *
+        *
         *   2-Abteilungsstatus
 
-        *   N.E.U
+        *   N.E.U.
+
+
+    *        *
+        *   Nr. 10 bis 13
+
+        *   Leckstabilität
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
 
 
     *        *   15.05
@@ -15662,13 +17247,21 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
     *        *   15.06
 
-        *   Nr. 1 Buchstabe a
+        *   Nr. 1 Satz 1
 
         *   Fahrgasträume auf allen Decks hinter dem Kollisionsschott und vor dem
             Heckschott
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2045
+
+
+    *        *
+        *   Satz 2
+
+        *   Anforderungen an Decksbereiche, die eingehaust sind
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
 
 
     *        *
@@ -15868,6 +17461,13 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
     *        *
+        *
+        *   Anforderungen an Einhausungen
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
+
+
+    *        *
         *   Nr. 16
 
         *   Trinkwasseranlagen entsprechend § 12.05
@@ -16028,14 +17628,24 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     *        *
         *   Nr. 4
 
+        *   Einzelrettungsmittel für 100 % der Fahrgäste nach EN 395:1998, EN
+            396:1998, EN ISO 12402-3:2006 oder EN ISO 12402-4:2006
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2007
+
+
+    *        *
+        *
         *   Art der Rettungsmittel
 
-        *   Für Fahrgastschiffe, die vor dem 1.1.2006 mit geeigneten
+        *   Für Fahrgastschiffe, die vor dem 1.1.2005 mit geeigneten
             Sammelrettungsmitteln ausgestattet waren, werden diese alternativ zu
-            den Einzelrettungsmitteln angerechnet. Für Fahrgastschiffe, die vor
-            dem 1.1.2006 mit Sammelrettungsmitteln nach § 15.09 Nr. 6 ausgestattet
-            waren, werden diese bis zur Erneuerung des Schiffsattestes nach dem
-            1\.1.2010 alternativ zu den Einzelrettungsmitteln angerechnet.
+            den Einzelrettungsmitteln angerechnet.
+            Für Fahrgastschiffe, die vor dem 1.1.2005 mit Sammelrettungsmitteln
+            nach § 15.09 Nr. 6 ausgestattet waren, werden diese bis zur Erneuerung
+            des Schiffsattestes nach dem 1.1.2010 alternativ zu den
+            Einzelrettungsmitteln angerechnet.
 
 
     *        *
@@ -16203,6 +17813,14 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2045
+
+
+    *        *
+        *   Nr. 7a
+
+        *   Planen oder ähnliche mobile Einrichtungen
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
 
 
     *        *
@@ -16570,16 +18188,16 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     *        *   20.01
 
         *
-        *   §§ 7.01 Nr. 2; 8.05 Nr. 13 und 8.08
+        *   § 7.01 Nr. 2; § 8.05 Nr. 13 und § 8.10
 
-        *   Für Seeschiffe, die nicht für die Beförderung von Gütern nach dem ADNR
+        *   Für Seeschiffe, die nicht für die Beförderung von Gütern nach dem ADN
             bestimmt sind und deren Kiel vor dem 1.10.1987 gelegt wurde: N.E.U.,
             spätestens bei Erneuerung des Schiffsattestes nach dem 1.1.2015.
 
 
     *        *
         *
-        *   § 8.07 Nr. 2
+        *   § 8.09 Nr. 2
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2010
@@ -16606,59 +18224,58 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
     Ein Austauschmotor ist ein gebrauchter, instand gesetzter Motor, der
     dem Motor, den er ersetzt, hinsichtlich Leistung, Drehzahl und
     Einbaubedingungen ähnlich ist.
-[^bjnr245010008bjne24800000_01_BJNR245010008BJNE024800000]: [^bjnr245010008bjne024800000_02_BJNR245010008BJNE024800000]:     1\.                                                   Vor dem 1.
-    Oktober 1980 fest installierte CO
-    2                   -Feuerlöschanlagen bleiben bis zur Erneuerung des
-    Schiffsattestes nach dem 1. Januar 2035 zugelassen, wenn sie § 7.03
-    Nr. 5 in der Fassung des Beschlusses 1975-I-23 entsprechen.
+[^bjnr245010008bjne24800000_01_BJNR245010008BJNE024803305]: [^bjnr245010008bjne024800000_02_BJNR245010008BJNE024803305]:     1\.                                                   Vor dem 1.
+    Oktober 1980 fest installierte CO                   2
+    -Feuerlöschanlagen bleiben bis zur Erneuerung des Schiffsattestes nach
+    dem 1. Januar 2035 zugelassen, wenn sie § 7.03 Nr. 5 in der Fassung
+    des Beschlusses 1975-I-23 entsprechen.
 
 
-    2\.                                                   Vor dem 1. April
-    1992 fest installierte Feuerlöschanlagen, die mit dem Löschmittel
-    Halon 1301 (CBrF3) betrieben werden, bleiben bis zur Erneuerung des
+    2\.                                Vor dem 1. April 1992 fest
+    installierte Feuerlöschanlagen, die mit dem Löschmittel Halon 1301
+    (CBrF3) betrieben werden, bleiben bis zur Erneuerung des
     Schiffsattestes nach dem 1. Januar 2005, jedoch längstens bis zum 1.
     Januar 2010 zugelassen, wenn sie § 7.03 Nr. 5 in der Fassung des
     Beschlusses 1985-II-26 entsprechen.
 
 
     3\.                                                   Vom 1. April 1992
-    bis 31. Dezember 1994 fest installierte CO
-    2                   -Feuerlöschanlagen bleiben bis zur Erneuerung des
-    Schiffsattestes nach dem 1. Januar 2035 zugelassen, wenn sie § 7.03
-    Nr. 5 der am 31. Dezember 1994 geltenden Rheinschiffs-
-    Untersuchungsordnung entsprechen.
+    bis 31. Dezember 1994 fest installierte CO                   2
+    -Feuerlöschanlagen bleiben bis zur Erneuerung des Schiffsattestes nach
+    dem 1. Januar 2035 zugelassen, wenn sie § 7.03 Nr. 5 der am 31.
+    Dezember 1994 geltenden Rheinschiffs-Untersuchungsordnung entsprechen.
 
 
-    4\.                                                   Vom 1. April 1992
-    bis 31. Dezember 1994 erteilte Empfehlungen der Zentralkommission für
-    die Rheinschifffahrt zu § 7.03 Nr. 5 der am 31. Dezember 1994
-    geltenden Rheinschiffs-Untersuchungsordnung bleiben bis zur Erneuerung
-    des Schiffsattestes nach dem 1. Januar 2035 gültig.
+    4\.                                Vom 1. April 1992 bis 31. Dezember
+    1994 erteilte Empfehlungen der Zentralkommission für die
+    Rheinschifffahrt zu § 7.03 Nr. 5 der am 31. Dezember 1994 geltenden
+    Rheinschiffs-Untersuchungsordnung bleiben bis zur Erneuerung des
+    Schiffsattestes nach dem 1. Januar 2035 gültig.
 
 
-    5\.                                                   § 10.03b Nr. 2
-    Buchstabe a gilt bis zur Erneuerung des Schiffsattestes nach dem 1.
-    Januar 2035 nur, wenn diese Anlagen in Schiffe eingebaut werden, deren
-    Kiel nach dem 1. Oktober 1992 gelegt wurde.
+    5\.                                § 10.03b Nr. 2 Buchstabe a gilt bis
+    zur Erneuerung des Schiffsattestes nach dem 1. Januar 2035 nur, wenn
+    diese Anlagen in Schiffe eingebaut werden, deren Kiel nach dem 1.
+    Oktober 1992 gelegt wurde.
 
 
 
-[^bjnr245010008bjne024800000_03_BJNR245010008BJNE024800000]: Die Vorschrift gilt für Schiffe, die nach dem 31. Dezember 1994 auf
-Kiel gelegt wurden und für in Betrieb befindliche Schiffe mit
-folgender Maßgabe:              Bei einer Erneuerung des gesamten
+[^bjnr245010008bjne024800000_03_BJNR245010008BJNE024803305]: Die Vorschrift gilt für Schiffe, die nach dem 31.12.1994 auf Kiel
+gelegt wurden und für in Betrieb befindliche Schiffe mit folgender
+Maßgabe:              Bei einer Erneuerung des gesamten
 Laderaumbereichs sind die Vorschriften des § 11.04 einzuhalten. Bei
 Umbauten, die sich über die gesamte Länge des Gangbordbereichs
 erstrecken und durch die die lichte Breite des Gangbords verändert
-wird,                                              a)
+wird,                             a)
 muss § 11.04 eingehalten werden, wenn die vor dem Umbau vorhandene
 lichte Breite des Gangbords bis zu einer Höhe von 0,90 m oder die
 lichte Breite darüber verringert werden soll,
 
 
-b)                                                   darf die vor dem
-Umbau vorhandene lichte Breite des Gangbords bis zu einer Höhe von
-0,90 m oder die lichte Breite darüber nicht unterschritten werden,
-wenn diese Maße kleiner sind als die nach § 11.04.
+b)                                darf die vor dem Umbau vorhandene
+lichte Breite des Gangbords bis zu einer Höhe von 0,90 m oder die
+lichte Breite darüber nicht unterschritten werden, wenn diese Maße
+kleiner sind als die nach § 11.04.
 
 
 
@@ -17055,9 +18672,8 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
 
 
-#### § 24.05 Übergangsbestimmungen zu Kapitel 23 "Besatzungen"
+#### § 24.05 (ohne Inhalt)
 
-(ohne Inhalt, siehe Anhang XI § 2.16)
 
 
 #### § 24.06 Abweichungen für Fahrzeuge, die nicht unter § 24.01 fallen
@@ -17208,14 +18824,25 @@ wenn diese Maße kleiner sind als die nach § 11.04.
         *
         *
 
+    *        *   7.02
+
+        *   Nr. 6
+
+        *   Aus Sicherheitsglas
+
+        *   N.E.U.
+
+        *   1.12.2016
+
+
     *        *   7.04
 
         *   Nr. 3
 
-        *   Anzeige soweit nicht ein Radareinmannsteuerstand vorhanden
+        *   Anzeige
 
-        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
-            1\.1.2010
+        *   Soweit nicht ein Radareinmannsteuerstand vorhanden: N.E.U., spätestens
+            bei Erteilung oder Erneuerung des Schiffsattestes nach dem 1.1.2010
 
         *   1.4.2007
 
@@ -17242,16 +18869,81 @@ wenn diese Maße kleiner sind als die nach § 11.04.
         *   1.4.2007
 
 
+    *        *   7.05
+
+        *   Nr. 1
+
+        *   Signallichter, deren Gehäuse und Zubehör und Lichtquellen
+
+        *   Signalleuchten, deren Gehäuse, Zubehör und Lichtquellen, die den
+            Anforderungen der am 30. November 2009 geltenden Vorschriften über die
+            Farbe und Lichtstärke der Bordlichter sowie die Zulassung von
+            Signalleuchten in der Rheinschifffahrt entsprechen, dürfen weiterhin
+            verwendet werden.
+
+        *   1.12.2009
+
+
+    *        *   7.06
+
+        *   Nr. 1
+
+        *   Navigationsradaranlagen, die vor dem 1. Januar 1990 zugelassen wurden
+
+        *   Navigationsradaranlagen, die vor dem 1. Januar 1990 zugelassen und vor
+            dem 1. Januar 2000 eingebaut wurden, dürfen bis zur Erneuerung des
+            Schiffsattestes nach dem 31. Dezember 2009, längstens jedoch bis zum
+            Ablauf des 31. Dezember 2011 eingebaut sein und betrieben werden, wenn
+            eine gültige Einbaubescheinigung (1989-II-35, VkBl. 1989 S. 830 Nr.
+            127 Anlage 3) vorhanden ist.
+
+        *   1.12.2009
+
+
+    *        *
+        *
+        *   Wendeanzeiger, die vor dem 1. Januar 1990 zugelassen wurden
+
+        *   Wendeanzeiger, die vor dem 1. Januar 1990 zugelassen und vor dem 1.
+            Januar 2000 eingebaut wurden, dürfen bis zur Erneuerung des
+            Schiffsattestes nach dem 1. Januar 2015 eingebaut sein und betrieben
+            werden, wenn eine gültige Einbaubescheinigung (1989-II-35, VkBl. 1989
+            S. 830 Nr. 127 Anlage 3) vorhanden ist.
+
+        *   1.12.2009
+
+
+    *        *
+        *
+        *   Navigationsradaranlagen und Wendeanzeiger, die ab dem 1. Januar 1990
+            zugelassen wurden
+
+        *   Navigationsradaranlagen und Wendeanzeiger, die ab dem 1. Januar 1990
+            auf Grund der Vorschriften betreffend die Mindestanforderungen und
+            Prüfbedingungen für Navigationsradaranlagen in der Rheinschifffahrt
+            sowie der Vorschriften betreffend die Mindestanforderungen und
+            Prüfbedingungen für Wendeanzeiger in der Rheinschifffahrt zugelassen
+            wurden, dürfen weiterhin eingebaut und, wenn eine gültige
+            Einbaubescheinigung auf Grund der Vorschriften für den Einbau und die
+            Funktionsprüfung von Navigationsradaranlagen und Wendeanzeigern in der
+            Rheinschifffahrt (1989-II-35, VkBl. 1989 S. 830 Nr. 127 Anlage 3) oder
+            der Anlage M Teil III dieser Verordnung vorhanden ist, betrieben
+            werden.
+
+        *   1.12.2009
+
+
     *        *   7.06
 
         *   Nr. 3
 
         *   Inland AIS Geräte
 
-        *   IMO Class A Transponder, die nachweislich vor dem 1.4.2008 eingebaut
-            waren, sind bis zum 31.12.2011 zugelassen
+        *   Inland AIS Geräte, deren Typgenehmigung auf Basis der Edition 1.0 und
+            1\.01 des Test Standards erfolgte, dürfen bis zum 30.11.2015 eingebaut
+            und über dieses Datum hinaus weiterhin betrieben werden.
 
-        *   1.4.2008
+        *   1.12.2013
 
 
     *        *
@@ -17416,7 +19108,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
 
 
-[^bjnr245010008bjne025200000_01_BJNR245010008BJNE025200000]
+[^bjnr245010008bjne025200000_01_BJNR245010008BJNE025203305]
 
     *        *   P
             N ****
@@ -17497,12 +19189,26 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
     *        *   10.02
 
-        *   Nr. 2 Buchstabe a
+        *   Nr. 1 Satz 2
+            Buchstabe b
+
+        *   Behälter aus Stahl oder einem anderen stoßfesten und nicht brennbaren
+            Werkstoff mit mindestens 10 l Inhalt
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
+
+        *   1.12.2011
+
+
+    *        *
+        *   Nr. 2
+            Buchstabe a
 
         *   Bescheinigung für Drahtseile und andere Seile
 
         *   Erstes Seil, das auf dem Schiff ersetzt wird: N.E.U., spätestens
-            1\.1.2008 Zweites und drittes Seil: 1.1.2013
+            1\.1.2008
+            Zweites und drittes Seil: 1.1.2013
 
         *   1.4.2003
 
@@ -17594,6 +19300,53 @@ wenn diese Maße kleiner sind als die nach § 11.04.
         *
         *
 
+    *        *   11.02
+
+        *   Nr. 4
+
+        *   Höhe der Schanzkleider und Lukensülle sowie Gangbordgeländer
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2020
+
+        *   1.12.2011
+
+
+    *        *
+        *
+        *   Höhe der Lukensülle
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2035
+
+        *   1.12.2011
+
+
+    *        *   11.04
+
+        *   Nr. 2
+
+        *   Gangbordgeländer
+
+        *   Für Schiffe mit L < 55 m und Wohnungen nur auf dem Hinterschiff gilt
+            die Vorschrift bei N.E.U., spätestens bei Erneuerung des
+            Schiffsattestes nach dem 1.1.2020
+
+        *   1.12.2011
+
+
+    *        *   11.12
+
+        *   Nr. 2, 4, 5 und 9
+
+        *   Fabrikschild, Schutzvorrichtungen, Unterlagen an Bord
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2015
+
+        *   1.12.2011
+
+
     *        *   11.13
 
         *
@@ -17614,11 +19367,44 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     *        *   12.05
 
         *
-        *   Trinkwasseranlagen
+        *   (weggefallen)
 
-        *   N.E.U., spätestens 31.12.2006
+        *
+        *
 
-        *   1.4.2001
+    *        *
+        *
+        *   **Kapitel 14a**
+
+        *
+        *
+
+    *        *   14a.02
+
+        *   Nr. 2
+            Tabelle 1 und 2
+            und Nr. 5
+
+        *   Grenz-/Überwachungswerte und Typgenehmigungen
+
+        *   N.E.U., sofern
+
+            a)  die Grenz- und Überwachungswerte nicht mehr als das Zweifache der
+                Werte der Stufe II betragen,
+
+
+            b)  die Bordkläranlage über eine Hersteller- oder gutachterliche
+                Bescheinigung verfügt, dass sie die typischen Belastungsverläufe, die
+                auf diesem Fahrzeug auftreten, bewältigen kann und
+
+
+            c)  ein Klärschlammmanagement vorliegt, das den Bedingungen des Einsatzes
+                einer Bordkläranlage auf einem Fahrgastschiff entspricht.
+
+
+
+
+        *   1.12.2011
 
 
     *        *
@@ -17683,6 +19469,24 @@ wenn diese Maße kleiner sind als die nach § 11.04.
         *   1.1.2006
 
 
+    *        *
+        *   Nr. 5 und 6
+
+        *
+            –   Sichtschatten vor dem Bug
+
+
+            –   Ausreichende Sicht nach hinten
+
+
+
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
+
+        *   1.12.2016
+
+
     *        *   15.02
 
         *   Nr. 2
@@ -17720,7 +19524,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
     *        *   15.03
 
-        *   Nr.1 bis 6
+        *   Nr. 1 bis 6
 
         *   Intaktstabilität
 
@@ -17731,7 +19535,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
 
     *        *
-        *   Nr. 7 bis 13
+        *   Nr. 7 und 8
 
         *   Leckstabilität
 
@@ -17744,9 +19548,44 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     *        *
         *   Nr. 9
 
+        *   Leckstabilität
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
+
+        *   1.1.2006
+
+
+    *        *
+        *
+        *   Senkrechte Ausdehnung des Bodenlecks
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
+            Für Schiffe mit einem wasserdichten Deck in einem Abstand von
+            mindestens 0,50 m und weniger als 0,60 m vom Schiffsboden, die
+            erstmals ein Schiffsattest vor dem 31.12.2005 erhalten haben, gilt
+            N.E.U.
+
+        *   1.12.2011
+
+
+    *        *
+        *
         *   2-Abteilungsstatus
 
         *   N.E.U.
+
+        *   1.1.2006
+
+
+    *        *
+        *   Nr. 10 bis 13
+
+        *   Leckstabilität
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
 
         *   1.1.2006
 
@@ -17778,14 +19617,25 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
     *        *   15.06
 
-        *   Nr. 1
+        *   Nr. 1 Satz 1
 
-        *   Fahrgasträume auf allen Decks vor dem Heckschott
+        *   Fahrgasträume unterhalb des Schottendecks und vor dem Heckschott
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2045
 
         *   1.1.2006
+
+
+    *        *
+        *   Satz 2
+
+        *   Anforderungen an Decksbereiche, die eingehaust sind
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2045
+
+        *   1.12.2011
 
 
     *        *
@@ -18023,6 +19873,15 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
 
     *        *
+        *
+        *   Anforderungen an Einhausungen
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
+
+        *   1.12.2011
+
+
+    *        *
         *   Nr. 16
 
         *   Trinkwasseranlagen entsprechend § 12.05
@@ -18126,7 +19985,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     *        *
         *   Nr. 6
 
-        *   Fest installiertes Lenzsystem nach § 8.08 Nr. 4
+        *   Festinstalliertes Lenzsystem
 
         *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
             1\.1.2015
@@ -18201,12 +20060,23 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     *        *
         *   Nr. 4
 
+        *   Einzelrettungsmittel für 100 % der Fahrgäste nach EN 395:1998, EN
+            396:1998, EN ISO 12402-3:2006 oder EN ISO 12402-4:2006
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes nach dem
+            1\.1.2007
+
+        *   1.1.2006
+
+
+    *        *
+        *
         *   Art der Rettungsmittel
 
-        *   Für Fahrgastschiffe, die vor dem 1.1.2006 mit geeigneten
+        *   Für Fahrgastschiffe, die vor dem 1.1.2005 mit geeigneten
             Sammelrettungsmitteln ausgestattet waren, werden diese alternativ zu
             den Einzelrettungsmitteln angerechnet.
-            Für Fahrgastschiffe, die vor dem 1.1.2006 mit Sammelrettungsmitteln
+            Für Fahrgastschiffe, die vor dem 1.1.2005 mit Sammelrettungsmitteln
             nach § 15.09 Nr. 6 ausgestattet waren, werden diese bis zur Erneuerung
             des Schiffsattestes nach dem 1.1.2010 alternativ zu den
             Einzelrettungsmitteln angerechnet.
@@ -18414,6 +20284,16 @@ wenn diese Maße kleiner sind als die nach § 11.04.
             1\.1.2045
 
         *   1.1.2006
+
+
+    *        *
+        *   Nr. 7a
+
+        *   Planen oder ähnliche mobile Einrichtungen
+
+        *   N.E.U., spätestens bei Erneuerung des Schiffsattestes
+
+        *   1.12.2011
 
 
     *        *
@@ -18745,7 +20625,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
 
 
-[^bjnr245010008bjne025200000_02_BJNR245010008BJNE025200000]
+[^bjnr245010008bjne025200000_02_BJNR245010008BJNE025203305]
 
 
 6.  Für Neubauten von Fahrzeugen mit Längen von mehr als 110 m, deren Kiel
@@ -18760,25 +20640,24 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     Ein Austauschmotor ist ein gebrauchter, instand gesetzter Motor, der
     dem Motor, den er ersetzt, hinsichtlich Leistung, Drehzahl und
     Einbaubedingungen ähnlich ist.
-[^bjnr245010008bjne025200000_01_BJNR245010008BJNE025200000]: [^bjnr245010008bjne025200000_02_BJNR245010008BJNE025200000]:     1\.                                                   Vom 1. Januar
-    1995 bis 31. März 2003 fest installierte CO
-    2                   -Feuerlöschanlagen bleiben bis zur Erneuerung des
-    Schiffsattestes nach dem 1. Januar 2035 zugelassen, wenn sie § 10.03
-    Nr. 5 der am 31. März 2002 geltenden Rheinschiffsuntersuchungsordnung
-    entsprechen.
+[^bjnr245010008bjne025200000_01_BJNR245010008BJNE025203305]: [^bjnr245010008bjne025200000_02_BJNR245010008BJNE025203305]:     1\.                                                   Vom 1. Januar
+    1995 bis 31. März 2003 fest installierte CO                   2
+    -Feuerlöschanlagen bleiben bis zur Erneuerung des Schiffsattestes nach
+    dem 1. Januar 2035 zugelassen, wenn sie § 10.03 Nr. 5 der am 31. März
+    2002 geltenden Rheinschiffsuntersuchungsordnung entsprechen.
 
 
-    2\.                                                   Vom 1. Januar
-    1995 bis 31. März 2002 erteilte Empfehlungen der Zentralkommission für
-    die Rheinschifffahrt zu § 10.03 Nr. 5 der am 31. März 2002 geltenden
+    2\.                                Vom 1. Januar 1995 bis 31. März 2002
+    erteilte Empfehlungen der Zentralkommission für die Rheinschifffahrt
+    zu § 10.03 Nr. 5 der am 31. März 2002 geltenden
     Rheinschiffsuntersuchungsordnung bleiben bis zur Erneuerung des
     Schiffsattestes nach dem 1. Januar 2035 gültig.
 
 
-    3\.                                                   § 10.03b Nr. 2
-    Buchstabe a gilt bis zur Erneuerung des Schiffsattestes nach dem 1.
-    Januar 2035 nur, wenn diese Anlagen in Schiffe eingebaut werden, deren
-    Kiel nach dem 1. Oktober 1992 gelegt wurde.
+    3\.                                § 10.03b Nr. 2 Buchstabe a gilt bis
+    zur Erneuerung des Schiffsattestes nach dem 1. Januar 2035 nur, wenn
+    diese Anlagen in Schiffe eingebaut werden, deren Kiel nach dem 1.
+    Oktober 1992 gelegt wurde.
 
 
 
@@ -18802,6 +20681,18 @@ wenn diese Maße kleiner sind als die nach § 11.04.
 
 
 
+
+
+#### § 24.09 Übergangsbestimmungen aus Anlass des Überganges vom ADNR auf das ADN
+
+Zulassungszeugnisse, die nach der mit Beschluss 2001-II-27 gebilligten
+und in der Verordnung zur Neufassung der Verordnung über die
+Beförderung gefährlicher Güter auf dem Rhein und zur Neufassung der
+Verordnung über die Beförderung gefährlicher Güter auf der Mosel vom
+12\. Juli 2003 (BGBl. II S. 648) umgesetzten Verordnung über die
+Beförderung gefährlicher Güter auf dem Rhein (ADNR), erteilt wurden
+und deren Ablaufdatum nicht überschritten ist, gelten als in § 1.02
+Nummer 2 Buchstabe b genannte Zulassungszeugnisse nach ADN.
 
 
 #### Anlage A (Muster) Antrag auf Untersuchung
@@ -18983,8 +20874,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
         (\*)
 
     *   Das Schiff besitzt ein Zulassungszeugnis, ausgestellt nach Maßgabe der
-        Vorschriften über die Beförderung gefährlicher Güter auf dem Rhein
-        (ADNR)
+        Vorschriften des ADN
 
     *
 
@@ -19126,7 +21016,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     *   m)
         (\*)
 
-    *   sonstige Berechungsunterlagen und Nachweise,
+    *   sonstige Berechnungsunterlagen und Nachweise,
 
 
 *    *
@@ -19219,7 +21109,7 @@ Zu Nummer
 
 
     Nichtzutreffendes streichen
-[^bjnr245010008bjne025500000_01_BJNR245010008BJNE025500000]: 
+[^bjnr245010008bjne025500000_01_BJNR245010008BJNE025501305]: 
 
 #### Anlage B
 
@@ -19258,7 +21148,7 @@ Es gilt das Muster nach Anhang V, Teil VI
 
 #### Anlage H
 
-Es gelten die Bestimmungen des Anhangs XI Anlage 1.
+Es gelten die Bestimmungen des Anhangs XI Anlage 1
 
 
 #### Anlage I Sicherheitszeichen
@@ -19329,14 +21219,24 @@ Es gelten die Bestimmungen des Anhangs XI Anlage 1.
     *   Farbe: braun/weiß
 
 
+*    *   Bild 11
+        LNG-Warnung
+
+    *        ![bgbl1_2017_j0330-1_0010.jpg](bgbl1_2017_j0330-1_0010.jpg)
+    *   Farbe: schwarz/gelb
+
+
 
 Die verwendeten Piktogramme können leicht variieren oder detaillierter
 sein als die Darstellungen in dieser Anlage, vorausgesetzt, dass die
 Bedeutung nicht verändert wird und keine Unterschiede und Anpassungen
 die Bedeutung unverständlich machen.
 
+- gilt nur für Fahrzeuge mit Schiffsattest -
+Emission von gasförmigen Schadstoffen und luftverunreinigenden
+Partikeln
 
-#### Anlage J - gilt nur für Fahrzeuge mit Schiffsattest - Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln - Ergänzende Bestimmungen und Muster von Bescheinigungen -
+#### Anlage J - Ergänzende Bestimmungen und Muster von Bescheinigungen -
 
 ## Inhalt
 
@@ -23538,9 +25438,11 @@ Code gemäß den folgenden Zahlenbereichen:
 fünfstellige Seriennummer
 
 
-#### Anlage M - gilt nur für Fahrzeuge mit Schiffsattest -
+#### Anlage M Navigationsradaranlagen und Wendeanzeiger in der Rheinschifffahrt
 
-(Ohne Inhalt)
+(Fundstelle: BGBl. I 2012, 2823 - 2837)
+
+(Text siehe: BinSchUO2008AnhIIAnl M)
 
 
 #### Anlage N Anforderungen an Inland AIS Geräte und Vorschriften betreffend den Einbau und die Funktionsprüfung von Inland AIS Geräten
@@ -23552,8 +25454,9 @@ fünfstellige Seriennummer
 **A.** **Anforderungen an Inland AIS Geräte**
 
     Inland AIS Geräte müssen die Anforderungen des im Beschluss 2007-I-15
-    enthaltenen Test Standards einhalten. Die Einhaltung wird durch eine
-    Typgenehmigungsprüfung einer zuständigen Behörde nachgewiesen.
+    enthaltenen Test Standards, Edition 2.0, einhalten. Die Einhaltung
+    wird durch eine Typgenehmigungsprüfung einer zuständigen Behörde
+    nachgewiesen.
 
 
 **B.** **Einbau und Funktionsprüfung von Inland AIS Geräten an Bord**
@@ -23569,37 +25472,92 @@ fünfstellige Seriennummer
         zugänglichen Stelle eingebaut sein.
 
 
-    3.  Es muss optisch erkennbar sein, ob das Gerät in Betrieb ist. Das Gerät
+    3.  Die Funktionalität eines internen oder externen Minikey Display (MKD –
+        integrierte Eingabe-/Anzeigeeinheit) muss für den Rudergänger
+        zugänglich sein. Alarm- und Statusinformationen des Inland AIS Gerätes
+        müssen sich im direkten Sichtbereich des Rudergängers befinden. Jedoch
+        können andere Geräte, die zum Navigieren benutzt werden, einen höheren
+        Stellenwert bezüglich der direkten Sicht haben. Alle Warnlampen müssen
+        nach dem Einbau sichtbar bleiben.
+
+
+    4.  Es muss optisch erkennbar sein, ob das Gerät in Betrieb ist. Das Gerät
         muss über einen ausfallsicheren Stromkreis mit eigener Absicherung
         ständig mit elektrischer Energie versorgt werden und direkt an diese
         Versorgung angeschlossen sein.
 
 
-    4.  Die Antennen der Inland AIS Geräte sind so zu installieren und an die
+    5.  Die Antennen der Inland AIS Geräte sind so zu installieren und an die
         Geräte anzuschließen, dass diese unter allen normalen
         Betriebsbedingungen sicher funktionieren. Andere Geräte dürfen nur
         dann angeschlossen werden, wenn die Schnittstellen beider Geräte
         kompatibel sind.
 
 
-    5.  Vor der ersten Inbetriebnahme nach dem Einbau, bei Erneuerungen
-        respektive Verlängerungen des Schiffsattests (ausgenommen nach § 2.09
-        Nr. 2 der Rheinschiffsuntersuchungsordnung) sowie nach jedem Umbau am
-        Schiff, der die Betriebsverhältnisse dieser Geräte beeinträchtigen
-        könnte, muss von der zuständigen Behörde oder von einer anerkannten
-        Fachfirma eine Einbau- und Funktionsprüfung durchgeführt werden.
+    6.  Es dürfen nur typzugelassene externe Sensoren mit dem Inland AIS Gerät
+        verbunden werden. Die externen Sensoren, die mit dem Inland AIS Gerät
+        verbunden sind, müssen in Übereinstimmung mit den folgenden
+        entsprechenden maritimen Standards typzugelassen sein.
+
+        *            *   Sensor
+
+            *   Mindestanforderungen
+                (IMO)
+
+            *   DIN/EN/ISO
+                Standard
 
 
-    6.  Die anerkannte Fachfirma, die die Einbau- und Funktionsprüfung
+        *            *   GPS
+
+            *   MSC.112(73)
+
+            *   DIN EN 61108-1:2004
+
+
+        *            *   DGPS/DGLONASS
+
+            *   MSC.114(73)
+
+            *   DIN EN 61108-4:2005
+
+
+        *            *   Galileo
+
+            *   MSC.233(82)
+
+            *   DIN EN 61108-3:2011
+
+
+        *            *   Heading/GPS Kompass
+
+            *   MSC.116(73)
+
+            *   DIN ISO 22090-3:2015
+                Teil 3: GNSS-Verfahren
+
+
+
+
+
+    7.  Vor der ersten Inbetriebnahme nach dem Einbau, bei Erneuerungen oder
+        Verlängerungen des Schiffsattests, ausgenommen nach § 2.09 Nummer 2,
+        sowie nach jedem Umbau am Schiff, der die Betriebsverhältnisse dieser
+        Geräte beeinträchtigen könnte, muss von der zuständigen Behörde oder
+        von einer anerkannten Fachfirma eine Einbau- und Funktionsprüfung
+        durchgeführt werden.
+
+
+    8.  Die anerkannte Fachfirma, die die Einbau- und Funktionsprüfung
         durchgeführt hat, stellt über die besonderen Merkmale und die
         ordnungsgemäße Funktion des Inland AIS Geräts eine Bescheinigung gemäß
         Anlage N Teil II aus.
 
 
-    7.  Die Bescheinigung ist ständig an Bord mitzuführen.
+    9.  Die Bescheinigung ist ständig an Bord mitzuführen.
 
 
-    8.  Eine Bedienungsanleitung ist zum Verbleib an Bord auszuhändigen. Dies
+    10. Eine Bedienungsanleitung ist zum Verbleib an Bord auszuhändigen. Dies
         ist in der Bescheinigung über den Einbau zu vermerken.
 
 
@@ -23784,20 +25742,61 @@ keine zuständige Behörde benannt.
 ### **2. Verzeichnis der nach der Rheinschiffsuntersuchung
 zugelassenen Inland AIS Geräte**
 
+Verzeichnis der vom 1. April 2008 bis zum 18. Oktober 2012 aufgrund
+von Typgenehmigungen
+gemäß dem Test Standard, Edition 1.0 und 1.01, zugelassenen Inland AIS
+Geräte
 
-*    *   lfd. Nr.
+Inland AIS Geräte, deren Typgenehmigung auf Basis der Edition 1.0 und
+1\.01 des Test Standards erfolgte, dürfen bis zum 30.11.2015 eingebaut
+und über dieses Datum hinaus weiterhin betrieben werden.
+
+*    *   Lfd. Nr.
 
     *   Typ
 
     *   Hersteller
 
-    *   Inhaber der Typgenehmigung
+    *   Inhaber der
+        Typgenehmigung
 
     *   Tag der Zulassung
 
-    *   zuständige Behörde
+    *   zuständige
+        Behörde
 
-    *   Zulassungs­Nr.
+    *   Zulassungs-Nr.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   Verzeichnis der ab dem 19. Oktober 2012 aufgrund von Typgenehmigungen
+gemäß dem Test Standard, Edition 2.0, zugelassenen Inland AIS Geräte
+
+
+*    *   Lfd. Nr.
+
+    *   Typ
+
+    *   Hersteller
+
+    *   Inhaber der
+        Typgenehmigung
+
+    *   Tag der Zulassung
+
+    *   zuständige
+        Behörde
+
+    *   Zulassungs-Nr.
 
 
 *    *
@@ -23812,20 +25811,61 @@ zugelassenen Inland AIS Geräte**
    ### **3. Verzeichnis der nach der Rheinschiffsuntersuchung aufgrund
 gleichwertiger Typgenehmigungen zugelassenen Inland AIS Geräte**
 
+Verzeichnis der vom 1. April 2008 bis zum 18. Oktober 2012 aufgrund
+von Typgenehmigungen
+gemäß dem Test Standard, Edition 1.0 und 1.01, zugelassenen Inland AIS
+Geräte
 
-*    *   lfd. Nr.
+Inland AIS Geräte, deren Typgenehmigung auf Basis der Edition 1.0 und
+1\.01 des Test Standards erfolgte, dürfen bis zum 30.11.2015 eingebaut
+und über dieses Datum hinaus weiterhin betrieben werden.
+
+
+*    *   Lfd. Nr.
 
     *   Typ
 
     *   Hersteller
 
-    *   Inhaber der Typgenehmigung
+    *   Inhaber der
+        Typgenehmigung
 
     *   Tag der Zulassung
 
-    *   zuständige Behörde
+    *   zuständige
+        Behörde
 
-    *   Zulassungs­Nr.
+    *   Zulassungs-Nr.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+   Verzeichnis der ab dem 19. Oktober 2012 aufgrund von Typgenehmigungen
+gemäß dem Test Standard, Edition 2.0, zugelassenen Inland AIS Geräte
+
+
+*    *   Lfd. Nr.
+
+    *   Typ
+
+    *   Hersteller
+
+    *   Inhaber der
+        Typgenehmigung
+
+    *   Tag der Zulassung
+
+    *   zuständige
+        Behörde
+
+    *   Zulassungs-Nr.
 
 
 *    *
@@ -23960,10 +26000,44 @@ Anerkennung ausgesprochen.
    Ist keine Fachfirma angegeben, wurde für Firmen in diesem Land keine
 Anerkennung ausgesprochen.
 
+– gilt nur für Fahrzeuge mit Schiffsattest –
 
-#### Anlage O Verzeichnis der dem Schiffsattest nach § 1.03 als gleichwertig anerkannten Zeugnisse und Bedingungen für deren Anerkennung
+#### Anlage O Verzeichnis der dem Schiffsattest nach § 1.03 als gleichwertig anerkannten Zeugnisse und Modalitäten für deren Anerkennung
 
-(Ohne Inhalt)
+(Fundstelle: BGBl. I 2012, 2838)
+
+
+*    *   Lfd. Nr.
+
+    *   Dem Schiffsattest nach § 1.03 als
+        gleichwertig anerkannte Zeugnisse
+
+    *   Modalitäten für deren Anerkennung
+
+    *   Datum der
+        Anerkennung
+
+
+*    *   1
+
+    *   Nach dem 30. Dezember 2008 erteilte oder erneuerte
+        Gemeinschaftszeugnisse für Binnenschiffe, die bestätigen, dass die
+        damit ausgestatteten Fahrzeuge unbeschadet der Übergangsbestimmungen
+        nach Anhang II Kapitel 24 den technischen Vorschriften des Anhangs II
+        der Richtlinie 2006/87/EG über die technischen Vorschriften für
+        Binnenschiffe und zur Aufhebung der Richtlinie 82/714/EWG in der
+        jeweils geltenden Fassung in vollem Umfang entsprechen.
+
+    *   Auf dem Rhein verkehrende Fahrzeuge, die nach dem 30. Dezember 2008
+        ein Gemeinschaftszeugnis erhalten haben, müssen Motoren eingebaut
+        haben, die entweder die Grenzwerte der Zentralkommission für die
+        Rheinschifffahrt, wie in der Rheinschiffsuntersuchungsordnung
+        festgelegt, oder die vergleichbaren Grenzwerte der Richtlinie 97/68/EG
+        in der jeweils geltenden Fassung einhalten.
+
+    *   27.11.2008
+
+
 
 
 #### Anlage P Daten zur Identifikation eines Fahrzeuges
@@ -24087,7 +26161,7 @@ Sofern vorhanden
 *    *   Nr.   4
 
     *
-    *   Ohne Inhalt
+    *   Anwendung der Übergangsbestimmungen
 
 
 *    *   Nr.   5
@@ -24099,7 +26173,9 @@ Sofern vorhanden
 *    *   Nr.   6
 
     *
-    *   Ohne Inhalt
+    *   Anwendung von Vorschriften des Kapitels 15
+        – Örtliche Unterteilungen, Übergangsvorschriften zu Planen oder
+        ähnliche mobile Einrichtungen –
 
 
 *    *   Nr.   7
@@ -24218,21 +26294,38 @@ Sofern vorhanden
     *   Kabel
 
 
+*    *   Nr. 26
+
+    *
+    *   Sachverständige, Sachkundige
+
+
+*    *   Nr. 27
+
+    *
+    *   (ohne Inhalt)
+
+
+*    *   Nr. 28
+
+    *
+    *   Anschluss externer Sensoren an Navigationsradaranlagen
+
+
 
 
 Hinweis:
 
-Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt kann
-für Fahrzeuge, die auf Wasserstraßen der Zonen 3 und 4 verkehren, für
-die in Anhang IV angeführten Bereiche Abweichungen von den in den
-nachfolgenden Dienstanweisungen angegebenen diesbezüglichen Werten
-gestatten.
+Die Generaldirektion Wasserstraßen und Schifffahrt kann für Fahrzeuge,
+die auf Wasserstraßen der Zonen 3 und 4 verkehren, für die in Anhang
+IV angeführten Bereiche Abweichungen von den in den nachfolgenden
+Dienstanweisungen angegebenen diesbezüglichen Werten gestatten.
 
-Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt kann
-für Fahrzeuge, die auf Wasserstraßen der Zonen 1 und 2 verkehren, für
-die in Anhang III angeführten Bereiche höhere Anforderungen in Bezug
-auf die in den folgenden Dienstanweisungen angegebenen diesbezüglichen
-Werte festlegen.
+Die Generaldirektion Wasserstraßen und Schifffahrt kann für Fahrzeuge,
+die auf Wasserstraßen der Zonen 1 und 2 verkehren, für die in Anhang
+III angeführten Bereiche höhere Anforderungen in Bezug auf die in den
+folgenden Dienstanweisungen angegebenen diesbezüglichen Werte
+festlegen.
 
 Dienstanweisung Nr. 1
 ## *Anforderungen an die Ausweich- und Wendeeigenschaften* ****
@@ -24379,7 +26472,7 @@ und 16.06 des Anhangs II)
 
         *   8°/min
 
-        *[^bjnr245010008bjne027100000_01_BJNR245010008BJNE027100000]
+        *[^bjnr245010008bjne027100000_01_BJNR245010008BJNE027104305]
 
         *
         *
@@ -24483,7 +26576,7 @@ und 16.06 des Anhangs II)
     des Kapitels 6 entsprechen und unter Nummer 52 des Schiffsattestes ist
     folgender Vermerk einzutragen:
 
-[^bjnr245010008bjne027100000_02_BJNR245010008BJNE027100000]
+[^bjnr245010008bjne027100000_02_BJNR245010008BJNE027104305]
     „Die unter Nummer 34 genannten Flankenruder
     /Bugsteuereinrichtungen
     /andere Einrichtungen
@@ -25532,7 +27625,7 @@ Beispiele zur Anwendung der Anlage 2
     *   T
         max                      [m]
 
-    *[^bjnr245010008bjne027100000_24_BJNR245010008BJNE027100000]
+    *[^bjnr245010008bjne027100000_24_BJNR245010008BJNE027104305]
    Tgf
         max                      [t]
 
@@ -26982,9 +29075,229 @@ relevanten Bestimmungen nach der Rheinschiffspolizeiverordnung (§§
 
 
 
-## *Dienstanweisung Nr. 4* ****
+**Dienstanweisung Nummer 4**
+Anwendung der Übergangsbestimmungen
+## (Kapitel 15 bis 22b, Kapitel 24)
 
-### (ohne Inhalt)
+
+**1.** **Anwendung der Übergangsbestimmungen beim Zusammenbau von
+    Schiffsteilen**
+
+
+**1.1** **Grundsätze**
+
+    Bei dem Zusammenbau von Schiffsteilen wird Bestandsschutz nur für die
+    Teile, die zu dem Fahrzeug gehören, dessen Schiffsattest erhalten
+    bleibt, gewährt. Übergangsvorschriften können nur für diese Teile in
+    Anspruch genommen werden. Andere Teile werden wie ein Neubau
+    behandelt.
+
+
+**1.2** **Anwendung der Übergangsbestimmungen im Einzelnen**
+
+
+1.2.1 Bei dem Zusammenbau von Schiffsteilen können nur für die Teile, die zu
+    dem Fahrzeug gehören, dessen Schiffsattest erhalten bleibt,
+    Übergangsvorschriften in Anspruch genommen werden.
+
+
+1.2.2 Teile, die nicht zu dem Fahrzeug gehören, dessen Schiffsattest
+    erhalten bleibt, werden wie ein Neubau behandelt.
+
+
+1.2.3 Nach Ergänzung eines Fahrzeugs um ein Teil eines anderen Fahrzeugs
+    erhält Ersteres die Schiffsnummer des Fahrzeugs, dessen Schiffsattest
+    bei dem umgebauten Fahrzeug verbleibt.
+
+
+1.2.4 Bei Beibehaltung eines vorhandenen Schiffsattestes oder bei Erteilung
+    eines neuen Schiffsattestes für ein Fahrzeug nach einem Umbau wird
+    zusätzlich das Baujahr des ältesten Teils des Fahrzeugs im
+    Schiffsattest vermerkt.
+
+
+1.2.5 Wenn ein neues Vorschiff an ein Fahrzeug gesetzt wird, muss auch der
+    Motor für die im Vorschiff installierte Bugsteueranlage den aktuellen
+    Vorschriften entsprechen.
+
+
+1.2.6 Wenn ein neues Achterschiff an ein Fahrzeug gesetzt wird, müssen auch
+    die in dem Achterschiff installierten Motoren den aktuellen
+    Vorschriften entsprechen.
+
+
+**1.3** **Beispiele zur Verdeutlichung**
+
+
+1.3.1 Ein Schiff wird aus zwei älteren Schiffen (Schiff 1 Baujahr 1968;
+    Schiff 2 Baujahr 1972) zusammengesetzt. Von Schiff 1 wird der gesamte
+    Teil außer dem Vorschiff übernommen, von Schiff 2 das Vorschiff. Das
+    zusammengebaute Schiff erhält das Schiffsattest von Schiff 1. Das
+    Vorschiff des zusammengebauten Schiffes muss nun unter anderem mit
+    Ankernischen ausgerüstet werden.
+
+
+1.3.2 Ein Schiff wird aus zwei älteren Schiffen (Schiff 1 Baujahr 1975;
+    Schiff 2 Baujahr 1958, ältestes Bauteil 1952) zusammengesetzt. Von
+    Schiff 1 wird der gesamte Teil außer dem Vorschiff übernommen, von
+    Schiff 2 das Vorschiff. Das zusammengebaute Schiff erhält das
+    Schiffsattest von Schiff 1. Das Vorschiff des zusammengebauten
+    Schiffes muss nun unter anderem mit Ankernischen ausgerüstet werden.
+    Zusätzlich wird in das Schiffstattest das älteste Bauteil aus dem
+    ursprünglichen Schiff 2 mit Baujahr 1952 eingetragen.
+
+
+1.3.3 Bei einem Schiff (Baujahr 1988) wird das Heckteil eines Schiffes
+    (Baujahr 2001) angebaut. Der Motor des Schiffes mit Baujahr 1988 soll
+    im Schiff verbleiben. In diesem Fall muss der Motor typgenehmigt
+    werden. Der Motor müsste auch typgenehmigt werden, wenn es sich um den
+    2001 im Heckteil befindlichen Motor handeln würde.
+
+
+**2.** **Anwendung von Übergangsbestimmungen bei der Änderung der Fahrzeugart
+    (Zweckbestimmung des Fahrzeugs)**
+
+
+**2.1** **Grundsätze**
+
+
+2.1.1 Bei einer Entscheidung über die Anwendung von Übergangsbestimmungen
+    bei der Änderung der Fahrzeugart (Schiffstyp; Zweckbestimmung des
+    Schiffes) sind sicherheitstechnische Aspekte maßgeblich.
+
+
+2.1.2 Eine Änderung der Fahrzeugart liegt dann vor, wenn für die neue Art
+    andere sicherheitstechnische Vorschriften gelten als für die alte
+    Fahrzeugart; dies ist dann der Fall, wenn für die neue Art
+    Sonderbestimmungen der Kapitel 15 bis 22b des Anhangs II anzuwenden
+    sind, die für die alte Art keine Anwendung fanden.
+
+
+2.1.3 Bei der Änderung der Fahrzeugart sind alle Sonderbestimmungen und alle
+    für diese Fahrzeugart spezifischen Vorschriften vollständig
+    einzuhalten; Übergangsbestimmungen können für diese Vorschriften nicht
+    in Anspruch genommen werden. Dies gilt auch für Fahrzeugteile, die von
+    dem vorhandenen Fahrzeug übernommen werden und unter diese
+    Sonderbestimmungen fallen.
+
+
+2.1.4 Der Umbau eines Tankschiffes in ein Trockengüterschiff stellt keine
+    Änderung der Fahrzeugart im Sinne von Nummer 2.1.2 dar.
+
+
+2.1.5 Bei dem Umbau eines Kabinenschiffes in ein Tagesausflugsschiff müssen
+    alle neuen Teile den aktuellen Vorschriften vollständig entsprechen.
+
+
+**2.2** **Anwendung der Übergangsbestimmungen im Einzelnen**
+
+
+2.2.1 Anhang II § 24.02 Nummer 2 oder § 24.06 Nummer 5 oder Anhang XII
+    Artikel 6 § 2 Absatz 2 (N.E.U.) gilt für die Teile des Fahrzeugs, die
+    erneuert werden, sodass neue Fahrzeugteile nicht den
+    Übergangsbestimmungen unterliegen können.
+
+
+2.2.2 Für die Teile des Fahrzeugs, die nicht umgebaut werden, sind die
+    Übergangsbestimmungen auch weiterhin anwendbar, mit Ausnahme der Teile
+    nach Nummer 2.1.3 Satz 2.
+
+
+2.2.3 Werden die Abmessungen des Fahrzeugs geändert, kommen die
+    Übergangsbestimmungen nicht mehr für diejenigen Fahrzeugteile zur
+    Anwendung, die mit dieser Änderung im Zusammenhang stehen (zum
+    Beispiel Abstand des Kollisionsschotts, Freibord, Anker).
+
+
+2.2.4 Bei Änderung der Fahrzeugart kommen die besonderen Vorschriften des
+    Anhangs II zur Anwendung, die nur für die neue Fahrzeugart gelten.
+    Alle vom Umbau des Fahrzeugs betroffenen Teile und
+    Ausrüstungsgegenstände müssen den geltenden Anforderungen der Teile II
+    und III des Anhangs II genügen.
+
+
+2.2.5 Dem Fahrzeug wird dann ein neues oder ein geändertes Schiffsattest
+    erteilt. Unter den Nummern 7 und 8 dieses Attestes wird ein Vermerk
+    sowohl über den ursprünglichen Bau als auch den Umbau aufgenommen.
+
+
+**2.3** **Beispiele zur Verdeutlichung**
+
+
+2.3.1 Ein Güterschiff (Baujahr 1996) wird in ein Fahrgastschiff umgebaut.
+    Kapitel 15 kommt dann für das gesamte Schiff zur Anwendung, ohne
+    Inanspruchnahme von Übergangsbestimmungen. Wenn das Vorschiff weder
+    nach den Umbauplänen noch auf Grund von Kapitel 15 geändert wird,
+    braucht das Schiff keine Ankernischen nach § 3.03 aufzuweisen.
+
+
+2.3.2 Ein Schleppboot (Baujahr 1970) wird in ein Schubboot umgebaut. Der
+    materielle Umbau umfasst nur eine Veränderung der Deckausrüstung und
+    die Installation einer Schubvorrichtung. Alle Übergangsbestimmungen
+    für ein Schiff mit Baujahr 1970 bleiben anwendbar, außer den
+    Bestimmungen, die Kapitel 5, 7 (teilweise), §§ 10.01 und 16.01
+    betreffen.
+
+
+2.3.3 Ein Tankmotorschiff (Baujahr 1970) wird in ein Schubboot umgebaut. Der
+    materielle Umbau umfasst die Abtrennung des Vorschiffs und des
+    Ladungsteils sowie eine Veränderung der Deckausrüstung und die
+    Installation einer Schubvorrichtung. Alle Übergangsbestimmungen für
+    ein Schiff mit Baujahr 1970 bleiben anwendbar, außer den Bestimmungen,
+    die Kapitel 5, 7 (teilweise), §§ 10.01 und 16.01 betreffen.
+
+
+2.3.4 Ein Tankmotorschiff wird zu einem Gütermotorschiff umgebaut. Das
+    Gütermotorschiff muss den geltenden Anforderungen in Bezug auf die
+    Sicherheit am Arbeitsplatz entsprechen, die insbesondere in § 11.04
+    genannt sind.
+
+
+**3.** **Anwendung der Übergangsbestimmungen beim Umbau von
+    Fahrgastschiffen**
+
+
+**3.1** **Anwendung der Übergangsbestimmungen**
+
+
+3.1.1 Umbaumaßnahmen, die für die Erfüllung von Vorschriften des Kapitels 15
+    erforderlich sind, bedeuten – unabhängig vom Zeitpunkt ihrer
+    Durchführung – keinen Umbau „U“ im Sinne von § 24.02 Nummer 2, § 24.03
+    Nummer 1, § 24.06 Nummer 5, Anhang XII Artikel 6 § 2 Absatz 2 oder § 3
+    Absatz 2.
+
+
+3.1.2 Bei dem Umbau eines Kabinenschiffes in ein Tagesausflugsschiff müssen
+    alle neuen Teile den aktuellen Vorschriften vollständig entsprechen.
+
+
+**3.2** **Beispiele zur Verdeutlichung**
+
+
+3.2.1 Ein Fahrgastschiff (Baujahr 1995) muss spätestens nach dem 1. Januar
+    2015 einen zweiten unabhängigen Antrieb installiert haben. Sofern an
+    diesem Fahrgastschiff keine anderen freiwilligen Umbauten vorgenommen
+    werden, muss dafür keine Stabilitätsberechnung nach den neuen
+    Vorschriften vorgenommen werden, sondern es kann, sofern deren
+    Durchführung sachlich notwendig ist, eine Stabilitätsberechnung nach
+    der Fassung dieser Verordnung, nach der letztmalig die Stabilität
+    berechnet wurde, durchgeführt werden.
+
+
+3.2.2 Ein Fahrgastschiff (Baujahr 1994, letzte Erneuerung Schiffsattest
+    2012) wird im Jahr 2016 um 10 m verlängert. Dieses Fahrzeug muss zudem
+    einen zweiten unabhängigen Antrieb erhalten. Außerdem wird eine neue
+    Stabilitätsrechnung notwendig, die nach dem Kapitel 15 für den Ein-
+    und Zweiabteilungsstatus durchgeführt werden muss.
+
+
+3.2.3 Ein Fahrgastschiff (Baujahr 1988) erhält einen stärkeren Antrieb
+    inklusive Propeller. Dieser Umbau ist so gravierend, dass eine
+    Stabilitätsberechnung notwendig wird. Diese muss nach den aktuellen
+    Vorschriften erfolgen.
+
+
+
 
 Dienstanweisung Nr. 5
 ## *Geräuschmessungen* ****
@@ -28015,14 +30328,58 @@ Dienstanweisung Nr. 5
     *
 
 
-   ## *Dienstanweisung Nr. 6* ****
+   **Dienstanweisung Nummer 6**
+Anwendung von Vorschriften des Kapitels 15
+– Örtliche Unterteilungen,
+Übergangsvorschriften zu Planen oder ähnliche mobile Einrichtungen –
+## (§ 15.02 Nummer 5, § 15.03 Nummer 5, § 15.03 Nummer 9)
 
-### (ohne Inhalt)
 
-Dienstanweisung Nr. 7
-## *Spezialanker mit verminderter Ankermasse* ****
+1.  **Örtliche Unterteilungen (§ 15.02 Nummer 5)**
 
-### **(§ 10.01 Nummer 5 des Anhangs II)**
+    Nach § 15.02 Nummer 5 ist es denkbar, dass örtliche wasserdichte
+    Unterteilungen, wie zum Beispiel quer unterteilte Doppelbodentanks,
+    die eine größere Länge als die zu berücksichtigende Lecklänge
+    aufweisen, nicht in die Bewertung einbezogen werden. Hier kann die
+    Querunterteilung gegebenenfalls nicht berücksichtigt werden, wenn
+    diese nicht bis zum Schottendeck hochgeführt wird. Dies könnte zu
+    unangemessenen Schotteinteilungen führen.
+
+
+    **Auslegung der Vorschrift:**
+
+    Ist eine wasserdichte Abteilung länger als nach § 15.03 Nummer 9
+    erforderlich und enthält sie örtliche Unterteilungen, die wasserdichte
+    Teilräume bilden und zwischen denen die Mindestlecklänge wiederum
+    vorhanden ist, können diese in der Leckrechnung angerechnet werden.
+
+
+2.  **Übergangsvorschrift für Einhausungen durch Planen oder ähnliche
+    mobile Einrichtungen hinsichtlich der Stabilität (§ 15.03 Nummer 5)**
+
+    Einhausungen durch Planen oder ähnliche mobile Einrichtungen können zu
+    Problemen bei der Stabilität des Schiffes führen, da sie – eine
+    entsprechende Größe vorausgesetzt – Einfluss auf das Moment aus Wind
+    haben.
+
+    **Auslegung der Vorschrift:**
+
+    Für Fahrgastschiffe, denen vor dem 1. Januar 2006 erstmals ein
+    Schiffsattest erteilt wurde oder für die § 24.06 Nummer 2 Satz 2 in
+    Anspruch genommen wird, muss nach Aufbau einer Einhausung durch Planen
+    oder ähnliche mobile Einrichtungen eine neue Stabilitätsrechnung nach
+    § 15.04 der am 31. Dezember 2005 geltenden Fassung dieser Verordnung
+    erstellt werden, sofern deren Lateralplan A
+    wz                    5 % des insgesamt jeweils zu berücksichtigenden
+    Lateralplans A
+    w                    überschreitet.
+
+
+
+
+Dienstanweisung Nummer 7
+Spezialanker mit verminderter Ankermasse
+## **(§ 10.01 Nummer 5)**
 
 **Teil I:**
 
@@ -28032,11 +30389,11 @@ verminderter Ankermasse nach § 10.01 Nummer 5 sind in der
 nachfolgenden Tabelle zusammengestellt.
 
 
-*    *   **Nr. Anker**
+*    *   Nr. Anker
 
-    *   **Zugelassene Verminderung der Ankermasse in %**
+    *   Zugelassene Verminderung der Ankermasse in %
 
-    *   **Zuständige Behörde**
+    *   Zuständige Behörde
 
 
 *    *   1.
@@ -28050,7 +30407,7 @@ nachfolgenden Tabelle zusammengestellt.
 
 *    *   2.
 
-    *   D'Hone Spezial
+    *   D´Hone Spezial
 
     *   30 %
 
@@ -28140,7 +30497,7 @@ nachfolgenden Tabelle zusammengestellt.
 
 *    *   12.
 
-    *   D'Hone-Danforth
+    *   D´Hone-Danforth
 
     *   50 %
 
@@ -28154,6 +30511,42 @@ nachfolgenden Tabelle zusammengestellt.
     *   40 %
 
     *   Niederlande
+
+
+*    *   14.
+
+    *   SHI high holding anchor, type ST (standard)
+
+    *   30 %
+
+    *   Niederlande
+
+
+*    *   15.
+
+    *   SHI high holding anchor, type FB (fully balanced)
+
+    *   30 %
+
+    *   Niederlande
+
+
+*    *   16.
+
+    *   Klinsmann anchor
+
+    *   30 %
+
+    *   Niederlande
+
+
+*    *   17.
+
+    *   HA-DU-POWER Anker
+
+    *   50 %
+
+    *   Deutschland
 
 
 
@@ -28389,10 +30782,10 @@ ermittelten Ankermassen)**
 Dienstanweisung Nr. 9
 ## *Anforderungen an selbsttätige Druckwassersprühanlagen* ****
 
-### **(§ 10.03a Nummer 1 des Anhangs II)**
+### **(§ 10.03a Nummer 1 und 4)**
 
 Geeignete selbsttätige Druckwassersprühanlagen im Sinne des § 10.03a
-Nummer 1 müssen den folgenden Bedingungen entsprechen:
+Nummer 1 und 4 müssen den folgenden Bedingungen entsprechen:
 
 1.  Die selbsttätige Druckwassersprühanlage muss jederzeit einsatzbereit
     sein, wenn Personen an Bord sind. Es dürfen keine zusätzlichen
@@ -28406,8 +30799,10 @@ Nummer 1 müssen den folgenden Bedingungen entsprechen:
     Wasserversorgung verfügen. Es dürfen keine betriebsstörenden
     Verunreinigungen in die Anlage gelangen können. Für die Überwachung
     und Prüfung der Anlage sind entsprechende Anzeigeinstrumente und
-    Prüfeinrichtungen anzubringen (z.B. Manometer, Wasserstandsanzeiger
-    bei Drucktanks, Prüfleitung für die Pumpe).
+    Prüfeinrichtungen anzubringen (z. B. Manometer, Wasserstandsanzeiger
+    bei Drucktanks, Prüfleitung für die Pumpe). Druckwassersprühanlagen in
+    Kühl- und Gefrierräumen sollten nicht ständig mit Wasser gefüllt sein.
+    Diese Räume können durch Trockensprinkler geschützt werden.
 
 
 3.  Die Pumpe für die Wasserversorgung der Sprühdüsen muss bei einem
@@ -28422,14 +30817,18 @@ Nummer 1 müssen den folgenden Bedingungen entsprechen:
 
 
 4.  Das Sprühsystem muss in Abschnitte unterteilt sein, wobei jeder
-    Abschnitt nicht mehr als 50 Sprühdüsen umfassen darf.
+    Abschnitt nicht mehr als 50 Sprühdüsen umfassen darf. Eine größere
+    Anzahl Sprühdüsen kann von der Untersuchungskommission auf Basis
+    entsprechender Nachweise – insbesondere einer hydraulischen Berechnung
+    – zugelassen werden.
 
 
 5.  Anzahl und Anordnung der Sprühdüsen müssen eine wirksame
     Wasserverteilung in den zu schützenden Räumen gewährleisten.
 
 
-6.  Sprühdüsen müssen bei einer Temperatur von 68 °C bis 79 °C ansprechen.
+6.  Sprühdüsen müssen bei einer Temperatur von 68° C bis 79° C ansprechen,
+    in Küchen bei höchstens 93° C und in Saunen bei höchstens 141° C.
 
 
 7.  Die Anordnung von Teilen der selbsttätigen Druckwassersprühanlage in
@@ -29293,8 +31692,8 @@ Dienstanweisung Nr. 10
     *
 
 
-   Dienstanweisung Nr. 11
-## *Ausstellung des Schiffsattests* ****
+   Dienstanweisung Nummer 11
+## **Ausstellung des Schiffsattests**
 
 
 1.  Allgemeines
@@ -29421,6 +31820,30 @@ Dienstanweisung Nr. 10
     2.  Falls zutreffend, sind die in § 1.01 festgelegten Begriffe zu
         verwenden. Andere Schiffstypen sind mit ihrer fachüblichen Bezeichnung
         einzutragen.
+
+
+    10. Für Fahrzeuge mit Gemeinschaftszeugnis, die zur Fahrt auf dem Rhein
+        zugelassen sind, das sind
+
+        a)  Fahrzeuge, die die Anforderungen des Anhangs II einschließlich der
+            Übergangsbestimmungen des Kapitels 24 vollständig erfüllen, und
+
+
+        b)  Fahrzeuge, die die Übergangsbestimmungen des Kapitels 24a sowie die
+            gemäß Anhang IV zulässigen Erleichterungen nicht in Anspruch nehmen,
+
+
+
+        ist unter dem Gedankenstrich „– auf den Wasserstraßen der Gemeinschaft
+        der Zone(n)“ einzutragen:
+
+        a)  Rhein oder
+
+
+        b)  Zone R.
+
+
+
 
 
     15. Diese Nummer ist nur auszufüllen bei Schiffen, bei denen mindestens
@@ -29554,9 +31977,9 @@ Dienstanweisung Nr. 10
         anzugeben.
 
 
-    43. Handfeuerlöscher, die nach den Bestimmungen anderer
-        Sicherheitsvorschriften z.B. ADNR, gefordert sind, werden hier nicht
-        erfasst.
+    43. Tragbare Feuerlöscher, die nach den Bestimmungen anderer
+        Sicherheitsvorschriften, insbesondere nach ADN gefordert sind, werden
+        hier nicht erfasst.
 
 
     44. Zeile 3: in Gemeinschaftszeugnissen, die vor dem 1.1.2010 zu
@@ -29578,8 +32001,8 @@ Dienstanweisung Nr. 10
         ausgefüllt hat.
 
 
-    52. Hier werden zusätzliche Auflagen, Erleichterungen, Erläuterungen zu
-        Eintragungen in einzelnen Nummern oder Ähnliches eingetragen.
+    52. Hier werden zusätzliche Auflagen, Erleichterungen oder Erläuterungen
+        zu Eintragungen in einzelnen Nummern eingetragen.
 
 
 
@@ -29680,9 +32103,9 @@ Nummer 1 Buchstabe a des Anhangs II)**
 
 
 
-Dienstanweisung Nr. 16
-## *Emission von gasförmigen Schadstoffen und luftverunreinigenden
-Partikeln – Prüfverfahren* ****
+Dienstanweisung Nummer 16
+## **Emission von gasförmigen Schadstoffen und luftverunreinigenden
+Partikeln – Prüfverfahren**
 
 ### **(Kapitel 8a des Anhangs II)**
 
@@ -29996,7 +32419,7 @@ Bezugskraftstoff für Binnenschiffe
 
 
 1   Begriffsbestimmungen
-    Im Sinne dieser Richtlinie bezeichnet der Ausdruck
+    Im Sinne dieser Dienstanweisung bezeichnet der Ausdruck
 
 
 1.1 "gasförmige Schadstoffe" Kohlenmonoxid, Kohlenwasserstoffe
@@ -30011,16 +32434,16 @@ Bezugskraftstoff für Binnenschiffe
     abgeschieden werden;
 
 
-1.3[^bjnr245010008bjne027100000_03_BJNR245010008BJNE027100000]
+1.3[^bjnr245010008bjne027100000_03_BJNR245010008BJNE027104305]
  "Nennleistung" die Leistung in Kilowatt (kW) nach ISO 3046, abgenommen
     auf dem Prüfstand am Ende der Kurbelwelle oder einem entsprechenden
     Bauteil und ermittelt nach dem Verfahren nach ISO 3046 zur Messung der
     Leistung von Verbrennungsmotoren für Kraftfahrzeuge nach der
     Richtlinie 80/1269/EWG
-[^bjnr245010008bjne027100000_04_BJNR245010008BJNE027100000]
+[^bjnr245010008bjne027100000_04_BJNR245010008BJNE027104305]
     , wobei jedoch die Leistung des Motorkühlgebläses ausgeschlossen wird
     und die Prüfbedingungen sowie der Bezugskraftstoff der vorliegenden
-    Richtlinie entsprechen;
+    Dienstanweisung entsprechen;
 
 
 1.4 "Nenndrehzahl" die vom Regler begrenzte Höchstdrehzahl bei Volllast
@@ -31502,7 +33925,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
         *   Leistung
 
-        *[^bjnr245010008bjne027100000_05_BJNR245010008BJNE027100000]
+        *[^bjnr245010008bjne027100000_05_BJNR245010008BJNE027104305]
    2 %
 
         *   3 %
@@ -31683,7 +34106,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
         *   entfällt
 
-        *[^bjnr245010008bjne027100000_06_BJNR245010008BJNE027100000]
+        *[^bjnr245010008bjne027100000_06_BJNR245010008BJNE027104305]
    24 (Teilstrom) (Vollstrom)
 
 
@@ -33001,7 +35424,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
     Die Massendurchsätze der Emissionen für jeden Prüfpunkt sind wie folgt
     zu berechnen:
 
-    a)[^bjnr245010008bjne027100000_07_BJNR245010008BJNE027100000]
+    a)[^bjnr245010008bjne027100000_07_BJNR245010008BJNE027104305]
   Für das Rohabgas
         :
 
@@ -33519,7 +35942,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 
 
 **4.5** **Berechnung der spezifischen Emissionen**
-[^bjnr245010008bjne027100000_08_BJNR245010008BJNE027100000]
+[^bjnr245010008bjne027100000_08_BJNR245010008BJNE027104305]
     Die spezifischen Partikelemissionen PT (g/kWh) sind folgendermaßen zu
     berechnen
     :
@@ -33564,7 +35987,7 @@ Partikelverdünnungs- und -probenahmesysteme (Teil IV Abschnitt 2).
 ## Technische Daten des Bezugskraftstoffs für die Prüfungen zur
 Typgenehmigung und die Überprüfung der Übereinstimmung
 
-[^bjnr245010008bjne027100000_09_BJNR245010008BJNE027100000]
+[^bjnr245010008bjne027100000_09_BJNR245010008BJNE027104305]
 Bezugskraftstoff für Binnenschiffe
 ###
 
@@ -33578,17 +36001,17 @@ Bezugskraftstoff für Binnenschiffe
 
 
 *    *
-    *[^bjnr245010008bjne027100000_14_BJNR245010008BJNE027100000]
+    *[^bjnr245010008bjne027100000_14_BJNR245010008BJNE027104305]
    Grenzwerte und Einheiten
         ****
 
     *   **Prüfmethode**
 
 
-*    *[^bjnr245010008bjne027100000_10_BJNR245010008BJNE027100000]
+*    *[^bjnr245010008bjne027100000_10_BJNR245010008BJNE027104305]
    **Cetanzahl**
 
-    *[^bjnr245010008bjne027100000_15_BJNR245010008BJNE027100000]
+    *[^bjnr245010008bjne027100000_15_BJNR245010008BJNE027104305]
    min. 45
         max. 50
 
@@ -33600,14 +36023,14 @@ Bezugskraftstoff für Binnenschiffe
     *   min. 835 kg/m
         3
         max. 845 kg/m
-[^bjnr245010008bjne027100000_16_BJNR245010008BJNE027100000]
+[^bjnr245010008bjne027100000_16_BJNR245010008BJNE027104305]
         3
 
     *   DIN EN ISO 3675,
         ASTM D 4052
 
 
-*    *[^bjnr245010008bjne027100000_11_BJNR245010008BJNE027100000]
+*    *[^bjnr245010008bjne027100000_11_BJNR245010008BJNE027104305]
    **Siedeverlauf**
         - 95 %-Absatz
 
@@ -33628,9 +36051,9 @@ Bezugskraftstoff für Binnenschiffe
 
 *    *   **Schwefelgehalt**
 
-    *[^bjnr245010008bjne027100000_17_BJNR245010008BJNE027100000]
+    *[^bjnr245010008bjne027100000_17_BJNR245010008BJNE027104305]
    min. 0,1 Massen-%
-[^bjnr245010008bjne027100000_18_BJNR245010008BJNE027100000]
+[^bjnr245010008bjne027100000_18_BJNR245010008BJNE027104305]
         max. 0,2 Massen-%
 
     *   DIN EN ISO 8754,
@@ -33670,7 +36093,7 @@ Bezugskraftstoff für Binnenschiffe
 
     *   max. 0,01 Massen-%
 
-    *[^bjnr245010008bjne027100000_19_BJNR245010008BJNE027100000]
+    *[^bjnr245010008bjne027100000_19_BJNR245010008BJNE027104305]
    ASTM D 482
 
 
@@ -33687,7 +36110,7 @@ Bezugskraftstoff für Binnenschiffe
 
     *
 
-*    *[^bjnr245010008bjne027100000_12_BJNR245010008BJNE027100000]
+*    *[^bjnr245010008bjne027100000_12_BJNR245010008BJNE027104305]
    Oxidationsbeständigkeit
 
     *   max. 2,5 mg/100 ml
@@ -33695,7 +36118,7 @@ Bezugskraftstoff für Binnenschiffe
     *   ASTM D 2274
 
 
-*    *[^bjnr245010008bjne027100000_13_BJNR245010008BJNE027100000]
+*    *[^bjnr245010008bjne027100000_13_BJNR245010008BJNE027104305]
    Zusätze
 
     *
@@ -35204,8 +37627,8 @@ werden.
 
 
 
-Dienstanweisung Nr. 17
-## *Zweckmäßiges Feuermeldesystem* ****
+Dienstanweisung Nummer 17
+## **Zweckmäßiges Feuermeldesystem**
 
 ### **(§ 10.03b Nr. 3, § 15.11 Nr. 17 und § 22b.11 Nr. 1 des Anhangs
 II)**
@@ -35499,20 +37922,27 @@ folgenden Bedingungen erfüllen.
 
 3.1 Feuermeldesysteme müssen
 
-    a)  nach dem Einbau,
+    a)  vor der ersten Inbetriebnahme,
 
 
-    b)  regelmäßig, mindestens aber alle zwei Jahre,
+    b)  vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+        Instandsetzung und
+
+
+    c)  regelmäßig, mindestens jedoch alle zwei Jahre,
 
 
 
     von einem Sachverständigen geprüft werden. Für Maschinen- und
     Kesselräume findet diese Prüfung unter wechselnden Maschinenbetriebs-
-    und Lüftungsbedingungen statt.
+    und Lüftungsbedingungen statt. Prüfungen nach Buchstabe c können auch
+    von einem Sachkundigen einer Fachfirma für Feuerlöschanlagen
+    durchgeführt werden.
 
 
-3.2 Über die Prüfung ist eine vom Prüfer unterzeichnete Bescheinigung
-    auszustellen, aus der das Datum der Prüfung ersichtlich ist.
+3.2 Über die Prüfung ist eine vom Sachverständigen oder Sachkundigen
+    unterzeichnete Bescheinigung auszustellen, aus der das Datum der
+    Prüfung ersichtlich ist.
 
 
 
@@ -35562,9 +37992,8 @@ II)**
 
 
 4.  Die Anforderungen nach den Nummern 2 und 3 gelten auch als erfüllt,
-    wenn für jedes der beiden Teile die Stabilitätsanforderungen nach der
-    Verordnung über die Beförderung von gefährlichen Gütern auf dem Rhein
-    (ADNR) in 9.1.0.95.2. eingehalten werden.
+    wenn für jedes der beiden Teile die Stabilitätsanforderungen nach
+    Absatz 9.1.0.95.2 des ADN eingehalten werden.
 
 
 5.  Der Nachweis der Stabilität der getrennten Schiffsteile kann unter der
@@ -35919,8 +38348,8 @@ Dienstanweisung Nr. 20
 
 
 
-Dienstanweisung Nr. 21
-## *Anforderungen an Sicherheitsleitsysteme* ****
+Dienstanweisung Nummer 21
+## **Anforderungen an Sicherheitsleitsysteme**
 
 ### **(§ 15.06 Nr. 7 und § 22b.10 Buchstabe d des Anhangs II)**
 
@@ -36135,17 +38564,38 @@ Dienstanweisung Nr. 21
 
 
 8.  Prüfung
-    Die Leuchtdichte der LLL muss mindestens alle fünf Jahre von einem
-    Sachverständigen geprüft werden. Über die Prüfung ist eine vom
-    Sachverständigen unterzeichnete Bescheinigung auszustellen, aus der
-    das Datum der Prüfung hervorgeht. Genügt die Leuchtdichte bei einer
-    einzelnen Messung nicht den Anforderungen dieser Dienstanweisung, sind
-    Messungen an mindestens 10 Stellen gleichen Abstands vorzunehmen.
-    Erfüllen über 30 % der Messungen nicht die Anforderungen dieser
-    Dienstanweisung, müssen die Sicherheitsleitsysteme ausgetauscht
-    werden. Genügen 20 bis 30 % der Messungen nicht den Anforderungen
-    dieser Dienstanweisung, sind die Sicherheitsleitsysteme im Laufe eines
-    Jahres erneut zu prüfen.
+
+
+8.1 Die Leuchtdichte der LLL muss
+
+    a)  vor der ersten Inbetriebnahme,
+
+
+    b)  vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+        Instandsetzung und
+
+
+    c)  regelmäßig, mindestens alle fünf Jahre,
+
+
+
+    von einem Sachverständigen geprüft werden. Prüfungen nach Buchstabe c
+    können auch von einem Sachkundigen für Sicherheitsleitsysteme
+    durchgeführt werden.
+
+
+8.2 Über die Prüfung ist eine vom Sachverständigen oder Sachkundigen
+    unterzeichnete Bescheinigung auszustellen, aus der das Datum der
+    Prüfung ersichtlich ist.
+
+
+8.3 Genügt die Leuchtdichte bei einer einzelnen Messung nicht den
+    Anforderungen dieser Dienstanweisung, sind Messungen an mindestens
+    zehn Stellen gleichen Abstands vorzunehmen. Erfüllen über 30 % der
+    Messungen nicht die Anforderungen dieser Dienstanweisung, müssen die
+    Sicherheitsleitsysteme ausgetauscht werden. Genügen 20 bis 30 % der
+    Messungen nicht den Anforderungen dieser Dienstanweisung, sind die
+    Sicherheitsleitsysteme im Laufe eines Jahres erneut zu prüfen.
 
 
 
@@ -36372,30 +38822,50 @@ Anhangs II)**
 
 
 
-Dienstanweisung Nr. 23
-## *Zuordnung des Verwendungszwecks des Motors zur Typgenehmigung und
-besondere Verwendungszwecke des Motors (Motoranwendungen)* ****
+Dienstanweisung Nummer 23
+Zuordnung des Verwendungszweckes des Motors zur Typgenehmigung
+und besondere Verwendungszwecke des Motors (Motoranwendungen)
+(§§ 8a.03, 8a.11 und Anlage J i. V. m. § 8a.07, Dienstanweisung Nummer
+16 des Anhangs II
+## **sowie des § 8a.03 Nummer 1 des Artikels 4 des Anhangs XII)**
 
-### **(§§ 8a.03, 8a.11 und Anlage J i .V. m. § 8a.07, Dienstanweisung
-Nr. 16 des Anhangs II)**
+Nach Anhang II § 8a.02 Nummer 3 und Anhang XII Artikel 4 § 8a.03
+Nummer 1 muss ein Motor, der in ein Fahrzeug oder in Maschinen an Bord
+eingebaut ist, sofern er eine bestimmte Nennleistung überschreitet und
+nicht unter einschlägige Vorschriften der Europäischen Union fällt,
+eine Typgenehmigung besitzen, mit der bestätigt wird, dass für
+Fahrzeuge mit Schiffsattest die Vorschriften des Anhangs II Kapitel 8a
+oder für Fahrzeuge mit Gemeinschaftszeugnis die Vorschriften des
+Anhangs XII Artikel 4 Kapitel 8a in Verbindung mit den Vorschriften
+der Binnenschiffs-Abgasemissionsverordnung und der Richtlinie
+97/68/EG¹ eingehalten werden. Die Typgenehmigung ist für Fahrzeuge
 
-Nach § 8a.02 Nr. 3 muss ein Motor, der in ein Fahrzeug oder in
-Maschinen an Bord eingebaut ist, sofern er eine bestimmte Nennleistung
-überschreitet und nicht unter einschlägige Vorschriften der EU fällt,
-eine Typgenehmigung besitzen, mit der bestätigt wird, dass die
-Vorschriften des Kapitels 8a eingehalten werden.
-Die Typgenehmigung ist nach § 8a.03 zu beantragen und von der
-zuständigen Behörde nach dem Verfahren nach § 8a.04 zu erteilen.
-Nach § 8a.07 kann auch eine gleichwertige Typgenehmigung nach der
-Richtlinie 97/68/EG anerkannt werden.
-§ 8a.11 enthält Bestimmungen zur Prüfung der Motoren.
+a)  mit Schiffsattest nach Anhang II § 8a.03 zu beantragen und von der
+    zuständigen Behörde nach dem Verfahren nach Anhang II § 8a.04 zu
+    erteilen,
+
+
+b)  mit Gemeinschaftszeugnis nach den Vorschriften der Binnenschiffs-
+    Abgasemissionsverordnung zu beantragen und zu erteilen.
+
+
+
+
 Da Motoren für verschiedene Verwendungszwecke eingesetzt werden
-können, die sowohl in Anhang II Anlage J als auch in der Richtlinie
-97/68/EG an mehreren Stellen zu benennen und gemäß ergänzender
-Bestimmungen zu prüfen sind, dient die vorliegende Richtlinie als
-Handreichung für die Umsetzung dieser Bestimmungen. Nachfolgende
-Tabelle listet die zu berücksichtigenden wesentlichen Vorschriften
-auf.
+können, die sowohl nach den Bestimmungen in Anhang II Anlage J als
+auch nach denen der Richtlinie 97/68/EG in mehreren Dokumenten
+anzugeben und nach ergänzenden Bestimmungen zu prüfen sind, dient die
+vorliegende Dienstanweisung als Handreichung für die Umsetzung dieser
+Bestimmungen. Nachfolgende Tabelle listet die zu berücksichtigenden
+wesentlichen Vorschriften auf.
+1              Richtlinie 97/68/EG des Europäischen Parlaments und des
+Rates vom 16. Dezember 1997 zur Angleichung der Rechtsvorschriften der
+Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von
+gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus
+Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EG 1998 Nr.
+L 59 S. 1), die zuletzt durch die Richtlinie 2012/46/EU (ABl. L 353
+vom 21.12.2012, S. 80) geändert worden ist, in der jeweils geltenden
+Fassung.
 
 *    *
     *   Fundstellen
@@ -36431,20 +38901,23 @@ auf.
 
 
 
+
 Die vorliegende Dienstanweisung zeigt in einem ersten Teil die
-Zuordnung des Verwendungszweckes des Motors (Motoranwendung) zu den
-Prüfvorschriften und Testzyklen gemäß Typgenehmigungsverfahren und
-enthält in einem zweiten Teil Bestimmungen für spezielle
-Motoranwendungen.
+Zuordnung des Verwendungszwecks des Motors (Motoranwendung) zu den
+Prüfvorschriften und Testzyklen entsprechend dem
+Typgenehmigungsverfahren und enthält in einem zweiten Teil
+Bestimmungen für spezielle Motoranwendungen.
 
 ## **Teil I**
 
-### **Zuordnung des Verwendungszwecks des Motors (Motoranwendung) zur
+### **Zuordnung des Verwendungszwecks der Motoranwendung zur
 Typgenehmigung**
 
-Die Zuordnung des Verwendungszwecks des Motors (Motoranwendung) zu den
-Prüfvorschriften und Testzyklen gemäß Typgenehmigungsverfahren ist
-anhand nachfolgender Tabelle vorzunehmen.
+Motoranwendungen gelten als durch die entsprechende Typgenehmigung
+abgedeckt, wenn die Zuordnung der Anwendung auf der Grundlage der
+folgenden Tabelle erfolgte. Die Motorenkategorien, Grenzwertstufen und
+Prüfzyklen sind entsprechend der Bezeichnung in den
+Typgenehmigungsnummern angegeben.
 
 *    *   **Motoranwendung**
 
@@ -36457,11 +38930,12 @@ anhand nachfolgender Tabelle vorzunehmen.
     *   **Prüf-**
 
 
-*    *
-    *[^bjnr245010008bjne027100000_21_BJNR245010008BJNE027100000]
-   **Vorschrift**
+*    *[^F779140_22_BJNR245010008BJNE027104305]
+   vorschrift
+        ****
 
-    *   **Zyklus ISO 8178**
+    *   zyklus
+        **ISO 8178**
 
 
 *    *   **Fahrzeughaupt- und Fahrzeughilfsantriebsmotoren mit
@@ -36469,14 +38943,14 @@ anhand nachfolgender Tabelle vorzunehmen.
 
     *   **I**
 
-    *[^bjnr245010008bjne027100000_20_BJNR245010008BJNE027100000]
+    *[^F779140_21_BJNR245010008BJNE027104305]
    Richtlinie
 
     *   V
 
     *   IIIA
 
-    *[^bjnr245010008bjne027100000_22_BJNR245010008BJNE027100000]
+    *[^F779140_23_BJNR245010008BJNE027104305]
    C
 
     *   E3
@@ -36484,12 +38958,12 @@ anhand nachfolgender Tabelle vorzunehmen.
 
 *    *   Anhang IIO
 
-    *   -
+    *   –
 
-    *[^bjnr245010008bjne027100000_23_BJNR245010008BJNE027100000]
+    *[^F779140_24_BJNR245010008BJNE027104305]
    I, II
 
-    *   -
+    *   –
 
     *   E3
 
@@ -36506,22 +38980,25 @@ anhand nachfolgender Tabelle vorzunehmen.
     *   IIIA
 
     *   C
+        3
 
     *   E2
 
 
 *    *   Anhang II
 
-    *   -
+    *   –
 
     *   I, II
+        4
 
-    *   -
+    *   –
 
     *   E2
 
 
-*    *   **Hilfsmotoren mit**
+*    *   Hilfsmotoren
+        **mit**
 
     *   **konstanter Drehzahl**
 
@@ -36529,9 +39006,9 @@ anhand nachfolgender Tabelle vorzunehmen.
 
     *   Richtlinie
 
-    *   V
+    *   D, E, F, G
 
-    *   IIIA
+    *   II
 
     *   B
 
@@ -36540,32 +39017,35 @@ anhand nachfolgender Tabelle vorzunehmen.
 
 *    *   H, I, J, K
 
+    *   IIIA
 
-*    *   D, E, F, G,
 
-    *   II
+*    *[^F779140_25_BJNR245010008BJNE027104305]
+   V
 
 
 *    *   Anhang II
 
-    *   -
+    *   –
 
     *   I, II
+        4
 
-    *   -
+    *   –
 
     *   D2
 
 
-*    *   **variabler Drehzahl und variabler Last**
+*    *   variabler Drehzahl
+        **und variabler Last**
 
     *   **IV**
 
     *   Richtlinie
 
-    *   V
+    *   D,E,F,G
 
-    *   IIIA
+    *   II
 
     *   A
 
@@ -36573,6 +39053,12 @@ anhand nachfolgender Tabelle vorzunehmen.
 
 
 *    *   H, I, J, K
+
+    *   IIIA
+
+
+*    *   V
+        5
 
 
 *    *   L, M, N, P
@@ -36587,11 +39073,12 @@ anhand nachfolgender Tabelle vorzunehmen.
 
 *    *   Anhang II
 
-    *   -
+    *   –
 
     *   I, II
+        4
 
-    *   -
+    *   –
 
     *   C1
 
@@ -36600,26 +39087,25 @@ anhand nachfolgender Tabelle vorzunehmen.
 
 ## **Teil II**
 
-### **Bestimmungen für Motoren mit besonderen Verwendungszwecken
-(Motoranwendungen)**
+### **Bestimmungen für Motoren mit besonderen Motoranwendungen**
 
 
 1.  Motoren, die im Bordbetrieb für mehr als eine Motoranwendung
     vorgesehen sind
 
-    a)  Hilfsmotoren, die Maschinen antreiben, die sowohl die Motoranwendung
-        III als auch IV der Tabelle in Teil I dieser Richtlinie voraussetzen,
-        müssen eine Typgenehmigung für jede entsprechende Anwendung gemäß
+    a)  Hilfsmotoren, die Aggregate oder Maschinen antreiben, die sowohl die
+        Motoranwendung III als auch IV der Tabelle in Teil I zuzuordnen sind,
+        müssen eine Typgenehmigung für jede entsprechende Anwendung nach
         dieser Tabelle besitzen.
 
 
-    b)  Hauptantriebsmotoren, die zusätzlich Maschinen antreiben, müssen
-        lediglich die für die jeweilige Art des Hauptantriebes notwendige
-        Typgenehmigung gemäß der Tabelle in Teil I dieser Richtlinie besitzen,
-        sofern die Hauptanwendung des Motors der Schiffsantrieb ist. Beträgt
-        der zeitliche Anteil der Nebenanwendung mehr als 30 %, muss der Motor
-        neben der Typgenehmigung der Anwendung Hauptantrieb auch eine
-        Typgenehmigung für die Nebenanwendung besitzen.
+    b)  Hauptantriebsmotoren, die zusätzlich Aggregate oder Maschinen
+        antreiben, müssen lediglich die für die jeweilige Art des
+        Hauptantriebes notwendige Typgenehmigung nach der Tabelle in Teil I
+        besitzen, sofern die Hauptanwendung des Motors der Schiffsantrieb ist.
+        Beträgt der zeitliche Anteil der Nebenanwendung mehr als 30 %, muss
+        der Motor neben der Typgenehmigung der Anwendung Hauptantrieb auch
+        eine Typgenehmigung für die Nebenanwendung besitzen.
 
 
 
@@ -36628,26 +39114,37 @@ anhand nachfolgender Tabelle vorzunehmen.
 2.  Bugstrahlantriebe
 
     a)  Direkt oder über Generator mit variabler Drehzahl und Last
-        angetriebene Bugstrahlantriebe sind den Motoranwendungen I oder IV der
-        Tabelle in Teil I dieser Richtlinie zuzuordnen.
+        angetriebene Bugstrahlantriebe sind der Motoranwendung I oder IV der
+        Tabelle in Teil I zuzuordnen.
 
 
     b)  Bugstrahlantriebe, die über einen Generator mit konstanter Drehzahl
-        angetrieben werden, sind den Motoranwendungen II, III oder IV der
-        Tabelle in Teil I dieser Richtlinie zuzuordnen.
+        angetrieben werden, sind den Motoranwendungen II, III oder bei
+        Fahrzeugen mit Schiffsattest der Motoranwendung IV der Tabelle in Teil
+        I zuzuordnen.
 
 
 
 
 
 3.  Leistungsgeminderte Motoren
+
     Die Motoren müssen mit der in den Typgenehmigungsunterlagen
-    bescheinigten Nennleistung, die auf dem Motor mit der Kennzeichnung
-    nach Anhang II Anlage J Teil I angegeben sein sollte, installiert
-    sein. Sie müssen aber nicht zwangsläufig Aggregate oder Maschinen
-    derselben Leistungsaufnahme antreiben. Die Leistung darf durch
-    motorexterne Maßnahmen auf die für die Anwendung notwendige Leistung
-    reduziert werden.
+    bescheinigten Nennleistung, die bei Fahrzeugen
+
+    a)  mit Schiffsattest auf dem Motor mit der Kennzeichnung nach Anhang II
+        Anlage J Teil 1 angegeben sein sollte oder
+
+
+    b)  mit Gemeinschaftszeugnis mit der Typkennzeichnung anzugeben ist,
+
+
+
+    installiert sein. Sie müssen aber nicht zwangsläufig Aggregate oder
+    Maschinen derselben Leistungsaufnahme antreiben. Wenn diese Motoren
+    Aggregate oder Maschinen mit geringerer Leistungsaufnahme antreiben,
+    darf die Leistung durch motorexterne Maßnahmen auf die für die
+    Anwendung notwendige Leistung reduziert werden.
 
 
 
@@ -36826,21 +39323,30 @@ Dienstanweisung Nr. 24
     nach Möglichkeit ausgeschlossen ist.
 
 
-4.  Kalibrierung / Prüfung der Anlage
+4.  Kalibrierung und Prüfung von Gaswarneinrichtungen, Austausch von
+    Teilen mit begrenzter Lebensdauer
 
 
-4.1 Vor der Inbetriebnahme ist die Gaswarneinrichtung nach
-    Herstellerangaben zu kalibrieren.
+4.1 Gaswarneinrichtungen sind nach den Herstellerangaben
+
+    a)  vor der ersten Inbetriebnahme,
 
 
-4.2 Die Gaswarneinrichtung ist regelmäßig nach den Herstellerangaben durch
-    einen Sachverständigen oder einen Sachkundigen zu kalibrieren und zu
-    prüfen. Über die Prüfung ist eine vom Sachverständigen oder
-    Sachkundigen unterzeichnete Bescheinigung auszustellen, aus der das
-    Datum der Prüfung ersichtlich ist.
+    b)  vor der Wiederinbetriebnahme nach einer wesentlichen Änderung oder
+        Instandsetzung und
 
 
-4.3 Elemente der Gaswarneinrichtung mit begrenzter Lebensdauer müssen
+    c)  regelmäßig
+
+
+
+    von einem Sachverständigen oder einem Sachkundigen zu kalibrieren und
+    zu prüfen. Über die Kalibrierung und die Prüfung ist eine vom
+    Sachverständigen oder Sachkundigen unterzeichnete Bescheinigung
+    auszustellen, aus der das Datum der Prüfung ersichtlich ist.
+
+
+4.2 Elemente der Gaswarneinrichtung mit begrenzter Lebensdauer müssen
     rechtzeitig vor dem Ablauf der angegebenen Lebensdauer ausgetauscht
     werden.
 
@@ -37018,40 +39524,401 @@ Dienstanweisung Nr. 25
 
 
 
+Dienstanweisung Nummer 26
+Sachverständige, Sachkundige
+## **(§ 1.01 Nummer 92 und 93)**
+
+**Sachverständige**
+
+Sachverständigen obliegen Prüfungen, die entweder auf Grund der
+Komplexität der Systeme oder auf Grund des erforderlichen
+Sicherheitsniveaus besondere Fachkenntnisse erfordern. Zu der Gruppe
+von Personen oder Institutionen, die berechtigt sind, derartige
+Prüfungen durchzuführen, gehören
+
+–   Klassifikationsgesellschaften; diese verfügen entweder intern über den
+    nötigen Sachverstand oder tragen im Rahmen ihrer Ermächtigung die
+    Verantwortung für die Beiziehung von externen Personen oder
+    Institutionen und haben die erforderlichen Qualitätssicherungssysteme
+    für die Auswahl dieser Personen oder Institutionen;
+
+
+–   Mitglieder der Untersuchungskommissionen oder Mitarbeiter der
+    zuständigen Behörden;
+
+
+–   behördlich anerkannte Personen oder Institutionen des dem Prüfumfang
+    jeweils entsprechenden Fachgebiets, wobei auch die
+    Schiffsuntersuchungskommissionen als staatliche Stellen diese
+    Anerkennung aussprechen können, idealerweise auf Basis eines
+    entsprechenden Qualitätssicherungssystems. Eine Person oder
+    Institution gilt auch als anerkannt, wenn sie erfolgreich ein
+    behördliches Auswahlverfahren durchlaufen hat, welches insbesondere
+    auf Anforderungen an Kompetenz und Erfahrung basiert.
+
+
+
+
+**Sachkundige**
+
+Sachkundigen obliegen zum Beispiel laufende Sicht- und
+Funktionskontrollen von sicherheitsrelevanten Einrichtungen. Zu den
+Sachkundigen gehören
+
+–   Personen, die auf Grund ihrer beruflichen Ausbildung und Erfahrung in
+    der Lage sind, einen bestimmten Sachverhalt mit ausreichender
+    Fachkenntnis zu beurteilen, zum Beispiel Schiffsführer,
+    Sicherheitsbeauftragte von Schifffahrtsunternehmen,
+    Besatzungsmitglieder mit entsprechender Erfahrung;
+
+
+–   Unternehmen, die auf Grund ihrer üblichen Tätigkeiten, z. B. als
+    Schiffswerft oder Einbaufirma, die ausreichende Fachkenntnis erworben
+    haben;
+
+
+–   Hersteller von speziellen Anlagen (zum Beispiel Feuerlöschanlagen,
+    Steuereinrichtungen).
+
+
+
+
+**Terminologie**
+
+
+*    *   Deutsch
+
+    *   Englisch
+
+    *   Französisch
+
+    *   Niederländisch
+
+
+*    *   Sachverständiger
+
+    *   expert
+
+    *   expert
+
+    *   erkend deskundige
+
+
+*    *   Sachkundiger
+
+    *   competent person
+
+    *   spécialiste
+
+    *   deskundige
+
+
+*    *   Fachfirma
+
+    *   competent firm
+
+    *   société spécialisée
+
+    *   deskundig bedrijf
+
+
+
+**Prüfungen**
+
+Die nachfolgende Tabelle gibt einen Überblick über die vorgesehenen
+Prüfungen, deren Häufigkeit und die für deren Durchführung
+vorgesehenen Prüfer.
+
+
+*    *   Vorschrift
+
+    *   Gegenstand
+
+    *   Prüfung spätestens
+
+    *   Prüfer
+
+
+*    *   § 6.03 Nr. 5
+
+    *   Hydraulikzylinder, -pumpen und -motoren
+
+    *   nach 8 Jahren
+
+    *   Fachfirma
+
+
+*    *   § 6.09 Nr. 3
+
+    *   motorisch betriebene Steuereinrichtungen
+
+    *   nach 3 Jahren
+
+    *   Sachkundiger
+
+
+*    *   § 8.01 Nr. 2
+
+    *   Druckbehälter
+
+    *   nach 5 Jahren
+
+    *   Sachverständiger
+
+
+*    *   § 10.03 Nr. 5
+
+    *   Feuerlöscher
+
+    *   nach 2 Jahren
+
+    *   Sachkundiger
+
+
+*    *   § 10.03a Nr. 6
+        Buchstabe d
+
+    *   fest installierte Feuerlöschanlagen
+
+    *   nach 2 Jahren
+
+    *   Sachkundiger oder Fachfirma
+
+
+*    *   § 10.03b Nr. 9
+        Buchstabe b
+        Doppelbuchstabe dd
+
+    *   fest installierte Feuerlöschanlagen
+
+    *   nach 2 Jahren
+
+    *   Sachkundiger oder Fachfirma
+
+
+*    *   § 10.04 Nr. 3
+
+    *   aufblasbare Beiboote
+
+    *   nach Ablauf der vom Hersteller angegebenen Frist
+
+    *
+
+*    *   § 10.05 Nr. 3
+
+    *   Rettungswesten
+
+    *   nach Ablauf der vom Hersteller angegebenen Frist
+
+    *
+
+*    *   § 11.12 Nr. 6
+
+    *   Krane
+
+    *   nach 10 Jahren
+
+    *   Sachverständiger
+
+
+*    *   § 11.12 Nr. 7
+
+    *   Krane
+
+    *   nach 1 Jahr
+
+    *   Sachkundiger
+
+
+*    *   § 14.13
+
+    *   Flüssiggasanlagen
+
+    *   nach 3 Jahren
+
+    *   Sachverständiger
+
+
+*    *   § 15.09 Nr. 9
+
+    *   Rettungsmittel
+
+    *   nach Ablauf der vom Hersteller angegebenen Frist
+
+    *
+
+*    *   § 15.10 Nr. 9
+
+    *   Isolationswiderstand,
+        Erdung
+
+    *   vor Ablauf der Gültigkeitsfrist des Schiffszeugnisses
+
+    *
+
+*    *   Dienstanweisung Nr. 17
+
+    *   Feuermeldesysteme
+
+    *   nach 2 Jahren
+
+    *   Sachverständiger oder Sachkundiger
+
+
+*    *   Dienstanweisung Nr. 21
+
+    *   Sicherheitsleitsysteme
+
+    *   nach 5 Jahren
+
+    *   Sachverständiger oder Sachkundiger
+
+
+*    *   Dienstanweisung Nr. 24
+
+    *   Gaswarneinrichtungen
+
+    *   nach Ablauf der vom Hersteller angegebenen Frist
+
+    *   Sachverständiger oder Sachkundiger
+
+
+
+**Dienstanweisung Nummer 27**
+## (ohne Inhalt)
+
+Dienstanweisung Nummer 28
+Anschluss externer Sensoren an Navigationsradaranlagen
+## **(§ 7.06, Anlage M Teil I § 2, Anlage M Teil III § 2, Anlage N
+Teil I)**
+
+
+1.  Hintergrund
+
+    Moderne Navigationsradaranlagen für den Binnenbereich erlauben die
+    Darstellung von AIS-Symbolen im Radarbildschirm, auch wenn keine
+    ECDIS-Karte hinterlegt ist. Da das Radarbild vorausorientiert
+    dargestellt wird, die Positionen der Schiffe im Inland AIS Gerät aber
+    in geographischen Koordinaten übertragen werden, muss an das
+    Radargerät zusätzlich ein Kompassgerät angeschlossen werden, um die
+    AIS-Symbole positions- und lagerichtig auf dem Radarbildschirm
+    anzeigen zu können.
+
+
+2.  Ausgangslage
+
+
+2.1. Anschluss von externen Sensoren an Inland AIS Geräte
+
+    Nach Anlage N, Teil I, Punkt B.6. dürfen nur typzugelassene externe
+    Sensoren mit dem Inland AIS Gerät verbunden werden. Die externen
+    Sensoren, die mit dem Inland AIS Gerät verbunden sind, müssen in
+    Übereinstimmung mit den entsprechenden maritimen Standards
+    typzugelassen sein.
+
+
+2.2. Anforderungen an Geräte bei der Radarfahrt
+
+    Nach Anlage M, Teil III, § 2 Zulassung der Geräte, dürfen für die
+    Radarfahrt in der Rheinschifffahrt nur Geräte eingebaut werden, die
+    eine Zulassung nach den geltenden Vorschriften der Zentralkommission
+    für die Rheinschifffahrt besitzen und eine Zulassungsnummer tragen,
+    oder aufgrund gleichwertiger Typgenehmigungen zugelassene Geräte. Laut
+    Anlage M, Teil I, § 2 Aufgabe der Radaranlage, müssen Radaranlagen ein
+    für die Führung des Schiffes verwertbares Bild liefern, sowie andere
+    Schiffe sicher und rechtzeitig erkennen lassen.
+
+
+3.  Anschluss von externen Sensoren an Navigationsradaranlagen
+
+    Nach 2.2 dürfen nur zugelassene Geräte für die Radarfahrt eingebaut
+    werden. Dies bedeutet, dass auch externe Sensoren, die mit der
+    Navigationsradaranlage verbunden werden, zugelassen sein müssen. Wird
+    ein Inland AIS Gerät an eine Navigationsradaranlage ohne ECDIS-Karte
+    zur Anzeige von AIS-Symbolen angeschlossen, muss zur Erfüllung der
+    Forderung nach Anlage M Teil 1 § 2 auch ein zugelassener Kompass
+    angeschlossen sein. Die Zulassung folgender Standards gilt hier als
+    konform mit den Bestimmungen der Anlage M Teil II § 2.
+
+    *        *   Sensor
+
+        *   Mindestanforderungen
+            (IMO)
+
+        *   DIN/EN/ISO
+            Standard
+
+
+    *        *   GPS
+
+        *   MSC.112(73)
+
+        *   DIN EN 61108-1:2004
+
+
+    *        *   DGPS/DGLONASS
+
+        *   MSC.114(73)
+
+        *   DIN EN 61108-4:2005
+
+
+    *        *   Galileo
+
+        *   MSC.233(82)
+
+        *   DIN EN 61108-3:2011
+
+
+    *        *   Heading/GPS Kompass
+
+        *   MSC.116(73)
+
+        *   DIN ISO 22090-3:2015
+            Teil 3: GNSS-Verfahren
+
+
+
+
+    Vergleichbare Zulassungen können von der zuständigen Behörde als
+    gleichwertig anerkannt werden.
+
+
+
+
     nach Festlegung des nautischen Sachverständigen
-[^bjnr245010008bjne027100000_01_BJNR245010008BJNE027100000]: [^bjnr245010008bjne027100000_02_BJNR245010008BJNE027100000]:     **              Nichtzutreffendes streichen.
+[^bjnr245010008bjne027100000_01_BJNR245010008BJNE027104305]: [^bjnr245010008bjne027100000_02_BJNR245010008BJNE027104305]:     **              Nichtzutreffendes streichen.
     ABl. L375 vom 31.12.1980, S. 46. Richtlinie zuletzt geändert durch die
     Richtlinie 89/491/EWG (ABl. L238 vom 15.8.1989, S. 43).
-[^bjnr245010008bjne027100000_03_BJNR245010008BJNE027100000]:     Dies bedeutet im Gegensatz zu den Anforderungen des Anhangs I
+[^bjnr245010008bjne027100000_03_BJNR245010008BJNE027104305]:     Dies bedeutet im Gegensatz zu den Anforderungen des Anhangs I
     Abschnitt 5.1.1.1 der Richtlinie 80/1269/EWG, dass das
     Motorkühlgebläse während der Prüfung zur Ermittlung der Nennleistung
     des Motors nicht angebaut sein darf. Führt der Hersteller die Prüfung
     jedoch mit angebautem Motorkühlgebläse durch, so muss die vom Gebläse
     aufgenommene Leistung zu der auf diese Weise ermittelten Leistung
     hinzuaddiert werden.
-[^bjnr245010008bjne027100000_04_BJNR245010008BJNE027100000]:     Die Berechnung der gasförmige Emissionen nach dieser Richtlinie
+[^bjnr245010008bjne027100000_04_BJNR245010008BJNE027104305]:     Die Berechnung der gasförmige Emissionen nach dieser Dienstanweisung
     basieren teilweise auf unterschiedlichen Mess- und/oder
     Berechnungsmethoden. Aufgrund der angegebenen Gesamttoleranzen für die
     Berechnung der Abgasemission müssen die zulässigen Werte für einige
     Kennwerte bei Anwendung in den entsprechenden Gleichungen geringer
     sein als die in ISO 3046-3 angegebenen zulässigen Toleranzen.
-[^bjnr245010008bjne027100000_05_BJNR245010008BJNE027100000]:     Vollstromsysteme – Die CVS-Verdrängerpumpe oder das Venturi-Rohr mit
+[^bjnr245010008bjne027100000_05_BJNR245010008BJNE027104305]:     Vollstromsysteme – Die CVS-Verdrängerpumpe oder das Venturi-Rohr mit
     kritischer Strömung sind nach der Anbringung, nach wesentlichen
     Wartungsarbeiten oder nach Feststellung eines entsprechenden Bedarfs
     bei der in Teil IV beschriebenen Überprüfung des CVS-Systems zu
     kalibrieren.
-[^bjnr245010008bjne027100000_06_BJNR245010008BJNE027100000]: [^bjnr245010008bjne027100000_07_BJNR245010008BJNE027100000]:     Im Fall von No                            x              ist die NO
-    x             -Konzentration (No                            x
-    conc oder No                            x             conc
-    c             ) mit K                            HNOX
-    (Feuchtigkeits-Korrekturfaktor für No                            x9
+[^bjnr245010008bjne027100000_06_BJNR245010008BJNE027104305]: [^bjnr245010008bjne027100000_07_BJNR245010008BJNE027104305]:     Im Fall von No             x              ist die NO             x
+    -Konzentration (No             x             conc oder No
+    x             conc             c             ) mit K             HNOX
+    (Feuchtigkeits-Korrekturfaktor für No             x9
     angegeben in Abschnitt 3.3) wie folgt zu multiplizieren:
-    K                            HNOX              x conc oder K
-    HNOX              x conc                            c
-[^bjnr245010008bjne027100000_08_BJNR245010008BJNE027100000]:     Der Partikelmassendurchsatz PT                            mass
-    ist mit K                            p              (Feuchtigkeits-
-    Korrekturfaktor für Partikel laut Abschnitt 4.1) zu multiplizieren.
-[^bjnr245010008bjne027100000_09_BJNR245010008BJNE027100000]:     **                Soll der thermische Wirkungsgrad eines Motors oder
+    K             HNOX              x conc oder K             HNOX
+    x conc             c
+[^bjnr245010008bjne027100000_08_BJNR245010008BJNE027104305]:     Der Partikelmassendurchsatz PT             mass              ist mit K
+    p              (Feuchtigkeits-Korrekturfaktor für Partikel laut
+    Abschnitt 4.1) zu multiplizieren.
+[^bjnr245010008bjne027100000_09_BJNR245010008BJNE027104305]:     **                Soll der thermische Wirkungsgrad eines Motors oder
     Fahrzeugs berechnet werden, so kann der Heizwert des Kraftstoffs nach
     folgender Formel ermittelt werden:                Spezifische Energie
     (Heizwert) (netto) MJ/kg =                (46,423 – 8,792 d
@@ -37060,7 +39927,7 @@ Dienstanweisung Nr. 25
     x = Wassergehalt in Gewichts-% (%/100)                y = Aschegehalt
     in Gewichts-% (%/100)                s = Schwefelgehalt in Gewichts-%
     (%/100).
-[^bjnr245010008bjne027100000_14_BJNR245010008BJNE027100000]:     Die in der Vorschrift angegebenen Werte sind „tatsächliche Werte“. Bei
+[^bjnr245010008bjne027100000_14_BJNR245010008BJNE027104305]:     Die in der Vorschrift angegebenen Werte sind „tatsächliche Werte“. Bei
     der Festlegung der Grenzwerte wurden die Bestimmungen aus dem ASTM-
     Dokument D 3244 „Festlegung einer Grundlage bei Streitfällen, die die
     Qualität von Erdölprodukten betreffen« übernommen, bei der Festlegung
@@ -37074,29 +39941,29 @@ Dienstanweisung Nr. 25
     erreichen. Falls Zweifel bestehen, ob ein Kraftstoff die
     vorgeschriebenen Anforderungen erfüllt, gelten die Bestimmungen des
     ASTM-Dokuments D 3244.
-[^bjnr245010008bjne027100000_11_BJNR245010008BJNE027100000]:     Die genannten Zahlen geben die insgesamt verdampften Mengen an
+[^bjnr245010008bjne027100000_11_BJNR245010008BJNE027104305]:     Die genannten Zahlen geben die insgesamt verdampften Mengen an
     (prozentualer zurückgewonnener Anteil plus prozentualer
     Verlustanteil).
-[^bjnr245010008bjne027100000_10_BJNR245010008BJNE027100000]:     Der Cetanzahlbereich entspricht nicht der vorgeschriebenen
+[^bjnr245010008bjne027100000_10_BJNR245010008BJNE027104305]:     Der Cetanzahlbereich entspricht nicht der vorgeschriebenen
     Mindestforderung von 4R. Bei Streitigkeiten zwischen
     Krafstofflieferanten und -verbrauchern dürfen zur Herbeiführung einer
     Lösung die Bestimmungen des ASTM-Dokuments D 3244 angewendet werden,
     sofern hinreichend vielen Wiederholungen zur Erzielung der
     erforderlichen Präzision der Vorzug vor Einzelbestimmungen gegeben
     wird.
-[^bjnr245010008bjne027100000_12_BJNR245010008BJNE027100000]:     Obwohl die Oxidationsbeständigkeit überwacht wird, ist die
+[^bjnr245010008bjne027100000_12_BJNR245010008BJNE027104305]:     Obwohl die Oxidationsbeständigkeit überwacht wird, ist die
     Lagerfähigkeitsdauer vermutlich begrenzt. Hinsichtlich der
     Lagerbedingungen und der Lagerfähigkeit sind Informationen von
     Lieferanten anzufordern.
-[^bjnr245010008bjne027100000_13_BJNR245010008BJNE027100000]:     Für diesen Kraftstoff sollten ausschließlich Destillationsprodukte und
+[^bjnr245010008bjne027100000_13_BJNR245010008BJNE027104305]:     Für diesen Kraftstoff sollten ausschließlich Destillationsprodukte und
     gekrackte Kohlenwasserstoffe verwendet werden; eine Entschwefelung ist
     zulässig. Der Kraftstoff darf keine metallischen Zusätze oder
     sonstigen Zusätze zur Erhöhung der Cetanzahl enthalten.
-[^bjnr245010008bjne027100000_15_BJNR245010008BJNE027100000]:     Niedrigere Werte sind zulässig, doch ist in diesem Fall die Cetanzahl
+[^bjnr245010008bjne027100000_15_BJNR245010008BJNE027104305]:     Niedrigere Werte sind zulässig, doch ist in diesem Fall die Cetanzahl
     des verwendeten Bezugskraftstoffs anzugeben.
-[^bjnr245010008bjne027100000_18_BJNR245010008BJNE027100000]:     Höhere Werte sind zulässig, doch ist in diesem Fall der Schwefelgehalt
+[^bjnr245010008bjne027100000_18_BJNR245010008BJNE027104305]:     Höhere Werte sind zulässig, doch ist in diesem Fall der Schwefelgehalt
     des Bezugskraftstoffs anzugeben.
-[^bjnr245010008bjne027100000_17_BJNR245010008BJNE027100000]:     Diese Werte sind unter Berücksichtigung der Marktentwicklung
+[^bjnr245010008bjne027100000_17_BJNR245010008BJNE027104305]:     Diese Werte sind unter Berücksichtigung der Marktentwicklung
     fortlaufend zu überarbeiten. Zur ersten Genehmigung eines Motors ohne
     Abgasnachbehandlung ist auf Anfrage des Antragstellers als Mindestwert
     für den Schwefelgehalt der Wert von 0,050 Massen-% zulässig; in diesem
@@ -37104,13 +39971,13 @@ Dienstanweisung Nr. 25
     Gleichung nach oben auf den Durchschnittswert korrigiert werden, der
     nominell als Schwefelgehalt des Kraftstoffs vorgesehen ist (0,150
     Massen-%):
-    Pt                                                    adj
-    = PT + [SFC • 0,0917 • (NSLF – FSF)]
+    Pt                         adj                          = PT + [SFC •
+    0,0917 • (NSLF – FSF)]
 
 
 
 Hierbei bedeuten:
-PT                                                    adj
+PT                         adj
 
 = angepaßter PT-Wert (g/kWh)
 
@@ -37144,26 +40011,4296 @@ Kraftstoffverbrauchs:
 
 
 
-Dabei gilt:                P                                i
-= P                                m,i                + P
-AE,i                Zur Beurteilung der Übereinstimmung der Produktion
-gemäß Anlage J Abschnitt 4.3.2 müssen die Anforderungen unter
-Verwendung eines Bezugskraftstoffs mit einem Schwefelgehalt, der dem
+Dabei gilt:                P               i                = P
+m,i                + P               AE,i                Zur
+Beurteilung der Übereinstimmung der Produktion gemäß Anlage J
+Abschnitt 4.3.2 müssen die Anforderungen unter Verwendung eines
+Bezugskraftstoffs mit einem Schwefelgehalt, der dem
 Mindest-/Höchstwert von 0,1/0,2 Massen-% entspricht, erfüllt werden.
-[^bjnr245010008bjne027100000_16_BJNR245010008BJNE027100000]: Höhere Werte bis 855 kg/m                                3
-sind zulässig; in diesem Fall ist die Dichte des Bezugskraftstoffs
+[^bjnr245010008bjne027100000_16_BJNR245010008BJNE027104305]: Höhere Werte bis 855 kg/m               3                sind
+zulässig; in diesem Fall ist die Dichte des Bezugskraftstoffs
 anzugeben. Zur Beurteilung der Übereinstimmung der Produktion gemäß
 Anlage J Abschnitt 4.3.2 müssen die Anforderungen unter Verwendung
 eines Bezugskraftstoffs, der dem Mindest-/Höchstwert von 835/845 kg/m
 3                entspricht, erfüllt werden.
-[^bjnr245010008bjne027100000_19_BJNR245010008BJNE027100000]: Vom Durchführungsdatum an durch DIN EN ISO 6245 zu ersetzen.
+[^bjnr245010008bjne027100000_19_BJNR245010008BJNE027104305]: Vom Durchführungsdatum an durch DIN EN ISO 6245 zu ersetzen.
 Richtlinie 97/68/EG.
-[^bjnr245010008bjne027100000_20_BJNR245010008BJNE027100000]: Prüfvorschrift der Richtlinie 97/68/EG Anhang III Abschnitt 3.7.1.
-[^bjnr245010008bjne027100000_21_BJNR245010008BJNE027100000]: Die Motoranwendung „Fahrzeughauptantrieb mit konstanter Drehzahl“ oder
+[^F779140_21_BJNR245010008BJNE027104305]: Prüfvorschrift der Richtlinie 97/68/EG Anhang III Abschnitt 3.7.1.
+[^F779140_22_BJNR245010008BJNE027104305]: Die Motoranwendung „Fahrzeughauptantrieb mit konstanter Drehzahl“ oder
 „Fahrzeugantrieb mit Propellercharakteristik“ muss in der
 Typgenehmigungsurkunde spezifiziert sein.
-[^bjnr245010008bjne027100000_22_BJNR245010008BJNE027100000]: Die Grenzwerte der Stufe II des Anhangs II gelten gemäß Beschluss
+[^F779140_23_BJNR245010008BJNE027104305]: Die Grenzwerte der Stufe II des Anhangs II gelten nach Beschluss
 2003-II-27 der Zentralkommission für die Rheinschifffahrt ab dem 1.
 Juli 2007.
-[^bjnr245010008bjne027100000_23_BJNR245010008BJNE027100000]: [^bjnr245010008bjne027100000_24_BJNR245010008BJNE027100000]: **                             Tgf              = Tragfähigkeit
+[^F779140_24_BJNR245010008BJNE027104305]: Gilt nur für Motoren ab einer Nennleistung von 560 kW.
+[^F779140_25_BJNR245010008BJNE027104305]: [^bjnr245010008bjne027100000_24_BJNR245010008BJNE027104305]: **              Tgf              = Tragfähigkeit
 
+Bordkläranlagen
+
+#### Anlage R – Ergänzende Bestimmungen und Muster von Bescheinigungen –
+
+## Inhalt
+
+## Teil I
+
+## Ergänzende Bestimmungen
+
+
+*    *   1.
+
+    *   Kennzeichnung der Bordkläranlagen
+
+
+*    *   2.
+
+    *   Prüfungen
+
+
+*    *   3.
+
+    *   Bewertung der Übereinstimmung der Produktion
+
+
+
+## Teil II
+
+## Beschreibungsbogen (Muster)
+
+
+*    *   Anhang 1: Wesentliche Merkmale des Bordkläranlagentyps (Muster)
+
+
+
+## Teil III
+
+## Typgenehmigungsbogen (Muster)
+
+
+*    *   Anhang 1: Prüfergebnisse für die Typgenehmigung (Muster)
+
+
+
+
+## Teil IV
+
+## Schema für die Nummerierung der Typgenehmigungen
+
+## Teil V
+
+## Aufstellung der Typgenehmigungen für Bordkläranlagentypen
+
+## Teil VI
+
+## Aufstellung der hergestellten Bordkläranlagen (Muster)
+
+## Teil VII
+
+## Datenblatt für Bordkläranlagen mit Typgenehmigung (Muster)
+
+## Teil VIII
+
+## Bordkläranlagenparameterprotokoll für Sonderprüfung (Muster)
+
+
+*    *   Anhang 1: Anlage zum Bordkläranlagenparameterprotokoll
+
+
+
+
+## Teil I
+
+## **Ergänzende Bestimmungen**
+
+
+**1.** **Kennzeichnung der Bordkläranlagen**
+
+
+1.1 Die typgeprüfte Bordkläranlage muss folgende Angaben (Kennzeichnung)
+    tragen:
+
+
+1.1.1 Handelsmarke oder Handelsname des Herstellers,
+
+
+1.1.2 Bordkläranlagentyp sowie Seriennummer der Bordkläranlage,
+
+
+1.1.3 Typengenehmigungsnummer nach Teil IV dieser Anlage,
+
+
+1.1.4 Baujahr der Bordkläranlage.
+
+
+1.2 Die Kennzeichnung nach Abschnitt 1.1 muss während der gesamten
+    Nutzlebensdauer der Bordkläranlage haltbar sowie deutlich lesbar und
+    unauslöschbar sein. Werden Aufkleber oder Schilder verwendet, so sind
+    diese so anzubringen, dass darüber hinaus auch die Anbringung während
+    der Nutzlebensdauer der Bordkläranlage haltbar ist und die
+    Aufkleber/Schilder nicht ohne Zerstörung oder Unkenntlichmachung
+    entfernt werden können.
+
+
+1.3 Die Kennzeichnung muss an einem Teil der Bordkläranlage befestigt
+    sein, das für den üblichen Betrieb der Bordkläranlage notwendig ist
+    und normalerweise während der Nutzlebensdauer der Bordkläranlage
+    keiner Auswechslung bedarf.
+
+
+1.3.1 Die Kennzeichnung muss so angebracht sein, dass sie gut sichtbar ist,
+    nachdem die Bordkläranlage mit allen für den Anlagenbetrieb
+    erforderlichen Hilfseinrichtungen fertiggestellt ist.
+
+
+1.3.2 Erforderlichenfalls muss die Bordkläranlage ein zusätzliches
+    abnehmbares Schild aus einem dauerhaften Werkstoff aufweisen, das alle
+    Angaben nach 1.1 enthalten muss und das so anzubringen ist, dass die
+    Angaben nach Einbau der Bordkläranlage in ein Fahrzeug gut sichtbar
+    und leicht zugänglich sind.
+
+
+1.4 Alle Teile der Bordkläranlage, die einen Einfluss auf die
+    Abwasserreinigung haben können, müssen eindeutig gekennzeichnet und
+    identifiziert sein.
+
+
+1.5 Die genaue Lage der Kennzeichnung nach 1.1 ist im Typgenehmigungsbogen
+    Abschnitt I anzugeben.
+
+
+**2.** **Prüfungen**
+
+    Das Verfahren zur Prüfung einer Bordkläranlage ist in der Anlage S
+    niedergelegt.
+
+
+**3.** **Bewertung der Übereinstimmung der Produktion**
+
+
+3.1 Bei der Prüfung des Vorhandenseins der notwendigen Modalitäten und
+    Verfahren zur wirksamen Kontrolle der Übereinstimmung der Produktion
+    vor der Erteilung der Typgenehmigung geht die zuständige Behörde davon
+    aus, dass der Hersteller bei einer Registrierung nach der
+    harmonisierten Norm DIN EN ISO 9001:2008 (deren Anwendungsbereich die
+    Produktion der betreffenden Bordkläranlagen einschließt) oder einem
+    gleichwertigen Akkreditierungsstandard die Bestimmungen erfüllt. Der
+    Hersteller liefert detaillierte Informationen über die Registrierung
+    und verpflichtet sich, die zuständige Behörde über jede Änderung der
+    Gültigkeit oder des Geltungsbereichs zu unterrichten. Um
+    sicherzustellen, dass die Anforderungen von § 14a.02 Nummer 2 bis 5
+    fortlaufend erfüllt werden, sind zweckmäßige Kontrollen der Produktion
+    durchzuführen.
+
+
+3.2 Der Inhaber der Typgenehmigung muss
+
+
+3.2.1 sicherstellen, dass Verfahren zur wirksamen Kontrolle der Qualität des
+    Erzeugnisses vorhanden sind;
+
+
+3.2.2 Zugang zu Prüfeinrichtungen haben, die für die Kontrolle der
+    Übereinstimmung mit dem jeweils typgenehmigten Typ erforderlich sind;
+
+
+3.2.3 sicherstellen, dass die Prüfergebnisse aufgezeichnet werden und die
+    Aufzeichnungen und dazugehörige Unterlagen über einen mit der
+    zuständigen Behörde zu vereinbarenden Zeitraum verfügbar bleiben;
+
+
+3.2.4 die Ergebnisse jeder Art von Prüfung genau untersuchen, um die
+    Beständigkeit der Merkmale der Bordkläranlage unter Berücksichtigung
+    der in der Serienproduktion üblichen Streuungen nachweisen und
+    gewährleisten zu können;
+
+
+3.2.5 sicherstellen, dass alle Stichproben von Bordkläranlagen oder
+    Prüfteilen, die bei einer bestimmten Prüfung den Anschein der
+    Nichtübereinstimmung geliefert haben, Veranlassung geben für eine
+    weitere Musterentnahme und Prüfung. Dabei sind alle erforderlichen
+    Maßnahmen zu treffen, um die Übereinstimmung der Fertigung
+    wiederherzustellen.
+
+
+3.3 Die zuständige Behörde, die die Typgenehmigung erteilt hat, kann die
+    in den einzelnen Produktionsstätten angewandten Verfahren zur
+    Kontrolle der Übereinstimmung jederzeit prüfen.
+
+
+3.3.1 Bei jeder Prüfung werden dem Prüfer die Prüf- und
+    Herstellungsunterlagen zur Verfügung gestellt.
+
+
+3.3.2 Erscheint die Qualität der Prüfungen als nicht zufriedenstellend, ist
+    folgendes Verfahren anzuwenden:
+
+
+3.3.2.1 Eine Bordkläranlage wird der Serie entnommen und mittels
+    Stichprobenmessungen in der Normallastphase der Anlage S nach einem
+    Tag Betrieb geprüft. Das gereinigte Abwasser darf hierbei entsprechend
+    den Testverfahren nach Anlage S die Werte nach § 14a.02 Nummer 2
+    Tabelle 2 nicht überschreiten.
+
+
+3.3.2.2 Erfüllt eine der Serie entnommene Bordkläranlage die Anforderungen
+    nach 3.3.2.1 nicht, so kann der Hersteller Stichprobenmessungen an
+    einigen weiteren der Serie entnommenen Bordkläranlagen gleicher Bauart
+    verlangen, wobei die Serie die ursprünglich entnommene Bordkläranlage
+    umfassen muss. Der Hersteller bestimmt den Umfang „n“ der Serie im
+    Einvernehmen mit der zuständigen Behörde. Mit Ausnahme der
+    ursprünglich entnommenen Bordkläranlage sind die Bordkläranlagen einer
+    Prüfung mittels Stichprobenmessung zu unterziehen. Das arithmetische
+    Mittel
+    ![bgbl1_2014_j0610-1_0010.jpg](bgbl1_2014_j0610-1_0010.jpg)    der mit der Stichprobe der Bordkläranlage ermittelten Ergebnisse muss
+    dann bestimmt werden. Die Serienproduktion gilt als den Bestimmungen
+    entsprechend, wenn folgende Bedingung erfüllt ist:
+    ![bgbl1_2014_j0610-1_0020.jpg](bgbl1_2014_j0610-1_0020.jpg)
+    Hierbei bezeichnet
+
+    k:  einen statistischen Faktor, der von „n“ abhängt und in der
+        nachstehenden Tabelle angegeben ist:
+
+        *            *   n
+
+            *   2
+
+            *   3
+
+            *   4
+
+            *   5
+
+            *   6
+
+            *   7
+
+            *   8
+
+            *   9
+
+            *   10
+
+
+        *            *   k
+
+            *   0,973
+
+            *   0,613
+
+            *   0,489
+
+            *   0,421
+
+            *   0,376
+
+            *   0,342
+
+            *   0,317
+
+            *   0,296
+
+            *   0,279
+
+
+
+
+        *            *   n
+
+            *   11
+
+            *   12
+
+            *   13
+
+            *   14
+
+            *   15
+
+            *   16
+
+            *   17
+
+            *   18
+
+            *   19
+
+
+        *            *   k
+
+            *   0,265
+
+            *   0,253
+
+            *   0,242
+
+            *   0,233
+
+            *   0,224
+
+            *   0,216
+
+            *   0,210
+
+            *   0,203
+
+            *   0,198
+
+
+
+
+        *            *   wenn
+                ![bgbl1_2014_j0610-1_0030.jpg](bgbl1_2014_j0610-1_0030.jpg)
+
+
+
+
+
+
+
+    *        *   S
+            t                             :
+
+        *            ![bgbl1_2014_j0610-1_0040.jpg](bgbl1_2014_j0610-1_0040.jpg)
+        *   ,
+
+        *   wobei x
+            i                              ein beliebiges mit der Bordkläranlage i
+            und der Stichprobe n erzieltes Einzelergebnis ist.
+
+
+    *        *   L:
+
+        *   den zulässigen Grenzwert nach § 14a.02 Nummer 2 Tabelle 2 für jeden
+            untersuchten Schadstoff.
+
+
+
+
+
+3.3.3 Werden die Werte nach § 14a.02 Nummer 2 Tabelle 2 nicht eingehalten,
+    erfolgt eine erneute Untersuchung nach 3.3.2.1 und, sofern das
+    Ergebnis nicht positiv ist, eine vollständige Prüfung nach 3.3.2.2
+    entsprechend dem Verfahren der Anlage S. Hierbei dürfen die Grenzwerte
+    nach § 14a.02 Nummer 2 Tabelle 1 weder für die Misch- noch für die
+    Stichprobe überschritten werden.
+
+
+3.3.4 Die zuständige Behörde muss die Prüfungen an Bordkläranlagen
+    vornehmen, die gemäß den Angaben des Herstellers teilweise oder
+    vollständig funktionsfähig sind.
+
+
+3.3.5 Normalerweise erfolgen die Prüfungen der Übereinstimmung der
+    Produktion, zu denen die zuständige Behörde berechtigt ist, einmal pro
+    Jahr. Bei Nichterfüllung der Anforderungen nach 3.3.3 hat die
+    zuständige Behörde sicherzustellen, dass alle notwendigen Maßnahmen
+    getroffen werden, um die Übereinstimmung der Produktion unverzüglich
+    wiederherzustellen.
+
+
+
+
+## **Teil II**
+
+**Beschreibungsbogen (Muster)**
+[^F785348_01a_BJNR245010008BJNE028500301]
+**Beschreibungsbogen Nr.**
+**…**
+zur Typgenehmigung für Bordkläranlagen,
+## **die für den Einbau in Binnenschiffe bestimmt sind**
+
+
+*    *   Bordkläranlagentyp:
+
+
+
+
+
+0.  Allgemeines
+
+
+0.1 Fabrikmarke (Firmenname des Herstellers):
+
+
+
+0.2 Herstellerseitige Bezeichnung für den Bordkläranlagentyp:
+
+
+
+0.3 Herstellerseitige Typenkodierung entsprechend den Angaben an der
+    Bordkläranlage:
+
+
+
+0.4 Name und Anschrift des Herstellers:
+
+
+    Gegebenenfalls Name und Anschrift des Beauftragten des Herstellers:
+
+
+
+0.5 Lage, Kodierung und Art der Anbringung der Seriennummer der
+    Bordkläranlage:
+
+
+
+0.6 Lage und Art der Anbringung der Typgenehmigungsnummer:
+
+
+
+0.7 Anschrift(en) der Fertigungsstätte(n):
+
+
+
+
+
+## **Anhänge**
+
+
+1.  Wesentliche Merkmale des Bordkläranlagentyps
+
+
+2.  Angewendete Auslegungs- und Bemessungskriterien, Bemessungsvorgaben
+    und Regelwerke
+
+
+3.  Schematische Darstellung der Bordkläranlagen mit Stückliste
+
+
+4.  Schematische Darstellung der Testanlage mit Stückliste
+
+
+5.  Elektrische Schaltpläne (R+I-Schema)
+
+
+6.  Erklärung, dass alle einzuhaltenden Vorgaben hinsichtlich der
+    mechanischen, elektrischen und technischen Sicherheit von
+    Bordkläranlagen sowie Vorgaben, die die Schiffssicherheit betreffen,
+    eingehalten werden
+
+
+7.  (Gegebenenfalls) Merkmale der mit der Bordkläranlage verbundenen
+    Fahrzeugteile
+
+
+8.  Anleitung des Herstellers zur Kontrolle der für die Abwasserreinigung
+    relevanten Komponenten und Parameter der Bordkläranlage nach § 14a.01
+    Nummer 10
+
+
+9.  Fotografien der Bordkläranlage
+
+
+10.[^F785348_02a_BJNR245010008BJNE028500301]
+ Betriebskonzepte
+
+
+10.1 Anweisungen für den manuellen Betrieb der Bordkläranlage
+
+
+10.2 Angaben zum Überschussschlammmanagement (Abgabeintervalle)
+
+
+10.3 Angaben zu Wartung und Instandsetzung
+
+
+10.4 Angaben zum Verhalten bei Stand-by-Betrieb der Bordkläranlage
+
+
+10.5 Angaben zum Verhalten bei Notfallbetrieb der Bordkläranlage
+
+
+10.6 Angaben zum Ausfahr-, Stillliege- und Wiedereinfahrbetrieb der
+    Bordkläranlage
+
+
+10.7 Angaben zu Anforderungen an die Vorbehandlung von Küchenabwässern
+
+
+11. Sonstige Anlagen (führen Sie hier gegebenenfalls weitere Anlagen auf)
+
+
+
+
+**Datum, Unterschrift des Bordkläranlagenherstellers**
+
+*    *   ..........
+
+    *
+    *   ..........
+
+
+
+
+## **Anhang 1**
+
+Wesentliche Merkmale des Bordkläranlagentyps
+## **(Muster)**
+
+
+**1.** **Beschreibung der Bordkläranlage**
+
+
+1.1 Hersteller:
+
+
+1.2 Seriennummer der Bordkläranlage:
+
+
+1.3[^F785348_03a_BJNR245010008BJNE028500301]
+ Behandlungsweise: Biologisch/mechanisch-chemisch
+
+
+1.4 Vorgeschalteter Abwasserspeichertank     ja
+    m
+    3                   /nein
+    (1)
+
+
+**2.** **Auslegungs- und Bemessungskriterien (einschließlich spezieller
+    Einbauhinweise oder Nutzungsbeschränkungen)**
+
+
+2.1
+
+2.2
+
+**3.** **Bemessung der Bordkläranlage**
+
+
+3.1 Täglicher maximaler Abwasservolumenstrom Q
+    d                    (m
+    3                   /d):
+
+
+3.2 Tägliche Schmutzfracht in Form einer BSB
+    5                   -Fracht (kg/d):
+
+
+
+
+## **Teil III**
+
+Typgenehmigungsbogen
+## **(Muster)**
+
+Siegel der zuständigen Behörde
+
+
+*    *   **Nr. der Typgenehmigung:**
+        ..........
+
+    *
+    *   **Nr. der Erweiterung:**
+        ..........
+
+
+
+
+Benachrichtigung über
+
+–[^F785348_04a_BJNR245010008BJNE028500301]
+   die Erteilung/Erweiterung/Verweigerung/den Entzug
+    der Typgenehmigung für einen Bordkläranlagentyp nach Anhang II der
+    Binnenschiffsuntersuchungsordnung
+
+
+
+
+(Gegebenenfalls) Grund für die Erweiterung:
+..........
+
+## **Abschnitt I**
+
+
+0.  Allgemeines
+
+
+0.1 Fabrikmarke (Firmenname des Herstellers):
+
+
+0.2 Herstellerseitige Bezeichnung für den Bordkläranlagentyp:
+
+
+
+0.3 Herstellerseitige Typenkodierung entsprechend den Angaben an der
+    Bordkläranlage:
+
+
+    Stelle:
+
+    Art der Anbringung:
+
+
+
+0.4 Name und Anschrift des Herstellers:
+
+
+    Gegebenenfalls Name und Anschrift des Beauftragten des Herstellers:
+
+
+
+0.5 Lage, Kodierung und Art der Anbringung der Seriennummer der
+    Bordkläranlage:
+
+
+
+
+0.6 Lage und Art der Anbringung der Typgenehmigungsnummer:
+
+
+
+0.7 Anschrift(en) der Fertigungsstätte(n):
+
+
+
+
+
+## **Abschnitt II**
+
+
+1.  Gegebenenfalls Nutzungsbeschränkungen:
+
+
+
+1.1 Besonderheiten, die beim Einbau der Bordkläranlage in das Fahrzeug zu
+    beachten sind:
+
+
+
+1.1.1
+
+1.1.2
+
+2.[^F785348_05a_BJNR245010008BJNE028500301]
+  Für die Durchführung der Prüfungen verantwortlicher technischer Dienst
+    :
+
+
+
+
+3.  Datum des Prüfberichts:
+
+
+
+4.  Nummer des Prüfberichts:
+
+
+
+5.  Der Unterzeichnende bescheinigt hiermit die Richtigkeit der
+    Herstellerangaben im beigefügten Beschreibungsbogen der oben genannten
+    Bordkläranlage nach Anlage S des Anhangs II der
+    Binnenschiffsuntersuchungsordnung sowie die Richtigkeit der
+    beigefügten Prüfergebnisse in Bezug auf den Bordkläranlagentyp. Das
+    (die) Prüfexemplar(e) wurde(n) mit Genehmigung der zuständigen Behörde
+    vom Hersteller ausgewählt und als Baumuster der Bordkläranlage
+    vorgestellt.
+
+[^F785348_06a_BJNR245010008BJNE028500301]
+    Die Typgenehmigung wird erteilt/erweitert/verweigert/entzogen
+    :
+
+    Ort:
+
+    Datum:
+
+    Unterschrift:
+
+    Anlagen: Beschreibungsmappe
+
+        Prüfergebnisse (siehe Anhang 1)
+
+
+
+
+
+
+
+## **Anhang 1**
+
+Prüfergebnisse für die Typgenehmigung
+## **(Muster)**
+
+
+0.  Allgemeines
+
+
+0.1 Fabrikmarke (Firmenname des Herstellers):
+
+
+0.2 Herstellerseitige Bezeichnung für den Bordkläranlagentyp:
+
+
+1.[^F785348_07a_BJNR245010008BJNE028500301]
+  Information zur Durchführung der Prüfung(en)
+
+
+1.1 Zulaufwerte
+
+
+1.1.1 Täglicher Abwasservolumenstrom Q
+    d                    (m
+    3                   /d):
+
+
+1.1.2 Tägliche Schmutzfracht in Form einer BSB
+    5                   -Fracht (kg/d):
+
+
+1.2 Reinigungsleistung
+
+
+1.2.1 Auswertung der Ablaufwerte
+
+    Auswertung der Ablaufwerte                     BSB
+    5 ****                    (mg/l)
+
+    *        *   Ort
+
+        *   Probenahmeart
+
+        *   Anzahl der Proben,
+            die den Ablaufgrenzwert einhalten
+
+        *   Min
+
+        *   Max
+
+        *   Mittelwert
+
+
+    *        *   Wert
+
+        *   Phase
+
+
+    *        *   Zulauf
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+
+
+   Auswertung der Ablaufwerte **CSB**                    (mg/l)
+
+    *        *   Ort
+
+        *   Probenahmeart
+
+        *   Anzahl der Proben,
+            die den Ablaufgrenzwert einhalten
+
+        *   Min
+
+        *   Max
+
+        *   Mittelwert
+
+
+    *        *   Wert
+
+        *   Phase
+
+
+    *        *   Zulauf
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+
+
+   Auswertung der Ablaufwerte **TOC**                    (mg/l)
+
+    *        *   Ort
+
+        *   Probenahmeart
+
+        *   Anzahl der Proben,
+            die den Ablaufgrenzwert einhalten
+
+        *   Min
+
+        *   Max
+
+        *   Mittelwert
+
+
+    *        *   Wert
+
+        *   Phase
+
+
+    *        *   Zulauf
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+
+
+   Auswertung der Ablaufwerte **AFS**                    (mg/l)
+
+    *        *   Ort
+
+        *   Probenahmeart
+
+        *   Anzahl der Proben,
+            die den Ablaufgrenzwert einhalten
+
+        *   Min
+
+        *   Max
+
+        *   Mittelwert
+
+
+    *        *   Wert
+
+        *   Phase
+
+
+    *        *   Zulauf
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+1.2.2 Reinigungsleistung (Eliminationsleistung) (%)
+
+    *        *   Parameter
+
+        *   Probenahmeart
+
+        *   Min
+
+        *   Max
+
+        *   Mittelwert
+
+
+    *        *   BSB
+            5
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   BSB
+            5
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+    *        *   CSB
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   CSB
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+    *        *   TOC
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   TOC
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+    *        *   AFS
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   AFS
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+
+
+
+1.3 Weitere gemessene Parameter
+
+
+1.3.1 Ergänzende Parameter für Zulauf und Ablauf:
+
+    *        *   Parameter
+
+        *   Zulauf
+
+        *   Ablauf
+
+
+    *        *   pH-Wert
+
+        *
+        *
+
+    *        *   Leitfähigkeit
+
+        *
+        *
+
+    *        *   Temperatur der flüssigen Phasen
+
+        *
+        *
+
+
+
+
+1.3.2 Folgende Betriebsparameter sind – sofern vorhanden – während der
+    Stichprobenahmen zu erfassen:
+
+    *        *   Konzentration des gelösten Sauerstoffes im Bioreaktor:
+
+        *
+
+    *        *   Trockensubstanzgehalt im Bioreaktor:
+
+        *
+
+    *        *   Temperatur im Bioreaktor:
+
+        *
+
+    *        *   Umgebungstemperatur:
+
+        *
+
+
+
+
+1.3.3 Weitere Betriebsparameter entsprechend der jeweiligen
+    Betriebsanleitung des Herstellers
+
+
+
+
+
+
+1.4 Zuständige Behörde oder technischer Dienst
+
+
+
+
+
+*    *   Ort, Datum:
+        ..........
+
+    *
+    *   Unterschrift:
+        ..........
+
+
+
+
+## **Teil IV**
+
+## **Schema für die Nummerierung der Typgenehmigungen**
+
+
+1.  Systematik
+
+    Die Nummer besteht aus 4 Abschnitten, die durch das Zeichen „\*“
+    getrennt sind.
+
+    Abschnitt 1: Der Großbuchstabe „R“, gefolgt von der Kennzahl des Staates, der die
+        Genehmigung erteilt hat:
+
+        *            *   1
+
+            *   =
+
+            *   für Deutschland
+
+            *   19
+
+            *   =
+
+            *   für Rumänien
+
+
+        *            *   2
+
+            *   =
+
+            *   für Frankreich
+
+            *   20
+
+            *   =
+
+            *   für Polen
+
+
+        *            *   3
+
+            *   =
+
+            *   für Italien
+
+            *   21
+
+            *   =
+
+            *   für Portugal
+
+
+        *            *   4
+
+            *   =
+
+            *   für die Niederlande
+
+            *   23
+
+            *   =
+
+            *   für Griechenland
+
+
+        *            *   5
+
+            *   =
+
+            *   für Schweden
+
+            *   24
+
+            *   =
+
+            *   für Irland
+
+
+        *            *   6
+
+            *   =
+
+            *   für Belgien
+
+            *   25
+
+            *   =
+
+            *   für Kroatien
+
+
+        *            *   7
+
+            *   =
+
+            *   für Ungarn
+
+            *   26
+
+            *   =
+
+            *   für Slowenien
+
+
+        *            *   8
+
+            *   =
+
+            *   für die Tschechische Republik
+
+            *   27
+
+            *   =
+
+            *   für die Slowakei
+
+
+        *            *   9
+
+            *   =
+
+            *   für Spanien
+
+            *   29
+
+            *   =
+
+            *   für Estland
+
+
+        *            *   11
+
+            *   =
+
+            *   für das Vereinigte Königreich
+
+            *   32
+
+            *   =
+
+            *   für Lettland
+
+
+        *            *   12
+
+            *   =
+
+            *   für Österreich
+
+            *   34
+
+            *   =
+
+            *   für Bulgarien
+
+
+        *            *   13
+
+            *   =
+
+            *   für Luxemburg
+
+            *   36
+
+            *   =
+
+            *   für Litauen
+
+
+        *            *   14
+
+            *   =
+
+            *   für die Schweiz
+
+            *   49
+
+            *   =
+
+            *   für Zypern
+
+
+        *            *   17
+
+            *   =
+
+            *   für Finnland
+
+            *   50
+
+            *   =
+
+            *   für Malta
+
+
+        *            *   18
+
+            *   =
+
+            *   für Dänemark
+
+            *
+            *
+            *
+
+
+
+
+    Abschnitt 2: Die Kennzeichnung der Anforderungsstufe. Es ist davon auszugehen, dass
+        in Zukunft die Anforderungen hinsichtlich der Reinigungsleistung
+        verschärft werden. Die verschiedenen Stufen der Anforderungen werden
+        durch römische Ziffern bezeichnet. Die Ausgangsanforderungen werden
+        durch die Ziffer I gekennzeichnet.
+
+
+    Abschnitt 3: Eine vierstellige laufende Nummer (mit ggf. vorangestellten Nullen)
+        für die Nummer der Grundgenehmigung. Die Reihenfolge beginnt mit 0001.
+
+
+    Abschnitt 4: Eine zweistellige laufende Nummer (mit ggf. vorangestellter Null) für
+        die Erweiterung. Die Reihenfolge beginnt mit 01 für jede Nummer einer
+        Grundgenehmigung.
+
+
+
+
+
+2.  Beispiele
+
+    a)  Dritte von den Niederlanden erteilte Genehmigung entsprechend Stufe I
+        (bislang noch ohne Erweiterung):
+
+        *            *   R 4\*I\*0003\*00
+
+
+
+
+
+    b)  Zweite Erweiterung zu der von Deutschland erteilten vierten
+        Genehmigung entsprechend Stufe II:
+
+        *            *   R 1\*II\*0004\*02
+
+
+
+
+
+
+
+
+
+
+## **Teil V**
+
+Aufstellung der Typgenehmigungen für Bordkläranlagentypen
+## **(Muster)**
+
+Siegel der zuständigen Behörde
+
+
+*    *   Listen Nr.: ..........
+
+    *
+    *
+
+*    *   Zeitraum vom ..........
+
+    *
+    *   bis zum ..........
+
+
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+
+*    *[^F785348_08a_BJNR245010008BJNE028500301]
+   Fabrikmarke
+
+    *   Herstellerseitige
+        Bezeichnung
+        (1)
+
+    *   Nummer
+        der
+        Typgenehmigung
+
+    *   Datum
+        der
+        Typgenehmigung
+
+    *   Erweiterung,
+        Verweigerung,
+[^F785348_09a_BJNR245010008BJNE028500301]
+        Entzug
+
+    *   Grund
+        für Erweiterung,
+        Verweigerung
+        Entzug
+        (2)
+
+    *   Datum
+        der Erweiterung,
+        der Verweigerung,
+        des Entzugs
+        (2)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   ## **Teil VI**
+
+Aufstellung der hergestellten Bordkläranlagen
+## **(Muster)**
+
+Siegel der zuständigen Behörde
+
+
+*    *   Liste Nr.: ..........
+
+
+*    *   für den Zeitraum vom ..........
+
+    *
+    *   bis zum ..........
+
+
+
+
+Zu den Bordkläranlagentypen und Typgenehmigungsnummern der
+Bordkläranlagen, die innerhalb des obigen Zeitraums entsprechend den
+Bestimmungen des Anhangs II der Binnenschiffsuntersuchungsordnung
+hergestellt wurden, werden folgende Angaben gemacht:
+
+Fabrikmarke (Firmenname des Herstellers):
+
+Herstellerseitige Bezeichnung für den Bordkläranlagentyp:
+
+
+Nummer der Typgenehmigung:
+
+Ausstellungsdatum:
+
+Datum der Erstausstellung (bei Nachträgen):
+
+
+*    *   Seriennummer der Bordkläranlage:
+
+
+*    *
+    *   ... 001
+
+    *   ... 001
+
+    *   ... 001
+
+
+*    *
+    *   ... 002
+
+    *   ... 002
+
+    *   ... 002
+
+
+*    *
+    *   .
+
+    *   .
+
+    *   .
+
+
+*    *
+    *   .
+
+    *   .
+
+    *   .
+
+
+*    *
+    *   .
+
+    *   .
+
+    *   .
+
+
+*    *
+    *   ..... m
+
+    *   ..... p
+
+    *   ..... q
+
+
+
+
+## **Teil VII**
+
+Datenblatt für Bordkläranlagen mit Typgenehmigung
+## **(Muster)**
+
+Siegel der zuständigen Behörde
+
+
+*    *
+    *   Kennwerte
+        der Bordkläranlage
+
+    *   Reinigungsleistung
+
+
+*    *   Lfd. Nr.
+
+    *   Datum der
+        Typ-
+        genehmigung
+
+    *   Nummer der
+        Typ-
+        genehmigung
+
+    *   Fabrikmarke
+
+    *   Bordkläranlagentyp
+
+    *   Täglicher
+        Abwasservolumenstrom Q
+        d                        (m
+        3                       /d)
+
+    *   Tägliche
+        Schmutzfracht
+        als BSB
+        5                       -Fracht
+        (kg/d)
+
+    *   BSB
+        5
+
+    *   CSB
+
+    *   TOC
+
+
+*    *   24-h-
+        Mischprobe
+
+    *   Stichprobe
+
+    *   24-h-
+        Mischprobe
+
+    *   Stichprobe
+
+    *   24-h-
+        Mischprobe
+
+    *   Stichprobe
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   ## **Teil VIII**
+
+Bordkläranlagenparameterprotokoll für Sonderprüfung
+## **(Muster)**
+
+
+**1.** **Allgemeines**
+
+
+1.1 Angaben zur Bordkläranlage
+
+
+1.1.1 Fabrikmarke:
+
+
+1.1.2 Herstellerseitige Bezeichnung:
+
+
+
+1.1.3 Typgenehmigungsnummer:
+
+
+1.1.4 Seriennummer der Bordkläranlage:
+
+
+
+1.2 Dokumentation
+
+    Die Bordkläranlage ist zu prüfen. Die Prüfergebnisse sind zu
+    dokumentieren. Die Dokumentation erfolgt auf gesonderten Blättern, die
+    einzeln zu nummerieren, vom Prüfer zu unterschreiben und diesem
+    Protokoll beizuheften sind.
+
+
+1.3 Prüfung
+
+    Die Prüfung ist auf Basis der Anleitung des Herstellers zur Kontrolle
+    der für die Abwasserreinigung relevanten Komponenten und Parameter der
+    Bordkläranlage nach § 14a.01 Nummer 10 durchzuführen. Der Prüfer kann
+    in begründeten Einzelfällen nach eigener Einschätzung von der
+    Kontrolle bestimmter Anlageteile oder -parameter absehen. Bei der
+    Prüfung ist mindestens eine Stichprobe zu nehmen. Die Ergebnisse der
+    Stichprobenmessung sind mit den Überwachungswerten nach § 14a.02
+    Nummer 2 Tabelle 2 zu vergleichen.
+
+
+1.4 Dieses Prüfprotokoll umfasst einschließlich der beigefügten
+    Aufzeichnungen insgesamt
+[^F785348_10a_BJNR245010008BJNE028500301]
+    Seiten.
+
+
+
+
+
+**2.** **Parameter**
+
+    Hiermit wird bescheinigt, dass die geprüfte Bordkläranlage von den
+    vorgegebenen Parametern nicht unzulässig abweicht und die
+    Überwachungswerte für den Betrieb nach § 14a.02 Nummer 2 Tabelle 2
+    nicht überschritten werden.
+
+
+
+
+Name und Adresse der Prüfstelle:
+
+
+
+Name des Prüfers:
+
+Ort und Datum:
+
+Unterschrift:
+
+Prüfung anerkannt durch
+zuständige Behörde:
+
+
+
+Ort und Datum:
+
+Unterschrift:
+
+Siegel der zuständigen Behörde
+
+Name und Adresse der Prüfstelle:
+
+
+
+Name des Prüfers:
+
+Ort und Datum:
+
+Unterschrift:
+
+Prüfung anerkannt durch
+zuständige Behörde:
+
+
+
+Ort und Datum:
+
+Unterschrift:
+
+Siegel der zuständigen Behörde
+
+Name und Adresse der Prüfstelle:
+
+
+
+Name des Prüfers:
+
+Ort und Datum:
+
+Unterschrift:
+
+Prüfung anerkannt durch
+zuständige Behörde:
+
+
+
+Ort und Datum:
+
+Unterschrift:
+
+Siegel der zuständigen Behörde
+
+Name und Adresse der Prüfstelle:
+
+
+
+Name des Prüfers:
+
+Ort und Datum:
+
+Unterschrift:
+
+Prüfung anerkannt durch
+zuständige Behörde:
+
+
+
+Ort und Datum:
+
+Unterschrift:
+
+Siegel der zuständigen Behörde
+
+## **Anhang 1**
+
+Anlage zum Bordkläranlagenparameterprotokoll
+## **(Muster)**
+
+
+*    *   Schiffsname:
+
+    *   ..........
+
+    *
+    *   Einheitliche europäische
+        Schiffsnummer:
+
+    *   ..........
+
+
+*    *   Hersteller:
+
+    *   ..........
+        (Fabrikmarke/Handelsmarke/
+        Handelsname des Herstellers)
+
+    *
+    *   Bordkläranlagentyp:
+
+    *   ..........
+        (Herstellerseitige Bezeichnung)
+
+
+*    *   Typgenehmigungs-Nr.:
+
+    *   ..........
+
+    *
+    *   Baujahr der
+        Bordkläranlage:
+
+    *   ..........
+
+
+*    *   Seriennummer der
+        Bordkläranlage:
+
+    *   ..........
+        (Seriennummer)
+
+    *
+    *   Einbauort:
+
+    *   ..........
+
+
+
+
+Die Bordkläranlage und ihre für die Abwasserreinigung relevanten
+Bauteile wurden anhand des Typenschildes identifiziert.
+
+Die Prüfung erfolgte auf Basis der Anleitung des Herstellers zur
+Kontrolle der für die Abwasserreinigung relevanten Komponenten und
+Parameter der Bordkläranlage.
+
+
+A.  **Bauteilprüfung**
+
+    Zusätzliche für die Abwasserreinigung relevante Bauteile, die in der
+    Anleitung des Herstellers zur Kontrolle der für die Abwasserreinigung
+    relevanten Komponenten und Parameter der Bordkläranlage bzw. Teil II
+    Anhang 4 aufgeführt sind, sind einzutragen.
+
+    *        *   Bauteil
+
+        *   Ermittelte Bauteilnummer
+
+        *[^F785348_11a_BJNR245010008BJNE028500301]
+   Übereinstimmung
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+    *        *
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+        *   *                              Entfällt
+
+
+
+
+
+B.  **Ergebnisse der Stichprobenmessung**
+
+    *        *   Parameter
+
+        *   Ermittelter Wert
+
+        *   Übereinstimmung
+            (1)
+
+
+    *        *   BSB
+            5
+
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+
+    *        *   CSB
+
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+
+    *        *[^F785348_12a_BJNR245010008BJNE028500301]
+   TOC
+
+        *
+        *   *                              Ja
+
+        *   *                              Nein
+
+
+
+
+
+C.  **Bemerkungen**
+
+    *        *   (Folgende abweichende Einstellungen, Modifikationen oder Veränderungen
+            an der eingebauten Bordkläranlage wurden festgestellt.)
+
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *   Name des Prüfers:
+
+        *   ..........
+
+
+    *        *   Ort und Datum:
+
+        *   ..........
+
+
+    *        *   Unterschrift:
+
+        *   ..........
+
+
+
+
+
+
+
+    Nummer des Beschreibungsbogens von der zuständigen Behörde zu
+    vergeben.
+[^F785348_01a_BJNR245010008BJNE028500301]: [^F785348_02a_BJNR245010008BJNE028500301]:     Betriebsphasen               Für die Prüfung werden folgende
+    Betriebsphasen definiert:                             a)
+    Stand-by-Betrieb: Um einen Stand-by-Betrieb handelt es sich, wenn die
+    Bordkläranlage selbst in Betrieb ist, jedoch mehr als 1 Tag nicht mit
+    Abwasser beschickt wird. Ein Stand-by-Betrieb einer Bordkläranlage
+    kann z. B. auftreten, wenn das Fahrgastschiff für längere Zeit nicht
+    betrieben wird und am Liegeplatz stillliegt.
+
+
+    b)                                Notfallbetrieb: Um einen
+    Notfallbetrieb handelt es sich, wenn einzelne Aggregate der
+    Bordkläranlage ausgefallen sind, so dass das Abwasser nicht, wie
+    vorgesehen, behandelt werden kann.
+
+
+    c)                                Ausfahr-, Stillliege- und
+    Wiedereinfahrbetrieb: Um einen Ausfahr-, Stillliege- oder
+    Wiedereinfahrbetrieb handelt es sich, wenn die Bordkläranlage für
+    einen längeren Zeitraum (Stillliegezeit im Winter) außer Betrieb
+    genommen und die Stromversorgung unterbrochen wird, bzw. die
+    Bordkläranlage zu Saisonbeginn erneut in Betrieb geht.
+
+
+
+Nichtzutreffendes streichen.
+[^F785348_03a_BJNR245010008BJNE028500301]: Nichtzutreffendes streichen.
+[^F785348_04a_BJNR245010008BJNE028500301]: Werden die Prüfungen von der zuständigen Behörde selbst durchgeführt,
+„entfällt“ angeben.
+[^F785348_05a_BJNR245010008BJNE028500301]: Nichtzutreffendes streichen.
+[^F785348_06a_BJNR245010008BJNE028500301]: Im Fall mehrerer Prüfzyklen für jeden Einzelnen anzugeben.
+[^F785348_07a_BJNR245010008BJNE028500301]: Entsprechend Typgenehmigungsbogen.
+[^F785348_08a_BJNR245010008BJNE028500301]: Zutreffendes eintragen.
+[^F785348_09a_BJNR245010008BJNE028500301]: Vom Prüfer auszufüllen.
+[^F785348_10a_BJNR245010008BJNE028500301]: Zutreffendes ankreuzen.
+[^F785348_11a_BJNR245010008BJNE028500301]: TOC wird ab Grenzwertstufe II der Tabelle in § 14a.02 Nummer 2
+geprüft.
+[^F785348_12a_BJNR245010008BJNE028500301]: 
+
+#### Anlage T Zusätzliche Bestimmungen für Fahrzeuge, die mit Brennstoffen mit einem Flammpunkt von 55° C oder darunter betrieben werden
+
+(Fundstelle: BGBl. I 2017, 340 – 350)
+
+
+Teil I
+Flüssigerdgas (LNG)
+Kapitel 1 ****
+## Allgemeines ****
+
+
+**1.1** **Anwendungsbereich**
+
+
+1.1.1 Die Bestimmungen von Teil I gelten für Fahrzeuge, auf denen Antriebs-
+    oder Hilfssysteme installiert sind, die mit Flüssigerdgas (LNG) nach
+    Nummer 1.2.1 betrieben werden und alle für die Verwendung von
+    Flüssigerdgas (LNG) als Brennstoff zu berücksichtigenden Bereiche.
+
+
+**1.2** **Begriffsbestimmungen**
+
+    Für die Zwecke dieses Teils gelten als
+
+
+1.2.1 Flüssigerdgas (LNG): Erdgas, das durch Abkühlung auf eine Temperatur
+    von – 161° C verflüssigt wurde.
+
+
+1.2.2 LNG-System: alle Teile des Fahrzeugs, die möglicherweise Flüssigerdgas
+    (LNG) oder Erdgas enthalten, wie beispielsweise Motoren,
+    Brennstofftanks und Bunkerleitungen.
+
+
+1.2.3 LNG-Bunkersystem: die Vorrichtungen zum Bunkern von Flüssigerdgas
+    (LNG) an Bord (Bunkerstation und Bunkerleitungen).
+
+
+1.2.4 Bunkerstation: der Bereich an Bord, an dem sich sämtliche für den
+    Bunkervorgang notwendigen Geräte befinden, wie Schlauchanschlüsse,
+    Ventile, Vermessungsinstrumente, Sicherheitsausrüstung,
+    Überwachungsstation, Werkzeuge.
+
+
+1.2.5 LNG-Behältersystem: die Vorrichtungen zur Speicherung des
+    Flüssigerdgases (LNG), einschließlich der Tankanschlüsse.
+
+
+1.2.6 Gasversorgungssystem: die Vorrichtungen zur Versorgung aller
+    Gasverbrauchseinrichtungen an Bord, einschließlich des
+    Gasaufbereitungssystems, der Gaszuleitungen und -ventile.
+
+
+1.2.7 Gasaufbereitungssystem: die Einheit, die zur Umwandlung des
+    Flüssigerdgases (LNG) in Erdgas verwendet wird, ihr Zubehör sowie ihre
+    Leitungen.
+
+
+1.2.8 Gefährdete Bereiche: die nachfolgend bestimmten Zonen 0, 1 und 2:
+
+
+1.2.8.1 Zone 0: Bereich, in dem explosionsfähige Atmosphäre als Gemisch aus
+    Luft mit brennbaren Gasen, Dämpfen oder Nebeln ständig, über lange
+    Zeiträume oder häufig vorhanden ist,
+
+
+1.2.8.2 Zone 1: Bereich, in dem sich bei Normalbetrieb gelegentlich eine
+    explosionsfähige Atmosphäre als Gemisch aus Luft und brennbaren Gasen,
+    Dämpfen oder Nebeln bilden kann,
+
+
+1.2.8.3 Zone 2: Bereich, in dem bei Normalbetrieb eine explosionsfähige
+    Atmosphäre als Gemisch aus Luft und brennbaren Gasen, Dämpfen oder
+    Nebeln normalerweise nicht oder aber nur kurzzeitig auftritt.
+
+
+1.2.9 Geschlossener Raum: jeder Raum, der bei fehlender Zwangsentlüftung nur
+    eingeschränkt zu belüften ist und in dem sich aufgetretene
+    explosionsfähige Atmosphären nicht natürlich auflösen.
+
+
+1.2.10 Halboffener Raum: ein derart durch Decks oder Schotte abgetrennter
+    Raum, dass die natürlichen Belüftungsbedingungen sich erheblich von
+    denen auf dem offenen Deck unterscheiden.
+
+
+1.2.11 Überdruckventil: ein federbelastetes Gerät, das automatisch durch
+    Druck aktiviert wird und dessen Zweck darin besteht, den Tank oder die
+    Leitungen vor einem unzulässigen Überdruck im Inneren zu schützen.
+
+
+1.2.12 Zweikraftstoffmotoren: Motoren, die entweder mit Flüssigerdgas (LNG)
+    oder einem Brennstoff mit einem Flammpunkt von über 55° C betrieben
+    werden.
+
+
+1.2.13 ESD (Emergency Shutdown): eine Notabschaltung.
+
+
+1.2.14 Hauptgasbrennstoffventil: ein automatisches Absperrventil in
+    Gaszuleitungen zu Motoren.
+
+
+1.2.15 Zweite Barriere: die äußere Hülle eines LNG-Behältersystems oder von
+    Leitungen, die so ausgelegt sind, dass sie im Falle einer
+    Undichtigkeit der ersten Barriere den austretenden Brennstoff
+    vorläufig auffängt.
+
+
+1.2.16 Maximaler Arbeitsdruck: der Höchstdruck in einem LNG-Brennstofftank
+    oder einer LNG-Leitung während des Betriebs. Dieser Druck entspricht
+    dem Öffnungsdruck der Überdruckventile oder -vorrichtungen.
+
+
+1.2.17 Auslegungsdruck: der Druck, auf dessen Grundlage der LNG-
+    Brennstofftank oder die LNG-Leitungen konstruiert und hergestellt
+    wurden.
+
+
+1.2.18 Doppelabsperr- und Auslassventil: ein Satz von zwei in Reihe
+    geschalteten Ventilen in einer Leitung und einem dritten Ventil zur
+    Druckentlastung der Leitung zwischen diesen beiden Ventilen. Diese
+    Vorkehrung kann anstelle von drei getrennten Ventilen auch aus einem
+    Zweiwegeventil und einem Schließventil bestehen.
+
+
+1.2.19 Luftschleuse: ein Bereich, der von einem gasdichten Stahlschott mit
+    zwei gasdichten Türen umgeben ist, der den gefährdeten Bereich vom
+    ungefährdeten Bereich trennt.
+
+
+1.2.20 Doppelwandige Leitung: eine Leitung mit doppelwandiger Auslegung, in
+    welcher der Raum zwischen den Rohren mit Inertgas druckbefüllt ist und
+    so Leckagen an einer der beiden Wände erkannt werden.
+
+
+1.2.21 Systemkomponenten: sämtliche Komponenten der Installation, die
+    Flüssigerdgas (LNG) oder Erdgas enthalten können, wie Brennstofftanks,
+    Leitungen, Ventile, Schläuche, Zylinder, Pumpen, Filter, Instrumente.
+
+
+1.2.22 Belüftete Rohrleitung: eine mit einer mechanischen Abgasentlüftung
+    versehene Gasleitung, die in einem Rohr oder einer Leitung installiert
+    ist.
+
+
+1.2.23 Gaswarnanlage: eine Warneinrichtung zur Absicherung von Menschen und
+    Sachwerten vor gefährlichen Gasen und Gas-Luft-Gemischen. Sie besteht
+    aus Gasdetektoren zur Erfassung der Gase, einer Steuereinheit zur
+    Verarbeitung der Signale und einer Anzeige-/Alarmeinheit zur
+    Zustandsanzeige.
+
+
+**1.3** **Risikobewertung**
+
+
+1.3.1 Eine Risikobewertung ist für alle Konzepte und Konfigurationen, die
+    neu sind oder erheblich geändert wurden, durchzuführen. Die durch die
+    Verwendung von Flüssigerdgas (LNG) entstehenden Risiken, die sich für
+    Personen an Bord, die Umwelt, die Tauglichkeit oder Sicherheit des
+    Fahrzeugs ergeben, müssen berücksichtigt werden. Die mit der
+    räumlichen Gestaltung, dem Betrieb und der Wartung zusammenhängenden
+    Risiken, die sich im Anschluss an einen Ausfall ergeben, sind nach
+    vernünftigem Ermessen zu berücksichtigen.
+
+
+1.3.2 Die Risiken sind anhand einer von der Untersuchungskommission
+    anerkannten Methode zur Risikoanalyse, wie z. B. die österreichische
+    Norm OENORM ISO 31000:2010 und nach der Norm DIN EN 31010:2010, zu
+    bestimmen und zu bewerten. Dabei müssen zumindest Funktionsverlust,
+    Schaden an den Komponenten, Feuer, Explosion, Überflutung des
+    Tankraums, Sinken des Fahrzeugs und elektrische Überspannung
+    einfließen. Die Analyse muss sicherstellen, dass Risiken so weit wie
+    möglich beseitigt werden. Risiken, die nicht gänzlich beseitigt werden
+    können, sind auf ein akzeptables Niveau zu verringern. Die wichtigsten
+    Möglichkeiten und Maßnahmen zur Beseitigung bzw. Verringerung der
+    Risiken sind zu beschreiben.
+
+
+1.3.3 Die Unterteilung der gefährdeten Bereiche an Bord in die Zonen 0, 1
+    und 2 nach Nummer 1.2.8 ist in der Risikobewertung zu dokumentieren.
+
+
+**1.4** **Allgemeines**
+
+
+1.4.1 Auslegung, Konstruktion, Installation, Wartung und Schutz des LNG-
+    Systems müssen einen sicheren und verlässlichen Betrieb garantieren.
+
+
+1.4.2 Komponenten des LNG-Systems müssen vor äußeren Schäden geschützt
+    werden.
+
+
+1.4.3 Ein einzelner Ausfall im LNG-System darf nicht zu einer unsicheren
+    Situation führen.
+
+
+1.4.4 Der Zugang zu gefährdeten Bereichen ist, soweit dies praktisch
+    durchführbar ist, zu beschränken, um Risiken für die Sicherheit des
+    Fahrzeugs, der Personen an Bord, der Umwelt und der Ausrüstung zu
+    reduzieren. Insbesondere gehören gefährdete Bereiche zu den nicht für
+    Fahrgäste bestimmten Teilen des Schiffes nach § 15.06 Nummer 11.
+
+
+1.4.5 Fahrgäste sind durch geeignete Maßnahmen von gefährdeten Bereichen
+    fern zu halten.
+
+
+1.4.6 Die in den gefährdeten Bereichen installierte Ausrüstung ist auf das
+    für den Betrieb erforderliche Mindestmaß zu reduzieren und muss in
+    geeigneter und angemessener Form zertifiziert sein.
+
+
+1.4.7 Die unbeabsichtigte Bildung explosionsfähiger oder brennbarer
+    Gaskonzentrationen ist zu vermeiden.
+
+
+1.4.8 Zündquellen in gefährdeten Bereichen sind zur Verringerung der
+    Explosionswahrscheinlichkeit zu begrenzen.
+
+
+1.4.9 An Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen,
+    muss ein detailliertes Betriebshandbuch für das LNG-System vorhanden
+    sein, das mindestens
+
+    a)  praktische Erläuterungen zum LNG-Bunkersystem, zum LNG-Behältersystem,
+        zum LNG-Leitungssystem, zum Gasversorgungssystem, zum Maschinenraum,
+        zum Belüftungssystem, zur Verhütung und Kontrolle von Leckagen sowie
+        zum Überwachungs- und Sicherheitssystem enthält;
+
+
+    b)  den Bunkervorgang, insbesondere die Betätigung der Ventile, die
+        Entleerung, das Inertisieren und das Entgasen, beschreibt;
+
+
+    c)  das maßgebliche Verfahren für die elektrische Isolierung während der
+        Bunkervorgänge beschreibt;
+
+
+    d)  die sich aus der Risikobewertung nach Nummer 1.3 ergebenden Risiken
+        beschreibt und zu deren Verminderung anleitet.
+
+
+
+
+
+1.4.10 Ein durch Freisetzung von Gas entstandenes Feuer oder eine durch Gas
+    entstandene Explosion in den Brennstoffbehältern und in den
+    Maschinenräumen darf nicht die Funktionsfähigkeit betriebswichtiger
+    Maschinen oder Ausrüstung in anderen Räumen gefährden.
+
+
+**1.5** **Kenntnisse des Technischen Dienstes**
+
+    Die Kenntnisse des Technischen Dienstes nach § 8b.01 Nummer 4 müssen
+    sich mindestens auf die folgenden Bereiche erstrecken:
+
+    a)  Brennstoffsystem einschließlich Tanks, Wärmetauscher, Leitungen,
+
+
+    b)  Festigkeit (Längs- und örtliche Festigkeit) und Stabilität des
+        Fahrzeugs,
+
+
+    c)  elektrische Anlage und Kontrollsysteme,
+
+
+    d)  Belüftungssystem,
+
+
+    e)  Brandschutz,
+
+
+    f)  Gaswarnanlage.
+
+
+
+
+
+**1.6** **Kennzeichnung**
+
+    Türen zu Räumen, in denen Flüssigerdgas (LNG) genutzt wird, müssen auf
+    der Außenseite mit einem Symbol für „LNG-Warnung“ nach Anlage I Bild
+    11 mit einer Höhe von mindestens 10 cm gekennzeichnet werden.
+
+
+
+
+Kapitel 2 ****
+## Schiffsausrüstung, Schiffsbetrieb und Systemauslegung ****
+
+
+**2.1** **LNG-Behältersystem**
+
+
+2.1.1 Das LNG-Behältersystem ist von den Maschinenräumen und anderen
+    Bereichen mit hoher Brandgefahr zu trennen.
+
+
+2.1.2 Die LNG-Brennstofftanks sind so nah wie möglich an der
+    Mittellängsachse des Schiffes auszurichten.
+
+
+2.1.3 Der Abstand zwischen der Bordwand des Fahrzeugs und dem LNG-
+    Brennstofftank darf 1,00 m nicht unterschreiten. Befinden sich LNG-
+    Brennstofftanks
+
+    a)  unter Deck, muss das Fahrzeug am Standort der LNG-Brennstofftanks über
+        eine Doppelwand und eine Doppelbodenkonstruktion verfügen. Der Abstand
+        zwischen Bord- und Innenwand des Fahrzeugs darf 0,60 m nicht
+        unterschreiten. Die Höhe der Doppelböden darf 0,60 m nicht
+        unterschreiten.
+
+
+    b)  auf dem offenen Deck, muss der Abstand zu den senkrechten Ebenen, die
+        mit den Bordwänden des Fahrzeugs zusammenfallen, mindestens B/5
+        betragen.
+
+
+
+
+
+2.1.4 Der LNG-Brennstofftank ist als ein unabhängiger Tank in
+    Übereinstimmung mit den Europäischen Normen DIN EN 13530-1:2002, DIN
+    EN 13530-2:2003, DIN EN 13530-3:2005, DIN EN 13458-2:2003 in
+    Verbindung mit dynamischer Belastung oder dem IGC-Code (Tank Typ C)
+    auszuführen. Die Untersuchungskommission kann andere gleichwertige
+    Normen eines Rheinuferstaates und Belgiens akzeptieren.
+
+
+2.1.5 Tankanschlüsse sind über dem höchsten Flüssigkeitsspiegel in den Tanks
+    anzubringen. Die Untersuchungskommission kann Anschlüsse unter dem
+    höchsten Flüssigkeitsspiegel akzeptieren.
+
+
+2.1.6 Sind Tankanschlüsse unter dem höchsten Flüssigkeitsspiegel der LNG-
+    Brennstofftanks angebracht, müssen Auffangwannen unter den Tanks
+    aufgestellt werden, die die nachfolgenden Anforderungen erfüllen:
+
+    a)  Die Kapazität der Auffangwanne muss für das möglicherweise bei einem
+        Leitungsschaden austretende Volumen ausreichen.
+
+
+    b)  Die Auffangwanne muss aus geeignetem Edelstahl gefertigt sein.
+
+
+    c)  Die Auffangwanne muss von dem Schiffskörper oder den Aufbauten des
+        Decks ausreichend getrennt oder isoliert sein, damit der Schiffskörper
+        oder die Aufbauten des Decks bei LNG-Leckagen nicht unzulässig
+        auskühlen.
+
+
+
+
+
+2.1.7 Das LNG-Behältersystem muss mit einer zweiten Barriere ausgestattet
+    sein. Eine zweite Barriere ist nicht für LNG-Behältersysteme
+    erforderlich, bei denen die Wahrscheinlichkeit für Schäden an der
+    Struktur und Leckagen aus der ersten Barriere sehr gering ist und
+    vernachlässigt werden kann.
+
+
+2.1.8 Falls die zweite Barriere des LNG-Behältersystems Teil der
+    Schiffskörperstruktur ist, kann es eine Trennwand des Tankraums sein,
+    vorausgesetzt, die notwendigen Vorkehrungen gegen Leckagen des
+    tiefkalten verflüssigten Brennstoffes sind ergriffen worden.
+
+
+2.1.9 Der Ort und die Bauweise des LNG-Behältersystems und der sonstigen
+    Ausrüstung auf dem offenen Deck müssen so gestaltet sein, dass für
+    eine ausreichende Lüftung gesorgt ist. Eine Ansammlung von
+    freigesetztem Erdgas muss vermieden werden.
+
+
+2.1.10 Sofern Kondensation und Vereisung aufgrund von kalten Oberflächen der
+    LNG-Brennstofftanks zu Problemen der Sicherheit oder der Funktion
+    führen können, müssen geeignete Vermeidungs- oder Abhilfemaßnahmen
+    ergriffen werden.
+
+
+2.1.11 Jeder LNG-Brennstofftank ist mit mindestens zwei Überdruckventilen
+    auszustatten, die einen Überdruck verhindern können, falls eines der
+    Ventile wegen einer Fehlfunktion, Leckage oder Wartung geschlossen
+    wird.
+
+
+2.1.12 Wenn Freisetzungen von Brennstoff in das Vakuum eines vakuumisolierten
+    LNG-Brennstofftanks nicht ausgeschlossen werden können, muss das
+    Vakuum mit einem geeigneten Überdruckventil geschützt werden. Sofern
+    LNG-Brennstofftanks in geschlossenen oder halboffenen Räumen
+    aufgestellt sind, muss die Überdruckvorrichtung an ein
+    Entlüftungssystem angeschlossen sein.
+
+
+2.1.13 Die Austrittsöffnungen der Überdruckventile müssen mindestens 2,00 m
+    über Deck in einem Abstand von mindestens 6,00 m zu den Wohnungen,
+    Fahrgastbereichen und zu den Arbeitsplätzen, die sich außerhalb des
+    Laderaums oder des Ladungsbereichs befinden, angebracht werden. Diese
+    Höhe kann verringert werden, wenn unmittelbar um die Austrittsöffnung
+    des Überdruckventils in einem Umkreis von 1,00 m keine Ausrüstungen
+    vorhanden sind, keine Arbeiten ausgeführt werden, dieser Bereich
+    gekennzeichnet ist und geeignete Maßnahmen zum Schutz des Decks
+    ergriffen werden.
+
+
+2.1.14 Eine sichere Entleerung der LNG-Brennstofftanks muss möglich sein,
+    selbst wenn das LNG-System abgeschaltet ist.
+
+
+2.1.15 Es muss möglich sein, LNG-Brennstofftanks einschließlich
+    Gasleitungssystemen mit Spülgas zu reinigen und zu belüften. Es muss
+    möglich sein, vor dem Belüften mit trockener Luft eine Inertisierung
+    mit einem Inertgas (z. B. Stickstoff oder Argon) durchzuführen, um
+    eine gefährliche explosionsfähige Atmosphäre in den LNG-
+    Brennstofftanks und Gasleitungen auszuschließen.
+
+
+2.1.16 Druck und Temperatur von LNG-Brennstofftanks müssen jederzeit in der
+    ausgelegten Bandbreite gehalten werden.
+
+
+2.1.17 Befindet sich das LNG-System außer Betrieb, muss es den Druck im LNG-
+    Brennstofftank für einen Zeitraum von 15 Tagen unterhalb des maximalen
+    Arbeitsdrucks des LNG-Brennstofftanks halten. Dabei wird davon
+    ausgegangen, dass der LNG-Brennstofftank bis zur Befüllgrenze nach
+    Nummer 2.9 befüllt war und das Fahrzeug stillliegt.
+
+
+2.1.18 Die LNG-Brennstofftanks müssen mit dem Schiffskörper elektrisch
+    verbunden werden.
+
+
+**2.2** **Maschinenräume**
+
+
+2.2.1 In Maschinenräumen muss eines der folgenden Konzepte umgesetzt werden:
+
+    a)  gassicherer Maschinenraum,
+
+
+    b)  explosionssicherer Maschinenraum oder
+
+
+    c)  ESD-geschützter Maschinenraum.
+
+
+
+
+
+2.2.2 Anforderungen für gassichere Maschinenräume
+
+
+2.2.2.1 Gassichere Maschinenräume müssen unter allen Bedingungen gassicher
+    sein („inherently gas safe“). Ein einzelner Ausfall im LNG-System darf
+    nicht zu einer Gasleckage im Maschinenraum führen. Alle Gasleitungen
+    in den Maschinenräumen müssen gasdicht abgeschirmt werden, z. B. durch
+    doppelwandige Leitungen oder belüftete Rohrleitungen.
+
+
+2.2.2.2 Bei Ausfall einer Barriere wird die Gaszuleitung zu dem betroffenen
+    Teil des LNG-Systems automatisch abgesperrt.
+
+
+2.2.2.3 Das Belüftungssystem von belüfteten Rohrleitungen muss
+
+    a)  gewährleisten, dass das Bruttoluftvolumen innerhalb der belüfteten
+        Rohrleitungen mindestens 30 mal pro Stunde ausgetauscht werden kann;
+
+
+    b)  so ausgerichtet sein, dass das Vorhandensein von Gas in dem Raum
+        zwischen der inneren und der äußeren Leitung ständig erfasst wird;
+
+
+    c)  unabhängig von allen anderen Belüftungssystemen sein, insbesondere vom
+        Belüftungssystem des Maschinenraums.
+
+
+
+
+
+2.2.2.4 Ein gassicherer Maschinenraum wird als ungefährlicher Bereich
+    betrachtet, es sei denn, die Risikobewertung nach Nummer 1.3 besagt
+    etwas anderes.
+
+
+2.2.3 Anforderungen für explosionssichere Maschinenräume
+
+
+2.2.3.1 Vorrichtungen in explosionssicheren Maschinenräumen müssen dergestalt
+    sein, dass die Räume unter normalen Bedingungen als gassicher gelten.
+    Ein einzelner Ausfall im LNG-System darf nicht zu einer Konzentration
+    von mehr als 20 % der unteren Explosionsgrenze (LEL) im Maschinenraum
+    führen.
+
+
+2.2.3.2 Bei Feststellung eines Gasaustritts oder Ausfall der Belüftung muss
+    die Gaszuleitung zu dem betroffenen Teil des LNG-Systems automatisch
+    abgesperrt werden.
+
+
+2.2.3.3 Das Belüftungssystem muss
+
+    a)  über eine ausreichende Kapazität verfügen, um die Gaskonzentration
+        unter 20 % der unteren Explosionsgrenze (LEL) im Maschinenraum zu
+        halten und gewährleisten, dass das Bruttoluftvolumen innerhalb des
+        Maschinenraums mindestens 30 mal pro Stunde ausgetauscht werden kann;
+
+
+    b)  unabhängig von allen anderen Belüftungssystemen sein.
+
+
+
+
+
+2.2.3.4 Im Normalbetrieb muss der Maschinenraum ständig belüftet sein und das
+    Bruttoluftvolumen innerhalb des Maschinenraums muss mindestens 15 mal
+    pro Stunde ausgetauscht werden.
+
+
+2.2.3.5 Explosionssichere Maschinenräume müssen so angelegt sein, dass die
+    geometrische Form die Ansammlung von Gasen oder die Bildung von
+    Gastaschen minimiert. Eine gute Luftzirkulation muss gewährleistet
+    sein.
+
+
+2.2.3.6 Ein explosionssicherer Maschinenraum wird als Bereich der Zone 2
+    betrachtet, es sei denn, die Risikobewertung nach Nummer 1.3 besagt
+    etwas anderes.
+
+
+2.2.4 Anforderungen für ESD-geschützte Maschinenräume
+
+
+2.2.4.1 Vorrichtungen in ESD-geschützten Maschinenräumen müssen dergestalt
+    sein, dass die Räume unter normalen Bedingungen als gassicher gelten
+    können, aber unter gewissen außergewöhnlichen Umständen doch ein
+    Gasgefahrenpotential bieten.
+
+
+2.2.4.2 Bei außergewöhnlichen Umständen mit gefährlichen Gaskonzentrationen
+    muss automatisch eine Notabschaltung (ESD) von unsicherer Ausrüstung
+    (Zündquellen) und von Gasmaschinen erfolgen. Die Ausrüstung, die unter
+    diesen Bedingungen genutzt wird, muss vom Typ bescheinigte Sicherheit
+    sein.
+
+
+2.2.4.3 Das Belüftungssystem muss
+
+    a)  gewährleisten, dass das Bruttoluftvolumen innerhalb des Maschinenraums
+        mindestens 30 mal pro Stunde ausgetauscht werden kann,
+
+
+    b)  so ausgelegt sein, dass es den wahrscheinlich größten Austritt von Gas
+        aufgrund eines technischen Fehlers beherrscht und
+
+
+    c)  unabhängig von allen anderen Belüftungssystemen sein.
+
+
+
+
+
+2.2.4.4 Im Normalbetrieb muss der Maschinenraum ständig belüftet sein und das
+    Bruttoluftvolumen innerhalb des Maschinenraums muss mindestens 15 mal
+    pro Stunde ausgetauscht werden. Wenn im Maschinenraum ein Gasaustritt
+    festgestellt wird, muss der Luftaustausch automatisch auf 30 mal pro
+    Stunde erhöht werden.
+
+
+2.2.4.5 Wenn das Fahrzeug über mehr als einen Antriebsmotor verfügt, müssen
+    diese Motoren in mindestens zwei getrennten Maschinenräumen
+    aufgestellt sein. Diese Maschinenräume sollen keine gemeinsamen
+    Trennflächen haben. Gemeinsame Trennflächen sind jedoch akzeptabel,
+    wenn der Nachweis erbracht werden kann, dass nicht beide Räume infolge
+    eines einzelnen Ausfalls beeinträchtigt werden.
+
+
+2.2.4.6 Eine fest installierte Gaswarnanlage, die automatisch die
+    Gasversorgung des betroffenen Maschinenraums absperrt und alle nicht
+    explosionsgeschützten Betriebsmittel abschaltet, muss eingebaut
+    werden.
+
+
+2.2.4.7 ESD-geschützte Maschinenräume müssen so angelegt sein, dass die
+    geometrische Form die Ansammlung von Gasen oder die Bildung von
+    Gastaschen minimiert. Eine gute Luftzirkulation muss gewährleistet
+    sein.
+
+
+2.2.4.8 Ein ESD-geschützter Maschinenraum wird als Bereich der Zone 1
+    betrachtet, es sei denn, die Risikobewertung nach Nummer 1.3 besagt
+    etwas anderes.
+
+
+**2.3** **Flüssigerdgas- (LNG) und Erdgasleitungssysteme**
+
+
+2.3.1 Flüssigerdgas- (LNG) und Erdgasleitungen durch andere Maschinenräume
+    oder ungefährliche geschlossene Bereiche des Fahrzeugs müssen durch
+    doppelwandige Leitungen oder belüftete Rohrleitungen eingehaust sein.
+
+
+2.3.2 Leitungen für Flüssigerdgas (LNG) und Erdgas müssen mindestens 1,00 m
+    von der Schiffsseite und 0,60 m vom Schiffsboden entfernt verlaufen.
+
+
+2.3.3 Alle Leitungen und Komponenten, die bei vollständiger Befüllung mit
+    flüssigem Flüssigerdgas (LNG) mit Ventilen vom LNG-System getrennt
+    werden können, sind mit Überdruckventilen zu versehen.
+
+
+2.3.4 Die Leitungen sind elektrisch mit dem Schiffskörper zu verbinden.
+
+
+2.3.5 Niedrigtemperaturleitungen müssen soweit erforderlich von der
+    benachbarten Schiffskörperstruktur thermisch isoliert werden. Es muss
+    ein Schutz gegen unbeabsichtigte Berührung vorhanden sein.
+
+
+2.3.6 Der Auslegungsdruck der Leitungen muss mindestens 150 % des maximalen
+    Arbeitsdrucks betragen. Der maximale Arbeitsdruck der Leitungen
+    innerhalb der Räume darf 1000 kPa nicht übersteigen. Der
+    Auslegungsdruck der äußeren Wandung oder der Rohrleitung von
+    Gasleitungssystemen darf nicht geringer sein als der Auslegungsdruck
+    der inneren Gasleitungen.
+
+
+2.3.7 Gasleitungen in ESD-geschützten Maschinenräumen müssen so weit wie
+    nach praktischen Erwägungen möglich entfernt von den elektrischen
+    Installationen und den Tanks mit entzündbarer Flüssigkeit angebracht
+    werden.
+
+
+**2.4** **Lenzsysteme**
+
+
+2.4.1 Lenzsysteme für Bereiche, in denen Flüssigerdgas (LNG) oder Erdgas
+    vorhanden sein kann,
+
+    a)  müssen unabhängig und getrennt von Lenzsystemen von Bereichen sein, in
+        denen Flüssigerdgas (LNG) und Erdgas nicht vorhanden sein können,
+
+
+    b)  dürfen nicht zu Pumpen in ungefährlichen Bereichen führen.
+
+
+
+
+
+2.4.2 Wo für das LNG-Behältersystem keine zweite Barriere erforderlich ist,
+    müssen geeignete Ableitevorrichtungen für die Tankräume, die nicht mit
+    den Maschinenräumen verbunden sind, vorhanden sein. Es müssen Mittel
+    zur Erkennung von LNG-Leckagen vorhanden sein.
+
+
+2.4.3 Wo das LNG-Behältersystem eine zweite Barriere erfordert, müssen
+    geeignete Ableitevorrichtungen für den Umgang mit LNG-Leckagen in den
+    Räumen zwischen den Barrieren vorhanden sein. Es müssen Mittel zur
+    Erkennung derartiger Leckagen vorhanden sein.
+
+
+**2.5** **Auffangwannen**
+
+    Geeignete Auffangwannen sind dort anzubringen, wo Leckagen Schäden am
+    Schiffskörper verursachen könnten oder wo Bereiche vor den Folgen
+    eines Überlaufens geschützt werden müssen.
+
+
+**2.6** **Eingänge und andere Öffnungen**
+
+
+2.6.1 Eingänge und andere Öffnungen von ungefährlichen Bereichen in
+    Gefahrenbereiche sind nur in dem Maße zulässig, in dem dies aus
+    betrieblichen Gründen erforderlich ist.
+
+
+2.6.2 Die Eingänge und Öffnungen zu einem ungefährlichen Bereich, die sich
+    im Abstand von bis zu 6,00 m zum LNG-Behältersystem, dem
+    Gasaufbereitungssystem oder dem Ausgang des Überdruckventils befinden,
+    müssen mit einer geeigneten Luftschleuse versehen sein.
+
+
+2.6.3 Bei Luftschleusen muss mechanisch Luft abgesaugt werden, und zwar bei
+    Überdruck im Vergleich zu den angrenzenden gefährdeten Bereichen. Die
+    Türen müssen selbstschließend sein.
+
+
+2.6.4 Luftschleusen müssen so konzipiert sein, dass bei den kritischsten
+    Ereignissen in gefährdeten Bereichen kein Gas in die durch die
+    Luftschleuse getrennten ungefährdeten Bereiche freigesetzt werden
+    kann. Die Ereignisse müssen in der Risikobewertung nach Nummer 1.3
+    evaluiert werden.
+
+
+2.6.5 Luftschleusen müssen frei von Hindernissen sein, einen einfachen
+    Durchgang ermöglichen und dürfen nicht für andere Zwecke genutzt
+    werden.
+
+
+2.6.6 Es muss ein akustischer und optischer Alarm für beide Seiten der
+    Luftschleuse ausgelöst werden, falls mehr als eine Tür geöffnet wird
+    oder falls Gas in der Schleuse auftritt.
+
+
+**2.7** **Lüftungssysteme**
+
+
+2.7.1 Die Ventilatoren in gefährdeten Bereichen müssen vom Typ bescheinigte
+    Sicherheit sein.
+
+
+2.7.2 Die Elektromotoren für die Ventilatoren müssen dem erforderlichen
+    Explosionsschutz an den jeweiligen Stellen entsprechen.
+
+
+2.7.3 Jeglicher Verlust der erforderlichen Lüftungskapazität muss einen
+    akustischen und optischen Alarm an einer dauerhaft besetzten Stelle
+    (z. B. Steuerhaus) auslösen.
+
+
+2.7.4 Jegliche für die Belüftung der gefährdeten Bereiche vorgesehenen Rohre
+    müssen von denjenigen für die Belüftung der ungefährlichen Bereiche
+    getrennt werden.
+
+
+2.7.5 Die erforderlichen Belüftungssysteme bestehen aus mindestens zwei
+    Ventilatoren mit unabhängiger Stromversorgung, jeder einzelne mit
+    einer ausreichenden Kapazität, um eine Ansammlung von Gas zu
+    vermeiden.
+
+
+2.7.6 Luft für gefährliche Räume muss aus den ungefährlichen Bereichen
+    entnommen werden.
+
+
+2.7.7 Luft für ungefährliche Räume muss von ungefährlichen Bereichen
+    mindestens 1,50 m von den Trennwänden der gefährdeten Bereiche
+    entfernt entnommen werden.
+
+
+2.7.8 Wenn das Einlasslüftungsrohr durch einen gefährlichen Raum
+    durchgeführt wird, muss das Rohr relativ zu diesem Raum unter
+    Überdruck stehen. Ein Überdruck ist nicht erforderlich, wenn
+    gewährleistet ist, dass Gase nicht in das Rohr gelangen.
+
+
+2.7.9 Luftauslässe aus gefährlichen Räumen müssen in Freiräume führen, die
+    die gleiche oder niedrigere Gefahreneinstufung wie der belüftete Raum
+    aufweisen.
+
+
+2.7.10 Luftauslässe von ungefährlichen Räumen sind außerhalb von gefährdeten
+    Bereichen anzubringen.
+
+
+2.7.11 In geschlossenen Räumen müssen sich die Entlüftungsauslässe an der
+    Decke dieser Räume befinden. Lufteinlässe sind am Boden vorzusehen.
+
+
+**2.8** **LNG-Bunkersystem**
+
+
+2.8.1 Das LNG-Bunkersystem muss so ausgelegt sein, dass kein Gas während der
+    Befüllung der LNG-Brennstofftanks in die Atmosphäre austreten kann.
+
+
+2.8.2 Die Bunkerstation und alle für das Bunkern zu nutzenden Ventile müssen
+    sich auf offenem Deck befinden, sodass für eine ausreichende
+    natürliche Belüftung gesorgt ist.
+
+
+2.8.3 Die Bunkerstation muss so positioniert sein, dass Schäden an der
+    Gasleitung keine Schäden am LNG-Behältersystem des Fahrzeugs
+    verursachen.
+
+
+2.8.4 Geeignete Mittel zur Druckentlastung und Entfernung der Flüssigkeiten
+    in den Pumpsaugleitungen und Bunkerleitungen müssen vorgesehen werden.
+
+
+2.8.5 Die für das Bunkern von Flüssigerdgas (LNG) eingesetzten Schläuche
+    müssen
+
+    a)  mit Flüssigerdgas (LNG) vereinbar und insbesondere für die LNG-
+        Temperaturen geeignet sein;
+
+
+    b)  mindestens für einen Berstdruck ausgelegt sein, der dem fünffachen
+        Höchstdruck entspricht, dem die Schläuche während des Bunkerns
+        ausgesetzt sind.
+
+
+
+
+
+2.8.6 Die Schlauchanschlussstation muss so ausgelegt sein, dass sie normalen
+    mechanischen Beanspruchungen während des Bunkerns standhält. Die
+    Anschlüsse müssen vom Typ der trockenen Bunkerleitungsnottrennung
+    sein. Dies gilt als erfüllt, wenn die Europäische Norm DIN EN
+    1474:2009 oder eine gleichwertige Norm eingehalten wird. Die
+    Anschlüsse müssen für die Sicherheit mit zusätzlichen
+    trockenbrechenden Kupplungen ausgestattet sein.
+
+
+2.8.7 Es muss möglich sein, das Hauptventil zum LNG-Bunkern während der
+    Bunkervorgänge von einer sicheren Bedienungsstelle auf dem Fahrzeug
+    aus zu bedienen.
+
+
+2.8.8 Bunkerleitungen müssen inertisiert und entgast werden können.
+
+
+**2.9** **Befüllgrenze für LNG-Brennstofftanks**
+
+
+2.9.1 Die Befüllung des LNG-Brennstofftanks darf die Befüllgrenze von 95 %
+    bei der Referenztemperatur nicht überschreiten. Die Referenztemperatur
+    entspricht der Temperatur, die mit dem Dampfdruck des Brennstoffes bei
+    dem Öffnungsdruck der Überdruckventile korrespondiert.
+
+
+2.9.2 Eine Füllkurve für die jeweiligen Temperaturen der LNG-Befüllung ist
+    mit folgender Formel zu berechnen:
+
+    LL = FL**
+    R                   /*
+    L
+
+    In dieser Formel bedeuten:
+
+    *        *   LL
+
+        *   = „loading limit“, maximal zulässige Füllmenge des flüssigen Volumens,
+            abhängig vom Volumen des LNG-Brennstofftanks, bis zu dem der Tank
+            befüllt werden kann, in Prozent ausgedrückt,
+
+
+    *        *   FL
+
+        *   = „filling limit“, Befüllgrenze in Prozent, hier 95 %,
+
+
+    *        *   *
+            R
+
+        *   = relative Dichte des Brennstoffes bei der Referenztemperatur, und
+
+
+    *        *   *
+            L
+
+        *   = relative Dichte des Brennstoffes bei der Befüllungstemperatur.
+
+
+
+
+
+2.9.3 Bei Fahrzeugen, die aufgrund betrieblicher Vorgänge signifikanten
+    Wellenhöhen oder signifikanten Bewegungen ausgesetzt sind, muss die
+    Füllkurve auf der Grundlage der Risikobewertung nach Nummer 1.3
+    dementsprechend angepasst werden.
+
+
+**2.10** **Gasversorgungssystem**
+
+
+2.10.1 Das Gasversorgungssystem muss so konzipiert sein, dass die Folgen
+    einer möglichen Freisetzung von Gas auf ein Mindestmaß reduziert
+    werden und ein sicherer Zugang für den Betrieb und die Inspektion
+    möglich ist.
+
+
+2.10.2 Die Teile des Gasversorgungssystems, die sich außerhalb des
+    Maschinenraums befinden, müssen so ausgelegt sein, dass ein Ausfall
+    einer Barriere nicht zu einer Leckage aus dem System in die Umgebung
+    führt und dort eine unmittelbare Gefahr für Personen an Bord, die
+    Umwelt oder das Fahrzeug verursacht.
+
+
+2.10.3 Einlässe und Auslässe für LNG-Brennstofftanks sind möglichst nahe am
+    Tank mit Ventilen zu versehen.
+
+
+2.10.4 Das Gasversorgungssystem für jeden Motor oder Motorsatz ist mit einem
+    Hauptgasbrennstoffventil auszustatten. Die Ventile müssen so nah wie
+    möglich am Gasaufbereitungssystem liegen, dürfen sich aber auf keinen
+    Fall im Maschinenraum befinden.
+
+
+2.10.5 Das Hauptgasbrennstoffventil muss
+
+    a)  von inner- und außerhalb des Maschinenraums,
+
+
+    b)  vom Steuerhaus aus
+
+
+
+    bedienbar sein.
+
+
+2.10.6 Jede Gasverbrauchseinrichtung erhält einen Satz an Doppelabsperr- und
+    Ablassventilen, um eine sichere Isolierung des Brennstoffzufuhrsystems
+    zu gewährleisten. Die beiden Absperrventile gehören zum Typ der in
+    Notsituationen schlagartig zu schließenden Ventile (fail-to-close),
+    wohingegen das Belüftungsventil schlagartig zu öffnen ist (fail-to-
+    open).
+
+
+2.10.7 Bei Mehrmotorenanlagen, bei denen ein getrenntes
+    Hauptgasbrennstoffventil für jeden einzelnen Motor vorgesehen ist, und
+    bei den einmotorigen Anlagen können die Hauptgasbrennstoffventile und
+    die Doppelabsperr- und Ablassventile miteinander kombiniert werden.
+    Ein Notabsperrventil der Doppelabsperr- und Ablassventile muss auch
+    manuell zu bedienen sein.
+
+
+**2.11** **Abgassystem und Abschaltung der Gasversorgung**
+
+
+2.11.1 Das Abgassystem ist so auszulegen, dass die Ansammlung von
+    unverbranntem gasförmigem Brennstoff so gering wie möglich gehalten
+    wird.
+
+
+2.11.2 Motorkomponenten oder -systeme, die ein entzündliches Gas- und
+    Luftgemisch enthalten können, müssen mit geeigneten Überdruckventilen
+    versehen sein, es sei denn, sie sind hinsichtlich ihrer Festigkeit so
+    ausgelegt, dass sie dem Überdruck aufgrund von entzündeten
+    Gasaustritten im Worst-Case-Szenario widerstehen können.
+
+
+2.11.3 Wenn die Gasversorgung vor dem Stoppen nicht auf Diesel umgestellt
+    wird, müssen das Gasversorgungssystem bis hin zum
+    Hauptgasbrennstoffventil und das Abgassystem gereinigt werden, damit
+    das noch vorhandene Restgas entweichen kann.
+
+
+2.11.4 Einrichtungen für die Überwachung und Feststellung eines nicht
+    ordnungsgemäßen Betriebes der Zündanlage, einer mangelhaften
+    Verbrennung oder von Zündaussetzern, die dazu führen können, dass
+    unverbrannter gasförmiger Brennstoff während des Betriebes in das
+    Abgassystem gelangt, müssen vorhanden sein.
+
+
+2.11.5 Wenn ein nicht ordnungsgemäßer Betrieb der Zündanlage, mangelhafte
+    Verbrennung oder Zündaussetzer festgestellt werden, muss das
+    Gasversorgungssystem automatisch abgeschaltet werden.
+
+
+2.11.6 Die Abgasrohre der gasbetriebenen Motoren oder Zweikraftstoffmotoren
+    dürfen nicht mit den Abgasleitungen anderer Motoren oder Systeme
+    verbunden werden.
+
+
+2.11.7 Im Falle eines normalen Abstoppens oder einer Notabschaltung (ESD)
+    darf das Gasversorgungssystem nicht nach der Zündquelle ausgeschaltet
+    werden. Es darf nicht möglich sein, die Zündquelle auszuschalten, ohne
+    zuerst oder gleichzeitig die Gaszufuhr für jeden Zylinder oder für den
+    gesamten Motor zu schließen.
+
+
+2.11.8 Bei einer Abschaltung des Gasversorgungssystems bei
+    Zweikraftstoffmotoren muss der Motor in der Lage sein, ohne
+    Unterbrechung auf den Dieselbetrieb umzustellen.
+
+
+
+
+Kapitel 3 ****
+## Brandschutz ****
+
+
+**3.1** **Allgemeines**
+
+
+3.1.1 Die je nach Gefahrensituation erforderlichen Brandmeldeanlagen,
+    Brandschutzmaßnahmen und Feuerlöscheinrichtungen sind vorzusehen.
+
+
+3.1.2 Für den Brandschutz wird das Gasaufbereitungssystem als Maschinenraum
+    betrachtet.
+
+
+**3.2** **Feuermeldesystem**
+
+
+3.2.1 Ein geeignetes, fest installiertes Feuermeldesystem muss in allen
+    Räumen des LNG-Systems vorhanden sein, in denen Feuer nicht
+    ausgeschlossen werden kann.
+
+
+3.2.2 Der alleinige Einsatz von Rauchmeldern ist nicht ausreichend für eine
+    frühzeitige Branderkennung.
+
+
+3.2.3 Das Feuermeldesystem muss in der Lage sein, jeden Melder einzeln zu
+    identifizieren.
+
+
+3.2.4 Das Gassicherheitssystem muss die entsprechenden Teile der
+    Gasversorgung nach Brandmeldung in Räumen, die Gasanlagen beherbergen,
+    automatisch abschalten.
+
+
+**3.3** **Brandschutz**
+
+
+3.3.1 Wohnungen, Fahrgastbereiche, Maschinenräume und Fluchtwege mit einem
+    Abstand von weniger als 3,00 m zu LNG-Brennstofftanks und
+    Bunkerstationen an Deck müssen mit Trennwänden von Typ A60 geschützt
+    sein.
+
+
+3.3.2 Die Trennwände von Räumen mit LNG-Brennstofftanks und die Rohre der
+    Belüftung zu diesen Räumen unter dem Schottendeck müssen dem Typ A60
+    entsprechen. Wenn es sich jedoch um Räume handelt, die an Tanks,
+    Hohlräume, Hilfsmaschinenräume mit geringem oder nicht vorhandenem
+    Brandrisiko angrenzen oder neben Sanitärräumen oder ähnlichen
+    Bereichen liegen, kann die Isolierung auf den Typ A0 reduziert werden.
+
+
+**3.4** **Brandverhütung und Kühlung**
+
+
+3.4.1 Eine Sprühanlage muss zur Kühlung und zur Brandverhütung installiert
+    werden, um die exponierten Teile von LNG-Brennstofftanks auf offenem
+    Deck zu schützen.
+
+
+3.4.2 Wenn die Sprühanlage Teil der Feuerlöschanlage nach § 10.03a oder §
+    10\.03b ist, muss die Kapazität der Feuerlöschpumpe und der
+    Arbeitsdruck für den gleichzeitigen Betrieb sowohl der geforderten
+    Zahl an Hydranten und Schläuchen als auch für die Wassersprühanlage
+    ausreichen. Die Verbindung zwischen der Wassersprühanlage und der in §
+    10\.03a und § 10.03b genannten Feuerlöschanlage ist mittels eines gegen
+    unbeabsichtigtes Öffnen gesicherten, absperrbaren Rückschlagventils
+    vorzusehen.
+
+
+3.4.3 Wenn Feuerlöschanlagen nach § 10.03a oder § 10.03b an Bord eines
+    Fahrzeugs, bei dem sich der LNG-Brennstofftank auf dem offenen Deck
+    befindet, eingebaut sind, müssen Absperrhähne in den Feuerlöschanlagen
+    eingebaut werden, um beschädigte Abschnitte der Feuerlöschanlagen
+    absperren zu können. Die Absperrung eines Abschnitts der
+    Feuerlöschanlagen darf nicht den dahinter liegenden Abschnitt vom
+    Wasser abschneiden.
+
+
+3.4.4 Die Sprühanlage muss auch Trennwände der Aufbauten abdecken, es sei
+    denn, der Tank ist 3,00 m oder mehr von den Trennwänden entfernt.
+
+
+3.4.5 Die Sprühanlage muss für alle oben aufgeführten Bereiche ausgelegt
+    sein, mit einer Rate von
+    10 l/min                   /m
+    2                    für horizontale Oberflächen und 4 l/min/m
+    2                    für vertikale Oberflächen.
+
+
+3.4.6 Es muss möglich sein, die Sprühanlage vom Steuerhaus und von Deck aus
+    in Betrieb zu setzen.
+
+
+3.4.7 Die Düsen müssen so ausgelegt sein, dass sie eine effektive
+    Wasserverteilung in dem gesamten zu schützenden Bereich gewährleisten.
+
+
+**3.5** **Feuerlöscher**
+
+    Zusätzlich zu den Anforderungen nach § 10.03 müssen zwei zusätzliche
+    tragbare Trockenpulver-Feuerlöscher mit einem Mindestfassungsvermögen
+    von 12 kg in der Nähe der Bunkerstation vorhanden sein. Sie müssen für
+    die Brandklasse C geeignet sein.
+
+
+
+
+Kapitel 4 ****
+## Elektrische Systeme ****
+
+
+4.1 Betriebsmittel in gefährdeten Bereichen müssen einem Typ, der in
+    diesen Zonen verwendet wird, entsprechen.
+
+
+4.2 Stromerzeugungs- und Verteilsysteme sowie die dazugehörenden
+    Kontrollsysteme sind so auszulegen, dass ein einzelner Ausfall nicht
+    zur Freisetzung von Gas führt.
+
+
+4.3 Das Beleuchtungssystem in gefährdeten Bereichen wird mit mindestens
+    zwei Unterverteilern installiert. Alle Schalter und
+    Schutzeinrichtungen müssen alle Pole und Phasen unterbrechen und in
+    ungefährlichen Bereichen eingebaut sein.
+
+
+4.4 Tauchpumpenmotoren und deren Versorgungskabel können in die LNG-
+    Behältersysteme eingebaut werden. Es müssen Vorkehrungen getroffen
+    werden, um bei niedrigen Füllständen gewarnt zu werden und die Motoren
+    in einem derartigen Fall automatisch abzuschalten. Die automatische
+    Notabschaltung kann durch Sensoren bei niedrigem Pumpenenddruck,
+    niedrigem Motorstrom oder niedrigen Füllständen ausgelöst werden.
+    Diese Notabschaltung muss einen akustischen und optischen Alarm im
+    Steuerhaus auslösen. Gasbetriebene Pumpenmotoren müssen während des
+    Entgasens von der Stromversorgung getrennt werden können.
+
+
+
+
+Kapitel 5 ****
+## Kontroll-, Überwachungs- und Sicherheitssysteme ****
+
+
+**5.1** **Allgemeines**
+
+
+5.1.1 Geeignete Kontroll-, Alarm-, Überwachungs- und Notfallabschaltsysteme
+    müssen vorhanden sein, um einen sicheren und verlässlichen Betrieb zu
+    gewährleisten.
+
+
+5.1.2 Das Gasversorgungssystem ist mit einem eigenen Satz unabhängiger
+    Gaskontroll-, Gasüberwachungs- und Gassicherheitssysteme zu versehen.
+    Bei sämtlichen Elementen dieser Systeme muss die Möglichkeit bestehen,
+    eine Prüfung der Funktionsfähigkeit vorzunehmen.
+
+
+5.1.3 Das Gassicherheitssystem muss das Gasversorgungssystem bei Ausfällen
+    in den für die Sicherheit wichtigen Systemen und bei für ein manuelles
+    Eingreifen zu schnell auftretenden Störungen automatisch abschalten.
+
+
+5.1.4 Die Sicherheitsfunktionen müssen in einem eigenen, von dem
+    Gaskontrollsystem unabhängigen Gassicherheitssystem vorgesehen werden.
+
+
+5.1.5 Wo dies für einen sicheren Betrieb des gesamten LNG-Systems
+    einschließlich des Bunkerns notwendig ist, müssen bei den Instrumenten
+    die wesentlichen Parameter lokal und durch eine Fernabfrage abgelesen
+    werden können.
+
+
+**5.2** **Überwachung des LNG-Bunkersystems und des LNG-Behältersystems**
+
+
+5.2.1 Jeder LNG-Brennstofftank muss ausgestattet sein mit
+
+    a)  mindestens zwei Füllstandsanzeigern, die so vorzusehen sind, dass sie
+        in einem betriebsbereiten Zustand gehalten werden können,
+
+
+    b)  einer Druckanzeige, die über den gesamten Bereich des Betriebsdrucks
+        anzeigen können muss und bei der der maximale Arbeitsdruck des LNG-
+        Brennstofftanks klar gekennzeichnet ist,
+
+
+    c)  einem Alarm für hohe Füllstände, der unabhängig von anderen
+        Füllstandsanzeigern arbeitet und bei Aktivierung einen akustischen und
+        optischen Alarm auslöst,
+
+
+    d)  einem zusätzlichen Sensor, der unabhängig von dem Alarm für hohe
+        Füllstände arbeitet und automatisch das Hauptventil zum LNG-Bunkern
+        betätigt, das einerseits einen übermäßigen Flüssigkeitsdruck in der
+        Bunkerleitung vermeidet und andererseits die Überfüllung des Tanks
+        verhindert.
+
+
+
+
+
+5.2.2 Jede Pumpendruckleitung und jeder Landanschluss für Flüssigkeiten und
+    Gasdampf muss mindestens mit einer lokalen Druckanzeige ausgestattet
+    sein. Die Anzeige in der Pumpendruckleitung muss zwischen der Pumpe
+    und dem ersten Ventil angebracht werden. Der zulässige Höchstdruck
+    oder Vakuumwert muss auf jeder Anzeige angegeben werden.
+
+
+5.2.3 Es muss ein Hochdruckalarm am LNG-Behältersystem und an der Pumpe
+    vorhanden sein. Falls ein Vakuumschutz erforderlich ist, muss ein
+    Niederdruckalarm vorhanden sein.
+
+
+5.2.4 Das Bunkern muss von einer sicheren und entfernt von der Bunkerstation
+    liegenden Bedienungsstelle aus kontrolliert werden können. An dieser
+    Bedienungsstelle werden der Druck und der Füllstand im LNG-
+    Brennstofftank überwacht. An dieser Bedienungsstelle sind der
+    Überfüllalarm, der Hoch- und Niederdruckalarm sowie die automatische
+    Abschaltung anzuzeigen.
+
+
+5.2.5 Wenn die Belüftung in den Rohren für die Bunkerleitungen stoppt, muss
+    an der Bedienungsstelle ein akustischer und optischer Alarm ausgelöst
+    werden.
+
+
+5.2.6 Wenn in den Rohren für die Bunkerleitungen ausgetretenes Gas
+    festgestellt wird, muss an der Bedienungsstelle ein akustischer und
+    optischer Alarm und eine Notabschaltung ausgelöst werden.
+
+
+5.2.7 An Bord muss geeignete und ausreichend Schutzkleidung und -ausrüstung
+    für die Bunkervorgänge nach dem Betriebshandbuch vorhanden sein.
+
+
+**5.3** **Überwachung des Motorbetriebs**
+
+    Im Steuerhaus und im Maschinenraum müssen Anzeigen installiert werden
+    für
+
+    a)  den Betrieb des Motors bei ausschließlich gasbetriebenem Motor oder
+
+
+    b)  den Betrieb und Betriebsmodus des Motors bei Zweikraftstoffmotoren.
+
+
+
+
+
+**5.4** **Gaswarneinrichtungen**
+
+
+5.4.1 Gaswarnanlagen sind in Übereinstimmung mit einer anerkannten Norm wie
+    beispielsweise der Europäischen Norm DIN EN 60079-29-1:2008
+    auszulegen, zu installieren und zu testen.
+
+
+5.4.2 Dauerhaft installierte Gasdetektoren müssen eingebaut werden in:
+
+    a)  Tankanschlussbereichen, einschließlich Brennstofftanks,
+        Leitungsverbindungen und ersten Ventilen,
+
+
+    b)  Rohren um Gasleitungen,
+
+
+    c)  Maschinenräumen mit Gasleitungen, Gasbetriebsmitteln oder
+        Gasverbrauchseinrichtungen,
+
+
+    d)  dem Raum mit dem Gasaufbereitungssystem,
+
+
+    e)  anderen geschlossenen Räumen, die Gasleitungen oder andere
+        Gasbetriebsmittel ohne Rohre enthalten,
+
+
+    f)  anderen geschlossenen oder halboffenen Räumen, in denen sich Gasdämpfe
+        ansammeln können, einschließlich in den Räumen zwischen den Barrieren
+        und den Tankräumen der unabhängigen LNG-Brennstofftanks, die nicht
+        unter Typ C fallen,
+
+
+    g)  Luftschleusen und
+
+
+    h)  Belüftungseinlässen zu den Räumen, in denen sich Gasdämpfe ansammeln
+        können.
+
+
+
+
+
+5.4.3 Abweichend von Nummer 5.4.2 können dauerhaft installierte Sensoren,
+    die Gas aufgrund eines Druckunterschieds aufspüren, in Räumen zwischen
+    den Barrieren von doppelwandigen Leitungen verwendet werden.
+
+
+5.4.4 Die Zahl und Redundanz der Gasdetektoren in jedem Raum muss nach
+    Größe, Struktur und Belüftung des Raumes entschieden werden.
+
+
+5.4.5 Dauerhaft installierte Gasdetektoren müssen dort installiert werden,
+    wo sich Gas ansammeln kann, und in den Lüftungsauslässen dieser Räume.
+
+
+5.4.6 Ein akustischer und optischer Alarm wird ausgelöst, wenn die
+    Gaskonzentration auf 20 % der unteren Explosionsgrenze angestiegen
+    ist. Das Gassicherheitssystem wird aktiviert, wenn die
+    Gaskonzentration auf 40 % der unteren Explosionsgrenze angestiegen
+    ist.
+
+
+5.4.7 Akustische und optische Alarme der Gaswarnanlage müssen im Steuerhaus
+    ausgelöst werden.
+
+
+**5.5** **Sicherheitsfunktionen des Gasversorgungssystems**
+
+
+5.5.1 Wenn das Gasversorgungssystem aufgrund der Aktivierung eines
+    automatischen Ventils abgeschaltet wird, darf es erst wieder geöffnet
+    werden, wenn der Grund für die Abschaltung ermittelt wurde und die
+    notwendigen Maßnahmen ergriffen worden sind. Die diesbezüglich
+    geltenden Anweisungen müssen an der Bedienungsstelle für die
+    Absperrventile in den Gaszuleitungen gut sichtbar angebracht werden.
+
+
+5.5.2 Wenn das Gasversorgungssystem aufgrund einer Gasleckage abgeschaltet
+    wurde, darf es erst wieder geöffnet werden, wenn das Leck ermittelt
+    wurde und die notwendigen Maßnahmen ergriffen worden sind. Die
+    diesbezüglich geltenden Anweisungen müssen im Maschinenraum gut
+    sichtbar angebracht werden.
+
+
+5.5.3 Das Gasversorgungssystem muss mittels einer Handabschaltung von den
+    folgenden Orten (sofern vorhanden) aus ferngesteuert werden können:
+
+    a)  Steuerhaus,
+
+
+    b)  Bedienungsstelle der Bunkerstation,
+
+
+    c)  jede ständig besetzte Stelle.
+
+
+
+
+
+
+
+
+#### Anlage S Bordkläranlagen – Prüfverfahren –
+
+
+1.  Allgemeines
+
+
+1.1 Grundlagen
+
+    Die Prüfvorschrift dient zur Verifizierung der Eignung von
+    Bordkläranlagen an Bord von Fahrgastschiffen. Bei diesem Verfahren
+    wird anhand einer Testanlage die eingesetzte Verfahrens- und
+    Behandlungstechnik untersucht und zugelassen. Die Übereinstimmung
+    zwischen der Testanlage und den später im Einsatz befindlichen
+    Bordkläranlagen wird durch die Anwendung identischer Auslegungs- und
+    Bemessungskriterien gewährleistet.
+
+
+1.2 Verantwortlichkeit und Prüfstandort
+
+    Die Testanlage einer Bordkläranlagen-Typenreihe ist durch einen
+    technischen Dienst zu prüfen. Die Prüfbedingungen am Prüfstandort
+    liegen in der Verantwortlichkeit des technischen Dienstes und müssen
+    mit den hier festgelegten Bedingungen übereinstimmen.
+
+
+1.3 Einzureichende Unterlagen
+
+    Die Prüfung erfolgt anhand des Beschreibungsbogens nach Anlage R Teil
+    II.
+
+
+1.4 Vorgaben zur Anlagenbemessung
+
+    Die Bordkläranlagen sind so zu bemessen und auszuführen, dass in deren
+    Ablauf die in § 14a.02 Nummer 2 Tabelle 1 und 2 vorgegebenen
+    Grenzwerte nicht überschritten werden.
+
+
+2.  Vorbereitende Maßnahmen zur Durchführung der Prüfung
+
+
+2.1 Allgemeines
+
+    Vor Beginn der Prüfung muss der Hersteller dem technischen Dienst
+    bautechnische und verfahrenstechnische Festlegungen zur Testanlage
+    einschließlich eines vollständigen Satzes von Zeichnungen und
+    unterstützenden Berechnungen nach Anlage R Teil II liefern sowie
+    vollständige Angaben zu den Anforderungen an Einbau, Betrieb und
+    Wartung der Bordkläranlage bereitstellen. Der Hersteller hat dem
+    technischen Dienst Angaben zur mechanischen, elektrischen und
+    technischen Sicherheit der zu prüfenden Bordkläranlage zu liefern.
+
+
+2.2 Einbau und Inbetriebnahme
+
+    Die Testanlage muss vom Hersteller zur Prüfung so installiert werden,
+    wie es den vorgesehenen Einbaubedingungen an Bord von Fahrgastschiffen
+    entspricht. Der Hersteller muss vor der Prüfung die Bordkläranlage
+    zusammenbauen und in Betrieb nehmen. Die Inbetriebnahme muss
+    entsprechend der Betriebsanleitung des Herstellers erfolgen und ist
+    vom technischen Dienst zu prüfen.
+
+
+2.3 Einfahrphase
+
+    Der Hersteller hat dem technischen Dienst die nominelle Zeitdauer der
+    Einfahrphase bis zum normalen Betrieb in Wochen mitzuteilen. Der
+    Hersteller gibt vor, ab wann die Einfahrphase als abgeschlossen gilt
+    und mit der Prüfung begonnen werden kann.
+
+
+2.4 Zulaufkennwerte
+
+    Zum Zweck der Prüfung der Testanlage ist häusliches Rohabwasser zu
+    verwenden. Die Zulaufkennwerte hinsichtlich der Schmutzkonzentrationen
+    ergeben sich aus den Bemessungsunterlagen des Herstellers der
+    Bordkläranlage nach Anlage R Teil II durch Bildung des Quotienten von
+    Durchsatz an organischen Stoffen als BSB
+    5                   -Fracht in kg/d und dem ausgelegten
+    Abwasservolumenstrom Q
+    d                    in m
+    3                   /d. Die Zulaufkennwerte sind vom technischen
+    Dienst entsprechend einzustellen.
+
+    Formel 1 – Berechnung des Zulaufkennwertes
+
+    ![bgbl1_2014_j0610-1_0050.jpg](bgbl1_2014_j0610-1_0050.jpg)
+
+    Sollte sich anhand von Formel 1 eine geringere durchschnittliche BSB
+    5                   -Konzentration von weniger als C
+    BSB5, Mittel                    = 500 mg/l ergeben, so ist im
+    Zulaufwasser mindestens eine mittlere BSB
+    5                   -Konzentration von 500 mg/l einzustellen. Der
+    technische Dienst darf das zufließende Rohabwasser nicht in einer
+    Zerkleinerungsvorrichtung behandeln. Das Entfernen (u. a. Absieben)
+    von Sand ist zulässig.
+
+
+3.  Prüfverfahren
+
+
+3.1 Belastungsphasen und hydraulische Beschickung
+
+    Der Zeitraum der Prüfung umfasst 30 Prüftage. Die Testanlage wird auf
+    dem Prüffeld mit häuslichem Abwasser entsprechend der nach Tabelle 1
+    vorgegebenen Belastung beschickt. Es werden unterschiedliche
+    Belastungsphasen untersucht. Der Prüfablauf sieht Normallastphasen und
+    Sonderlastphasen wie Überlastphase, Unterlastphase und Stand-by-
+    Betriebsphase vor. Die Dauer der jeweiligen Belastungsphase (Anzahl
+    Prüftage) ist in Tabelle 1 vorgegeben. Die mittlere tägliche
+    hydraulische Belastung für die entsprechenden Lastphasen sind nach
+    Tabelle 1 einzustellen. Die mittlere Schmutzkonzentration, die nach
+    2\.4 einzustellen ist, wird konstant gehalten.
+
+    Tabelle 1
+    Einzustellende Belastung für Lastphasen
+
+    *        *   Phase
+
+        *   Anzahl
+            Prüftage
+
+        *   Tägliche hydraulische
+            Belastung
+
+        *   Schmutzkonzentration
+
+
+    *        *   Normallast
+
+        *   20 Tage
+
+        *   Q
+            d
+
+        *   C
+            BSB5                              nach Nummer 2.4
+
+
+    *        *   Überlast
+
+        *   3 Tage
+
+        *   1,25 Q
+            d
+
+        *   C
+            BSB5                              nach Nummer 2.4
+
+
+    *        *   Unterlast
+
+        *   3 Tage
+
+        *   0,5 Q
+            d
+
+        *   C
+            BSB5                              nach Nummer 2.4
+
+
+    *        *   Stand-by-Betrieb
+
+        *   4 Tage
+
+        *   Tag 1 und Tag 2: Q
+            d                              = 0
+            Tag 3 und Tag 4: Q
+            d
+
+        *   C
+            BSB5                              nach Nummer 2.4
+
+
+
+
+    Die Sonderlastphasen „Überlast“, „Unterlast“ und „Stand-by-Betrieb“
+    sind der Reihe nach ohne Unterbrechung durchzuführen, die
+    Normallastphase ist in mehrere Teilphasen aufzuteilen. Die Prüfung ist
+    mit einer jeweils mindestens 5 Tage dauernden Normallastphase zu
+    beginnen und zu beenden. In Abhängigkeit vom vorgegebenen Betrieb der
+    Bordkläranlage sind tägliche hydraulische Beschickungsganglinien
+    einzustellen. Die Wahl der täglichen hydraulischen
+    Beschickungsganglinie richtet sich nach dem Betriebskonzept der
+    Bordkläranlage. Es wird unterschieden, ob die Bordkläranlage mit einem
+    vorgeschalteten Abwasserspeichertank zu betreiben ist oder nicht. Die
+    Beschickungsganglinien (Tagesganglinien) sind in den Abbildungen 1 und
+    2 dargestellt.
+
+    Über die gesamte Prüfungsdauer muss gewährleistet sein, dass der
+    stündliche Zulauf gleichmäßig erfolgt. Der mittlere stündliche
+    Abwasservolumenstrom Q
+    h, Mittel                    entspricht dem 1/24 der täglichen
+    hydraulischen Belastung gemäß Tabelle 1. Der Zufluss ist durch den
+    technischen Dienst kontinuierlich zu messen. Die Tagesganglinie muss
+    eine Grenzabweichung von ± 5 % einhalten.
+
+    ![bgbl1_2014_j0610-1_0060.jpg](bgbl1_2014_j0610-1_0060.jpg)
+
+    Abbildung 1
+    Tagesganglinie der Bordkläranlagen-Beschickung
+    mit vorgeschaltetem Abwasserspeichertank
+
+    ![bgbl1_2014_j0610-1_0070.jpg](bgbl1_2014_j0610-1_0070.jpg)
+
+    Abbildung 2
+    Tagesganglinie der Bordkläranlagen-Beschickung
+    ohne vorgeschalteten Abwasserspeichertank
+
+
+3.2 Unterbrechung oder Abbruch der Prüfung
+
+    Eine Unterbrechung der Prüfung kann erforderlich sein, wenn die
+    Testanlage aufgrund eines Stromausfalls oder des Ausfalls eines
+    Bauteils oder einer Komponente nicht mehr ordnungsgemäß betrieben
+    werden kann. Für die Dauer der Reparatur kann die Prüfung unterbrochen
+    werden. In diesen Fällen muss die Prüfung nicht vollständig wiederholt
+    werden, sondern nur die Belastungsphase, in der der Ausfall
+    stattgefunden hat. Nach der zweiten Unterbrechung der Prüfung ist vom
+    technischen Dienst zu entscheiden, ob die Prüfung fortgeführt werden
+    kann oder abgebrochen werden muss. Die Entscheidung ist zu begründen
+    und im Prüfbericht zu dokumentieren. Bei einem Abbruch der Prüfung
+    muss diese vollständig wiederholt werden.
+
+
+3.3 Untersuchungen zur Reinigungsleistung und Einhaltung von
+    Ablaufgrenzwerten
+
+    Der technische Dienst muss im Zulauf zur Testanlage Proben entnehmen
+    und diese analysieren, um die Übereinstimmung mit den Zulaufkennwerten
+    zu bestätigen. Zur Bestimmung der Reinigungsleistung und Einhaltung
+    der geforderten Ablaufgrenzwerte sind aus dem Ablauf der Testanlage
+    Abwasserproben zu entnehmen und zu analysieren. Bei den Probenahmen
+    sind Stichproben und 24-h-Mischproben durchzuführen. Bei den
+    24-h-Mischproben können entweder durchfluss- oder zeitproportionale
+    Probenahmen durchgeführt werden. Die Art der 24-h-Mischprobe ist vom
+    technischen Dienst anzugeben. Die Probenahmen im Zu- und Ablauf sind
+    gleichzeitig und gleichwertig vorzunehmen. Zur Beschreibung und
+    Darstellung der Umgebungs- und Prüfungsbedingungen sind neben den
+    Überwachungsparametern BSB
+[^F785348_3_1_BJNR245010008BJNE028600301]
+    5                   , CSB und TOC
+    folgende Parameter für den Zulauf und für den Ablauf zu erfassen:
+
+    a)  abfiltrierbare Stoffe (AFS),
+
+
+    b)  pH-Wert,
+
+
+    c)  Leitfähigkeit,
+
+
+    d)  Temperatur der flüssigen Phasen.
+
+
+
+
+    Die Anzahl der Untersuchungen richtet sich nach den entsprechenden
+    Belastungsphasen und ist in Tabelle 2 geregelt. Die Anzahl der
+    Probenahmen bezieht sich jeweils auf den Zu- und Ablauf der
+    Testanlage.
+
+    Tabelle 2
+    Vorgaben zu Anzahl und Zeitpunkt
+    der Probenahmen im Zu- und Ablauf der Testanlage
+
+    *        *   Belastungsphase
+
+        *   Anzahl
+            Prüftage
+
+        *   Anzahl
+            Probenahmen
+
+        *   Vorgaben zum Zeitpunkt der
+            Probenahmen
+
+
+    *        *   Normallast
+
+        *   20 Tage
+
+        *   24-h-Mischproben: 8
+            Stichproben: 8
+
+        *   Die Probenahmen sind gleichmäßig über den Zeitraum zu verteilen.
+
+
+    *        *   Überlast
+
+        *   3 Tage
+
+        *   24-h-Mischproben: 2
+            Stichproben: 2
+
+        *   Die Probenahmen sind gleichmäßig über den Zeitraum zu verteilen.
+
+
+    *        *   Unterlast
+
+        *   3 Tage
+
+        *   24-h-Mischproben: 2
+            Stichproben: 2
+
+        *   Die Probenahmen sind gleichmäßig über den Zeitraum zu verteilen.
+
+
+    *        *   Stand-by-Betrieb
+
+        *   4 Tage
+
+        *   24-h-Mischproben: 2
+            Stichproben: 2
+
+        *   24-h-Mischprobe: Ansetzen der Probenahme nach Einschalten Zulauf und
+            24 Stunden später.
+            Stichprobe: 1 Stunde nach Einschalten Zulauf und 24 Stunden später.
+
+
+    *        *   Gesamtanzahl 24-h-Mischproben: 14 Gesamtanzahl Stichproben: 14
+
+
+
+
+    Weiterhin sind – soweit vorhanden – folgende Betriebsparameter während
+    der Stichprobenahmen zu erfassen:
+
+    a)  Konzentration des gelösten Sauerstoffes im Bioreaktor,
+
+
+    b)  Trockensubstanzgehalt im Bioreaktor,
+
+
+    c)  Temperatur im Bioreaktor,
+
+
+    d)  Umgebungstemperatur,
+
+
+    e)  Weitere Betriebsparameter entsprechend der jeweiligen
+        Betriebsanleitung des Herstellers.
+
+
+
+
+
+3.4 Auswertung der Untersuchungen
+
+    Zwecks Dokumentation der festgestellten Reinigungsleistung und Prüfung
+    der Einhaltung von Ablaufgrenzwerten sind für die
+    Überwachungsparameter BSB
+    5                   , CSB und TOC sowie für den Parameter AFS das
+    minimale Probenergebnis (Min), das maximale Probenergebnis (Max) und
+    das arithmetische Mittel (Mittelwert) anzugeben. Für den maximalen
+    Probenwert ist zusätzlich die Belastungsphase anzugeben. Die
+    Auswertungen sind für alle Belastungsphasen gemeinsam durchzuführen.
+    Die Ergebnisse sind nach folgender Tabelle darzustellen:
+
+    Tabelle 3a
+    Vorgaben zur statistischen Aufbereitung erfasster Daten
+    Auswertung zur Dokumentation der Einhaltung von Ablaufgrenzwerten
+
+    *        *   Parameter
+
+        *   Probenahmeart
+
+        *   Anzahl der Proben, die den Ablaufgrenzwert einhalten
+
+        *   Mittelwert
+
+        *   Min
+
+        *   Max
+
+
+    *        *   Wert
+
+        *   Phase
+
+
+    *        *   Zulauf BSB
+            5
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf BSB
+            5
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf BSB
+            5
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf BSB
+            5
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf CSB
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf CSB
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf CSB
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf CSB
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf TOC
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf TOC
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf TOC
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf TOC
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf AFS
+
+        *   24-h-Mischproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf AFS
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Zulauf AFS
+
+        *   Stichproben
+
+        *   –
+
+        *
+        *
+        *
+        *
+
+    *        *   Ablauf AFS
+
+        *   Stichproben
+
+        *
+        *
+        *
+        *
+        *
+
+
+
+   Tabelle 3b
+    Vorgaben zur statistischen Aufbereitung erfasster Daten
+    Auswertung zur Dokumentation der Reinigungsleistung
+
+    *        *   Parameter
+
+        *   Probenahmeart
+
+        *   Mittelwert
+
+        *   Min
+
+        *   Max
+
+
+    *        *   Eliminationsleistung BSB
+            5
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   Eliminationsleistung BSB
+            5
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+    *        *   Eliminationsleistung CSB
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   Eliminationsleistung CSB
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+    *        *   Eliminationsleistung TOC
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   Eliminationsleistung TOC
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+    *        *   Eliminationsleistung AFS
+
+        *   24-h-Mischproben
+
+        *
+        *
+        *
+
+    *        *   Eliminationsleistung AFS
+
+        *   Stichproben
+
+        *
+        *
+        *
+
+
+
+   Die übrigen Parameter nach Nummer 3.3 Buchstabe b bis d sowie die
+    Betriebsparameter nach 3.3 sind in einer tabellarischen Übersicht mit
+    Angabe des minimalen Probenergebnisses (Min), des maximalen
+    Probenergebnisses (Max) und des arithmetischen Mittels (Mittelwert)
+    zusammenzustellen.
+
+
+3.5 Einhaltung der Anforderungen des Kapitels 14a
+
+    Die Grenzwerte nach § 14a.02 Nummer 2 Tabelle 1 und 2 gelten als
+    eingehalten, wenn je Parameter CSB, BSB
+    5                    und TOC
+
+    a)  die Mittelwerte der insgesamt 14 Ablaufproben und
+
+
+    b)  mindestens 10 der insgesamt 14 Ablaufproben
+
+
+
+    die vorgegebenen Grenzwerte für 24-h-Mischproben und Stichproben nicht
+    überschreiten.
+
+
+3.6 Betrieb und Wartung während der Prüfung
+
+    Während der gesamten Prüfdauer ist die Testanlage nach den Vorgaben
+    des Herstellers zu betreiben. Routinemäßige Kontrollen und Wartungen
+    müssen unter Beachtung der Betriebs- und Wartungsanleitung des
+    Herstellers durchgeführt werden. Der durch den biologischen
+    Reinigungsprozess entstehende Überschussschlamm darf nur dann aus der
+    Bordkläranlage entfernt werden, wenn dies vom Hersteller in dessen
+    Betriebs- und Wartungsanleitung festgelegt wurde. Alle durchgeführten
+    Wartungsarbeiten sind durch den technischen Dienst aufzuzeichnen und
+    im Prüfbericht zu dokumentieren. Während der Prüfung dürfen Unbefugte
+    keinen Zutritt zur Testanlage haben.
+
+
+3.7 Probenanalyse/Analysenverfahren
+
+    Die zu untersuchenden Parameter sind unter Anwendung von zugelassenen
+    Normverfahren zu analysieren. Das angewendete Normverfahren ist
+    anzugeben.
+
+
+4.  Prüfbericht
+
+
+4.1 Der technische Dienst ist verpflichtet, über die durchgeführte
+    Typprüfung einen Bericht zu erstellen. Der Bericht muss mindestens die
+    unten festgelegten Angaben enthalten:
+
+    a)  Einzelheiten zur geprüften Bordkläranlage, wie Typ, Angaben zur
+        nominalen Tagesschmutzfracht sowie die vom Hersteller angewendeten
+        Bemessungsgrundlagen;
+
+
+    b)  Angaben zur Übereinstimmung der geprüften Bordkläranlage mit den vor
+        der Prüfung bereitgestellten Unterlagen;
+
+
+    c)  Angaben zu Einzelmessergebnissen sowie zur Auswertung der
+        Reinigungsleistung und Einhaltung der geforderten Ablaufgrenzwerte;
+
+
+    d)  Einzelheiten zur Überschussschlammentnahme, wie Häufigkeit der
+        Entnahmen und Umfang der entnommenen Volumina;
+
+
+    e)  Angaben zu allen während der Prüfung ausgeführten Betriebs-, Wartungs-
+        und Reparaturmaßnahmen;
+
+
+    f)  Angaben zu allen während der Prüfung aufgetretenen
+        Qualitätsverschlechterungen der Bordkläranlage und stattgefundenen
+        Unterbrechungen der Prüfung;
+
+
+    g)  Angaben zu Problemen, die während der Prüfung aufgetreten sind;
+
+
+    h)  Liste der verantwortlichen Personen mit Angabe der Namen und
+        Stellenbezeichnungen, die an der Typprüfung der Bordkläranlage
+        beteiligt waren;
+
+
+    i)  Name und Anschrift des Labors, das die Analysen der Wasserproben
+        durchgeführt hat;
+
+
+    j)  angewendete Untersuchungsmethoden.
+
+
+
+
+
+
+
+## **Anhang 1**
+
+## **Beispiele für Prüfabläufe**
+
+Beispiel 1
+
+![bgbl1_2014_j0610-1_0080.jpg](bgbl1_2014_j0610-1_0080.jpg)
+
+Beispiel 2
+
+![bgbl1_2014_j0610-1_0090.jpg](bgbl1_2014_j0610-1_0090.jpg)
+Anmerkungen zur Bestimmung des
+Biochemischen Sauerstoffbedarfs nach 5 Tagen (BSB
+## 5 **) in 24-h-Mischproben**
+
+[^F785348_3_2_BJNR245010008BJNE028600301]
+Die DIN EN 1899-1 und 1899-2:1998-05
+schreibt vor, dass zur Bestimmung des Biochemischen Sauerstoffbedarfs
+nach 5 Tagen die Wasserproben unmittelbar nach der Probenahme in einer
+randvoll gefüllten, dicht verschlossenen Flasche bei einer Temperatur
+von 0 bis 4° C bis zur Durchführung der Analyse aufzubewahren sind.
+Die BSB
+5             -Bestimmung ist sobald wie möglich oder innerhalb von 24
+Stunden nach Beendigung der Probenahme zu beginnen.
+
+Um ein Einsetzen von biochemischen Abbauprozessen in der
+24-h-Mischprobe zu verhindern, wird in der Praxis während der
+Probenahmezeit die Wasserprobe auf maximal 4° C herunter gekühlt und
+bis zur Beendigung der Probenahme bei dieser Temperatur aufbewahrt.
+
+Entsprechende Probenahmegeräte sind auf dem Markt verfügbar.
+
+    Der Parameter TOC wird ab Grenzwertstufe II der Tabelle 1 aus § 14a.02
+    Nummer 2 geprüft.
+[^F785348_3_1_BJNR245010008BJNE028600301]:     Amtlicher Hinweis: Diese Norm entspricht der Europäischen Norm ISO
+    5815-1 und 5815-2:2003.
+[^F785348_3_2_BJNR245010008BJNE028600301]: 

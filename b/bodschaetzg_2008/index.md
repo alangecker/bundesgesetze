@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3150, 3176
 
+Geändert durch
+:   Art. 232 V v. 31.8.2015 I 1474
+
 
 ## Abschnitt 1 - Allgemeines
 
@@ -343,8 +346,8 @@ Bundesministerium der Finanzen ein Schätzungsbeirat gebildet.
     Vorsitzende/r,
 
 
-2.  ein Vertreter/eine Vertreterin des Bundesministeriums für Ernährung,
-    Landwirtschaft und Verbraucherschutz,
+2.  ein Vertreter/eine Vertreterin des Bundesministeriums für Ernährung
+    und Landwirtschaft,
 
 
 3.  zehn weitere Mitglieder mit besonderer Sachkenntnis auf dem Gebiet der
@@ -353,10 +356,10 @@ Bundesministerium der Finanzen ein Schätzungsbeirat gebildet.
 
 
 Das Bundesministerium der Finanzen beruft im Benehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-die Mitglieder nach Satz 1 Nr. 3 auf Vorschlag der obersten
-Finanzbehörden der Länder. Die Berufung kann mit Zustimmung der
-obersten Finanzbehörden der Länder zurückgenommen werden.
+Bundesministerium für Ernährung und Landwirtschaft die Mitglieder nach
+Satz 1 Nr. 3 auf Vorschlag der obersten Finanzbehörden der Länder. Die
+Berufung kann mit Zustimmung der obersten Finanzbehörden der Länder
+zurückgenommen werden.
 
 (3) Der Schätzungsbeirat gibt sich eine Geschäftsordnung, in der
 Einzelheiten der Mitwirkung, der Geschäftsführung, der

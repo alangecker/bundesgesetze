@@ -465,8 +465,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteingraveur/zur Edelsteingraveurin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteingraveur/zur Edelsteingraveurin
 
 (Fundstelle: BGBl. I 1992, 194 - 198)
 

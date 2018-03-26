@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 1387
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 63 G v. 5.2.2009 I 160
+:   Art. 81 G v. 29.3.2017 I 626
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -4170,7 +4170,7 @@ sei denn, daß der Verfolgte diese Staatsangehörigkeit erst nach
 Beendigung der Verfolgung erworben hat.
 
 
-## Fünfter Abschnitt -
+## Fünfter Abschnitt - 
 
 
 
@@ -4524,7 +4524,10 @@ Feststellung maßgebend.
 
 (3) Die Erteilung des Erbscheins für den Entschädigungsanspruch
 einschließlich des vorausgegangenen Verfahrens ist gebühren- und
-auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
+auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen
+Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit.
 
 
 #### § 182
@@ -4534,7 +4537,7 @@ einer Versicherung außerhalb der Sozialversicherung sind die
 beteiligten Versicherungseinrichtungen auf Verlangen der
 Entschädigungsorgane zur Mitwirkung verpflichtet; sie haben
 insbesondere die erforderlichen Berechnungen vorzunehmen und aus
-Büchern oder Akten schriftlich oder mündlich Auskünfte zu geben.
+Büchern oder Akten Auskünfte zu geben.
 
 (2) Die Entschädigungsorgane sollen bei der Entscheidung über den
 Entschädigungsanspruch die zuständige Versicherungsaufsichtsbehörde zu
@@ -4933,7 +4936,8 @@ Teilbescheide sind zulässig.
     welcher Frist sowie bei welchem Gericht die Klage zu erheben ist,
 
 
-4.  das Datum und die Unterschrift.
+4.  das Datum und die Unterschrift oder die Namenswiedergabe des
+    Behördenleiters, seines Vertreters oder seines Beauftragten.
 
 
 
@@ -5420,8 +5424,8 @@ Beweissicherungsverfahren sind gebühren- und auslagenfrei.
 dem Kläger die Kosten auferlegt werden. Ist die Rechtsverfolgung
 offenbar mutwillig, so kann ein Kostenvorschuß erhoben werden.
 
-(3) Bei wiederkehrenden Leistungen ist der Streitwert nach § 42 Abs. 1
-des Gerichtskostengesetzes zu berechnen.
+(3) Bei wiederkehrenden Leistungen ist der Streitwert nach § 9 der
+Zivilprozessordnung zu berechnen.
 
 (4) § 207 Abs. 3 findet entsprechende Anwendung.
 

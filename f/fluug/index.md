@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1998, 2470
 
 Zuletzt geändert durch
-:   Art. 6 G v. 29.7.2009 I 2424
+:   Art. 575 V v. 31.8.2015 I 1474
+
+Änderung durch
+:   Art. 5 Abs. 9 G v. 10.3.2017 I 410 (Nr. 12) noch nicht berücksichtigt
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 94/56/EWG des Rates
 vom 21. November 1994 über Grundsätze für die Untersuchung von
@@ -53,7 +56,7 @@ ausländischen Rechts.
 Luftfahrzeuge beteiligt sind, werden federführend von der zivilen
 Bundesstelle für Flugunfalluntersuchung untersucht (§ 4). Für Fälle,
 die überwiegend militärische Belange berühren, wird zwischen dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem
+Bundesministerium für Verkehr und digitale Infrastruktur und dem
 Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
 
 
@@ -262,13 +265,13 @@ Buchstabe b entsprechend anzuwenden.
 ### § 4 Bundesstelle für Flugunfalluntersuchung
 
 (1) Zur Untersuchung von Unfällen und Störungen in der zivilen
-Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr,
-Bau und Stadtentwicklung die Bundesstelle für Flugunfalluntersuchung
-errichtet. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-bestimmt den Sitz der Bundesstelle und regelt ihren Aufbau. Die
-Bundesstelle wird von ihrem Direktor geleitet. Verwaltungsangehörige
-der Bundesstelle sind im übrigen die Beamten, Angestellten und
-Arbeiter. Die Beamten sind Bundesbeamte.
+Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr
+und digitale Infrastruktur die Bundesstelle für Flugunfalluntersuchung
+errichtet. Das Bundesministerium für Verkehr und digitale
+Infrastruktur bestimmt den Sitz der Bundesstelle und regelt ihren
+Aufbau. Die Bundesstelle wird von ihrem Direktor geleitet.
+Verwaltungsangehörige der Bundesstelle sind im übrigen die Beamten,
+Angestellten und Arbeiter. Die Beamten sind Bundesbeamte.
 
 (2) Die Bundesstelle nimmt ihre Aufgaben funktionell und
 organisatorisch unabhängig wahr insbesondere von jenen
@@ -295,7 +298,7 @@ Beauftragten durchzuführenden Untersuchungstätigkeit sowie ihre Rechte
 und Pflichten nach Maßgabe dieses Gesetzes. Die Beauftragten erhalten
 aus Mitteln der Bundesstelle Reisekostenvergütung nach den für
 Bundesbeamte geltenden Vorschriften und eine Entschädigung, die vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung festgesetzt
+Bundesministerium für Verkehr und digitale Infrastruktur festgesetzt
 wird.
 
 (5) Der Leiter der Bundesstelle und die Untersuchungsführer dürfen
@@ -742,7 +745,7 @@ später als zwölf Monate nach dem Ereignis. Je ein Exemplar wird
 
 
 2.  die Internationale Zivilluftfahrt-Organisation bei Luftfahrzeugen mit
-    einer Höchstmasse über 5.700 kg,
+    einer Höchstmasse über 5 700 kg,
 
 
 3.  die Kommission der Europäischen Gemeinschaft.
@@ -750,8 +753,8 @@ später als zwölf Monate nach dem Ereignis. Je ein Exemplar wird
 
 
 Im übrigen erfolgt die Herausgabe des Berichts durch Bekanntgabe der
-Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr, Bau
-und Stadtentwicklung.
+Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr und
+digitale Infrastruktur.
 
 (4) Unfälle und Störungen, deren Untersuchungsergebnisse nicht von
 besonderer Bedeutung für die Flugsicherheit sind, werden mit einem

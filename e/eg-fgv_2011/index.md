@@ -17,34 +17,33 @@ Fundstelle
 :   BGBl I: 2011, 126
 
 Zuletzt geändert durch
-:   Art. 4 V v. 19.10.2012 I 2232
+:   Art. 7 V v. 23.3.2017 I 522
 
 [^F774777_01_BJNR012600011]:     Diese Verordnung dient der Umsetzung folgender Rechtsakte:
-    1\.                                                         Richtlinie
-    2007/46/EG des Europäischen Parlaments und des Rates vom 5. September
-    2007 zur Schaffung eines Rahmens für die Genehmigung von
-    Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen,
-    Bauteilen und selbständigen technischen Einheiten für diese Fahrzeuge
-    (ABl. L 263 vom 9.10.2007, S. 1);
+    1\.                                    Richtlinie 2007/46/EG des
+    Europäischen Parlaments und des Rates vom 5. September 2007 zur
+    Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und
+    Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbständigen
+    technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007,
+    S. 1);
 
 
-    2\.                                                         Richtlinie
-    2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002
-    über die Typgenehmigung für zweirädrige oder dreirädrige
-    Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates
-    (ABl. L 124 vom 9.5.2002, S. 1), die zuletzt durch die Richtlinie
-    2005/30/EG (ABl. L 106 vom 27.4.2005, S. 17) geändert worden ist;
+    2\.                                    Richtlinie 2002/24/EG des
+    Europäischen Parlaments und des Rates vom 18. März 2002 über die
+    Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur
+    Aufhebung der Richtlinie 92/61/EWG des Rates (ABl. L 124 vom 9.5.2002,
+    S. 1), die zuletzt durch die Richtlinie 2005/30/EG (ABl. L 106 vom
+    27\.4.2005, S. 17) geändert worden ist;
 
 
-    3\.                                                         Richtlinie
-    2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003
-    über die Typgenehmigung für land- oder forstwirtschaftliche
-    Zugmaschinen, ihre Anhänger und die von ihnen gezogenen
-    auswechselbaren Maschinen sowie für Systeme, Bauteile und selbständige
-    technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie
-    74/150/EG (ABl. L 171 vom 9.7.2003, S. 1), die zuletzt durch die
-    Richtlinie 2005/67/EG (ABl. L 273 vom 19.10.2005, S. 17) geändert
-    worden ist.
+    3\.                                    Richtlinie 2003/37/EG des
+    Europäischen Parlaments und des Rates vom 26. Mai 2003 über die
+    Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre
+    Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie
+    für Systeme, Bauteile und selbständige technische Einheiten dieser
+    Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EG (ABl. L 171 vom
+    9\.7.2003, S. 1), die zuletzt durch die Richtlinie 2005/67/EG (ABl. L
+    273 vom 19.10.2005, S. 17) geändert worden ist.
 
 
 
@@ -385,11 +384,12 @@ der Richtlinie 2007/46/EG genannten Vorschriften darzulegen.
 
 (3) Abweichungen von den technischen Angaben, die das Kraftfahrt-
 Bundesamt bei Erteilung der nationalen Kleinserien-Typgenehmigung
-durch schriftlichen Bescheid für den genehmigten Typ festgelegt hat,
-sind dem Inhaber der Typgenehmigung nur gestattet, wenn diese durch
-einen entsprechenden Nachtrag ergänzt worden ist oder wenn das
-Kraftfahrt-Bundesamt auf Antrag festgestellt hat, dass für die
-vorgesehene Änderung eine Nachtragserlaubnis nicht erforderlich ist.
+durch Bescheid in Schriftform oder elektronischer Form für den
+genehmigten Typ festgelegt hat, sind dem Inhaber der Typgenehmigung
+nur gestattet, wenn diese durch einen entsprechenden Nachtrag ergänzt
+worden ist oder wenn das Kraftfahrt-Bundesamt auf Antrag festgestellt
+hat, dass für die vorgesehene Änderung eine Nachtragserlaubnis nicht
+erforderlich ist.
 
 (4) Auf Antrag desjenigen, der ein Fahrzeug in einem anderen
 Mitgliedstaat verkaufen, zulassen oder in Betrieb nehmen will, fertigt

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3702, 3711
 
+Geändert durch
+:   Art. 32 G v. 8.7.2016 I 1594
+
 
 
 ## § 1 Aufhebung
@@ -22,10 +25,6 @@ Fundstelle
 -
 
 
-## § 2 Übergangsvorschrift
+## § 2 (weggefallen)
 
-Anwärtersonderzuschläge, die aufgrund der Anwärtersonderzuschlags-
-Verordnung in der bis zum 31. Dezember 2001 geltenden Fassung gewährt
-wurden, werden unverändert weitergewährt. Sie gelten als nach § 63 des
-Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes gewährt.
 

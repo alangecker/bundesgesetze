@@ -467,8 +467,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Steinmetz und Steinbildhauer/zur Steinmetzin und Steinbildhauerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Steinmetz und Steinbildhauer/zur Steinmetzin und Steinbildhauerin
 
 (Fundstelle: BGBl. I 2003, 693-699)
 
@@ -986,6 +987,15 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
         d)  zusammengesetzte Profile arbeiten
 
 
+
+
+    *   12
+
+    *
+
+*    *
+    *
+    *
         e)  um- und totlaufende Profile arbeiten
 
 

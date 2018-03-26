@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 2145
 
+Geändert durch
+:   Art. 48 G v. 8.7.2016 I 1594
+
 
 
 ## Eingangsformel
@@ -34,17 +37,8 @@ beschlossen:
 -
 
 
-## Art 3 Übergangsregelung
+## Art 3 (weggefallen)
 
-Abweichend von § 10 des Gräbergesetzes trägt der Bund in den in
-Artikel 3 des Einigungsvertrages genannten Ländern die Kosten für
-Verlegungen, Graböffnungen zum Zwecke der Identifizierung,
-Neuanlegungen sowie Instandsetzung und Pflege bis zum 31. Dezember
-1994 durch Zuweisung von Pauschalmitteln. Der Bundesminister für
-Familie und Senioren setzt im Einvernehmen mit dem Bundesminister der
-Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die auf
-die einzelnen Länder entfallenden Pauschalen sowie deren
-Verwendungszweck jährlich fest.
 
 
 ## Art 4 Inkrafttreten

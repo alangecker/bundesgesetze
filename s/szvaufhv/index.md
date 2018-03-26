@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3702, 3711
 
+Geändert durch
+:   Art. 33 G v. 8.7.2016 I 1594
+
 
 
 ## § 1 Aufhebung
@@ -22,11 +25,6 @@ Fundstelle
 -
 
 
-## § 2 Übergangsvorschrift
+## § 2 (weggefallen)
 
-Für Beamte und Soldaten, die am 31. Dezember 2001 einen Sonderzuschlag
-erhalten, gilt die Sonderzuschlagsverordnung in der bis zum 31.
-Dezember 2001 geltenden Fassung bis zum 31. Dezember 2002 weiter,
-soweit diese Regelung günstiger als die ab dem 1. Januar 2002 geltende
-Rechtslage ist.
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 1067
 
+Geändert durch
+:   Art. 23 G v. 23.7.2013 I 2586
+
 
 
 ## § 1
@@ -91,7 +94,8 @@ beurkundet werden.
 hat das Amtsgericht sie dem anderen Ehegatten nach den für
 Zustellungen von Amts wegen geltenden Vorschriften der
 Zivilprozeßordnung bekanntzumachen. Für die Zustellung werden Auslagen
-nach § 137 Nr. 2 der Kostenordnung nicht erhoben.
+nach Nummer 31002 des Kostenverzeichnisses zum Gerichts- und
+Notarkostengesetz nicht erhoben.
 
 (3) Wird mit der Erklärung ein Antrag auf Eintragung in das
 Güterrechtsregister verbunden, so hat das Amtsgericht den Antrag mit

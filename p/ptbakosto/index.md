@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 1745
 
+V aufgeh. durch
+:   Art. 4 Abs. 67 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 5.10.2009 I 3542
+:   Art. 2 Abs. 89 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 70 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -28,12 +34,11 @@ I S. 759) wird verordnet:
 ## § 1 Anwendungsbereich
 
 (1) Die Physikalisch-Technische Bundesanstalt (Bundesanstalt) erhebt
-für ihre Nutzleistungen Kosten (Gebühren und Auslagen) nach dieser
-Verordnung.
+für ihre Nutzleistungen Gebühren und Auslagen nach dieser Verordnung.
 
 (2) Nutzleistungen im Sinne dieser Verordnung sind Kalibrierungen,
 Messungen, Prüfungen, Konformitätsbewertungen, Begutachtungen und
-Beratungen, zu deren Inanspruchnahme der Kostenschuldner gesetzlich
+Beratungen, zu deren Inanspruchnahme der Gebührenschuldner gesetzlich
 nicht verpflichtet ist.
 
 

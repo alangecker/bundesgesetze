@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2005, 3128
 
 Neugefasst mit ausnahme der anlage durch
-:   Bek. v. 23.9.2009 I 3162; geändert durch V v. 11.1.2011 I 39
+:   Bek. v. 23.9.2009 I 3162;
+
+Zuletzt geändert durch
+:   Art. 6 Abs. 4 V v. 12.4.2016 I 203
 
 
 ## § 1 Anwendungsbereich
@@ -287,11 +290,9 @@ insbesondere folgende Rahmenbedingungen zu regeln:
 
 (2) Die Gesellschaft für Telematik vergibt Aufträge zur Durchführung
 des operativen Betriebs der Testinfrastruktur. Bei der Vergabe dieser
-Aufträge sind der Vierte Teil des Gesetzes gegen
-Wettbewerbsbeschränkungen und die Verordnung über die Vergabe
-öffentlicher Aufträge in Verbindung mit dem Zweiten Abschnitt der
-Vergabe- und Vertragsordnung für Leistungen – Teil A (VOL/A) sowie §
-22 der Verordnung über das Haushaltswesen in der Sozialversicherung in
+Aufträge sind Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen und
+die Verordnung über die Vergabe öffentlicher Aufträge sowie § 22 der
+Verordnung über das Haushaltswesen in der Sozialversicherung in
 Verbindung mit dem Ersten Abschnitt der VOL/A anzuwenden.
 
 (3) Die Gesellschaft für Telematik beschafft
@@ -349,18 +350,17 @@ Gesellschafter sollen aus den Haushaltsmitteln der Gesellschaft für
 Telematik finanziert werden; Ausnahmen und Einzelheiten sind durch die
 Gesellschafterversammlung zu beschließen.
 
-(3) Die Gesellschaft für Telematik hat dem Bundesministerium für
-Gesundheit auf Anforderung zum Stand der Arbeiten zur Umsetzung dieser
-Verordnung schriftlich zu berichten; im Fall einer Beauftragung nach
-Absatz 2 Satz 2 hat der Projektausschuss über den Stand der in Auftrag
-gegebenen Arbeiten zu berichten. Das Bundesministerium für Gesundheit
-kann die Berichte der oder dem Bundesbeauftragten für den Datenschutz
-und die Informationsfreiheit und dem Bundesamt für Sicherheit in der
+(3)Die Gesellschaft für Telematik hat dem Bundesministerium für
+Gesundheit auf Anforderung und nach dessen Vorgaben über den Stand der
+Arbeiten zur Umsetzung dieser Verordnung in Textform zu berichten.
+Über Angelegenheiten von grundsätzlicher Bedeutung hat die
+Gesellschaft für Telematik unaufgefordert und unverzüglich in Textform
+zu berichten.Das Bundesministerium für Gesundheit kann die Berichte
+der oder dem Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit und dem Bundesamt für Sicherheit in der
 Informationstechnik zur Kenntnis geben. Das Bundesministerium für
-Gesundheit kann der Gesellschaft für Telematik, im Fall einer
-Beauftragung auch dem Projektausschuss, Angelegenheiten, die die
-Durchführung der Testung betreffen, vorlegen, damit sich die
-Gesellschaft für Telematik oder der Projektausschuss damit befassen.
+Gesundheit kann der Gesellschaft für Telematik Angelegenheiten, die
+die Durchführung der Testung betreffen, zur Beschlussfassung vorlegen.
 
 (4) Die Entscheidungen der Gesellschaft für Telematik nach Absatz 1
 und Entscheidungen im Schlichtungsverfahren nach § 7 sind dem
@@ -384,9 +384,8 @@ seine Entscheidungen vorbereiten kann.
 (5) Bei Abstimmungsbedarf zu speziellen Fragen und zur Erörterung des
 Standes der Arbeiten zur Umsetzung dieser Verordnung kann das
 Bundesministerium für Gesundheit zu einer Sondersitzung Vertreterinnen
-und Vertreter der Gesellschaft für Telematik, der beauftragten
-Gesellschafter oder des Projektausschusses und weitere Sachverständige
-einladen.
+und Vertreter der Gesellschaft für Telematik und weitere
+Sachverständige einladen.
 
 
 ## § 7 Schlichtungsverfahren
@@ -397,13 +396,25 @@ Verordnung ein Schlichtungsverfahren einzurichten.
 (2) Es ist eine Schlichtungsstelle mit einer oder mehreren Personen
 einzurichten. Die Geschäftsstelle der Schlichtungsstelle ist bei der
 Gesellschaft für Telematik zu errichten. Die Schlichtungsstelle wird
-aus den Haushaltsmitteln der Gesellschaft für Telematik finanziert.
+aus den Haushaltsmitteln der Gesellschaft für Telematik
+finanziert.Benennt die Gesellschaft für Telematik nach Fristsetzung
+durch das Bundesministerium für Gesundheit keine Person für die
+Besetzung der Schlichtungsstelle, erfolgt die Benennung durch das
+Bundesministerium für Gesundheit.
 
-(3) Erhält ein Beschlussvorschlag in einer Gesellschafterversammlung
-mindestens 50 Prozent, aber weniger als 67 Prozent der Stimmen, ist
-auf Antrag von mindestens 50 Prozent der Gesellschafter oder auf
-Antrag des Bundesministeriums für Gesundheit ein Schlichtungsverfahren
-einzuleiten.
+(3) Auf Antrag von mindestens 50 Prozent der Gesellschafter oder auf
+Antrag des Bundesministeriums für Gesundheit ist ein
+Schlichtungsverfahren einzuleiten, wenn
+
+1.  ein Beschlussvorschlag mindestens 50 Prozent, aber weniger als 67
+    Prozent der Stimmen erhält, oder
+
+
+2.  ein Beschluss der Gesellschaft für Telematik nicht innerhalb einer vom
+    Bundesministerium für Gesundheit gesetzten Frist gefasst wird.
+
+
+
 
 (4) Innerhalb von vier Wochen nach Einleitung des
 Schlichtungsverfahrens hat die Geschäftsführung der Gesellschaft für

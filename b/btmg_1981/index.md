@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.10.2012 I 2192
+:   Art. 1 V v. 16.6.2017 I 1670
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -1156,26 +1156,38 @@ Personen stehen die in den §§ 22 und 24 geregelten Befugnisse zu.
 zugleich die besondere Verwaltungsdienststelle im Sinne der
 internationalen Suchtstoffübereinkommen.
 
+(2a) Der Anbau von Cannabis zu medizinischen Zwecken unterliegt der
+Kontrolle des Bundesinstituts für Arzneimittel und Medizinprodukte.
+Dieses nimmt die Aufgaben einer staatlichen Stelle nach Artikel 23
+Absatz 2 Buchstabe d und Artikel 28 Absatz 1 des Einheits-
+Übereinkommens von 1961 über Suchtstoffe vom 30. März 1961 (BGBl. 1973
+II S. 1354) wahr. Der Kauf von Cannabis zu medizinischen Zwecken durch
+das Bundesinstitut für Arzneimittel und Medizinprodukte nach Artikel
+23 Absatz 2 Buchstabe d Satz 2 und Artikel 28 Absatz 1 des Einheits-
+Übereinkommens von 1961 über Suchtstoffe erfolgt nach den Vorschriften
+des Vergaberechts. Das Bundesinstitut für Arzneimittel und
+Medizinprodukte legt unter Berücksichtigung der für die Erfüllung der
+Aufgaben nach Satz 2 entstehenden Kosten seinen Herstellerabgabepreis
+für den Verkauf von Cannabis zu medizinischen Zwecken fest.
+
 (3) Der Anbau von Nutzhanf im Sinne des Buchstabens d der
 Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I unterliegt der
 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung.
-Artikel 40 Absatz 1 und 4 Unterabsatz 1 der Verordnung (EG) Nr.
-1122/2009 der Kommission vom 30. November 2009 mit
-Durchführungsbestimmungen zur Verordnung (EG) Nr. 73/2009 des Rates
-hinsichtlich der Einhaltung anderweitiger Verpflichtungen, der
-Modulation und des integrierten Verwaltungs- und Kontrollsystems im
-Rahmen der Stützungsregelungen für Inhaber landwirtschaftlicher
-Betriebe gemäß der genannten Verordnung und mit
-Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007
-hinsichtlich der Einhaltung anderweitiger Verpflichtungen im Rahmen
-der Stützungsregelung für den Weinsektor (ABl. L 316 vom 2.12.2009, S.
-65) in der jeweils geltenden Fassung sowie § 25 Absatz 1 und 3 und §
-29 der InVeKoS-Verordnung gelten entsprechend. Die Bundesanstalt für
-Landwirtschaft und Ernährung darf die ihr nach § 31 der InVeKoS-
-Verordnung von den zuständigen Landesstellen übermittelten Daten sowie
-die Ergebnisse von im Rahmen der Regelungen über die einheitliche
-Betriebsprämie durchgeführten THC-Kontrollen zum Zweck der Überwachung
-nach diesem Gesetz verwenden.
+Artikel 45 Absatz 4 Unterabsatz 1 und der Anhang der
+Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli
+2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013
+des Europäischen Parlaments und des Rates hinsichtlich des
+integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur
+Entwicklung des ländlichen Raums und der Cross-Compliance (ABl. L 227
+vom 31.7.2014, S. 69) in der jeweils geltenden Fassung gelten
+entsprechend. Im Übrigen gelten die Vorschriften des Integrierten
+Verwaltungs- und Kontrollsystems über den Anbau von Hanf entsprechend.
+Die Bundesanstalt für Landwirtschaft und Ernährung darf die ihr nach
+den Vorschriften des Integrierten Verwaltungs- und Kontrollsystems
+über den Anbau von Hanf von den zuständigen Landesstellen
+übermittelten Daten sowie die Ergebnisse von im Rahmen der Regelungen
+über die Basisprämie durchgeführten THC-Kontrollen zum Zweck der
+Überwachung nach diesem Gesetz verwenden.
 
 
 ### § 20 Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
@@ -1357,9 +1369,9 @@ verwenden. Die Anzeige muß enthalten:
     Berufsgenossenschaft zugeteilte Mitglieds-/Katasternummer,
 
 
-3.  die ausgesäte Sorte unter Beifügung der amtlichen Etiketten, soweit
-    diese nicht im Rahmen der Regelungen über die einheitliche
-    Betriebsprämie der zuständigen Landesbehörde vorgelegt worden sind,
+3.  die Sorte unter Beifügung der amtlichen Etiketten, soweit diese nicht
+    im Rahmen der Regelungen über die Basisprämie der zuständigen
+    Landesbehörde vorgelegt worden sind,
 
 
 4.  die Aussaatfläche in Hektar und Ar unter Angabe der
@@ -1371,24 +1383,26 @@ verwenden. Die Anzeige muß enthalten:
 
 
 
-Die Bundesanstalt für Landwirtschaft und Ernährung übersendet eine von
-ihr abgezeichnete Ausfertigung der Anzeige unverzüglich dem
-Antragsteller. Sie hat ferner eine Ausfertigung der Anzeige den
-zuständigen Polizeibehörden und Staatsanwaltschaften auf deren
-Ersuchen zu übersenden, wenn dies zur Verfolgung von Straftaten nach
-diesem Gesetz erforderlich ist. Liegen der Bundesanstalt für
-Landwirtschaft und Ernährung Anhaltspunkte vor, daß der Anbau von
-Nutzhanf nicht den Voraussetzungen des Buchstabens d der
-Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I entspricht, teilt
-sie dies der örtlich zuständigen Staatsanwaltschaft mit.
+Erfolgt die Aussaat von Nutzhanf nach dem 1. Juli des Anbaujahres,
+sind die amtlichen Etiketten nach Satz 3 Nummer 3 bis zum 1. September
+des Anbaujahres vorzulegen. Die Bundesanstalt für Landwirtschaft und
+Ernährung übersendet eine von ihr abgezeichnete Ausfertigung der
+Anzeige unverzüglich dem Antragsteller. Sie hat ferner eine
+Ausfertigung der Anzeige den zuständigen Polizeibehörden und
+Staatsanwaltschaften auf deren Ersuchen zu übersenden, wenn dies zur
+Verfolgung von Straftaten nach diesem Gesetz erforderlich ist. Liegen
+der Bundesanstalt für Landwirtschaft und Ernährung Anhaltspunkte vor,
+daß der Anbau von Nutzhanf nicht den Voraussetzungen des Buchstabens d
+der Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I entspricht,
+teilt sie dies der örtlich zuständigen Staatsanwaltschaft mit.
 
 
-### § 25 Kosten
+### § 25 Gebühren und Auslagen
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
-seine Amtshandlungen, Prüfungen und Untersuchungen nach diesem Gesetz
-und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Kosten
-(Gebühren und Auslagen).
+seine individuell zurechenbaren öffentlichen Leistungen nach diesem
+Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
+Gebühren und Auslagen.
 
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher
@@ -1681,8 +1695,7 @@ Monaten bis zu fünf Jahren.
     verursacht oder
 
 
-4.  Betäubungsmittel in nicht geringer Menge ohne Erlaubnis nach § 3 Abs.
-    1 Nr. 1 einführt.
+4.  Betäubungsmittel in nicht geringer Menge unerlaubt einführt.
 
 
 
@@ -1728,35 +1741,28 @@ Betäubungsmitteln im Sinne des § 6 Nr. 5 des Strafgesetzbuches
 gerichtet sind, nicht oder nicht nur im Inland besteht.
 
 
-### § 30c Vermögensstrafe
-
-(1) In den Fällen des § 29 Abs. 1 Nr. 1, 5, 6, 10, 11 und 13 ist § 43a
-des Strafgesetzbuches anzuwenden. Dies gilt nicht, soweit der Täter
-Betäubungsmittel, ohne mit ihnen Handel zu treiben, veräußert, abgibt,
-erwirbt oder sich in sonstiger Weise verschafft.
-
-(2) In den Fällen der §§ 29a, 30, 30a und 30b ist § 43a des
-Strafgesetzbuches anzuwenden.
-
-
 ### § 31 Strafmilderung oder Absehen von Strafe
 
 Das Gericht kann die Strafe nach § 49 Abs. 1 des Strafgesetzbuches
 mildern oder, wenn der Täter keine Freiheitsstrafe von mehr als drei
 Jahren verwirkt hat, von Strafe absehen, wenn der Täter
 
-1.  durch freiwillige Offenbarung seines Wissens wesentlich dazu
-    beigetragen hat, daß die Tat über seinen eigenen Tatbeitrag hinaus
-    aufgedeckt werden konnte, oder
+1.  durch freiwilliges Offenbaren seines Wissens wesentlich dazu
+    beigetragen hat, daß eine Straftat nach den §§ 29 bis 30a, die mit
+    seiner Tat im Zusammenhang steht, aufgedeckt werden konnte, oder
 
 
 2.  freiwillig sein Wissen so rechtzeitig einer Dienststelle offenbart,
-    daß Straftaten nach § 29 Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs.
-    1 von deren Planung er weiß, noch verhindert werden können.
+    daß eine Straftat nach § 29 Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a
+    Abs. 1 die mit seiner Tat im Zusammenhang steht und von deren Planung
+    er weiß, noch verhindert werden kann.
 
 
 
-§ 46b Abs. 2 und 3 des Strafgesetzbuches gilt entsprechend.
+War der Täter an der Tat beteiligt, muss sich sein Beitrag zur
+Aufklärung nach Satz 1 Nummer 1 über den eigenen Tatbeitrag hinaus
+erstrecken. § 46b Abs. 2 und 3 des Strafgesetzbuches gilt
+entsprechend.
 
 
 ### § 31a Absehen von der Verfolgung
@@ -1879,22 +1885,11 @@ des § 32 Abs. 1 Nr. 14 die Bundesanstalt für Landwirtschaft und
 Ernährung.
 
 
-### § 33 Erweiterter Verfall und Einziehung
+### § 33 Einziehung
 
-(1) § 73d des Strafgesetzbuches ist anzuwenden
-
-1.  in den Fällen des § 29 Abs. 1 Satz 1 Nr. 1, 5, 6, 10, 11 und 13,
-    sofern der Täter gewerbsmäßig handelt, und
-
-
-2.  in den Fällen der §§ 29a, 30 und 30a.
-
-
-
-
-(2) Gegenstände, auf die sich eine Straftat nach den §§ 29 bis 30a
-oder eine Ordnungswidrigkeit nach § 32 bezieht, können eingezogen
-werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über
+Gegenstände, auf die sich eine Straftat nach den §§ 29 bis 30a oder
+eine Ordnungswidrigkeit nach § 32 bezieht, können eingezogen werden. §
+74a des Strafgesetzbuches und § 23 des Gesetzes über
 Ordnungswidrigkeiten sind anzuwenden.
 
 
@@ -2088,7 +2083,7 @@ Regelungen gelten entsprechend.
 (1) Bei Verurteilung zu Jugendstrafe gelten die §§ 35 und 36
 sinngemäß. Neben der Zusage des Jugendlichen nach § 35 Abs. 1 Satz 1
 bedarf es auch der Einwilligung des Erziehungsberechtigten und des
-gesetzlichen Vertreters. Im Falle des § 35 Abs. 6 Satz 2 findet § 83
+gesetzlichen Vertreters. Im Falle des § 35 Abs. 7 Satz 2 findet § 83
 Abs. 2 Nr. 1, Abs. 3 Satz 2 des Jugendgerichtsgesetzes sinngemäß
 Anwendung. Abweichend von § 36 Abs. 4 gelten die §§ 22 bis 26a des
 Jugendgerichtsgesetzes entsprechend. Für die Entscheidungen nach § 36
@@ -2134,21 +2129,21 @@ Sachkenntnis nach § 6 Absatz 1 Nummer 1 als erbracht.
 
 (weggefallen)
 
+(zu § 1 Abs. 1)
 
-### Anlage I (zu § 1 Abs. 1) (nicht verkehrsfähige Betäubungsmittel)
+### Anlage I (nicht verkehrsfähige Betäubungsmittel)
 
 (Fundstelle: BGBl. I 2001, 1180 - 1186;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-α
 
-*    *   Spalte 1
+*    *   **Spalte 1**
 
     *   enthält die International Nonproprietary Names (INN) der
         Weltgesundheitsorganisation. Bei der Bezeichnung eines Stoffes hat der
         INN Vorrang vor allen anderen Bezeichnungen.
 
 
-*    *   Spalte 2
+*    *   **Spalte 2**
 
     *   enthält andere nicht geschützte Stoffbezeichnungen (Kurzbezeichnungen
         oder Trivialnamen). Wenn für einen Stoff kein INN existiert, kann zu
@@ -2158,7 +2153,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Verbindung mit der Bezeichnung in Spalte 3 zu verwenden.
 
 
-*    *   Spalte 3
+*    *   **Spalte 3**
 
     *   enthält die chemische Stoffbezeichnung nach der Nomenklatur der
         International Union of Pure and Applied Chemistry (IUPAC). Wenn in
@@ -2172,14 +2167,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   INN
+*    *   **INN**
 
-    *   andere nicht geschützte oder Trivialnamen
+    *   **andere nicht geschützte oder Trivialnamen**
 
-    *   chemische Namen (IUPAC)
+    *   **chemische Namen (IUPAC)**
 
 
-*    *   Acetorphin
+*    *   **Acetorphin**
 
     *   -
 
@@ -2195,7 +2190,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-yl)acetat
 
 
-*    *   Acetylmethadol
+*    *   **Acetylmethadol**
 
     *   -
 
@@ -2218,14 +2213,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4-Allyloxy-3,5-dimethoxy-phenethylazan
 
 
-*    *   Allylprodin
+*    *   **Allylprodin**
 
     *   -
 
     *   (3-Allyl-1-methyl-4-phenyl-4-piperidyl)propionat
 
 
-*    *   Alphacetylmethadol
+*    *   **Alphacetylmethadol**
 
     *   -
 
@@ -2235,7 +2230,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-6-Dimethylamino-4,4-diphenylheptan-3-yl]acetat
 
 
-*    *   Alphameprodin
+*    *   **Alphameprodin**
 
     *   -
 
@@ -2245,7 +2240,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-3-Ethyl-1-methyl-4-phenyl-4-piperidyl]propionat
 
 
-*    *   Alphamethadol
+*    *   **Alphamethadol**
 
     *   -
 
@@ -2254,7 +2249,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-6-Dimethylamino-4,4-diphenylheptan-3-ol
 
 
-*    *   Alphaproidin
+*    *   **Alphaprodin**
 
     *   -
 
@@ -2263,7 +2258,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         SR                       )-1,3-Dimethyl-4-phenyl-4-piperidyl]propionat
 
 
-*    *   Anileridin
+*    *   -
+
+    *   5-(2-Aminopropyl)indol
+        (5-IT)
+
+    *   1-(1
+        H                       -Indol-5-yl)propan-2-amin
+
+
+*    *   **Anileridin**
 
     *   -
 
@@ -2277,14 +2281,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-(1,3-Benzodioxol-5-yl)butan-2-ylazan
 
 
-*    *   Benzethidin
+*    *   **Benzethidin**
 
     *   -
 
     *   Ethyl{1-[2-benzyloxy)ethyl]-4-phenyl-piperidin-4-carboxylat}
 
 
-*    *   Benzfetamin
+*    *   **Benzfetamin**
 
     *   Benzphetamin
 
@@ -2293,7 +2297,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   -
+    *   MDPPP
 
     *   1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)propan-1-on
 
@@ -2313,7 +2317,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3-Benzyloxy-4,5α-epoxy-17-methylmorphin-7-en-6α-ol
 
 
-*    *   Betacetylmethadol
+*    *   **Betacetylmethadol**
 
     *   -
 
@@ -2323,7 +2327,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-6-Dimethylamino-4,4-diphenylheptan-3-yl]acetat
 
 
-*    *   Betameprodin
+*    *   **Betameprodin**
 
     *   -
 
@@ -2333,7 +2337,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-3-Ethyl-1-methyl-4-phenyl-4-piperidyl]propionat
 
 
-*    *   Betamethadol
+*    *   **Betamethadol**
 
     *   -
 
@@ -2342,7 +2346,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-6-Dimethylamino-4,4-diphenylheptan-3-ol
 
 
-*    *   Betaprodin
+*    *   **Betaprodin**
 
     *   -
 
@@ -2351,7 +2355,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         RS                       )-1,3-Dimethyl-4-phenyl-4-piperidyl]propionat
 
 
-*    *   Bezitramid
+*    *   **Bezitramid**
 
     *   -
 
@@ -2359,7 +2363,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         ,-diphenyl-butannitril
 
 
-*    *   Brolamfetamin
+*    *   -
+
+    *   25B-NBOMe
+        (2C-B-NBOMe)
+
+    *   2-(4-Brom-2,5-dimethoxyphenyl)-
+        N                       -[(2-methoxyphenyl)methyl]ethanamin
+
+
+*    *   **Brolamfetamin**
 
     *   Dimethoxybromamfetamin (DOB)
 
@@ -2370,15 +2383,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Bromdimethoxyphenethylamin (BDMPEA)
+    *   Bromdimethoxyphenethylamin (BDMPEA, 2C-B)
 
     *   4-Brom-2,5-dimethoxyphenethyl-azan
 
 
 *    *   -
 
-    *   Cannabis (Marihuana, Pflanzen und Pflanzenteile der zur Gattung
-        Cannabis gehörenden Pflanzen)
+    *   **Cannabis**
+        (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis
+        gehörenden Pflanzen)
 
     *   -
 
@@ -2397,19 +2411,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   wenn sie aus dem Anbau in Ländern der Europäischen Union mit
         zertifiziertem Saatgut von Sorten stammen, die am 15. März des
-        Anbaujahres in dem in Artikel 10 der Verordnung (EG) Nr. 1120/2009 der
-        Kommission vom 29. Oktober 2009 mit Durchführungsbestimmungen zur
-        Betriebsprämienregelung gemäß Titel III der Verordnung (EG) Nr.
-        73/2009 des Rates mit gemeinsamen Regeln für Direktzahlungen im Rahmen
-        der gemeinsamen Agrarpolitik und mit bestimmten Stützungsregelungen
-        für Inhaber landwirtschaftlicher Betriebe (ABl. L 316 vom 2.12.2009,
-        S. 1) in der jeweils geltenden Fassung genannten gemeinsamen
-        Sortenkatalog für landwirtschaftliche Pflanzenarten aufgeführt sind,
-        ausgenommen die Sorten Finola und Tiborszallasi, oder ihr Gehalt an
-        Tetrahydrocannabinol 0,2 vom Hundert nicht übersteigt und der Verkehr
-        mit ihnen (ausgenommen der Anbau) ausschließlich gewerblichen oder
-        wissenschaftlichen Zwecken dient, die einen Missbrauch zu
-        Rauschzwecken ausschließen,
+        Anbaujahres in dem in Artikel 9 der Delegierten Verordnung (EU) Nr.
+        639/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung
+        (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates mit
+        Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher
+        Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen
+        Agrarpolitik und zur Änderung des Anhangs X der genannten Verordnung
+        (ABl. L 181 vom 20.6.2014, S. 1) in der jeweils geltenden Fassung
+        genannten gemeinsamen Sortenkatalog für landwirtschaftliche
+        Pflanzenarten aufgeführt sind, oder ihr Gehalt an Tetrahydrocannabinol
+        0,2 Prozent nicht übersteigt und der Verkehr mit ihnen (ausgenommen
+        der Anbau) ausschließlich gewerblichen oder wissenschaftlichen Zwecken
+        dient, die einen Missbrauch zu Rauschzwecken ausschließen,
 
 
 *    *   c)
@@ -2421,38 +2434,39 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   d)
 
     *   wenn sie von Unternehmen der Landwirtschaft angebaut werden, die die
-        Voraussetzungen des § 1 Abs. 4 des Gesetzes über die Alterssicherung
+        Voraussetzungen des § 1 Absatz 4 des Gesetzes über die Alterssicherung
         der Landwirte erfüllen, mit Ausnahme von Unternehmen der
         Forstwirtschaft, des Garten- und Weinbaus, der Fischzucht, der
         Teichwirtschaft, der Imkerei, der Binnenfischerei und der
         Wanderschäferei, oder die für eine Beihilfegewährung nach der
-        Verordnung (EG) Nr. 73/2009 des Rates vom 19. Januar 2009 mit
-        gemeinsamen Regeln für Direktzahlungen im Rahmen der gemeinsamen
-        Agrarpolitik und mit bestimmten Stützungsregelungen für Inhaber
-        landwirtschaftlicher Betriebe und zur Änderung der Verordnungen (EG)
-        Nr. 1290/2005, (EG) Nr. 247/2006, (EG) Nr. 378/2007 sowie zur
-        Aufhebung der Verordnung (EG) Nr. 1782/2003 (ABl. L 30 vom 31.1.2009,
-        S. 16) in der jeweils geltenden Fassung in Betracht kommen und der
-        Anbau ausschließlich aus zertifiziertem Saatgut von Sorten erfolgt,
-        die am 15. März des Anbaujahres in dem in Artikel 10 der Verordnung
-        (EG) Nr. 1120/2009 genannten gemeinsamen Sortenkatalog für
-        landwirtschaftliche Pflanzenarten aufgeführt sind (Nutzhanf) oder
+        Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des
+        Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an
+        Inhaber landwirtschaftlicher Betriebe im Rahmen von
+        Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der
+        Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr.
+        73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) in der jeweils
+        geltenden Fassung in Betracht kommen und der Anbau ausschließlich aus
+        zertifiziertem Saatgut von Sorten erfolgt, die am 15. März des
+        Anbaujahres in dem in Artikel 9 der Delegierten Verordnung (EU) Nr.
+        639/2014 genannten gemeinsamen Sortenkatalog für landwirtschaftliche
+        Pflanzenarten aufgeführt sind (Nutzhanf) oder
 
 
 *    *   e)
 
-    *   zu den in den Anlagen II und III bezeichneten Zwecken -
+    *   zu den in Anlage III bezeichneten Zwecken -
 
 
 *    *   -
 
-    *   Cannabisharz (Haschisch, das abgesonderte Harz der zur Gattung
-        Cannabis gehörenden Pflanzen=)
+    *   **Cannabisharz**
+        (Haschisch, das abgesonderte Harz der zur Gattung Cannabis gehörenden
+        Pflanzen=)
 
     *   -
 
 
-*    *   Carfentanil
+*    *   **Carfentanil**
 
     *   -
 
@@ -2460,7 +2474,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -phenyl-propanamido)piperidin-4-carboxylat]
 
 
-*    *   Cathinon
+*    *   **Cathinon**
 
     *   -
 
@@ -2470,19 +2484,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   2CI
+    *   2C-C
+
+    *   2-(4-Chlor-2,5-dimethoxyphenyl)ethanamin
+
+
+*    *   -
+
+    *   2C-D
+        (2C-M)
+
+    *   2-(2,5-Dimethoxy-4-methylphenyl)ethanamin
+
+
+*    *   -
+
+    *   2C-E
+
+    *   2-(4-Ethyl-2,5-dimethoxyphenyl)ethanamin
+
+
+*    *   -
+
+    *   2C-l
 
     *   4-lod-2,5-dimethoxyphenethyl-azan
 
 
 *    *   -
 
-    *   6-CI-MDMA
+    *   Clephedron
+        (4-CMC, 4-Chlormethcathinon)
+
+    *   1-(4-Chlorphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   -
+
+    *   6-Cl-MDMA
 
     *   [1-(6-Chlor-1,3-benzodioxol-5-yl)propan-2-yl](methyl)azan
 
 
-*    *   Clonitazen
+*    *   **Clonitazen**
 
     *   -
 
@@ -2491,9 +2535,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Codein-N-oxid-
+    *   25C-NBOMe
+        (2C-C-NBOMe)
+
+    *   2-(4-Chlor-2,5-dimethoxyphenyl)-
+        N                       -[(2-methoxyphenyl)methyl]ethanamin
+
+
+*    *   -
+
+    *   **Codein-N-oxid**
 
     *   4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-ol-17-oxid
+
+
+*    *   **Codoxim**
+
+    *   -
+
+    *   (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6-yliden-aminooxy)essigsäure
+
+
+*    *   -
+
+    *   2C-P
+
+    *   2-(2,5-Dimethoxy-4-propylphenyl)ethanamin
 
 
 *    *   -
@@ -2510,21 +2577,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2,5-Dimethoxy-4-(propylsulfanyl)phenethylazan
 
 
-*    *   Codoxim
-
-    *   -
-
-    *   (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6-yliden-aminooxy)essigsäure
-
-
-*    *   Desomorphin
+*    *   **Desomorphin**
 
     *   Dihydrodesoxymorphin
 
     *   4,5α-Epoxy-17-methyl-morphinan-3-ol
 
 
-*    *   Diampromid
+*    *   **Diampromid**
 
     *   -
 
@@ -2539,7 +2599,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-(4-Brom-2,5-diethoxyphenyl)propan-2-ylazan
 
 
-*    *   Diethylthiambuten
+*    *   **Diethylthiambuten**
 
     *   -
 
@@ -2555,7 +2615,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Dihydroetorphin (18,19-Dihydroetorphin)
+    *   **Dihydroetorphin**
+        (18,19-Dihydroetorphin)
 
     *   (5
         R                       ,6
@@ -2566,14 +2627,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-2-hydroxypentan-2-yl]-6-methoxy-17-methyl-6,14-ethanomorphinan-3-ol
 
 
-*    *   Dimenoxadol
+*    *   **Dimenoxadol**
 
     *   -
 
     *   (2-Dimethylaminoethyl)[(ethoxy)(diphenyl)acetat]
 
 
-*    *   Dimepheptanol
+*    *   **Dimepheptanol**
 
     *   Methadol
 
@@ -2596,6 +2657,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Dimethoxymethamfetamin (DMMA)
+
+    *   1-(3,4-Dimethoxyphenyl)-
+        N                       -methylpropan-2-amin
+
+
+*    *   -
+
     *   Dimethoxymethylamfetamin (DOM, STP)
 
     *   (
@@ -2611,7 +2680,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         benzo(c) chromen-1-ol
 
 
-*    *   Dimethylthiambuten
+*    *   **Dimethylthiambuten**
 
     *   -
 
@@ -2625,14 +2694,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   [2-(Indol-3-yl) ethyl]dimethyl-azan
 
 
-*    *   Dioxaphetylbutyrat
+*    *   **Dioxaphetylbutyrat**
 
     *   -
 
     *   Ethyl-(4-morpholino-2,2-diphenylbutanoat)
 
 
-*    *   Dipipanon
+*    *   **Dipipanon**
 
     *   -
 
@@ -2646,18 +2715,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-(4-Chlor-2,5-dimethoxyphenyl)propan-2-ylazan
 
 
-*    *   Drotebanol
+*    *   **Drotebanol**
 
     *   -
 
     *   3,4-Dimethoxy-17-methyl-morphinan-6ß,14-diol
 
 
-*    *   Ethylmethylthiambuten
+*    *   -
+
+    *   N                       -Ethylbuphedron
+        (NEB)
+
+    *   2-(Ethylamino)-1-phenylbutan-1-on
+
+
+*    *   -
+
+    *   4-Ethylmethcathinon
+        (4-EMC)
+
+    *   1-(4-Ethylphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   **Ethylmethylthiambuten**
 
     *   -
 
     *   (Ethyl)(methyl)(1-methyl-3,3-di-2-thienylallyl)azan
+
+
+*    *   -
+
+    *   Ethylon
+        (bk-MDEA, MDEC)
+
+    *   1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)propan-1-on
 
 
 *    *   -
@@ -2667,28 +2760,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   (1-Ethyl-3-piperidyl)benzilat
 
 
-*    *   Eticyclidin
+*    *   **Eticyclidin**
 
     *   PCE
 
     *   (Ethyl(1-phenylcyclohexyl)azan
 
 
-*    *   Etonitazen
+*    *   **Etonitazen**
 
     *   -
 
     *   {2-[2-(4-Ethoxybenzyl)-5-nitrobenzimidazol-1-yl]ethyl}diethylazan
 
 
-*    *   Etoxeridin
+*    *   **Etoxeridin**
 
     *   -
 
     *   Ethyl{1-[2-(2-hydroxyethoxy)ethyl]-4-phenylpiperidin-4-carboxylat}
 
 
-*    *   Etryptamin
+*    *   **Etryptamin**
 
     *   α-Ethyltryptamin
 
@@ -2718,7 +2811,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -(1-phenethyl-4-piperidyl)propanamid
 
 
-*    *   Furethidin
+*    *   -
+
+    *   2-Fluormethamfetamin
+        (2-FMA)
+
+    *   1-(2-Fluorphenyl)-
+        N                       -methylpropan-2-amin
+
+
+*    *   -
+
+    *   3-Fluormethamfetamin
+        (3-FMA)
+
+    *   1-(3-Fluorphenyl)-
+        N                       -methylpropan-2-amin
+
+
+*    *   **Furethidin**
 
     *   -
 
@@ -2728,8 +2839,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Heroin (Diacetylmorphin, Diamorphin) – ausgenommen Diamorphin zu den
-        in den Anlagen II und III bezeichneten Zwecken –
+    *   **Heroin**
+        (Diacetylmorphin, Diamorphin) – ausgenommen Diamorphin zu den in den
+        Anlagen II und III bezeichneten Zwecken –
 
     *   [(5
         R                       ,6
@@ -2737,7 +2849,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         morphin-7-en-3,6-diyl]diacetat
 
 
-*    *   Hydromorphinol
+*    *   **Hydromorphinol**
 
     *   14-Hydroxydihydromorphin
 
@@ -2777,14 +2889,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -phenylpropanamid
 
 
-*    *   Hydroxypethidin
+*    *   **Hydroxypethidin**
 
     *   -
 
     *   Ethyl[4-(3-hydroxyphenyl)-1-methylpiperidin-4-carboxylat]
 
 
-*    *   Lefetamin
+*    *   -
+
+    *   25I-NBOMe
+        (2C-I-NBOMe)
+
+    *   2-(4-lod-2,5-dimethoxyphenyl)-
+        N                       -[(2-methoxyphenyl)methyl]ethanamin
+
+
+*    *   **Lefetamin**
 
     *   SPA
 
@@ -2792,7 +2913,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-1,2-Diphenylethyl]dimethylazan
 
 
-*    *   Levomethorphan
+*    *   **Levomethorphan**
 
     *   -
 
@@ -2802,7 +2923,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-3-Methoxy-17-methylmorphinan
 
 
-*    *   Levophenacylmorphan
+*    *   **Levophenacylmorphan**
 
     *   -
 
@@ -2812,7 +2933,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-3-Hydroxy-morphinan-17-yl]-1-phenyl-ethanon
 
 
-*    *   Lofentanil
+*    *   **Lofentanil**
 
     *   -
 
@@ -2822,7 +2943,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -phenyl-propanamido)piperidin-4-carboxylat]
 
 
-*    *   Lysergid
+*    *   **Lysergid**
 
     *   N,N                       -Diethyl-D-lysergamid (LSD,LSD-25)
 
@@ -2852,7 +2973,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       )-on
 
 
-*    *   Mecloqualon
+*    *   **Mecloqualon**
 
     *   -
 
@@ -2862,12 +2983,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Mescalin
+    *   **Mescalin**
 
     *   3,4,5-Trimethoxyphenethylazan
 
 
-*    *   Metazocin
+*    *   **Metazocin**
 
     *   -
 
@@ -2879,6 +3000,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Methcathinon (Ephedron)
 
     *   2-Methylamino-1-phenylpropan-1-on
+
+
+*    *   -
+
+    *   Methiopropamin (MPA)
+
+    *   N                       -Methyl-1-(thiophen-2-yl)propan-2-amin
+
+
+*    *   -
+
+    *   Methoxetamin (MXE)
+
+    *   2-(Ethylamino)-2-(3-methoxyphenyl)cyclohexanon
 
 
 *    *   -
@@ -2921,7 +3056,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Methoxymethylendioxyamfetamin (MMDA)
 
-    *   1-(7-Methoxy-1,3-benzodioxol-5-
+    *   1-(7-Methoxy-1,3-benzodioxol-5-yl)propan-2–ylazan
 
 
 *    *   -
@@ -2938,14 +3073,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4-Methyl-5-phenyl-4,5-dihydro-1,3-oxazol-2-ylazan
 
 
-*    *   Methyldesorphin
+*    *   -
+
+    *   4-Methylbuphedron
+        (4-MeMABP)
+
+    *   2-(Methylamino)-1-(4-methylphenyl)butan-1-on
+
+
+*    *   **Methyldesorphin**
 
     *   -
 
     *   4,5α-Epoxy-6,17-dimethyl-morphin-6-en-3-ol
 
 
-*    *   Methyldihydromorphin
+*    *   **Methyldihydromorphin**
 
     *   -
 
@@ -2990,6 +3133,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3-(2,4-Dimethylphenyl)-2-methyl-chinazolin-4(3
         H                       )on
+
+
+*    *   -
+
+    *   3-Methylmethcathinon
+        (3-MMC)
+
+    *   2-(Methylamino)-1-(3-methylphenyl)propan-1-on
 
 
 *    *   -
@@ -3055,19 +3206,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   α-Methyltryptamin (α-MT)
+    *   α-Methyltryptamin (α-MT, AMT)
 
     *   1-(Indol-3-yl)propan-2-ylazan
 
 
-*    *   Metopon
+*    *   **Metopon**
 
     *   5-Methyldihydromorphinon
 
     *   4,5α-Epoxy-3-hydroxy-5,17-dimethylmorphinan-6-on
 
 
-*    *   Morpheridin
+*    *   **Morpheridin**
 
     *   -
 
@@ -3077,7 +3228,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   -
 
     *   Morphin-
-        N                       -oxid
+        N **-oxid**
 
     *   (5
         R                       ,6
@@ -3085,35 +3236,45 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-4,5-Epoxy-3,6-dihydroxy-17-methylmorphin-7-en-17-oxid
 
 
-*    *   Myrophin
+*    *   **Myrophin**
 
     *   Myristylbenzylmorphin
 
     *   (3-Benzyloxy-4,5α-epoxy-17-methylmorphin-7-en-6-yl)tetradecanoat
 
 
-*    *   Nicomorphin
+*    *   -
+
+    *   25N-NBOMe
+        (2C-N-NBOMe)
+
+    *   2-(2,5-Dimethoxy-4-nitrophenyl)-
+        N                       -[(2-methoxyphenyl)methyl]
+        ethanamin
+
+
+*    *   **Nicomorphin**
 
     *   3,6-Dinicotinoylmorphin
 
     *   4,5α-Epoxy-17-methyl-morphin-7-en-3,6α-diyl)dinicotinat
 
 
-*    *   Noracymethadol
+*    *   **Noracymethadol**
 
     *   -
 
     *   (6-Methylamino-4,4-diphenyl-heptan-3-yl)acetat
 
 
-*    *   Norcodein
+*    *   **Norcodein**
 
     *   N                       -Desmethylcodein
 
     *   4,5α-Epoxy-3-methoxy-morphin-7-en-6α-ol
 
 
-*    *   Norlevorphanol
+*    *   **Norlevorphanol**
 
     *   (-)3-Hydroxymorphinan
 
@@ -3123,14 +3284,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-Morphinan-3-ol
 
 
-*    *   Normorphin
+*    *   **Normorphin**
 
     *   Desmethylmorphin
 
     *   4,5α-Epoxymorphin-7-en-3,6α-diol
 
 
-*    *   Norpipanon
+*    *   **Norpipanon**
 
     *   -
 
@@ -3152,14 +3313,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   (1-Phenylcyclohexyl)(propyl)azan
 
 
-*    *   Phenadoxon
+*    *   -
+
+    *   Pentylon
+        (bk-MBDP)
+
+    *   1-(1,3-Benzodioxol-5-yl)-2-(methylamino)pentan-1-on
+
+
+*    *   **Phenadoxon**
 
     *   -
 
     *   6-Morpholino-4,4-diphenyl-heptan-3-on
 
 
-*    *   Phenampromid
+*    *   **Phenampromid**
 
     *   -
 
@@ -3167,7 +3336,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -(1-piperidinopropan-2-yl)propanamid
 
 
-*    *   Phenazocin
+*    *   **Phenazocin**
 
     *   -
 
@@ -3175,7 +3344,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         in-8-ol
 
 
-*    *   Phencyclidin
+*    *   **Phencyclidin**
 
     *   PCP
 
@@ -3196,28 +3365,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-Phenethyl-4-phenyl-1,2,3,6-tetrahydropyridin
 
 
-*    *   Phenpromethamin
+*    *   **Phenpromethamin**
 
     *   1-Methylamino-2-phenyl-propan (PPMA)
 
     *   (Methyl)(2-phenylpropyl)azan
 
 
-*    *   Phenomorphan
+*    *   **Phenomorphan**
 
     *   -
 
     *   17-Phenethylmorphinan-3-ol
 
 
-*    *   Phenoperidin
+*    *   **Phenoperidin**
 
     *   -
 
     *   Ethyl [1-(3-hydroxy-3-phenyl-propyl)-4-phenylpiperidin-4-carboxylat]
 
 
-*    *   Piminodin
+*    *   **Piminodin**
 
     *   -
 
@@ -3231,14 +3400,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-Phenyl-2-(pyrrolidin-1-yl)propan-1-on
 
 
-*    *   Proheptazin
+*    *   **Proheptazin**
 
     *   -
 
     *   (1,3-Dimethyl-4-phenylazepan-4-yl)propionat
 
 
-*    *   Properidin
+*    *   **Properidin**
 
     *   -
 
@@ -3259,7 +3428,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3-(2-Diethylaminoethyl)indol-4-ol
 
 
-*    *   Psilocybin
+*    *   **Psilocybin**
 
     *   -
 
@@ -3275,12 +3444,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   -
+    *   4-MePPP
 
     *   2-(Pyrrolidin-1-yl)-1-(p-tolyl)propan-1-on
 
 
-*    *   Racemethorphan
+*    *   **Racemethorphan**
 
     *   -
 
@@ -3290,7 +3459,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         RS                       )-3-Methoxy-17-methylmorphinan
 
 
-*    *   Rolicyclidin
+*    *   **Rolicyclidin**
 
     *   PHP (PCPy)
 
@@ -3299,13 +3468,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Salvia divinorum
+    *   **Salvia divinorum**
         (Pflanzen und Pflanzenteile)
 
     *   -
 
 
-*    *   Tenamfetamin
+*    *   **Tenamfetamin**
 
     *   Methylendioxyamfetamin (MDA)
 
@@ -3313,7 +3482,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         RS                       )-1-(1,3-Benzodioxol-5-yl)propan-2-ylazan
 
 
-*    *   Tenocyclidin
+*    *   **Tenocyclidin**
 
     *   TCP
 
@@ -3328,7 +3497,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Δ6a(10a)-Tetrahydrocannabinol (Δ6a(10a)-THC)
+    *   **Δ6a(10a)-Tetrahydrocannabinol**
+        (Δ6a(10a)-THC)
 
     *   6,6,9-Trimethyl-3-pentyl-7,8,9,10-tetrahydro-6
         H                       -benzo[c]chromen-1-ol
@@ -3336,7 +3506,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Δ6a-Tetrahydrocannabinol (Δ6a-THC)
+    *   **Δ6a-Tetrahydrocannabinol**
+        (Δ6a-THC)
 
     *   (9
         R                       ,10a
@@ -3352,12 +3523,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Δ7-Tetrahydrocannabinol (Δ7-THC)
+    *   **Δ7-Tetrahydrocannabinol**
+        (Δ7-THC)
 
 
 *    *   -
 
-    *   Δ8-Tetrahydrocannabinol (Δ8-THC)
+    *   **Δ8-Tetrahydrocannabinol**
+        (Δ8-THC)
 
     *   (6a
         R                       ,10a
@@ -3371,12 +3544,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Δ10-Tetrahydrocannabinol (Δ10-THC)
+    *   **Δ10-Tetrahydrocannabinol**
+        (Δ10-THC)
 
 
 *    *   -
 
-    *   Δ9(11)-Tetrahydrocannabinol (Δ9(11)-THC)
+    *   **Δ9(11)-Tetrahydrocannabinol**
+        (Δ9(11)-THC)
 
     *   (6a
         R                       ,10a
@@ -3395,6 +3570,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Thienoamfetamin
+        (Thiopropamin)
+
+    *   1-(Thiophen-2-yl)propan-2-amin
+
+
+*    *   -
+
     *   Thiofentanyl
 
     *   N                       -Phenyl-
@@ -3402,7 +3585,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         -{1-[2-(2-thienyl)ethyl]-4-piperidyl}propanamid
 
 
-*    *   Trimeperidin
+*    *   **Trimeperidin**
 
     *   -
 
@@ -3465,22 +3648,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 1 Abs. 1)
 
-### Anlage II (zu § 1 Abs. 1) (verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)
+### Anlage II (verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)
 
 (Fundstelle: BGBl. I 2001, 1187 - 1189;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   Spalte 1
+*    *   **Spalte 1**
 
     *   enthält die International Nonproprietary Names (INN) der
         Weltgesundheitsorganisation. Bei der Bezeichnung eines Stoffes hat der
         INN Vorrang vor allen anderen Bezeichnungen.
 
 
-*    *   Spalte 2
+*    *   **Spalte 2**
 
     *   enthält andere nicht geschützte Stoffbezeichnungen (Kurzbezeichnungen
         oder Trivialnamen). Wenn für einen Stoff kein INN existiert, kann zu
@@ -3490,7 +3674,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Verbindung mit der Bezeichnung in Spalte 3 zu verwenden.
 
 
-*    *   Spalte 3
+*    *   **Spalte 3**
 
     *   enthält die chemische Stoffbezeichnung nach der Nomenklatur der
         International Union of Pure and Applied Chemistry (IUPAC). Wenn in
@@ -3500,11 +3684,60 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   INN
+*    *   **INN**
 
-    *   andere nicht geschützte oder Trivialnamen
+    *   **andere nicht geschützte oder Trivialnamen**
 
-    *   chemische Namen (IUPAC)
+    *   **chemische Namen (IUPAC)**
+
+
+*    *   -
+
+    *   AB-CHMINACA
+
+    *   N                       -(1-Amino-3-methyl-1-oxobutan-2-yl)-
+        1-(cyclohexylmethyl)-1
+        H                       -indazol-3-
+        carboxamid
+
+
+*    *   -
+
+    *   AB-FUBINACA
+
+    *   N                       -(1-Amino-3-methyl-1-oxobutan-
+        2-yl)-1-[(4-fluorphenyl)methyl]-1
+        H                       -
+        indazol-3-carboxamid
+
+
+*    *   -
+
+    *   AB-PINACA
+
+    *   N                       -(1-Amino-3-methyl-1-oxobutan-
+        2-yl)-1-pentyl-1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
+    *   Acetylfentanyl
+        (Desmethylfentanyl)
+
+    *   N                       -Phenyl-
+        N                       -[1-(2-phenylethyl)
+        piperidin-4-yl]acetamid
+
+
+*    *   -
+
+    *   Acryloylfentanyl
+        (Acrylfentanyl, ACF)
+
+    *   N                       -Phenyl-
+        N                       -[1-(2-phenylethyl)
+        piperidin-4-yl]prop-3-enamid
 
 
 *    *   -
@@ -3518,20 +3751,137 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   ADB-CHMINACA
+        (MAB-CHMINACA)
+
+    *   N                       -(1-Amino-3,3-dimethyl-1-
+        oxobutan-2-yl)-1-(cyclohexylmethyl)-1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
+    *   ADB-FUBINACA
+
+    *   N                       -(1-Amino-3,3-dimethyl-1-
+        oxobutan-2-yl)-1-[(4-fluorphenyl)
+        methyl]-1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
+    *   AH-7921
+        (Doxylam)
+
+    *   3,4-Dichlor-
+        N                       -{[1-(dimethylamino)
+        cyclohexyl]methyl}benzamid
+
+
+*    *   -
+
+    *   AKB-48 (APINACA)
+
+    *   N                       -(Adamantan-1-yl)-1-pentyl-1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
+    *   AKB-48F
+
+    *   N                       -(Adamantan-1-yl)-1-(5-fluorpentyl)-1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
+    *   Alpha-PVT
+        (*                       -PVT, alpha-
+        Pyrrolidinopentiothiophenon)
+
+    *   2-(Pyrrolidin-1-yl)-1-
+        (thiophen-2-yl)pentan-1-on
+
+
+*    *   -
+
     *   AM-694
 
     *   [1-(5-Fluorpentyl)-1
         H                       -indol-3-yl](2-iodphenyl)methanon
 
 
-*    *   Amfetaminil
+*    *   -
+
+    *   AM-1220
+
+    *   {1-[(1-Methylpiperidin-2-yl)methyl]-1
+        H                       -indol-3-yl}(naphthalin-1-yl)methanon
+
+
+*    *   -
+
+    *   AM-1220-Azepan
+
+    *   [1-(1-Methylazepan-3-yl)-1
+        H                       -indol-3-yl](naphthalin-1-yl)methanon
+
+
+*    *   -
+
+    *   AM-2201
+
+    *   [1-(5-Fluorpentyl)-1
+        H                       -indol-3-yl] (naphthalin-1-yl)methanon
+
+
+*    *   -
+
+    *   AM-2232
+
+    *   5-[3-(Naphthalin-1-carbonyl)-1
+        H                       -indol-1-yl]pentannitril
+
+
+*    *   -
+
+    *   AM-2233
+
+    *   (2-Iodphenyl){1-[(1-methylpiperidin-2-yl)methyl]-1
+        H                       -indol-3-yl}methanon
+
+
+*    *   -
+
+    *   AMB-CHMICA
+        (MMB-CHMICA)
+
+    *   Methyl{2-[1-(cyclohexylmethyl)-
+        1
+        H                       -indol-3-carboxamido]-3-
+        methylbutanoat}
+
+
+*    *   -
+
+    *   AMB-FUBINACA
+        (FUB-AMB)
+
+    *   Methyl(2-{1-[(4-fluorphenyl)methyl]-1
+        H                       -indazol-3-carboxamid}-3-
+        methylbutanoat)
+
+
+*    *   **Amfetaminil**
 
     *   -
 
     *   (Phenyl)[(1-phenylpropan-2-yl)amino]acetonitril
 
 
-*    *   Amineptin
+*    *   **Amineptin**
 
     *   -
 
@@ -3539,11 +3889,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -dibenzo[a,d][7]annulen-5-ylamino)heptansäure
 
 
-*    *   Aminorex
+*    *   **Aminorex**
 
     *   -
 
     *   5-Phenyl-4,5-dihydro-1,3-oxazol-2-ylazan
+
+
+*    *   -
+
+    *   5-APB
+
+    *   1-(Benzofuran-5-yl)propan-2-amin
+
+
+*    *   -
+
+    *   6-APB
+
+    *   1-(Benzofuran-6-yl)propan-2-amin
+
+
+*    *   -
+
+    *   APICA
+        (SDB-001, 2NE1)
+
+    *   N                       -(Adamantan-1-yl)-1-pentyl-1
+        H                       -
+        indol-3-carboxamid
+
+
+*    *   -
+
+    *   BB-22
+        (QUCHIC)
+
+    *   Chinolin-8-yl[1-(cyclohexylmethyl)-1
+        H                       -indol-3-carboxylat]
 
 
 *    *   -
@@ -3553,7 +3936,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-Benzylpiperazin
 
 
-*    *   Butalbital
+*    *   -
+
+    *   Buphedron
+
+    *   2-(Methylamino)-1-phenylbutan-1-on
+
+
+*    *   **Butalbital**
 
     *   -
 
@@ -3562,7 +3952,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Butobarbital
+    *   **Butobarbital**
 
     *   5-Butyl-5-ethylpyrimidin-2,4,6(1
         H                       ,3
@@ -3580,18 +3970,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   **Cannabis**
-        (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis
-        gehörenden Pflanzen)
+    *   Butyrfentanyl
+        (Butyrylfentanyl)
 
-    *   -
-
-
-*    *   - sofern sie zur Herstellung von Zubereitungen zu medizinischen
-        Zwecken bestimmt sind -
+    *   N                       -Phenyl-
+        N                       -[1-(2-phenylethyl)
+        piperidin-4-yl]butanamid
 
 
-*    *   Cetobemidon
+*    *   **Cetobemidon**
 
     *   Ketobemidon
 
@@ -3607,7 +3994,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   d-Cocain
+    *   5Cl-AKB-48
+        (5C-AKB-48, AKB-48Cl,
+        5CI-APINACA, 5C-APINACA)
+
+    *   N                       -(Adamantan-1-yl)-1-(5-
+        chlorpentyl)-1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
+    *   5Cl-JWH-018
+        (JWH-018 N-(5-Chlorpentyl)-
+        Analogon)
+
+    *   [1-(5-Chlorpentyl)-1
+        H                       -indol-3-yl]
+        (naphthalin-1-yl)methanon
+
+
+*    *   -
+
+    *   **d-Cocain**
 
     *   Methyl(3ß-(benzoyloxy)tropan-2alpha-carboxylat)
 
@@ -3656,7 +4065,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         SR                       )-3-hydroxycyclohexyl]-phenol
 
 
-*    *   Cyclobarbital
+*    *   **Cyclobarbital**
 
     *   -
 
@@ -3668,13 +4077,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Dextromethadon
+    *   Desoxypipradrol
+        (2-DPMP)
+
+    *   2-(Diphenylmethyl)piperidin
+
+
+*    *   -
+
+    *   **Dextromethadon**
 
     *   (
         S                       )-6-Dimethylamino-4,4-diphenylheptan-3-on
 
 
-*    *   Dextromoramid
+*    *   **Dextromoramid**
 
     *   -
 
@@ -3683,7 +4100,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
 
 
-*    *   Dextropropoxyphen
+*    *   **Dextropropoxyphen**
 
     *   -
 
@@ -3695,7 +4112,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Diamorphin
+    *   **Diamorphin**
 
     *   [(5
         R                       ,6
@@ -3711,7 +4128,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Difenoxin
+*    *   -
+
+    *   Diclazepam
+        (2'-Chlordiazepam)
+
+    *   7-Chlor-5-(2-chlorphenyl)-1-methyl-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
+
+
+*    *   **Difenoxin**
 
     *   -
 
@@ -3730,7 +4156,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Dihydromorphin
+    *   **Dihydromorphin**
 
     *   4,5α-Epoxy-17-methylmorphinan-3,6α-diol
 
@@ -3742,7 +4168,30 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4,5α-Epoxy-3,6-dimethoxy-17-methylmorphin-6-en
 
 
-*    *   Diphenoxylat
+*    *   -
+
+    *   Dimethocain
+        (DMC, Larocain)
+
+    *   (3-Diethylamino-2,2-dimethylpropyl)-4-aminobenzoat
+
+
+*    *   -
+
+    *   2,5-Dimethoxy-4-iodamfetamin
+        (DOI)
+
+    *   1-(4-Iod-2,5-dimethoxyphenyl)propan-2-amin
+
+
+*    *   -
+
+    *   3,4-Dimethylmethcathinon (3,4-DMMC)
+
+    *   1-(3,4-Dimethylphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   **Diphenoxylat**
 
     *   -
 
@@ -3761,15 +4210,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Ecgonin
+    *   4,4'-DMAR
+        (para-Methyl-4-methylaminorex)
+
+    *   4-Methyl-5-(4-methylphenyl)-4,5-
+        dihydro-1,3-oxazol-2-amin
+
+
+*    *   -
+
+    *   EAM-2201
+        (5-Fluor-JWH-210)
+
+    *   (4-Ethylnaphthalin-1-yl)[1-(5-fluorpentyl)-1
+        H                       -indol-3-yl]methanon
+
+
+*    *   -
+
+    *   **Ecgonin**
 
     *   3ß-Hydroxytropan-2ß-carbonsäure
 
 
 *    *   -
 
-    *   Erythroxylum coca (Pflanzen und Pflanzenteile der zur Art Erythroxylum
-        coca - einschließlich der Varietäten bolivianum, spruceanum und
+    *   **Erythroxylum coca**
+        (Pflanzen und Pflanzenteile der zur Art Erythroxylum coca -
+        einschließlich der Varietäten bolivianum, spruceanum und
         novogranatense - gehörenden Pflanzen)
 
     *   -
@@ -3784,14 +4252,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         phenylpropan-1-on
 
 
-*    *   Ethchlorvynol
+*    *   **Ethchlorvynol**
 
     *   -
 
     *   1-Chlor-3-ethylpent-1-en-4-in-3-ol
 
 
-*    *   Ethinamat
+*    *   **Ethinamat**
 
     *   -
 
@@ -3800,7 +4268,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   3-O-Ethylmorphin (Ethylmorphin)
+    *   **3-O-Ethylmorphin**
+        (Ethylmorphin)
 
     *   4,5α-Epoxy-3-ethoxy-17-methylmorphin-7-en-6α-ol
 
@@ -3814,14 +4283,70 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Etilamfetamin
+*    *   -
+
+    *   Ethylphenidat
+
+    *   Ethyl[2-(phenyl)-2-(piperidin-2-yl) acetat]
+
+
+*    *   **Etilamfetamin**
 
     *   N-Ethylamphetamin
 
     *   (Ethyl)(1-phenylpropan-2-yl)azan
 
 
-*    *   Fencamfamin
+*    *   -
+
+    *   5F-ABICA
+        (5F-AMBICA, 5-Fluor-ABICA, 5-Fluor-AMBICA)
+
+    *   N                       -(1-Amino-3-methyl-1-oxobutan-2-yl)-
+        1-(5-fluorpentyl)-1
+        H                       -indol-3-carboxamid
+
+
+*    *   -
+
+    *   5F-AB-PINACA
+        (5-Fluor-AB-PINACA)
+
+    *   N                       -(1-Amino-3-methyl-1-oxobutan-2-yl)-
+        1-(5-fluorpentyl)-1
+        H                       -indazol-3-
+        carboxamid
+
+
+*    *   -
+
+    *   5F-ADB
+        (5F-MDMB-PINACA)
+
+    *   Methyl{2-[1-(5-fluorpentyl)-1
+        H                       -
+        indazol-3-carboxamid]-3,3-dimethylbutanoat}
+
+
+*    *   -
+
+    *   5F-AMB
+        (5-Fluor-AMB)
+
+    *   Methyl{2-[1-(5-fluorpentyl)-1
+        H                       -indazol-
+        3-carboxamido]-3-methylbutanoat}
+
+
+*    *   -
+
+    *   FDU-PB-22
+
+    *   Naphthalin-1-yl{1[(4-fluorphenyl)methyl]-1
+        H                       -indol-3-carboxylat}
+
+
+*    *   **Fencamfamin**
 
     *   -
 
@@ -3837,9 +4362,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Flubromazepam
+
+    *   7-Brom-5-(2-fluorphenyl)-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
+
+
+*    *   -
+
     *   4-Fluormethamfetamin (4-FMA)
 
     *   1-(4-Fluorphenyl)-N-methylpropan-2-amin
+
+
+*    *   -
+
+    *   3-Fluormethcathinon (3-FMC)
+
+    *   1-(3-Fluorphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   -
+
+    *   5-Fluorpentyl-JWH-122 (MAM-2201)
+
+    *   [1-(5-Fluorpentyl)-1
+        H                       -indol-3-yl] (4-methylnaphthalin-1-yl)methanon
 
 
 *    *   -
@@ -3856,7 +4404,61 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3-(4-Fluorbenzoyloxy)tropan
 
 
-*    *   Glutethimid
+*    *   -
+
+    *   5-Fluor-UR-144 (XLR-11)
+
+    *   [1-(5-Fluorpentyl)-1
+        H                       -indol-3-yl] (2,2,3,3-tetramethylcyclopropyl)
+        methanon
+
+
+*    *   -
+
+    *   5F-MN-18
+        (AM-2201 Indazolcarboxamid-Analogon)
+
+    *   1-(5-Fluorpentyl)-
+        N                       -1-(naphthalin-1-yl)-1
+        H                       -indazol-3-carboxamid
+
+
+*    *   -
+
+    *   5F-PB-22
+        (5F-QUPIC)
+
+    *   Chinolin-8-yl[1-(5-fluorpentyl)indol-3-carboxylat]
+
+
+*    *   -
+
+    *   5F-SDB-006
+
+    *   N                       -Benzyl-1-(5-fluorpentyl)-1
+        H
+        -indol-3-carboxamid
+
+
+*    *   -
+
+    *   FUB-PB-22
+
+    *   Chinolin-8-yl{1-[(4-fluorphenyl)methyl]-1
+        H                       -indol-3-carboxylat}
+
+
+*    *   -
+
+    *   Furanylfentanyl
+        (FU-F)
+
+    *   N                       -Phenyl-
+        N                       -[1-(2-phenylethyl)
+        piperidin-4-yl]furan-2-carboxamid
+
+
+*    *   **Glutethimid**
 
     *   -
 
@@ -3865,12 +4467,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Isocodein
+    *   **Isocodein**
 
     *   4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6ß-ol
 
 
-*    *   Isomethadon
+*    *   **Isomethadon**
 
     *   -
 
@@ -3978,7 +4580,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -indol-3-yl)ethanon
 
 
-*    *   Levamfetamin
+*    *   -
+
+    *   JWH-307
+
+    *   [5-(2-Fluorphenyl)-1-pentyl-1
+        H                       -pyrrol-3-yl](naphthalin-1-yl) methanon
+
+
+*    *   **Levamfetamin**
 
     *   Levamphetamin
 
@@ -3994,7 +4604,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-(Methyl)(1-phenylpropan-2-yl)azan
 
 
-*    *   Levomoramid
+*    *   **Levomoramid**
 
     *   -
 
@@ -4003,7 +4613,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
 
 
-*    *   Levorphanol
+*    *   **Levorphanol**
 
     *   -
 
@@ -4013,7 +4623,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-17-Methylmorphinan-3-ol
 
 
-*    *   Mazindol
+*    *   **Mazindol**
 
     *   -
 
@@ -4021,21 +4631,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -imidazol[2,1-a]isoindol-5-ol
 
 
-*    *   Mefenorex
+*    *   -
+
+    *   MDMB-CHMCZCA
+        (EGMB-CHMINACA)
+
+    *   Methyl{2-[9-(cyclohexylmethyl)-
+        9
+        H                       -carbazol-3-carboxamido]-3,3-
+        dimethylbutanoat}
+
+
+*    *   -
+
+    *   MDMB-CHMICA
+
+    *   Methyl{2-[1-(cyclohexylmethyl)-1
+        H                       -indol-3-carboxamido]-3,3-dimethylbutanoat}
+
+
+*    *   **Mefenorex**
 
     *   -
 
     *   3-Chlor-N-(1-phenylpropan-2-yl)propan-1-amin
 
 
-*    *   Meprobamat
+*    *   **Meprobamat**
 
     *   -
 
     *   (2-Methyl-2-propylpropan-1,3-diyl)dicarbamat
 
 
-*    *   Mesocarb
+*    *   **Mesocarb**
 
     *   -
 
@@ -4043,7 +4672,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         zanid
 
 
-*    *   Metamfetamin
+*    *   **Metamfetamin**
 
     *   Methamphetamin
 
@@ -4053,7 +4682,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   (
-        RS                       )-Metamfetamin
+        RS **)-Metamfetamin**
 
     *   Metamfetaminracemat
 
@@ -4068,7 +4697,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4-Dimethylamino-2,2-diphenylpentannitril
 
 
-*    *   Methaqualon
+*    *   **Methaqualon**
 
     *   -
 
@@ -4088,6 +4717,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   p-Methoxyethylamfetamin (PMEA)
 
     *   N-Ethyl-1-(4-methoxyphenyl)propan-2-amin
+
+
+*    *   -
+
+    *   3-Methoxyphencyclidin
+        (3-MeO-PCP)
+
+    *   1-[1-(3-Methoxyphenyl)cyclohexyl] piperidin
 
 
 *    *   -
@@ -4126,8 +4763,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   (
-        RS                       ;
-        SR                       )-Methylphenidat
+        RS                         ;
+        SR **)-Methylphenidat**
 
     *   -
 
@@ -4136,7 +4773,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         SR                       )(phenyl)(2-piperidyl)acetat]
 
 
-*    *   Methyprylon
+*    *   **Methyprylon**
 
     *   -
 
@@ -4145,9 +4782,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Mohnstrohkonzentrat (das bei der Verarbeitung von Pflanzen und
-        Pflanzenteilen der Art Papaver somniferum zur Konzentrierung der
-        Alkaloide anfallende Material)
+    *   MMB-2201
+        (5F-AMB-PICA, 5F-MMB-PICA)
+
+    *   Methyl{2-[1-(5-fluorpentyl)-1
+        H                       -indol-
+        3-carboxamido]-3-methylbutanoat}
+
+
+*    *   -
+
+    *   **Mohnstrohkonzentrat**
+        (das bei der Verarbeitung von Pflanzen und Pflanzenteilen der Art
+        Papaver somniferum zur Konzentrierung der Alkaloide anfallende
+        Material)
 
     *   -
 
@@ -4161,19 +4809,38 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   MT-45
+
+    *   1-Cyclohexyl-4-(1,2-diphenylethyl)
+        piperazin
+
+
+*    *   -
+
     *   Naphyron (Naphthylpyrovaleron)
 
     *   1-(Naphthalin-2-yl)-2-(pyrrolidin-1-yl)pentan-1-on
 
 
-*    *   Nicocodin
+*    *   -
+
+    *   NE-CHMIMO
+        (JWH-018 N-(Cyclohexylmethyl)-
+        Analogon)
+
+    *   [1-(Cyclohexylmethyl)-1
+        H                       -indol-3-yl]
+        (naphthalin-1-yl)methanon
+
+
+*    *   **Nicocodin**
 
     *   6-Nicotinoylcodein
 
     *   (4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-yl)nicotinat
 
 
-*    *   Nicodicodin
+*    *   **Nicodicodin**
 
     *   6-Nicotinoyldihydrocodein
 
@@ -4187,7 +4854,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4,5α-Epoxy-6-methoxy-17-methylmorphina-6,8-dien-3-ol
 
 
-*    *   Oxymorphon
+*    *   -
+
+    *   NM-2201
+        (CBL-2201)
+
+    *   Naphthalin-1-yl[1-(5-fluorpentyl)-1
+        H                       -indol-3-carboxylat]
+
+
+*    *   **Oxymorphon**
 
     *   14-Hydroxydihydromorphinon
 
@@ -4196,8 +4872,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Papaver bracteatum (Pflanzen und Pflanzenteile, ausgenommen die Samen,
-        der zur Art Papaver bracteatum gehörenden Pflanzen)
+    *   **Papaver bracteatum**
+        (Pflanzen und Pflanzenteile, ausgenommen die Samen, der zur Art
+        Papaver bracteatum gehörenden Pflanzen)
 
     *   -
 
@@ -4207,6 +4884,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+
+
+*    *   -
+
+    *   PB-22
+        (QUPIC)
+
+    *   Chinolin-8-yl(1-pentylindol-3-carboxylat)
+
+
+*    *   -
+
+    *   Pentedron
+
+    *   2-(Methylamino)-1-phenylpentan-1-on
 
 
 *    *   -
@@ -4230,7 +4922,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-Methyl-4-phenylpiperidin-4-carbonsäure
 
 
-*    *   Phendimetrazin
+*    *   **Phendimetrazin**
 
     *   -
 
@@ -4239,14 +4931,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         S                       )-3,4-Dimethyl-2-phenylmorpholin
 
 
-*    *   Phenmetrazin
+*    *   **Phenmetrazin**
 
     *   -
 
     *   3-Methyl-2-phenylmorpholin
 
 
-*    *   Pholcodin
+*    *   **Pholcodin**
 
     *   Morpholinylethylmorphin
 
@@ -4263,7 +4955,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Propiram
+*    *   **Propiram**
 
     *   -
 
@@ -4271,14 +4963,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -(2-pyridyl)propanamid
 
 
-*    *   Pyrovaleron
+*    *   **Pyrovaleron**
 
     *   -
 
     *   2-(Pyrrolidin-1-yl)-1-(ρ-tolyl)pentan-1-on
 
 
-*    *   Racemoramid
+*    *   -
+
+    *   α-Pyrrolidinovalerophenon (α-PVP)
+
+    *   1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-on
+
+
+*    *   **Racemoramid**
 
     *   -
 
@@ -4287,7 +4986,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         )-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on
 
 
-*    *   Racemorphan
+*    *   **Racemorphan**
 
     *   -
 
@@ -4305,7 +5004,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -indol-3-yl)methanon
 
 
-*    *   Secbutabarbital
+*    *   -
+
+    *   RCS-4 ortho-Isomer (o-RCS-4)
+
+    *   (2-Methoxyphenyl)(1-pentyl-1
+        H                       -indol-3-yl)methanon
+
+
+*    *   -
+
+    *   SDB-006
+
+    *   N                       -Benzyl-1-pentyl-1
+        H                       -indol-3-
+        carboxamid
+
+
+*    *   **Secbutabarbital**
 
     *   Butabarbital
 
@@ -4317,7 +5033,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Δ9-Tetrahydrocannabinol (Δ9-THC)
+    *   STS-135
+        (5F-2NE1)
+
+    *   N                       -(Adamantan-1-yl)-1-(5-fluorpentyl)-1
+        H                       -indol-3-carboxamid
+
+
+*    *   -
+
+    *   **Δ9-Tetrahydrocannabinol**
+        (Δ9-THC)
 
     *   6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6
         H                       -benzo[c]chromen-1-ol
@@ -4325,12 +5051,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Tetrahydrothebain
+    *   **Tetrahydrothebain**
 
     *   4,5α-Epoxy-3,6-dimethoxy-17-methylmorphinan
 
 
-*    *   Thebacon
+*    *   **Thebacon**
 
     *   Acetyldihydrocodeinon
 
@@ -4339,12 +5065,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Thebain
+    *   **Thebain**
 
     *   4,5α-Epoxy-3,6-dimethoxy-17-methylmorphina-6,8-dien
 
 
-*    *   cis-Tilidin
+*    *   -
+
+    *   THJ-018
+        (JWH-018 Indazol-Analogon)
+
+    *   (Naphthalin-1-yl)(1-pentyl-1
+        H                       -indazol-
+        3-yl)methanon
+
+
+*    *   -
+
+    *   THJ-2201
+        (AM-2201 Indazol-Analogon)
+
+    *   [1-(5-Fluorpentyl)-1
+        H                       -indazol-3-yl] (naphthalin-1-yl)methanon
+
+
+*    *   **cis-Tilidin**
 
     *   -
 
@@ -4361,7 +5106,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1-[3-(Trifluormethyl)phenyl]piperazin
 
 
-*    *   Vinylbital
+*    *   -
+
+    *   U-47700
+
+    *   3,4-Dichlor-
+        N                       -[2-(dimethylamino)
+        cyclohexyl]-
+        N                       -methylbenzamid
+
+
+*    *   -
+
+    *   UR-144
+
+    *   (1-Pentyl-1
+        H
+        -indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanon
+
+
+*    *   **Vinylbital**
 
     *   -
 
@@ -4371,7 +5135,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       )-trion
 
 
-*    *   Zipeprol
+*    *   **Zipeprol**
 
     *   -
 
@@ -4414,22 +5178,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 1 Abs. 1)
 
-### Anlage III (zu § 1 Abs. 1) verkehrsfähige und verschreibungsfähige Betäubungsmittel
+### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel
 
 (Fundstelle: BGBl. I 2001, 1189 - 1195;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   Spalte 1
+*    *   **Spalte 1**
 
     *   enthält die International Nonproprietary Names (INN) der
         Weltgesundheitsorganisation. Bei der Bezeichnung eines Stoffes hat der
         INN Vorrang vor allen anderen Bezeichnungen.
 
 
-*    *   Spalte 2
+*    *   **Spalte 2**
 
     *   enthält andere nicht geschützte Stoffbezeichnungen (Kurzbezeichnungen
         oder Trivialnamen). Wenn für einen Stoff kein INN existiert, kann zu
@@ -4439,7 +5204,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Verbindung mit der Bezeichnung in Spalte 3 zu verwenden.
 
 
-*    *   Spalte 3
+*    *   **Spalte 3**
 
     *   enthält die chemische Stoffbezeichnung nach der Nomenklatur der
         International Union of Pure and Applied Chemistry (IUPAC). Wenn in
@@ -4456,7 +5221,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   chemische Namen (IUPAC)
 
 
-*    *   Alfentanil
+*    *   **Alfentanil**
 
     *   -
 
@@ -4466,14 +5231,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -phenylpropanamid
 
 
-*    *   Allorbarbital
+*    *   **Allobarbital**
 
     *   -
 
     *   5,5-Diallylbarbitursäure
 
 
-*    *   Alprazolam
+*    *   **Alprazolam**
 
     *   -
 
@@ -4490,7 +5255,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Amfepramon
+*    *   **Amfepramon**
 
     *   Diethylpropion
 
@@ -4508,7 +5273,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Amfetamin
+*    *   **Amfetamin**
 
     *   Amphetamin
 
@@ -4516,14 +5281,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         RS                       )-1-Phenylpropan-2-ylazan
 
 
-*    *   Amobarbital
+*    *   **Amobarbital**
 
     *   -
 
     *   5-Ethyl-5-isopentylbarbitursäure
 
 
-*    *   Barbital
+*    *   **Barbital**
 
     *   -
 
@@ -4551,7 +5316,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Bromazepam
+*    *   **Bromazepam**
 
     *   -
 
@@ -4568,7 +5333,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Brotizolam
+*    *   **Brotizolam**
 
     *   -
 
@@ -4586,7 +5351,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Buprenorphin
+*    *   **Buprenorphin**
 
     *   -
 
@@ -4599,7 +5364,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         6,14-ethanomorphinan-3-ol
 
 
-*    *   Camazepam
+*    *   **Camazepam**
 
     *   -
 
@@ -4609,18 +5374,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   **Cannabis**
-        (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis
-        gehörenden
-        Pflanzen)
+    *   Cannabis
+        (Marihuana, Pflanzen und Pflan-
+        zenteile der zur Gattung Cannabis
+        gehörenden Pflanzen)
 
     *   -
 
 
-*    *   - nur in Zubereitungen, die als Fertigarzneimittel zugelassen sind -
+*    *   - nur aus einem Anbau, der zu medizinischen Zwecken unter staatlicher
+        Kontrolle gemäß den Artikeln 23 und 28 Absatz 1 des Einheits-
+        Übereinkommens von 1961 über Suchtstoffe erfolgt, sowie in
+        Zubereitungen, die als Fertigarzneimittel zugelassen sind -
 
 
-*    *   Cathin
+*    *   **Cathin**
 
     *   (+)-Norpseudoephedrin (D-Norpseudoephedrin)
 
@@ -4639,7 +5407,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Chlordiazepoxid
+*    *   **Chlordiazepoxid**
 
     *   -
 
@@ -4656,7 +5424,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Clobazam
+*    *   **Clobazam**
 
     *   -
 
@@ -4673,7 +5441,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Clonazepam
+*    *   **Clonazepam**
 
     *   -
 
@@ -4691,7 +5459,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Clorazepat
+*    *   **Clorazepat**
 
     *   -
 
@@ -4710,7 +5478,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Clotiazepam
+*    *   **Clotiazepam**
 
     *   -
 
@@ -4727,7 +5495,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Cloxazolam
+*    *   **Cloxazolam**
 
     *   -
 
@@ -4738,14 +5506,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Cocain (Benzoylecgoninmethylester)
+    *   **Cocain**                        (Benzoylecgoninmethylester)
 
     *   Methyl[3ß-(benzoyloxy)tropan-2ß-carboxylat]
 
 
 *    *   -
 
-    *   Codein (3-Methylmorphin)
+    *   **Codein**                        (3-Methylmorphin)
 
     *   4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-ol
 
@@ -4762,7 +5530,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Delorazepam
+*    *   **Delorazepam**
 
     *   -
 
@@ -4770,7 +5538,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -1,4-benzodiazepin-2-on
 
 
-*    *   Dexamfetamin
+*    *   **Dexamfetamin**
 
     *   Dexamphetamin
 
@@ -4788,7 +5556,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Diamorphin
+    *   **Diamorphin**
 
     *   [(5
         R                       ,6
@@ -4804,7 +5572,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Diazepam
+*    *   **Diazepam**
 
     *   -
 
@@ -4822,7 +5590,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Dihydrocodein
+*    *   **Dihydrocodein**
 
     *   -
 
@@ -4842,7 +5610,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Dronabinol
+*    *   **Dronabinol**
 
     *   -
 
@@ -4853,7 +5621,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -benzo[c]chromen-1-ol
 
 
-*    *   Estazolam
+*    *   **Estazolam**
 
     *   -
 
@@ -4869,7 +5637,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Ethylloflazepat
+*    *   **Ethylloflazepat**
 
     *   -
 
@@ -4877,7 +5645,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -1,4-benzodiazepin-3-carboxylat]
 
 
-*    *   Etorphin
+*    *   **Etizolam**
+
+    *   -
+
+    *   4-(2-Chlorphenyl)-2-ethyl-9-methyl-6
+        H                       -thieno[3,2-
+        f                       ][1,2,4]triazolo[4,3-
+        a                       ][1,4]diazepin
+
+
+*    *   **Etorphin**
 
     *   -
 
@@ -4889,7 +5667,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         hoxy-17-methyl-6,14-ethenomorphinan-3-ol
 
 
-*    *   Fenetyllin
+*    *   **Fenetyllin**
 
     *   -
 
@@ -4898,7 +5676,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       )-dion
 
 
-*    *   Fenproporex
+*    *   **Fenproporex**
 
     *   -
 
@@ -4915,7 +5693,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Fentanyl
+*    *   **Fentanyl**
 
     *   -
 
@@ -4923,7 +5701,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -phenylpropanamid
 
 
-*    *   Fludiazepam
+*    *   **Fludiazepam**
 
     *   -
 
@@ -4931,7 +5709,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -1,4-benzodiazepin-2-on
 
 
-*    *   Flunitrazepam
+*    *   **Flunitrazepam**
 
     *   -
 
@@ -4939,7 +5717,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -1,4-benzodiazepin-2-on
 
 
-*    *   Flurazepam
+*    *   **Flurazepam**
 
     *   -
 
@@ -4956,7 +5734,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Halazepam
+*    *   **Halazepam**
 
     *   -
 
@@ -4973,7 +5751,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Haloxazolam
+*    *   **Haloxazolam**
 
     *   -
 
@@ -4982,14 +5760,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       )-on
 
 
-*    *   Hydrocodon
+*    *   **Hydrocodon**
 
     *   Dihydrocodeinon
 
     *   4,5α-Epoxy-3-methoxy-17-methylmorphinan-6-on
 
 
-*    *   Hydromorphon
+*    *   **Hydromorphon**
 
     *   Dihydromorphinon
 
@@ -5013,7 +5791,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Ketazolam
+*    *   **Ketazolam**
 
     *   -
 
@@ -5031,7 +5809,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Levacetylmethadol
+*    *   **Levacetylmethadol**
 
     *   Levomethadylacetat (LAAM)
 
@@ -5041,7 +5819,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         diphenylheptan-3-yl]acetat
 
 
-*    *   Levomethadon
+*    *   **Levomethadon**
 
     *   -
 
@@ -5049,7 +5827,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-6-Dimethylamino-4,4-diphenylheptan-3-on
 
 
-*    *   Loprazolam
+*    *   **Lisdexamfetamin**
+
+    *   -
+
+    *   (2
+        S                       )-2,6-Diamino-
+        N                       -[(2
+        S                       )-1-phenylpropan-2-yl]hexanamid
+
+
+*    *   **Loprazolam**
 
     *   -
 
@@ -5067,7 +5855,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Lorazepam
+*    *   **Lorazepam**
 
     *   -
 
@@ -5086,7 +5874,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Lormetazepam
+*    *   **Lormetazepam**
 
     *   -
 
@@ -5103,7 +5891,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Medazepam
+*    *   **Medazepam**
 
     *   -
 
@@ -5120,7 +5908,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Methadon
+*    *   **Methadon**
 
     *   -
 
@@ -5128,7 +5916,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         RS                       )-6-Dimethylamino-4,4-diphenylheptan-3-on
 
 
-*    *   Methylphenidat
+*    *   **Methylphenidat**
 
     *   -
 
@@ -5137,7 +5925,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         RS                       )(phenyl)(2-piperidyl)acetat]
 
 
-*    *   Methylphenobarbital
+*    *   **Methylphenobarbital**
 
     *   Mephobarbital
 
@@ -5154,7 +5942,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Midazolam
+*    *   **Midazolam**
 
     *   -
 
@@ -5173,14 +5961,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Morphin
+    *   **Morphin**
 
     *   (5
         R                       ,6
         S                       )-4,5-Epoxy-17-methyl-morphin-7-en-3,6-diol
 
 
-*    *   Nabilon
+*    *   **Nabilon**
 
     *   -
 
@@ -5192,7 +5980,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -benzo[c]chromen-9-on
 
 
-*    *   Nimetazepam
+*    *   **Nimetazepam**
 
     *   -
 
@@ -5200,7 +5988,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -1,4-benzodiazepin-2-on
 
 
-*    *   Nitrazepam
+*    *   **Nitrazepam**
 
     *   -
 
@@ -5218,7 +6006,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Nordazepam
+*    *   **Nordazepam**
 
     *   -
 
@@ -5236,7 +6024,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Normethadon
+*    *   **Normethadon**
 
     *   -
 
@@ -5245,7 +6033,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Opium (der geronnene Saft der zur Art Papaver somniferum gehörenden
+    *   **Opium**
+        (der geronnene Saft der zur Art Papaver somniferum gehörenden
         Pflanzen)
 
     *   -
@@ -5260,7 +6049,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Oxazepam
+*    *   **Oxazepam**
 
     *   -
 
@@ -5276,7 +6065,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Oxazolam
+*    *   **Oxazolam**
 
     *   -
 
@@ -5295,7 +6084,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Oxycodon
+*    *   **Oxycodon**
 
     *   14-Hydroxydihydrocodeinon
 
@@ -5304,9 +6093,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Papaver somniferum (Pflanzen und Pflanzenteile, ausgenommen die Samen,
-        der zur Art Papaver somniferum (einschließlich der Unterart setigerum)
-        gehörenden Pflanzen)
+    *   **Papaver somniferum**
+        (Pflanzen und Pflanzenteile, ausgenommen die Samen, der zur Art
+        Papaver somniferum (einschließlich der Unterart setigerum) gehörenden
+        Pflanzen)
 
     *   -
 
@@ -5336,7 +6126,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Pemolin
+*    *   **Pemolin**
 
     *   -
 
@@ -5352,7 +6142,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Pentazocin
+*    *   **Pentazocin**
 
     *   -
 
@@ -5363,7 +6153,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol
 
 
-*    *   Pentobarbital
+*    *   **Pentobarbital**
 
     *   -
 
@@ -5371,14 +6161,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         RS                       )-5-Ethyl-5-(pentan-2-yl)barbitursäure
 
 
-*    *   Pethidin
+*    *   **Pethidin**
 
     *   -
 
     *   Ethyl(1-methyl-4-phenyl-piperidin-4-carboxylat)
 
 
-*    *   Phenobarbital
+*    *   -
+
+    *   Phenazepam
+
+    *   7-Brom-5-(2-chlorphenyl)-1,3-dihydro-2
+        H                       -1,4-benzodiazepin-2-on
+
+
+*    *   **Phenobarbital**
 
     *   -
 
@@ -5394,7 +6192,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Phentermin
+*    *   **Phentermin**
 
     *   -
 
@@ -5410,7 +6208,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Pinazepam
+*    *   **Pinazepam**
 
     *   -
 
@@ -5418,14 +6216,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       -1,4-benzodiazepin-2-on
 
 
-*    *   Pipradrol
+*    *   **Pipradrol**
 
     *   -
 
     *   Diphenyl(2-piperidyl)methanol
 
 
-*    *   Piritramid
+*    *   **Piritramid**
 
     *   -
 
@@ -5448,7 +6246,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Remifentanil
+*    *   **Remifentanil**
 
     *   -
 
@@ -5456,14 +6254,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -phenylpropanamido)piperidino]propanoat}
 
 
-*    *   Secobarbital
+*    *   **Secobarbital**
 
     *   -
 
     *   5-Allyl-5-(pentan-2-yl)barbitursäure
 
 
-*    *   Sufentanil
+*    *   **Sufentanil**
 
     *   -
 
@@ -5472,7 +6270,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         N                       -phenylpropanamid
 
 
-*    *   Tapentadol
+*    *   **Tapentadol**
 
     *   -
 
@@ -5481,7 +6279,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         R                       )-1-Dimethylamino-2-methylpentan-3-yl]phenol
 
 
-*    *   Temazepam
+*    *   **Temazepam**
 
     *   -
 
@@ -5500,7 +6298,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Tetrazepam
+*    *   **Tetrazepam**
 
     *   -
 
@@ -5517,7 +6315,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Tilidin
+*    *   **Tilidin**
 
     *   trans-Tilidin
 
@@ -5537,7 +6335,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Triazolam
+*    *   **Triazolam**
 
     *   -
 
@@ -5554,7 +6352,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Zolpidem
+*    *   **Zolpidem**
 
     *   -
 
@@ -5580,27 +6378,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         -   die Zubereitungen der in dieser Anlage aufgeführten Stoffe, wenn sie
             nicht
 
+            a)  ohne am oder im menschlichen oder tierischen Körper angewendet zu
+                werden, ausschließlich diagnostischen der analytischen Zwecken dienen
+                und ihr Gehalt an einem oder mehreren Betäubungsmitteln, bei
+                Lyophilisaten und entsprechend zu verwendenden Stoffgemischen in der
+                gebrauchsfertigen Lösung, jeweils 0,01 vom Hundert nicht übersteigt
+                oder die Stoffe in den Zubereitungen isotopenmodifiziert oder
+
+
+            b)  besonders ausgenommen sind. Für ausgenommene Zubereitungen - außer
+                solchen mit Codein oder Dihydrocodein - gelten jedoch die
+                betäubungsmittelrechtlichen Vorschriften über die Einfuhr, Ausfuhr und
+                Durchfuhr. Nach Buchstabe b der Position Barbital ausgenommene
+                Zubereitungen können jedoch ohne Genehmigung nach § 11 des
+                Betäubungsmittelgesetzes ein-, aus- oder durchgeführt werden, wenn
+                nach den Umständen eine missbräuchliche Verwendung nicht zu befürchten
+                ist.
 
 
 
-
-*    *
-        a)  ohne am oder im menschlichen oder tierischen Körper angewendet zu
-            werden, ausschließlich diagnostischen der analytischen Zwecken dienen
-            und ihr Gehalt an einem oder mehreren Betäubungsmitteln, bei
-            Lyophilisaten und entsprechend zu verwendenden Stoffgemischen in der
-            gebrauchsfertigen Lösung, jeweils 0,01 vom Hundert nicht übersteigt
-            oder die Stoffe in den Zubereitungen isotopenmodifiziert oder
-
-
-        b)  besonders ausgenommen sind. Für ausgenommene Zubereitungen - außer
-            solchen mit Codein oder Dihydrocodein - gelten jedoch die
-            betäubungsmittelrechtlichen Vorschriften über die Einfuhr, Ausfuhr und
-            Durchfuhr. Nach Buchstabe b der Position Barbital ausgenommene
-            Zubereitungen können jedoch ohne Genehmigung nach § 11 des
-            Betäubungsmittelgesetzes ein-, aus- oder durchgeführt werden, wenn
-            nach den Umständen eine missbräuchliche Verwendung nicht zu befürchten
-            ist.
 
 
 

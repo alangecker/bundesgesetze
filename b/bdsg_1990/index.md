@@ -15,11 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2954, 2955
 
+G aufgeh. durch
+:   Art. 8 Abs. 1 Satz 2 G v. 30.6.2017 I 2097 mWv 25.5.2018
+
 Neugefasst durch
 :   Bek. v. 14.1.2003 I 66;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 14.8.2009 I 2814
+:   Art. 10 Abs. 2 G v. 31.10.2017 I 3618
+
+Ersetzt durch
+:   G 204-4 v. 30.6.2017 I 2097 (BDSG 2018)
 
 
 ## Erster Abschnitt - Allgemeine und gemeinsame Bestimmungen
@@ -465,8 +471,8 @@ ausreichende Garantien hinsichtlich des Schutzes des
 Persönlichkeitsrechts und der Ausübung der damit verbundenen Rechte
 vorweist; die Garantien können sich insbesondere aus Vertragsklauseln
 oder verbindlichen Unternehmensregelungen ergeben. Bei den Post- und
-Telekommunikationsunternehmen ist der Bundesbeauftragte für den
-Datenschutz und die Informationsfreiheit zuständig. Sofern die
+Telekommunikationsunternehmen ist die oder der Bundesbeauftragte für
+den Datenschutz und die Informationsfreiheit zuständig. Sofern die
 Übermittlung durch öffentliche Stellen erfolgen soll, nehmen diese die
 Prüfung nach Satz 1 vor.
 
@@ -480,7 +486,7 @@ Entscheidungen mit.
 Inbetriebnahme von nicht-öffentlichen verantwortlichen Stellen der
 zuständigen Aufsichtsbehörde und von öffentlichen verantwortlichen
 Stellen des Bundes sowie von den Post- und
-Telekommunikationsunternehmen dem Bundesbeauftragten für den
+Telekommunikationsunternehmen der oder dem Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit nach Maßgabe von § 4e zu
 melden.
 
@@ -538,8 +544,9 @@ mit dem Betroffenen erforderlich ist.
 Datenschutz. Dieser nimmt die Vorabkontrolle nach Empfang der
 Übersicht nach § 4g Abs. 2 Satz 1 vor. Er hat sich in Zweifelsfällen
 an die Aufsichtsbehörde oder bei den Post- und
-Telekommunikationsunternehmen an den Bundesbeauftragten für den
-Datenschutz und die Informationsfreiheit zu wenden.
+Telekommunikationsunternehmen an die Bundesbeauftragte oder den
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu
+wenden.
 
 
 ### § 4e Inhalt der Meldepflicht
@@ -738,9 +745,10 @@ genannten Stellen, die Behörden der Staatsanwaltschaft und der Polizei
 sowie öffentliche Stellen der Finanzverwaltung, soweit sie
 personenbezogene Daten in Erfüllung ihrer gesetzlichen Aufgaben im
 Anwendungsbereich der Abgabenordnung zur Überwachung und Prüfung
-speichern, können statt des Betroffenen den Bundesbeauftragten für den
-Datenschutz und die Informationsfreiheit unterrichten. In diesem Fall
-richtet sich das weitere Verfahren nach § 19 Abs. 6.
+speichern, können statt des Betroffenen die Bundesbeauftragte oder den
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+unterrichten. In diesem Fall richtet sich das weitere Verfahren nach §
+19 Abs. 6.
 
 (3) Personenbezogene Daten über die Ausübung eines Rechts des
 Betroffenen, das sich aus diesem Gesetz oder aus einer anderen
@@ -798,7 +806,20 @@ soweit sie
 
 
 erforderlich ist und keine Anhaltspunkte bestehen, dass schutzwürdige
-Interessen der Betroffenen überwiegen.
+Interessen der Betroffenen überwiegen. Bei der Videoüberwachung von
+
+1.  öffentlich zugänglichen großflächigen Anlagen, wie insbesondere
+    Sport-, Versammlungs- und Vergnügungsstätten, Einkaufszentren oder
+    Parkplätzen, oder
+
+
+2.  Fahrzeugen und öffentlich zugänglichen großflächigen Einrichtungen des
+    öffentlichen Schienen-, Schiffs- und Busverkehrs
+
+
+
+gilt der Schutz von Leben, Gesundheit oder Freiheit von dort
+aufhältigen Personen als ein besonders wichtiges Interesse.
 
 (2) Der Umstand der Beobachtung und die verantwortliche Stelle sind
 durch geeignete Maßnahmen erkennbar zu machen.
@@ -806,10 +827,11 @@ durch geeignete Maßnahmen erkennbar zu machen.
 (3) Die Verarbeitung oder Nutzung von nach Absatz 1 erhobenen Daten
 ist zulässig, wenn sie zum Erreichen des verfolgten Zwecks
 erforderlich ist und keine Anhaltspunkte bestehen, dass schutzwürdige
-Interessen der Betroffenen überwiegen. Für einen anderen Zweck dürfen
-sie nur verarbeitet oder genutzt werden, soweit dies zur Abwehr von
-Gefahren für die staatliche und öffentliche Sicherheit sowie zur
-Verfolgung von Straftaten erforderlich ist.
+Interessen der Betroffenen überwiegen. Absatz 1 Satz 2 gilt
+entsprechend. Für einen anderen Zweck dürfen sie nur verarbeitet oder
+genutzt werden, soweit dies zur Abwehr von Gefahren für die staatliche
+und öffentliche Sicherheit sowie zur Verfolgung von Straftaten
+erforderlich ist.
 
 (4) Werden durch Videoüberwachung erhobene Daten einer bestimmten
 Person zugeordnet, ist diese über eine Verarbeitung oder Nutzung
@@ -954,7 +976,7 @@ Im öffentlichen Bereich können die erforderlichen Festlegungen auch
 durch die Fachaufsichtsbehörden getroffen werden.
 
 (3) Über die Einrichtung von Abrufverfahren ist in Fällen, in denen
-die in § 12 Abs. 1 genannten Stellen beteiligt sind, der
+die in § 12 Abs. 1 genannten Stellen beteiligt sind, die oder der
 Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
 unter Mitteilung der Festlegungen nach Absatz 2 zu unterrichten. Die
 Einrichtung von Abrufverfahren, bei denen die in § 6 Abs. 2 und in §
@@ -1462,17 +1484,17 @@ zurücktreten muss.
 nicht, soweit durch die Mitteilung der tatsächlichen und rechtlichen
 Gründe, auf die die Entscheidung gestützt wird, der mit der
 Auskunftsverweigerung verfolgte Zweck gefährdet würde. In diesem Fall
-ist der Betroffene darauf hinzuweisen, dass er sich an den
-Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-wenden kann.
+ist der Betroffene darauf hinzuweisen, dass er sich an die
+Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und
+die Informationsfreiheit wenden kann.
 
 (6) Wird dem Betroffenen keine Auskunft erteilt, so ist sie auf sein
-Verlangen dem Bundesbeauftragten für den Datenschutz und die
+Verlangen der oder dem Bundesbeauftragten für den Datenschutz und die
 Informationsfreiheit zu erteilen, soweit nicht die jeweils zuständige
 oberste Bundesbehörde im Einzelfall feststellt, dass dadurch die
 Sicherheit des Bundes oder eines Landes gefährdet würde. Die
-Mitteilung des Bundesbeauftragten an den Betroffenen darf keine
-Rückschlüsse auf den Erkenntnisstand der verantwortlichen Stelle
+Mitteilung der oder des Bundesbeauftragten an den Betroffenen darf
+keine Rückschlüsse auf den Erkenntnisstand der verantwortlichen Stelle
 zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmt.
 
 (7) Die Auskunft ist unentgeltlich.
@@ -1591,34 +1613,37 @@ Datenübermittlung diese Daten zur Speicherung weitergegeben wurden,
 wenn dies keinen unverhältnismäßigen Aufwand erfordert und
 schutzwürdige Interessen des Betroffenen nicht entgegenstehen.
 
-(9) § 2 Abs. 1 bis 6, 8 und 9 des Bundesarchivgesetzes ist anzuwenden.
+(9) (weggefallen)
 
 
-#### § 21 Anrufung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+#### § 21 Anrufung der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
-Jedermann kann sich an den Bundesbeauftragten für den Datenschutz und
-die Informationsfreiheit wenden, wenn er der Ansicht ist, bei der
-Erhebung, Verarbeitung oder Nutzung seiner personenbezogenen Daten
-durch öffentliche Stellen des Bundes in seinen Rechten verletzt worden
-zu sein. Für die Erhebung, Verarbeitung oder Nutzung von
-personenbezogenen Daten durch Gerichte des Bundes gilt dies nur,
-soweit diese in Verwaltungsangelegenheiten tätig werden.
-
-
-### Dritter Unterabschnitt - Bundesbeauftragter für den Datenschutz und die Informationsfreiheit
-
-
-
-#### § 22 Wahl des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-
-(1) Der Deutsche Bundestag wählt auf Vorschlag der Bundesregierung den
+Jedermann kann sich an die Bundesbeauftragte oder den
 Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder. Der
-Bundesbeauftragte muss bei seiner Wahl das 35. Lebensjahr vollendet
-haben. Der Gewählte ist vom Bundespräsidenten zu ernennen.
+wenden, wenn er der Ansicht ist, bei der Erhebung, Verarbeitung oder
+Nutzung seiner personenbezogenen Daten durch öffentliche Stellen des
+Bundes in seinen Rechten verletzt worden zu sein. Für die Erhebung,
+Verarbeitung oder Nutzung von personenbezogenen Daten durch Gerichte
+des Bundes gilt dies nur, soweit diese in Verwaltungsangelegenheiten
+tätig werden.
 
-(2) Der Bundesbeauftragte leistet vor dem Bundesminister des Innern
-folgenden Eid:
+
+### Dritter Unterabschnitt - Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+
+
+
+#### § 22 Wahl und Unabhängigkeit der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+
+(1) Der Deutsche Bundestag wählt ohne Aussprache auf Vorschlag der
+Bundesregierung die Bundesbeauftragte oder den Bundesbeauftragten für
+den Datenschutz und die Informationsfreiheit mit mehr als der Hälfte
+der gesetzlichen Zahl seiner Mitglieder. Die oder der
+Bundesbeauftragte muss bei ihrer oder seiner Wahl das 35. Lebensjahr
+vollendet haben. Die oder der Gewählte ist von der Bundespräsidentin
+oder dem Bundespräsidenten zu ernennen.
+
+(2) Die oder der Bundesbeauftragte leistet vor der Bundespräsidentin
+oder dem Bundespräsidenten folgenden Eid:
 
 *   "Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes
     widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz
@@ -1630,35 +1655,39 @@ folgenden Eid:
 
 Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
-(3) Die Amtszeit des Bundesbeauftragten beträgt fünf Jahre. Einmalige
-Wiederwahl ist zulässig.
+(3) Die Amtszeit der oder des Bundesbeauftragten beträgt fünf Jahre.
+Einmalige Wiederwahl ist zulässig.
 
-(4) Der Bundesbeauftragte steht nach Maßgabe dieses Gesetzes zum Bund
-in einem öffentlich-rechtlichen Amtsverhältnis. Er ist in Ausübung
-seines Amtes unabhängig und nur dem Gesetz unterworfen. Er untersteht
-der Rechtsaufsicht der Bundesregierung.
+(4) Die oder der Bundesbeauftragte steht nach Maßgabe dieses Gesetzes
+zum Bund in einem öffentlich-rechtlichen Amtsverhältnis. Sie oder er
+ist in Ausübung ihres oder seines Amtes unabhängig und nur dem Gesetz
+unterworfen.
 
-(5) Der Bundesbeauftragte wird beim Bundesministerium des Innern
-eingerichtet. Er untersteht der Dienstaufsicht des Bundesministeriums
-des Innern. Dem Bundesbeauftragten ist die für die Erfüllung seiner
-Aufgaben notwendige Personal- und Sachausstattung zur Verfügung zu
-stellen; sie ist im Einzelplan des Bundesministeriums des Innern in
-einem eigenen Kapitel auszuweisen. Die Stellen sind im Einvernehmen
-mit dem Bundesbeauftragten zu besetzen. Die Mitarbeiter können, falls
-sie mit der beabsichtigten Maßnahme nicht einverstanden sind, nur im
-Einvernehmen mit ihm versetzt, abgeordnet oder umgesetzt werden.
+(5) Die oder der Bundesbeauftragte ist eine oberste Bundesbehörde. Der
+Dienstsitz ist Bonn. Die Beamtinnen und Beamten der oder des
+Bundesbeauftragten sind Beamtinnen und Beamte des Bundes.
 
-(6) Ist der Bundesbeauftragte vorübergehend an der Ausübung seines
-Amtes verhindert, kann der Bundesminister des Innern einen Vertreter
-mit der Wahrnehmung der Geschäfte beauftragen. Der Bundesbeauftragte
-soll dazu gehört werden.
+(5a) Die oder der Bundesbeauftragte kann Aufgaben der
+Personalverwaltung und Personalwirtschaft auf andere Stellen des
+Bundes übertragen, soweit hierdurch die Unabhängigkeit der oder des
+Bundesbeauftragten nicht beeinträchtigt wird. Diesen Stellen dürfen
+personenbezogene Daten der Beschäftigten übermittelt werden, soweit
+deren Kenntnis zur Erfüllung der übertragenen Aufgaben erforderlich
+ist.
+
+(6) Die Leitende Beamtin oder der Leitende Beamte nimmt die Rechte der
+oder des Bundesbeauftragten wahr, wenn die oder der Bundesbeauftragte
+an der Ausübung ihres oder seines Amtes verhindert ist oder wenn ihr
+oder sein Amtsverhältnis endet und sie oder er nicht zur Weiterführung
+der Geschäfte verpflichtet ist. Absatz 4 Satz 2 ist entsprechend
+anzuwenden.
 
 
-#### § 23 Rechtsstellung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+#### § 23 Rechtsstellung der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
-(1) Das Amtsverhältnis des Bundesbeauftragten für den Datenschutz und
-die Informationsfreiheit beginnt mit der Aushändigung der
-Ernennungsurkunde. Es endet
+(1) Das Amtsverhältnis der oder des Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit beginnt mit der Aushändigung
+der Ernennungsurkunde. Es endet
 
 1.  mit Ablauf der Amtszeit,
 
@@ -1667,103 +1696,124 @@ Ernennungsurkunde. Es endet
 
 
 
-Der Bundespräsident entlässt den Bundesbeauftragten, wenn dieser es
-verlangt oder auf Vorschlag der Bundesregierung, wenn Gründe
-vorliegen, die bei einem Richter auf Lebenszeit die Entlassung aus dem
+Die Bundespräsidentin oder der Bundespräsident entlässt die
+Bundesbeauftragte oder den Bundesbeauftragten, wenn diese oder dieser
+es verlangt oder auf Vorschlag der Präsidentin oder des Präsidenten
+des Bundestages, wenn Gründe vorliegen, die bei einer Richterin auf
+Lebenszeit oder einem Richter auf Lebenszeit die Entlassung aus dem
 Dienst rechtfertigen. Im Falle der Beendigung des Amtsverhältnisses
-erhält der Bundesbeauftragte eine vom Bundespräsidenten vollzogene
-Urkunde. Eine Entlassung wird mit der Aushändigung der Urkunde
-wirksam. Auf Ersuchen des Bundesministers des Innern ist der
-Bundesbeauftragte verpflichtet, die Geschäfte bis zur Ernennung seines
-Nachfolgers weiterzuführen.
+erhält die oder der Bundesbeauftragte eine von der Bundespräsidentin
+oder dem Bundespräsidenten vollzogene Urkunde. Eine Entlassung wird
+mit der Aushändigung der Urkunde wirksam. Endet das Amtsverhältnis mit
+Ablauf der Amtszeit, ist die oder der Bundesbeauftragte verpflichtet,
+auf Ersuchen der Präsidentin oder des Präsidenten des Bundestages die
+Geschäfte bis zur Ernennung einer Nachfolgerin oder eines Nachfolgers
+weiterzuführen.
 
-(2) Der Bundesbeauftragte darf neben seinem Amt kein anderes
-besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der
-Leitung oder dem Aufsichtsrat oder Verwaltungsrat eines auf Erwerb
-gerichteten Unternehmens noch einer Regierung oder einer
-gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Er
-darf nicht gegen Entgelt außergerichtliche Gutachten abgeben.
+(2) Die oder der Bundesbeauftragte darf neben ihrem oder seinem Amt
+kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und
+weder der Leitung oder dem Aufsichtsrat oder Verwaltungsrat eines auf
+Erwerb gerichteten Unternehmens noch einer Regierung oder einer
+gesetzgebenden Körperschaft des Bundes oder eines Landes angehören.
+Sie oder er darf nicht gegen Entgelt außergerichtliche Gutachten
+abgeben.
 
-(3) Der Bundesbeauftragte hat dem Bundesministerium des Innern
-Mitteilung über Geschenke zu machen, die er in Bezug auf sein Amt
-erhält. Das Bundesministerium des Innern entscheidet über die
-Verwendung der Geschenke.
+(3) Die oder der Bundesbeauftragte hat der Präsidentin oder dem
+Präsidenten des Bundestages Mitteilung über Geschenke zu machen, die
+sie oder er in Bezug auf das Amt erhält. Die Präsidentin oder der
+Präsident des Bundestages entscheidet über die Verwendung der
+Geschenke. Sie oder er kann Verfahrensvorschriften erlassen.
 
-(4) Der Bundesbeauftragte ist berechtigt, über Personen, die ihm in
-seiner Eigenschaft als Bundesbeauftragter Tatsachen anvertraut haben,
-sowie über diese Tatsachen selbst das Zeugnis zu verweigern. Dies gilt
-auch für die Mitarbeiter des Bundesbeauftragten mit der Maßgabe, dass
-über die Ausübung dieses Rechts der Bundesbeauftragte entscheidet.
-Soweit das Zeugnisverweigerungsrecht des Bundesbeauftragten reicht,
-darf die Vorlegung oder Auslieferung von Akten oder anderen
-Schriftstücken von ihm nicht gefordert werden.
+(4) Die oder der Bundesbeauftragte ist berechtigt, über Personen, die
+ihr oder ihm in ihrer oder seiner Eigenschaft als Bundesbeauftragte
+oder Bundesbeauftragter Tatsachen anvertraut haben, sowie über diese
+Tatsachen selbst das Zeugnis zu verweigern. Dies gilt auch für die
+Mitarbeiterinnen und Mitarbeiter der oder des Bundesbeauftragten mit
+der Maßgabe, dass über die Ausübung dieses Rechts die oder der
+Bundesbeauftragte entscheidet. Soweit das Zeugnisverweigerungsrecht
+der oder des Bundesbeauftragten reicht, darf die Vorlegung oder
+Auslieferung von Akten oder anderen Schriftstücken von ihr oder ihm
+nicht gefordert werden.
 
-(5) Der Bundesbeauftragte ist, auch nach Beendigung seines
-Amtsverhältnisses, verpflichtet, über die ihm amtlich
-bekanntgewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies
-gilt nicht für Mitteilungen im dienstlichen Verkehr oder über
-Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner
-Geheimhaltung bedürfen. Der Bundesbeauftragte darf, auch wenn er nicht
-mehr im Amt ist, über solche Angelegenheiten ohne Genehmigung des
-Bundesministeriums des Innern weder vor Gericht noch außergerichtlich
-aussagen oder Erklärungen abgeben. Unberührt bleibt die gesetzlich
-begründete Pflicht, Straftaten anzuzeigen und bei Gefährdung der
-freiheitlichen demokratischen Grundordnung für deren Erhaltung
-einzutreten. Für den Bundesbeauftragten und seine Mitarbeiter gelten
-die §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1
-sowie § 116 Abs. 1 der Abgabenordnung nicht. Satz 5 findet keine
-Anwendung, soweit die Finanzbehörden die Kenntnis für die Durchführung
-eines Verfahrens wegen einer Steuerstraftat sowie eines damit
-zusammenhängenden Steuerverfahrens benötigen, an deren Verfolgung ein
-zwingendes öffentliches Interesse besteht, oder soweit es sich um
-vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn
-tätigen Personen handelt. Stellt der Bundesbeauftragte einen
-Datenschutzverstoß fest, ist er befugt, diesen anzuzeigen und den
-Betroffenen hierüber zu informieren.
+(5) Die oder der Bundesbeauftragte ist, auch nach Beendigung ihres
+oder seines Amtsverhältnisses, verpflichtet, über die ihr oder ihm
+amtlich bekanntgewordenen Angelegenheiten Verschwiegenheit zu
+bewahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr
+oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach
+keiner Geheimhaltung bedürfen. Die oder der Bundesbeauftragte
+entscheidet nach pflichtgemäßem Ermessen, ob und inwieweit sie oder er
+über solche Angelegenheiten vor Gericht oder außergerichtlich aussagt
+oder Erklärungen abgibt; wenn sie oder er nicht mehr im Amt ist, ist
+die Genehmigung der oder des amtierenden Bundesbeauftragten
+erforderlich. Unberührt bleibt die gesetzlich begründete Pflicht,
+Straftaten anzuzeigen und bei Gefährdung der freiheitlichen
+demokratischen Grundordnung für deren Erhaltung einzutreten. Für die
+Bundesbeauftragte oder den Bundesbeauftragten und ihre oder seine
+Mitarbeiterinnen und Mitarbeiter gelten die §§ 93, 97, 105 Abs. 1, §
+111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der
+Abgabenordnung nicht. Satz 5 findet keine Anwendung, soweit die
+Finanzbehörden die Kenntnis für die Durchführung eines Verfahrens
+wegen einer Steuerstraftat sowie eines damit zusammenhängenden
+Steuerverfahrens benötigen, an deren Verfolgung ein zwingendes
+öffentliches Interesse besteht, oder soweit es sich um vorsätzlich
+falsche Angaben der oder des Auskunftspflichtigen oder der für sie
+oder ihn tätigen Personen handelt. Stellt die oder der
+Bundesbeauftragte einen Datenschutzverstoß fest, ist sie oder er
+befugt, diesen anzuzeigen und den Betroffenen hierüber zu informieren.
 
-(6) Die Genehmigung, als Zeuge auszusagen, soll nur versagt werden,
-wenn die Aussage dem Wohle des Bundes oder eines deutschen Landes
-Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben ernstlich
-gefährden oder erheblich erschweren würde. Die Genehmigung, ein
-Gutachten zu erstatten, kann versagt werden, wenn die Erstattung den
-dienstlichen Interessen Nachteile bereiten würde. § 28 des
-Bundesverfassungsgerichtsgesetzes bleibt unberührt.
+(6) Die oder der Bundesbeauftragte darf als Zeugin oder Zeuge
+aussagen, es sei denn, die Aussage würde
 
-(7) Der Bundesbeauftragte erhält vom Beginn des Kalendermonats an, in
-dem das Amtsverhältnis beginnt, bis zum Schluss des Kalendermonats, in
-dem das Amtsverhältnis endet, im Falle des Absatzes 1 Satz 6 bis zum
-Ende des Monats, in dem die Geschäftsführung endet, Amtsbezüge in Höhe
-der einem Bundesbeamten der Besoldungsgruppe B 9 zustehenden
-Besoldung. Das Bundesreisekostengesetz und das
-Bundesumzugskostengesetz sind entsprechend anzuwenden. Im Übrigen sind
-§ 12 Abs 6 sowie die §§ 13 bis 20 und 21a Abs. 5 des
-Bundesministergesetzes mit den Maßgaben anzuwenden, dass an die Stelle
-der vierjährigen Amtszeit in § 15 Abs. 1 des Bundesministergesetzes
-eine Amtszeit von fünf Jahren und an die Stelle der Besoldungsgruppe B
-11 in § 21a Abs. 5 des Bundesministergesetzes die Besoldungsgruppe B 9
-tritt. Abweichend von Satz 3 in Verbindung mit den §§ 15 bis 17 und
-21a Abs. 5 des Bundesministergesetzes berechnet sich das Ruhegehalt
+1.  dem Wohle des Bundes oder eines deutschen Landes Nachteile bereiten,
+    insbesondere Nachteile für die Sicherheit der Bundesrepublik
+    Deutschland oder ihre Beziehungen zu anderen Staaten, oder
+
+
+2.  Grundrechte verletzen.
+
+
+
+Betrifft die Aussage laufende oder abgeschlossene Vorgänge, die dem
+Kernbereich exekutiver Eigenverantwortung der Bundesregierung
+zuzurechnen sind oder sein könnten, darf die oder der
+Bundesbeauftragte nur im Benehmen mit der Bundesregierung aussagen. §
+28 des Bundesverfassungsgerichtsgesetzes bleibt unberührt.
+
+(7) Die oder der Bundesbeauftragte erhält vom Beginn des
+Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluss
+des Kalendermonats, in dem das Amtsverhältnis endet, im Falle des
+Absatzes 1 Satz 6 bis zum Ende des Monats, in dem die Geschäftsführung
+endet, Amtsbezüge in Höhe der Besoldungsgruppe B 11 sowie den
+Familienzuschlag entsprechend Anlage V des Bundesbesoldungsgesetzes.
+Das Bundesreisekostengesetz und das Bundesumzugskostengesetz sind
+entsprechend anzuwenden. Im Übrigen sind § 12 Abs 6 sowie die §§ 13
+bis 20 und 21a Abs. 5 des Bundesministergesetzes mit den Maßgaben
+anzuwenden, dass an die Stelle der vierjährigen Amtszeit in § 15 Abs.
+1 des Bundesministergesetzes eine Amtszeit von fünf Jahren tritt.
+Abweichend von Satz 3 in Verbindung mit den §§ 15 bis 17 und 21a Abs.
+5 des Bundesministergesetzes berechnet sich das Ruhegehalt der oder
 des Bundesbeauftragten unter Hinzurechnung der Amtszeit als
 ruhegehaltsfähige Dienstzeit in entsprechender Anwendung des
-Beamtenversorgungsgesetzes, wenn dies günstiger ist und der
-Bundesbeauftragte sich unmittelbar vor seiner Wahl zum
-Bundesbeauftragten als Beamter oder Richter mindestens in dem letzten
-gewöhnlich vor Erreichen der Besoldungsgruppe B 9 zu durchlaufenden
-Amt befunden hat.
+Beamtenversorgungsgesetzes, wenn dies günstiger ist und die oder der
+Bundesbeauftragte sich unmittelbar vor ihrer oder seiner Wahl zur oder
+zum Bundesbeauftragten als Beamtin oder Beamter oder als Richterin
+oder Richter mindestens in dem letzten gewöhnlich vor Erreichen der
+Besoldungsgruppe B 11 zu durchlaufenden Amt befunden hat.
 
 (8) Absatz 5 Satz 5 bis 7 gilt entsprechend für die öffentlichen
 Stellen, die für die Kontrolle der Einhaltung der Vorschriften über
 den Datenschutz in den Ländern zuständig sind.
 
 
-#### § 24 Kontrolle durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+#### § 24 Kontrolle durch die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
-(1) Der Bundesbeauftragte für den Datenschutz und die
+(1) Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit kontrolliert bei den öffentlichen Stellen des
 Bundes die Einhaltung der Vorschriften dieses Gesetzes und anderer
 Vorschriften über den Datenschutz.
 
-(2) Die Kontrolle des Bundesbeauftragten erstreckt sich auch auf
+(2) Die Kontrolle der oder des Bundesbeauftragten erstreckt sich auch
+auf
 
 1.  von öffentlichen Stellen des Bundes erlangte personenbezogene Daten
     über den Inhalt und die näheren Umstände des Brief-, Post- und
@@ -1780,22 +1830,25 @@ Das Grundrecht des Brief-, Post- und Fernmeldegeheimnisses des
 Artikels 10 des Grundgesetzes wird insoweit eingeschränkt.
 Personenbezogene Daten, die der Kontrolle durch die Kommission nach §
 15 des Artikel 10-Gesetzes unterliegen, unterliegen nicht der
-Kontrolle durch den Bundesbeauftragten, es sei denn, die Kommission
-ersucht den Bundesbeauftragten, die Einhaltung der Vorschriften über
-den Datenschutz bei bestimmten Vorgängen oder in bestimmten Bereichen
-zu kontrollieren und ausschließlich ihr darüber zu berichten. Der
-Kontrolle durch den Bundesbeauftragten unterliegen auch nicht
-personenbezogene Daten in Akten über die Sicherheitsüberprüfung, wenn
-der Betroffene der Kontrolle der auf ihn bezogenen Daten im Einzelfall
-gegenüber dem Bundesbeauftragten widerspricht.
+Kontrolle durch die Bundesbeauftragte oder den Bundesbeauftragten, es
+sei denn, die Kommission ersucht die Bundesbeauftragte oder den
+Bundesbeauftragten, die Einhaltung der Vorschriften über den
+Datenschutz bei bestimmten Vorgängen oder in bestimmten Bereichen zu
+kontrollieren und ausschließlich ihr darüber zu berichten. Der
+Kontrolle durch die Bundesbeauftragte oder den Bundesbeauftragten
+unterliegen auch nicht personenbezogene Daten in Akten über die
+Sicherheitsüberprüfung, wenn der Betroffene der Kontrolle der auf ihn
+bezogenen Daten im Einzelfall gegenüber der oder dem
+Bundesbeauftragten widerspricht.
 
-(3) Die Bundesgerichte unterliegen der Kontrolle des
+(3) Die Bundesgerichte unterliegen der Kontrolle der oder des
 Bundesbeauftragten nur, soweit sie in Verwaltungsangelegenheiten tätig
 werden.
 
-(4) Die öffentlichen Stellen des Bundes sind verpflichtet, den
-Bundesbeauftragten und seine Beauftragten bei der Erfüllung ihrer
-Aufgaben zu unterstützen. Ihnen ist dabei insbesondere
+(4) Die öffentlichen Stellen des Bundes sind verpflichtet, die
+Bundesbeauftragte oder den Bundesbeauftragten und ihre oder seine
+Beauftragten bei der Erfüllung ihrer Aufgaben zu unterstützen. Ihnen
+ist dabei insbesondere
 
 1.  Auskunft zu ihren Fragen sowie Einsicht in alle Unterlagen,
     insbesondere in die gespeicherten Daten und in die
@@ -1808,30 +1861,30 @@ Aufgaben zu unterstützen. Ihnen ist dabei insbesondere
 
 
 Die in § 6 Abs. 2 und § 19 Abs. 3 genannten Behörden gewähren die
-Unterstützung nur dem Bundesbeauftragten selbst und den von ihm
-schriftlich besonders Beauftragten. Satz 2 gilt für diese Behörden
-nicht, soweit die oberste Bundesbehörde im Einzelfall feststellt, dass
-die Auskunft oder Einsicht die Sicherheit des Bundes oder eines Landes
-gefährden würde.
+Unterstützung nur der oder dem Bundesbeauftragten selbst und den von
+ihr oder ihm schriftlich besonders Beauftragten. Satz 2 gilt für diese
+Behörden nicht, soweit die oberste Bundesbehörde im Einzelfall
+feststellt, dass die Auskunft oder Einsicht die Sicherheit des Bundes
+oder eines Landes gefährden würde.
 
-(5) Der Bundesbeauftragte teilt das Ergebnis seiner Kontrolle der
-öffentlichen Stelle mit. Damit kann er Vorschläge zur Verbesserung des
-Datenschutzes, insbesondere zur Beseitigung von festgestellten Mängeln
-bei der Verarbeitung oder Nutzung personenbezogener Daten, verbinden.
-§ 25 bleibt unberührt.
+(5) Die oder der Bundesbeauftragte teilt das Ergebnis ihrer oder
+seiner Kontrolle der öffentlichen Stelle mit. Damit kann sie oder er
+Vorschläge zur Verbesserung des Datenschutzes, insbesondere zur
+Beseitigung von festgestellten Mängeln bei der Verarbeitung oder
+Nutzung personenbezogener Daten, verbinden. § 25 bleibt unberührt.
 
 (6) Absatz 2 gilt entsprechend für die öffentlichen Stellen, die für
 die Kontrolle der Einhaltung der Vorschriften über den Datenschutz in
 den Ländern zuständig sind.
 
 
-#### § 25 Beanstandungen durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+#### § 25 Beanstandungen durch die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
-(1) Stellt der Bundesbeauftragte für den Datenschutz und die
+(1) Stellt die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit Verstöße gegen die Vorschriften dieses Gesetzes
 oder gegen andere Vorschriften über den Datenschutz oder sonstige
 Mängel bei der Verarbeitung oder Nutzung personenbezogener Daten fest,
-so beanstandet er dies
+so beanstandet sie oder er dies
 
 1.  bei der Bundesverwaltung gegenüber der zuständigen obersten
     Bundesbehörde,
@@ -1853,46 +1906,48 @@ so beanstandet er dies
 
 
 und fordert zur Stellungnahme innerhalb einer von ihm zu bestimmenden
-Frist auf. In den Fällen von Satz 1 Nr. 4 unterrichtet der
+Frist auf. In den Fällen von Satz 1 Nr. 4 unterrichtet die oder der
 Bundesbeauftragte gleichzeitig die zuständige Aufsichtsbehörde.
 
-(2) Der Bundesbeauftragte kann von einer Beanstandung absehen oder auf
-eine Stellungnahme der betroffenen Stelle verzichten, insbesondere
-wenn es sich um unerhebliche oder inzwischen beseitigte Mängel
-handelt.
+(2) Die oder der Bundesbeauftragte kann von einer Beanstandung absehen
+oder auf eine Stellungnahme der betroffenen Stelle verzichten,
+insbesondere wenn es sich um unerhebliche oder inzwischen beseitigte
+Mängel handelt.
 
 (3) Die Stellungnahme soll auch eine Darstellung der Maßnahmen
-enthalten, die aufgrund der Beanstandung des Bundesbeauftragten
-getroffen worden sind. Die in Absatz 1 Satz 1 Nr. 4 genannten Stellen
-leiten der zuständigen Aufsichtsbehörde gleichzeitig eine Abschrift
-ihrer Stellungnahme an den Bundesbeauftragten zu.
+enthalten, die aufgrund der Beanstandung der oder des
+Bundesbeauftragten getroffen worden sind. Die in Absatz 1 Satz 1 Nr. 4
+genannten Stellen leiten der zuständigen Aufsichtsbehörde gleichzeitig
+eine Abschrift ihrer Stellungnahme an die Bundesbeauftragte oder den
+Bundesbeauftragten zu.
 
 
-#### § 26 Weitere Aufgaben des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+#### § 26 Weitere Aufgaben der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
-(1) Der Bundesbeauftragte für den Datenschutz und die
+(1) Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit erstattet dem Deutschen Bundestag alle zwei Jahre
-einen Tätigkeitsbericht. Er unterrichtet den Deutschen Bundestag und
-die Öffentlichkeit über wesentliche Entwicklungen des Datenschutzes.
+einen Tätigkeitsbericht. Sie oder er unterrichtet den Deutschen
+Bundestag und die Öffentlichkeit über wesentliche Entwicklungen des
+Datenschutzes.
 
 (2) Auf Anforderung des Deutschen Bundestages oder der Bundesregierung
-hat der Bundesbeauftragte Gutachten zu erstellen und Berichte zu
-erstatten. Auf Ersuchen des Deutschen Bundestages, des
+hat die oder der Bundesbeauftragte Gutachten zu erstellen und Berichte
+zu erstatten. Auf Ersuchen des Deutschen Bundestages, des
 Petitionsausschusses, des Innenausschusses oder der Bundesregierung
-geht der Bundesbeauftragte ferner Hinweisen auf Angelegenheiten und
-Vorgänge des Datenschutzes bei den öffentlichen Stellen des Bundes
-nach. Der Bundesbeauftragte kann sich jederzeit an den Deutschen
-Bundestag wenden.
+geht die oder der Bundesbeauftragte ferner Hinweisen auf
+Angelegenheiten und Vorgänge des Datenschutzes bei den öffentlichen
+Stellen des Bundes nach. Die oder der Bundesbeauftragte kann sich
+jederzeit an den Deutschen Bundestag wenden.
 
-(3) Der Bundesbeauftragte kann der Bundesregierung und den in § 12
-Abs. 1 genannten Stellen des Bundes Empfehlungen zur Verbesserung des
-Datenschutzes geben und sie in Fragen des Datenschutzes beraten. Die
-in § 25 Abs. 1 Nr. 1 bis 4 genannten Stellen sind durch den
-Bundesbeauftragten zu unterrichten, wenn die Empfehlung oder Beratung
-sie nicht unmittelbar betrifft.
+(3) Die oder der Bundesbeauftragte kann der Bundesregierung und den in
+§ 12 Abs. 1 genannten Stellen des Bundes Empfehlungen zur Verbesserung
+des Datenschutzes geben und sie in Fragen des Datenschutzes beraten.
+Die in § 25 Abs. 1 Nr. 1 bis 4 genannten Stellen sind durch die
+Bundesbeauftragte oder den Bundesbeauftragten zu unterrichten, wenn
+die Empfehlung oder Beratung sie nicht unmittelbar betrifft.
 
-(4) Der Bundesbeauftragte wirkt auf die Zusammenarbeit mit den
-öffentlichen Stellen, die für die Kontrolle der Einhaltung der
+(4) Die oder der Bundesbeauftragte wirkt auf die Zusammenarbeit mit
+den öffentlichen Stellen, die für die Kontrolle der Einhaltung der
 Vorschriften über den Datenschutz in den Ländern zuständig sind, sowie
 mit den Aufsichtsbehörden nach § 38 hin. § 38 Abs. 1 Satz 4 und 5 gilt
 entsprechend.
@@ -2134,7 +2189,7 @@ Nutzung von Daten zu den in Satz 1 genannten Zwecken richtet sich nach
 den für die in Satz 1 genannten Personen geltenden
 Geheimhaltungspflichten. Werden zu einem in Satz 1 genannten Zweck
 Daten über die Gesundheit von Personen durch Angehörige eines anderen
-als in § 203 Abs. 1 und 3 des Strafgesetzbuchs genannten Berufes,
+als in § 203 Abs. 1 und 4 des Strafgesetzbuchs genannten Berufes,
 dessen Ausübung die Feststellung, Heilung oder Linderung von
 Krankheiten oder die Herstellung oder den Vertrieb von Hilfsmitteln
 mit sich bringt, erhoben, verarbeitet oder genutzt, ist dies nur unter
@@ -3030,7 +3085,7 @@ dieses Gesetzes die §§ 5, 7, 9 und 38a. Anstelle der §§ 24 bis 26 gilt
 ### § 42 Datenschutzbeauftragter der Deutschen Welle
 
 (1) Die Deutsche Welle bestellt einen Beauftragten für den
-Datenschutz, der an die Stelle des Bundesbeauftragten für den
+Datenschutz, der an die Stelle der oder des Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit tritt. Die Bestellung erfolgt
 auf Vorschlag des Intendanten durch den Verwaltungsrat für die Dauer
 von vier Jahren, wobei Wiederbestellungen zulässig sind. Das Amt eines
@@ -3050,8 +3105,8 @@ für den Datenschutz wenden.
 Deutschen Welle alle zwei Jahre, erstmals zum 1. Januar 1994 einen
 Tätigkeitsbericht. Er erstattet darüber hinaus besondere Berichte auf
 Beschluss eines Organes der Deutschen Welle. Die Tätigkeitsberichte
-übermittelt der Beauftragte auch an den Bundesbeauftragten für den
-Datenschutz und die Informationsfreiheit.
+übermittelt der Beauftragte auch der oder dem Bundesbeauftragten für
+den Datenschutz und die Informationsfreiheit.
 
 (5) Weitere Regelungen entsprechend den §§ 23 bis 26 trifft die
 Deutsche Welle für ihren Bereich. Die §§ 4f und 4g bleiben unberührt.
@@ -3105,6 +3160,46 @@ oder in einem Verfahren nach dem Gesetz über Ordnungswidrigkeiten
 gegen ihn oder einen in § 52 Absatz 1 der Strafprozessordnung
 bezeichneten Angehörigen des Benachrichtigungspflichtigen nur mit
 Zustimmung des Benachrichtigungspflichtigen verwendet werden.
+
+
+### § 42b Antrag der Aufsichtsbehörde auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Beschlusses der Europäischen Kommission
+
+(1) Hält eine Aufsichtsbehörde einen Angemessenheitsbeschluss der
+Europäischen Kommission, einen Beschluss über die Anerkennung von
+Standardschutzklauseln oder über die Allgemeingültigkeit von
+genehmigten Verhaltensregeln, auf dessen Gültigkeit es für eine
+Entscheidung der Aufsichtsbehörde ankommt, für rechtswidrig, so hat
+die Aufsichtsbehörde ihr Verfahren auszusetzen und einen Antrag auf
+gerichtliche Entscheidung zu stellen.
+
+(2) Für Verfahren nach Absatz 1 ist der Verwaltungsrechtsweg gegeben.
+Die Verwaltungsgerichtsordnung ist nach Maßgabe der Absätze 3 bis 6
+anzuwenden.
+
+(3) Über einen Antrag der Aufsichtsbehörde nach Absatz 1 entscheidet
+im ersten und letzten Rechtszug das Bundesverwaltungsgericht.
+
+(4) In Verfahren nach Absatz 1 ist die Aufsichtsbehörde
+beteiligungsfähig. An einem Verfahren nach Absatz 1 ist die
+Aufsichtsbehörde als Antragstellerin beteiligt; § 63 Nummer 3 und 4
+der Verwaltungsgerichtsordnung bleibt unberührt. Das
+Bundesverwaltungsgericht kann der Europäischen Kommission Gelegenheit
+zur Äußerung binnen einer zu bestimmenden Frist geben.
+
+(5) Ist ein Verfahren zur Überprüfung der Gültigkeit eines Beschlusses
+der Europäischen Kommission nach Absatz 1 bei dem Gerichtshof der
+Europäischen Union anhängig, so kann das Bundesverwaltungsgericht
+anordnen, dass die Verhandlung bis zur Erledigung des Verfahrens vor
+dem Gerichtshof der Europäischen Union auszusetzen sei.
+
+(6) In Verfahren nach Absatz 1 ist § 47 Absatz 5 Satz 1 und Absatz 6
+der Verwaltungsgerichtsordnung entsprechend anzuwenden. Kommt das
+Bundesverwaltungsgericht zu der Überzeugung, dass der Beschluss der
+Europäischen Kommission nach Absatz 1 gültig ist, so stellt es dies in
+seiner Entscheidung fest. Andernfalls legt es die Frage nach der
+Gültigkeit des Beschlusses gemäß Artikel 267 des Vertrags über die
+Arbeitsweise der Europäischen Union dem Gerichtshof der Europäischen
+Union zur Entscheidung vor.
 
 
 ## Fünfter Abschnitt - Schlussvorschriften
@@ -3264,8 +3359,9 @@ oder einen anderen zu schädigen, begeht, wird mit Freiheitsstrafe bis
 zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind der
-Betroffene, die verantwortliche Stelle, der Bundesbeauftragte für den
-Datenschutz und die Informationsfreiheit und die Aufsichtsbehörde.
+Betroffene, die verantwortliche Stelle, die oder der Bundesbeauftragte
+für den Datenschutz und die Informationsfreiheit und die
+Aufsichtsbehörde.
 
 
 ## Sechster Abschnitt - Übergangsvorschriften

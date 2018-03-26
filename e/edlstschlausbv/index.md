@@ -422,8 +422,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinschleifer/zur Edelsteinschleiferin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinschleifer/zur Edelsteinschleiferin
 
 (Fundstelle: BGBl. I 1992, 186 - 190)
 

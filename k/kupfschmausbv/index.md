@@ -19,6 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 7.7.1998 I 1805
 
+V aufgeh. durch
+:   § 17 Satz 2 V 7110-6-127 V v. 2.1.2018 I 73 mWv 1.8.2018
+
+Ersetzt durch
+:   V 7110-6-127 v. 2.1.2018 I 73 (BehAppbAusbV)
+
 Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
 der Handwerksordnung. Die Ausbildungsordnung und der damit
 abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
@@ -460,8 +466,9 @@ Diese Verordnung tritt am 1. August 1989 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Behälter- und Apparatebauer/zur Behälter- und Apparatebauerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Behälter- und Apparatebauer/zur Behälter- und Apparatebauerin
 
 (Fundstelle: BGBl. I 1989, 523 - 534)
 
@@ -1867,10 +1874,12 @@ Der Bundesminister für Wirtschaft
 
 
 
+   Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 998)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
-   Abschnitt III
+Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 

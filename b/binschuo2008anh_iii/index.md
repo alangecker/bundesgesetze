@@ -1,6 +1,7 @@
+Zusätzliche technische Vorschriften für Fahrzeuge auf
+Binnenwasserstraßen der Zonen 1 und 2
 ---
-Title: Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der
-  Zonen 1 und 2 (Anhang III zur Binnenschiffsuntersuchungsordnung)
+Title: (Anhang III zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh III
 layout: default
 origslug: binschuo2008anh_iii
@@ -8,13 +9,22 @@ slug: binschuo2008anh_iii
 
 ---
 
-# Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2 (Anhang III zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh III)
+# (Anhang III zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh III)
 
 Ausfertigungsdatum
 :   2008-12-06
 
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 477 - 499]
+
+Geändert durch
+:   Art. 1 Nr. 16 V v. 20.12.2012 I 2802
+
+Änderung durch
+:   Art. 1 Nr. 8 V v. 16.12.2016 I 2948 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 Nr. 3 V v. 2.3.2017 I 330 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -335,16 +345,23 @@ Kapitel 11
 
 #### § 1.02 Sonderbestimmungen für Fahrgastschiffe
 
-Für Fahrgastschiffe auf Wasserstraßen der Zone 2-Binnen gelten
-abweichend von Anhang II Kapitel 15 folgenden Bestimmungen:
 
-a)  Bei Fahrgastschiffe ohne Schottendeck muss der Sicherheitsabstand
-    mindestens 0,80 m betragen.
+1.  Für Fahrgastschiffe auf Wasserstraßen der Zone 2-Binnen gelten
+    abweichend von Anhang II Kapitel 15 folgende Bestimmungen:
+
+    a)  Bei Fahrgastschiffen ohne Schottendeck muss der Sicherheitsabstand
+        mindestens 0,80 m betragen.
 
 
-b)  Einzelrettungsmittel nach Anhang II § 15.09. Nr. 4 können durch
-    Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5 ersetzt
-    werden.
+    b)  Einzelrettungsmittel nach Anhang II § 15.09 Nummer 4 können durch
+        Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nummer 5 in
+        Verbindung mit Nummer 7 und 9 ersetzt werden.
+
+
+
+
+
+2.  Die Bestimmungen des § 6.05 gelten nicht.
 
 
 
@@ -367,9 +384,10 @@ b)  Einzelrettungsmittel nach Anhang II § 15.09. Nr. 4 können durch
 2.  Die Bestimmungen aus den Kapiteln 3 bis 9 sind zu erfüllen.
 
 
-3.  Der § 1.01 gilt auf der Ems unterhalb von Emden bis zur Hafeneinfahrt
-    von Delfzijl für Güterschiffe bei geschlossenen Ladeluken, für
-    Schleppboote und Schubboote.
+3.  Abweichend von den Nummern 1 und 2 ist auf der Ems unterhalb von Emden
+    bis zur Hafeneinfahrt von Delfzijl für Güterschiffe bei geschlossenen
+    Ladeluken, für Schleppboote und Schubboote der § 1.01 Nummer 1 und 2
+    anzuwenden.
 
 
 
@@ -559,7 +577,7 @@ und von ausreichender Festigkeit sein.
 
 
 1.  Fenster unterhalb des Schottendecks müssen wasserdicht und mit einer
-    Seeschlagblende ver-sehen sein.
+    Seeschlagblende versehen sein.
 
 
 2.  Fenster und Oberlichter bis 0,15 m oberhalb des Schottendecks müssen
@@ -573,19 +591,19 @@ und von ausreichender Festigkeit sein.
 
 4.  Fenster und Oberlichter gelten als:
 
-    a)  wasserdicht, wenn sie nicht geöffnet werden können und ihre Ausführung
-        mindestens der Baureihe B der Norm DIN ISO 1751, Ausgabe April 1993
-        entspricht;
+    a)  wasserdicht, wenn ihre Ausführung mindestens der Baureihe B und der
+        nicht zu öffnenden Bauart der Norm DIN ISO 1751, Ausgabe Dezember
+        2015, entspricht;
 
 
-    b)  sprühwasser- und wetterdicht, wenn sie geöffnet werden können und ihre
-        Ausführung als runde Fenster mindestens der Baureihe C der Norm DIN
-        ISO 1751, Ausgabe April 1993 und als rechteckige Fenster mindestens
-        der Baureihe F der Norm DIN ISO 3903, Ausgabe April 1993 entspricht;
+    b)  sprühwasser- und wetterdicht, wenn ihre Ausführung als runde Fenster
+        mindestens der Baureihe C der Norm DIN ISO 1751, Ausgabe Dezember
+        2015, und als rechteckige Fenster mindestens der Baureihe F der Norm
+        DIN ISO 3903, Ausgabe Dezember 2015, entspricht;
 
 
-    c)  offen, wenn ihre Ausführung den in den Buchstaben a und b genannten
-        Normen nicht entspricht.
+    c)  offen, wenn ihre Ausführung den in Buchstabe a und b genannten Normen
+        nicht entspricht.
 
 
 
@@ -668,24 +686,24 @@ mindestens 60 m lang sein.
 #### § 6.02 Kompass
 
 
-1.  Fahrzeuge mit eigener Triebkraft müssen mit einem Kompass mit
-    Analoganzeige oder mit einem Steuerkurstransmitter mit Analoganzeige
-    ausgerüstet sein.
+1.  Fahrzeuge mit eigener Triebkraft müssen mit einem von der zuständigen
+    Behörde zugelassenen Kompass oder mit einem Steuerkurstransmitter,
+    jeweils mit Analoganzeige oder grafischer Darstellung, ausgerüstet
+    sein.
 
 
-2.  Fahrzeuge nach Nr. 1 dürfen stattdessen einen von der zuständigen
-    Behörde zugelassenen Kompass mit Digitalanzeige oder
-    Steuerkurstransmitter mit Digitalanzeige verwenden, wenn diese mit
-    einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit
-    nach § 6.03 ausgerüstet sind.
+2.  Abweichend von Nummer 1 darf für Fahrzeuge ein Kompass mit numerischer
+    Anzeige oder Steuerkurstransmitter mit numerischer Anzeige verwendet
+    werden, wenn die Fahrzeuge mit einem Radargerät nach § 6.03
+    ausgerüstet sind.
 
 
 3.  Der Kompass oder Steuerkurstransmitter darf nur eingebaut werden, wenn
-    das Baumuster in Übereinstimmung mit den Vorschriften der
-    Schiffssicherheitsverordnung geprüft und zugelassen worden ist.
-    Kompasse und Steuerkurstransmitter müssen den technischen
-    Anforderungen nach Anhang IX Teil VII entsprechen. Entsprechende
-    Ausrüstung, die in Buchstabe A Nr. 10 der Anlage zum
+    das Baumuster in Übereinstimmung mit den für die Seeschifffahrt
+    geltenden schiffsicherheitsrechtlichen Vorschriften geprüft und
+    zugelassen worden ist. Kompasse und Steuerkurstransmitter müssen den
+    technischen Anforderungen nach Anhang IX Teil VII entsprechen.
+    Entsprechende Ausrüstung, die in Abschnitt D Nummer 10 der Anlage zum
     Schiffssicherheitsgesetz aufgeführt und nach diesen Anforderungen
     zugelassen ist, gilt als konform mit diesen Bestimmungen.
 
@@ -693,10 +711,11 @@ mindestens 60 m lang sein.
 4.  Kompasse auf Magnet-Basis und Steuerkurstransmitter auf Magnet-Basis
     müssen
 
-    a)  vor dem Einbau von der zuständigen Behörde oder von einer von ihr
-        anerkannten Einrichtung geprüft sein, dies ist nicht erforderlich für
-        Kompasse oder Steuerkurstransmitter, die nach Buchstabe A Nr. 10 der
-        Anlage zum Schiffssicherheitsgesetz zugelassen sind,
+    a)  vor dem Einbau von der zuständigen Behörde oder von einer von ihr für
+        die Prüfung der jeweiligen Anlage anerkannten Einrichtung geprüft
+        sein, dies ist nicht erforderlich für Kompasse oder
+        Steuerkurstransmitter, die nach Abschnitt D Nummer 10 der Anlage zum
+        Schiffssicherheitsgesetz zugelassen sind,
 
 
     b)  entsprechend den technischen Bestimmungen nach Anhang IX Teil VIII an
@@ -723,24 +742,23 @@ mindestens 60 m lang sein.
 
 
 
-5.  Auf Antrag kann die zuständige Behörde eine im Ausland durchgeführte
-    Regulierung und Kompensierung anerkennen; der Bescheid der zuständigen
-    Behörde über die Anerkennung ist an Bord mitzuführen.
+5.  Die Regulierung und Kompensierung durch eine anerkannte Person
+    (Regulierer) eines Mitgliedstaates der Internationalen
+    Seeschifffahrts-Organisation (IMO) wird als gleichwertig anerkannt.
 
 
 
 
 
-#### § 6.03 Radar
+#### § 6.03 Navigationsradaranlage
 
 
-1.  Fahrzeuge mit eigener Triebkraft müssen mit einem Radargerät
-    ausgerüstet sein.
+1.  Fahrzeuge mit eigener Triebkraft müssen mit einer
+    Navigationsradaranlage nach Anhang II § 7.06 Nummer 1 oder Anhang XII
+    § 7.06 Nummer 1 ausgerüstet sein.
 
 
-2.  Das Radargerät muss nach Anhang IX Teil III, V und VI
-    baumustergeprüft, zugelassen und eingebaut sowie einer
-    Funktionsprüfung unterzogen sein.
+2.  Nummer 1 gilt nicht für Seeschiffe mit Seeradar.
 
 
 
@@ -766,7 +784,7 @@ sein.
 
 2.  Zusätzlich zu Anhang II § 10.05 muss für jede an Bord befindliche
     Person ein Platz in einem Sammelrettungsmittel nach Anhang XII Artikel
-    4 § 15.09 Nr. 5 vorhanden sein.
+    4 § 15.09 Nummer 5 in Verbindung mit Nummer 7 bis 9 vorhanden sein.
 
 
 
@@ -774,22 +792,38 @@ sein.
 
 #### § 6.06 Sonstige Ausrüstung
 
-An sonstigen Ausrüstungsgegenständen müssen an Bord sein:
+Folgende Ausrüstungsgegenstände müssen mindestens vorhanden sein:
 
-a)  die im Anhang II § 10.02 Nr. 1 Buchstabe a und d bis f sowie Nr. 2 und
-    3 aufgeführten Ausrüstungsgegenstände,
-
-
-b)  auf jedem Fahrzeug müssen zusätzlich Geräte und Vorrichtungen, die zum
-    Geben der in der Seeschifffahrtsstraßen-Ordnung und in der Verordnung
-    zu den Internationalen Regeln von 1972 zur Verhütung von
-    Zusammenstößen auf See vorgeschriebenen Sichtzeichen und Schallsignale
-    sowie zur Bezeichnung der Fahrzeuge erforderlich sind, vorhanden sein,
+a)  die im Anhang II § 10.02 Nummer 1 Satz 2 und 3, Nummer 2 und 3
+    aufgeführten Ausrüstungsgegenstände;
 
 
-c)  an Bord von Fahrzeugen mit Besatzung müssen zusätzlich die in § 13 Nr.
-    2 Buchstabe a der Schiffssicherheitsverordnung vorgeschriebenen
-    Seekarten vorhanden sein.
+b)  zusätzliche Geräte und Vorrichtungen, die zum Geben der in der
+    Seeschifffahrtsstraßen-Ordnung und in der Verordnung zu den
+    Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf
+    See vorgeschriebenen Sicht- und Schallsignale sowie zur Bezeichnung
+    der Fahrzeuge erforderlich sind;
+
+
+c)  vom Bordnetz unabhängige Ersatzlichter für die Nachtbezeichnung:
+
+    aa) der Fahrzeuge beim Stillliegen,
+
+
+    bb) manövrierunfähiger Fahrzeuge,
+
+
+    cc) stillliegender Schiffe mit bestimmten gefährlichen Gütern;
+
+
+
+
+
+d)  an Bord von Fahrzeugen mit Besatzung zusätzlich die in § 13 Absatz 1
+    Nummer 2 Buchstabe a der Schiffssicherheitsverordnung vorgeschriebenen
+    Seekarten; werden Seekarten in digitaler Form verwendet, so müssen
+    diese auf zugelassenen Inland-ECDIS-Geräten im Navigationsmodus nach
+    Anhang II § 7.06 Nummer 1 dargestellt werden.
 
 
 
@@ -888,9 +922,9 @@ In dieser Formel bedeuten:
 
 #### § 7.06 Rettungsmittel
 
-Abweichend von Anhang II § 15.09 Nr. 4 können Einzelrettungsmittel
-durch Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5
-ersetzt werden.
+Einzelrettungsmittel nach Anhang II § 15.09 Nummer 4 können durch
+Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nummer 5 in
+Verbindung mit Nummer 7 bis 9 ersetzt werden.
 
 
 ### Kapitel 8 - Sonderbestimmungen für Verbände und Containerverkehr
@@ -994,8 +1028,7 @@ bescheinigen.
         sein,
 
 
-    e)  ein Rettungsfloß oder eine Rettungsinsel nach Anhang XII Artikel 4 §
-        15\.09 Nr. 5,
+    e)  ein Rettungsfloß nach Anhang XII Artikel 4 § 15.09 Nummer 5, 7 bis 9,
 
 
     f)  ein Beiboot muss mit einer Laterne und einem wasserdichten Behälter
@@ -1018,8 +1051,8 @@ bescheinigen.
 #### § 10.08 Sonderbestimmungen für Fahrgastschiffe
 
 
-1.  Für Fahrgastschiffe auf Wasserstraßen der Zone 1 gilt Kapitel 7 unter
-    Berücksichtigung der Bestimmungen in §§ 10.05 bis 10.07.
+1.  Für Fahrgastschiffe auf Wasserstraßen der Zone 1 gelten die §§ 10.02
+    bis 10.04 nicht.
 
 
 2.  Eine anerkannte Klassifikationsgesellschaft muss bescheinigen, dass
@@ -1031,7 +1064,7 @@ bescheinigen.
 
 
 
-## Teil 4 -
+## Teil 4 - 
 
 
 ### Kapitel 11 - Übergangs- und Sonderbestimmungen
@@ -1045,10 +1078,10 @@ bescheinigen.
     erteilt wurde.
 
 
-2.  Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tag der
-    Erteilung ihres Zusätzlichen Gemeinschaftszeugnisses oder einer
-    anderen Verkehrszulassung den technischen Vorschriften der
-    Binnenschiffs-Untersuchungsordnung entsprechen.
+2.  Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tage der
+    Erteilung oder letzten Erneuerung ihres Gemeinschaftszeugnisses oder
+    einer anderen Verkehrszulassung den technischen Vorschriften der
+    Binnenschiffs-Untersuchungsordnung entsprochen haben.
 
 
 3.  Die Zusätzliche Gemeinschaftszeugnisse, die vor dem 30. Dezember 2008
@@ -1062,12 +1095,11 @@ bescheinigen.
 #### § 11.02 Abweichungen für Fahrzeuge, die schon in Betrieb sind
 
 
-1.  Unbeschadet der §§ 11.03 und 11.04 müssen Fahrzeuge, die den
-    Vorschriften dieses Anhangs nicht vollständig entsprechen, den nach
-    erstmaliger Erteilung ihres Gemeinschaftszeugnisses oder der anderen
-    Verkehrszulassung in Kraft getretenen Vorschriften gemäß den in
-    nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst
-    werden.
+1.  Fahrzeuge, die den Vorschriften dieses Anhangs nicht vollständig
+    entsprechen, müssen den nach erstmaliger Erteilung ihres
+    Gemeinschaftszeugnisses oder der anderen Verkehrszulassung in Kraft
+    getretenen Vorschriften nach den in nachstehender Tabelle aufgeführten
+    Übergangsbestimmungen angepasst werden.
 
 
 2.  In der nachstehenden Tabelle bedeuten
@@ -1152,21 +1184,19 @@ bescheinigen.
         Gemeinschaftszeugnisses nach dem 30.12.2049
 
 
-*    *   6.02
+*    *   6.02 Nr.1
 
     *   Kompass
 
-    *   Für Gütermotorschiffe und Tankmotorschiffe kleiner 45 m,
-        N.E.U., spätestens bei Erteilung oder Erneuerung des
+    *   N.E.U., spätestens bei Erteilung oder Erneuerung des Zusätzlichen
         Gemeinschaftszeugnisses nach dem 30.12.2029
 
 
-*    *   6.03
+*    *   6.03 Nr. 1
 
     *   Radar
 
-    *   Für Gütermotorschiffe und Tankmotorschiffe kleiner 90 m,
-        N.E.U., spätestens bei Erteilung oder Erneuerung des
+    *   N.E.U., spätestens bei Erteilung oder Erneuerung des Zusätzlichen
         Gemeinschaftszeugnisses nach dem 30.12.2029
 
 
@@ -1199,24 +1229,49 @@ bescheinigen.
 
 #### § 11.03 Sonstige Abweichungen
 
-Falls die Anwendung der in diesem Kapitel genannten Bestimmungen nach
-Ablauf der Übergangsbestimmungen praktisch schwer ausführbar ist oder
-unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
-aufgrund von Empfehlungen des Ausschusses Abweichungen von diesen
-Vorschriften gestatten. Diese Abweichungen sind in das Zusätzliche
-Gemeinschaftszeugnis einzutragen.
+
+1.  Wenn die Anwendung der in diesem Kapitel genannten Bestimmungen nach
+    Ablauf der Übergangsbestimmungen praktisch schwer ausführbar ist oder
+    unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
+    aufgrund von Empfehlungen des Ausschusses Abweichungen von diesen
+    Vorschriften gestatten. Diese Abweichungen sind in das Zusätzliche
+    Gemeinschaftszeugnis einzutragen.
+
+
+2.  Verweist diese Vorschrift bei den Beschaffenheitsanforderungen an
+    Ausrüstungsgegenstände auf eine Deutsche, Europäische oder
+    Internationale Norm, so dürfen nach einer Neufassung oder
+    Überarbeitung dieser Norm diese Ausrüstungsgegenstände noch längstens
+    20 Jahre nach Neufassung oder Überarbeitung der Norm weiter verwendet
+    werden.
+
+
+
 
 
 #### § 11.04 Übergangsbestimmung für Fahrzeuge nach Anhang II Kapitel 15, 17 und 21 sowie nach Anhang XII Artikel 5
 
 
-1.  Für ein Fahrzeug nach Anhang II Kapitel 15, 17 und 21 oder nach Anhang
-    XII Artikel 5 wird das Zusätzliche Gemeinschaftszeugnis nach einer
-    Untersuchung gemäß Anhang II § 2.09 Nr. 1, 3 und 4 erteilt, die nach
-    Ablauf des geltenden Zusätzlichen Gemeinschaftszeugnisses, jedoch
-    spätestens bis zum 30. Dezember 2018 durchgeführt wird, um
-    festzustellen, ob das Fahrzeug den technischen Vorschriften des
-    Anhangs III entspricht.
+1.  Abweichend von § 11.02 wird für
+
+    a)  Fahrgastschiffe nach Anhang II Kapitel 15,
+
+
+    b)  für schwimmende Geräte nach Anhang II Kapitel 17,
+
+
+    c)  für Sportboote nach Anhang II Kapitel 21 sowie
+
+
+    d)  für Segelfahrgastschiffe nach Anhang XII Artikel 5
+
+
+
+    das Zusätzliche Gemeinschaftszeugnis nach einer Untersuchung nach
+    Anhang II § 2.09 Nummer 1, 3 und 4 erteilt, die nach Ablauf des
+    geltenden Zusätzlichen Gemeinschaftszeugnisses, jedoch spätestens bis
+    zum 30. Dezember 2018 durchgeführt wird, um festzustellen, ob das
+    Fahrzeug den technischen Vorschriften dieses Anhangs entspricht.
 
 
 2.  Hält das Fahrzeug Anforderungen des Anhangs III Kapitel 1 bis 10 nicht
@@ -1236,8 +1291,9 @@ Gemeinschaftszeugnis einzutragen.
     Anhangs berührt sind. Zulässige Abweichungen sind nicht als
     Unzulänglichkeiten festzuhalten, die eine offenkundige Gefahr
     darstellen. Keine offenkundige Gefahr gilt als gegeben, wenn das
-    Fahrzeug den Bestimmungen der Binnenschiffsuntersuchungsordnung in der
-    Fassung vom 30. Dezember 2008 entspricht.
+    Fahrzeug zum Zeitpunkt der letzten Untersuchung den Bestimmungen der
+    Binnenschiffs-Untersuchungsordnung in der Fassung entsprochen hat, die
+    am 30. Dezember 2008 gegolten hat.
 
 
 4.  Der Ersatz bestehender Bauteile durch identische Teile oder Teile von

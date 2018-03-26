@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1795
 
 Zuletzt geändert durch
-:   Art. 491 V v. 31.10.2006 I 2407
+:   Art. 504 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -371,7 +371,7 @@ folgenden Kalendermonats in Kraft.
 (2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
 nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewandt werden, wenn und soweit dies das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung bestimmt.
+Verkehr und digitale Infrastruktur durch Rechtsverordnung bestimmt.
 
 
 ## Anlage 1 (zu § 5 Abs. 2)

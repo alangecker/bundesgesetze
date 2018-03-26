@@ -14,8 +14,9 @@ Ausfertigungsdatum
 :   1984-10-11
 
 Fundstelle
-:   GBl DDR I: 1984, 348
+:   GBl DDR I: 1984, 348 (1987 I 196)
 
+Stand: Best. aufgeh.durch Art. 32 Abs. 3 Nr. 1 G v. 27.6.2017 I 1966 mWv 1.1.2019
 
 
 ## Eingangsformel
@@ -1927,7 +1928,7 @@ Diese Durchführungsbestimmung tritt am 1. Februar 1985 in Kraft.
 Strahlenschutz der Deutschen Demokratischen Republik**
 
 
-### Anlage 1 Neutronenflußdichte in *A cm(hoch)-2 x s(hoch)-1 für eine Äquivalentdosisleistung *1) von 1 *A mySv x h(hoch)-1 und effektiver Qualitätsfaktor *A Q in Abhängigkeit von der Neutronenenergie
+### Anlage 1 Neutronenflußdichte in \*A cm(hoch)-2 x s(hoch)-1 für eine Äquivalentdosisleistung \*1) von 1 \*A mySv x h(hoch)-1 und effektiver Qualitätsfaktor \*A Q in Abhängigkeit von der Neutronenenergie
 
 
 *    *   Neutronenenergie\*2) in MeV
@@ -2114,8 +2115,9 @@ in der Tiefe, in der maximale Äquivalentdosis auftritt.
 Fundstelle: GBl. I 1984, Nr. 30, S. 358 - 372,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1226)
+### Anhang EV (BGBl. II 1990, 889, 1226)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

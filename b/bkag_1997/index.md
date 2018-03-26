@@ -18,11 +18,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1650
 
-Zuletzt geändert durch
-:   Art. 3 G v. 21.7.2012 I 1566
+G aufgeh. durch
+:   Art. 13 Abs. 2 G v. 1.6.2017 mWv 25.5.2018
 
-Mittelbare änderung durch
-:   Art. 6 Nr. 1 G v. 6.6.2009 I 1226 ist berücksichtigt
+Stand: Zuletzt geändert Art. 2 G v. 1.6.2017 I 1354
+Ersetzt durch
+:   G 2190-3 v. 1.6.2017 I 1354 (BKAG 2018)
 
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
@@ -197,16 +198,18 @@ Gebiet der Strafverfolgung wahr
     nicht feststeht,
 
 
-5.  in den Fällen von Straftaten nach § 303b des Strafgesetzbuches, soweit
-    tatsächliche Anhaltspunkte dafür vorliegen, dass die Tat sich gegen
+5.  in den Fällen von Straftaten nach den §§ 202a, 202b, 202c, 263a, 303a
+    und 303b des Strafgesetzbuches, soweit tatsächliche Anhaltspunkte
+    dafür vorliegen, dass die Tat sich gegen
 
     a)  die innere oder äußere Sicherheit der Bundesrepublik Deutschland oder
 
 
-    b)  sicherheitsempfindliche Stellen von lebenswichtigen Einrichtungen, bei
-        deren Ausfall oder Zerstörung eine erhebliche Bedrohung für die
-        Gesundheit oder das Leben von Menschen zu befürchten ist oder die für
-        das Funktionieren des Gemeinwesens unverzichtbar sind,
+    b)  Behörden oder Einrichtungen des Bundes oder sicherheitsempfindliche
+        Stellen von lebenswichtigen Einrichtungen, bei deren Ausfall oder
+        Zerstörung eine erhebliche Bedrohung für die Gesundheit oder das Leben
+        von Menschen zu befürchten ist oder die für das Funktionieren des
+        Gemeinwesens unverzichtbar sind,
 
 
 
@@ -375,20 +378,66 @@ Voraussetzungen des Satzes 1 Daten erheben. In anhängigen
 Strafverfahren steht dem Bundeskriminalamt diese Befugnis nur im
 Einvernehmen mit der zuständigen Strafverfolgungsbehörde zu.
 
-(3) Das Bundeskriminalamt kann in den Fällen, in denen in einer Datei
+(3) Soweit dies nach Maßgabe von Absatz 2 zur Erfüllung der Aufgabe
+des Bundeskriminalamtes als Zentralstelle nach § 2 Absatz 2 Nummer 1
+erforderlich ist, darf von demjenigen, der geschäftsmäßig
+Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über
+die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen
+Daten verlangt werden (§ 113 Absatz 1 Satz 1 des
+Telekommunikationsgesetzes). Bezieht sich das Auskunftsverlangen nach
+Satz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf
+Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich
+getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des
+Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden,
+wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten
+vorliegen.
+
+(4) Die Auskunft nach Absatz 3 darf auch anhand einer zu einem
+bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
+werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes).
+
+(5) Auskunftsverlangen nach Absatz 3 Satz 2 dürfen nur auf Antrag des
+Präsidenten des Bundeskriminalamtes oder seines Vertreters durch das
+Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung
+durch den Präsidenten des Bundeskriminalamtes oder seinen Vertreter
+getroffen werden. In diesem Fall ist die gerichtliche Entscheidung
+unverzüglich nachzuholen. Die Sätze 1 bis 3 finden keine Anwendung,
+wenn der Betroffene vom Auskunftsverlangen bereits Kenntnis hat oder
+haben muss oder wenn die Nutzung der Daten bereits durch eine
+gerichtliche Entscheidung gestattet wird. Das Vorliegen der
+Voraussetzungen nach Satz 4 ist aktenkundig zu machen. § 20v Absatz 2
+gilt entsprechend.
+
+(6) Die betroffene Person ist in den Fällen des Absatzes 3 Satz 2 und
+des Absatzes 4 über die Beauskunftung zu benachrichtigen. Die
+Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der
+Auskunft nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende
+schutzwürdige Belange Dritter oder der betroffenen Person selbst
+entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt
+oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu
+machen.
+
+(7) Auf Grund eines Auskunftsverlangens nach Absatz 3 oder 4 hat
+derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder
+daran mitwirkt, die zur Auskunftserteilung erforderlichen Daten
+unverzüglich zu übermitteln. Für die Entschädigung der Diensteanbieter
+ist § 23 des Justizvergütungs- und -entschädigungsgesetzes
+entsprechend anzuwenden.
+
+(8) Das Bundeskriminalamt kann in den Fällen, in denen in einer Datei
 bereits Daten zu einer Person gespeichert sind, hierzu auch solche
 personengebundenen Hinweise speichern, die zum Schutz dieser Person
 oder zur Eigensicherung von Beamten erforderlich sind.
 
-(4) Werden Bewertungen in Dateien gespeichert, muß feststellbar sein,
+(9) Werden Bewertungen in Dateien gespeichert, muß feststellbar sein,
 bei welcher Stelle die Unterlagen geführt werden, die der Bewertung
 zugrunde liegen.
 
-(5) Das Bundeskriminalamt kann die bei der Zentralstelle gespeicherten
-Daten, soweit erforderlich, auch zur Erfüllung seiner Aufgaben nach
-den §§ 4 bis 6 nutzen.
+(10) Das Bundeskriminalamt kann die bei der Zentralstelle
+gespeicherten Daten, soweit erforderlich, auch zur Erfüllung seiner
+Aufgaben nach den §§ 4 bis 6 nutzen.
 
-(6) Das Bundesministerium des Innern bestimmt mit Zustimmung des
+(11) Das Bundesministerium des Innern bestimmt mit Zustimmung des
 Bundesrates durch Rechtsverordnung das Nähere über die Art der Daten,
 die nach den §§ 8 und 9 gespeichert werden dürfen.
 
@@ -522,8 +571,9 @@ Erkenntnissen zu
     Strafgesetzbuchs,
 
 
-3.  Straftaten nach § 34 Abs. 1 bis 6 des Außenwirtschaftsgesetzes, soweit
-    es sich um einen Fall von besonderer Bedeutung handelt, oder
+3.  vorsätzliche Straftaten nach den §§ 17 und 18 des
+    Außenwirtschaftsgesetzes, soweit es sich um einen Fall von besonderer
+    Bedeutung handelt, oder
 
 
 4.  Straftaten, die mit Straftaten nach den Nummern 1 bis 3 in einem
@@ -534,7 +584,7 @@ Erkenntnissen zu
 Personenbezogene Daten zu Straftaten nach Satz 2 dürfen unter Einsatz
 der gemeinsamen Datei durch die an der projektbezogenen Zusammenarbeit
 beteiligten Behörden im Rahmen ihrer Befugnisse verwendet werden,
-soweit dies in diesem zusammenhang zur Erfüllung ihrer Aufgaben
+soweit dies in diesem Zusammenhang zur Erfüllung ihrer Aufgaben
 erforderlich ist. Bei der weiteren Verwendung der personenbezogenen
 Daten finden für die beteiligten Behörden die jeweils für sie
 geltenden Vorschriften über die Verwendung von Daten Anwendung.
@@ -557,10 +607,10 @@ Bundeskriminalamt die Auskunft im Einvernehmen mit der nach § 12 Abs.
 der Auskunftserteilung nach den für sie geltenden Bestimmungen prüft.
 
 (4) Eine gemeinsame Datei nach Absatz 1 ist auf höchstens zwei Jahre
-zu befristen. Die Frist kann zweimalig um bis zu jeweils einem Jahr
-verlängert werden, wenn das Ziel der projektbezogenen Zusammenarbeit
-bei Projektende noch nicht erreicht worden ist und die Datei weiterhin
-für die Erreichung des Ziels erforderlich ist.
+zu befristen. Die Frist kann um zwei Jahre und danach um ein weiteres
+Jahr verlängert werden, wenn das Ziel der projektbezogenen
+Zusammenarbeit bei Projektende noch nicht erreicht worden ist und die
+Datei weiterhin für die Erreichung des Ziels erforderlich ist.
 
 (5) Für die Berichtigung, Sperrung und Löschung personenbezogener
 Daten durch die Behörde, die die Daten eingegeben hat, gelten die
@@ -683,11 +733,10 @@ unzulässig.
 
 (1) Das Bundeskriminalamt ist im Rahmen seiner Aufgabe nach § 2 Abs. 3
 Zentralstelle für den elektronischen Datenverbund zwischen Bund und
-Ländern. Die Auswertung der Protokolldaten ist nach dem Stand der
-Technik zu gewährleisten. Das Bundesministerium des Innern bestimmt im
-Einvernehmen mit den Innenministerien und Senatsinnenverwaltungen der
-Länder die in das polizeiliche Informationssystem einzubeziehenden
-Dateien. § 36 bleibt unberührt.
+Ländern. Das Bundesministerium des Innern bestimmt im Einvernehmen mit
+den Innenministerien und Senatsinnenverwaltungen der Länder die in das
+polizeiliche Informationssystem einzubeziehenden Dateien. § 36 bleibt
+unberührt.
 
 (2) Zur Teilnahme am polizeilichen Informationssystem mit dem Recht,
 Daten zur Erfüllung der Verpflichtung nach § 13 im automatisierten
@@ -732,9 +781,9 @@ Verfahren abzurufen:
 
 
 Das Bundesministerium des Innern wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium der Justiz durch Rechtsverordnung, die der
-Zustimmung des Bundesrates bedarf, weitere im polizeilichen
-Informationssystem gespeicherte Daten, die von den
+dem Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, weitere
+im polizeilichen Informationssystem gespeicherte Daten, die von den
 Staatsanwaltschaften zur Erfüllung ihrer Aufgaben benötigt werden, zum
 automatisierten Abruf freizugeben, soweit diese Form der
 Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen
@@ -1078,7 +1127,7 @@ zulässig wären.
 (3) Das Bundeskriminalamt holt in Fällen des Absatzes 1, denen
 besondere Bedeutung in politischer, tatsächlicher oder rechtlicher
 Beziehung zukommt, zuvor die Bewilligung des Bundesministeriums der
-Justiz ein.
+Justiz und für Verbraucherschutz ein.
 
 (4) Das Bundeskriminalamt kann auf Ersuchen der in § 14 Abs. 1
 genannten Behörden
@@ -1135,6 +1184,56 @@ oder wesentliche Vermögenswerte abzuwehren, und die Zuständigkeit
 eines Landes nicht festgestellt werden kann. Absatz 5 Satz 3 bis 5 und
 Absatz 6 gelten entsprechend. Die Innenministerien und
 Senatsinnenverwaltungen der Länder sind unverzüglich zu unterrichten.
+
+
+#### § 15a Nachträgliche Benachrichtigung über Ausschreibungen zur verdeckten Kontrolle im Schengener Informationssystem
+
+(1) Ist eine Ausschreibung zur verdeckten Kontrolle nach Artikel 36
+Abs. 1 des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über
+die Einrichtung, den Betrieb und die Nutzung des Schengener
+Informationssystems der zweiten Generation (SIS II) durch eine Stelle
+der Bundesrepublik Deutschland in das Schengener Informationssystem
+eingegeben worden, hat das Bundeskriminalamt im Einvernehmen mit der
+Stelle, die die Ausschreibung veranlasst hat, die betroffene Person
+nach Beendigung der Ausschreibung über diese Ausschreibung zu
+benachrichtigen, soweit die Benachrichtigung nicht auf Grund anderer
+besonderer gesetzlicher Bestimmungen vorgesehen ist. Die
+Benachrichtigung unterbleibt, solange dadurch die Durchführung einer
+rechtmäßigen Aufgabe im Zusammenhang mit der Ausschreibung gefährdet
+würde. Die Stelle, die die Ausschreibung veranlasst hat, unterrichtet
+das Bundeskriminalamt über die Löschung und darüber, ob die betroffene
+Person benachrichtigt werden kann. Erfolgt die nach Satz 2
+zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach
+Beendigung der Ausschreibung, bedürfen weitere Zurückstellungen auf
+Antrag der Stelle, die die Ausschreibung veranlasst hat, der
+gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer weiterer
+Zurückstellungen. Fünf Jahre nach Beendigung der Ausschreibung kann es
+dem endgültigen Absehen von der Benachrichtigung zustimmen, wenn die
+Voraussetzungen für eine Benachrichtigung mit an Sicherheit grenzender
+Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Die
+Zuständigkeit des Gerichts bestimmt sich nach dem jeweils für die
+Stelle, die die Ausschreibung veranlasst hat, geltenden Bundes- oder
+Landesrecht. Ist insoweit keine Regelung getroffen, ist das
+Amtsgericht zuständig, in dessen Bezirk die Stelle, die die
+Ausschreibung veranlasst hat, ihren Sitz hat. In diesem Fall gelten
+für das Verfahren die Bestimmungen des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit entsprechend.
+
+(2) Im Falle einer Ausschreibung nach § 17 Abs. 3 des
+Bundesverfassungsschutzgesetzes erfolgt die Benachrichtigung
+abweichend von Absatz 1 durch die Stelle, die die Ausschreibung
+veranlasst hat, nach Beendigung der Ausschreibung, sobald eine
+Gefährdung des Zwecks der Ausschreibung ausgeschlossen werden kann.
+
+(3) Bei Ausschreibungen zur verdeckten Kontrolle durch ausländische
+Stellen hat das Bundeskriminalamt eine Auskunft, die gemäß Artikel 58
+Abs. 3 und 4 des Beschlusses 2007/533/JI des Rates unterblieben ist,
+nachträglich zu erteilen, wenn die der Auskunftserteilung
+entgegenstehenden Umstände entfallen sind. Es hat dies im
+Zusammenwirken mit der Stelle, die die Ausschreibung veranlasst hat,
+spätestens zum vorgesehenen Zeitpunkt der Löschung im nationalen Teil
+des Schengener Informationssystems zu prüfen.
 
 
 ### Unterabschnitt 3 - Strafverfolgung und Datenspeicherung für Zwecke künftiger Strafverfahren
@@ -1316,7 +1415,52 @@ Annahme rechtfertigen, dass
 
 
 
-(3) § 21 Abs. 3 und 4 des Bundespolizeigesetzes gilt entsprechend.
+(3) Soweit dies für die Erforschung des Sachverhalts oder die
+Ermittlung des Aufenthaltsortes einer Person nach Maßgabe der Absätze
+1 und 2 erforderlich ist, darf von demjenigen, der geschäftsmäßig
+Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über
+die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen
+Daten verlangt werden (§ 113 Absatz 1 Satz 1 des
+Telekommunikationsgesetzes). Bezieht sich das Auskunftsverlangen nach
+Satz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf
+Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich
+getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des
+Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden,
+wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten
+vorliegen.
+
+(4) Die Auskunft nach Absatz 3 darf auch anhand einer zu einem
+bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
+werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes).
+
+(5) Auskunftsverlangen nach Absatz 3 Satz 2 dürfen nur auf Antrag des
+Präsidenten des Bundeskriminalamtes oder seines Vertreters durch das
+Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung
+durch den Präsidenten des Bundeskriminalamtes oder seinen Vertreter
+getroffen werden. In diesem Fall ist die gerichtliche Entscheidung
+unverzüglich nachzuholen. Die Sätze 1 bis 3 finden keine Anwendung,
+wenn der Betroffene vom Auskunftsverlangen bereits Kenntnis hat oder
+haben muss oder wenn die Nutzung der Daten bereits durch eine
+gerichtliche Entscheidung gestattet wird. Das Vorliegen der
+Voraussetzungen nach Satz 4 ist aktenkundig zu machen.
+
+(6) Die betroffene Person ist in den Fällen des Absatzes 3 Satz 2 und
+des Absatzes 4 über die Beauskunftung zu benachrichtigen. Die
+Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der
+Auskunft nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende
+schutzwürdige Belange Dritter oder der betroffenen Person selbst
+entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt
+oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu
+machen.
+
+(7) Auf Grund eines Auskunftsverlangens nach Absatz 3 oder 4 hat
+derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder
+daran mitwirkt, die zur Auskunftserteilung erforderlichen Daten
+unverzüglich zu übermitteln. Für die Entschädigung der Diensteanbieter
+ist § 23 des Justizvergütungs- und -entschädigungsgesetzes
+entsprechend anzuwenden.
+
+(8) § 21 Abs. 3 und 4 des Bundespolizeigesetzes gilt entsprechend.
 
 
 #### § 20c Befragung und Auskunftspflicht
@@ -2271,8 +2415,9 @@ anderes bestimmt ist, die nachstehenden Regelungen.
 
 (2) Für gerichtliche Entscheidungen ist das Amtsgericht zuständig, in
 dessen Bezirk das Bundeskriminalamt seinen Sitz hat. Für das Verfahren
-gelten die Bestimmungen des Gesetzes über die Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend.
+gelten die Bestimmungen des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit entsprechend.
 
 (3) Die durch Maßnahmen nach den §§ 20g bis 20n erhobenen
 personenbezogenen Daten sind zu kennzeichnen. Nach einer Übermittlung
@@ -2494,6 +2639,283 @@ Bundesverfassungsschutzgesetzes, des BND-Gesetzes und des MAD-Gesetzes
 bleiben unberührt.
 
 
+#### § 20y Aufenthaltsvorgabe, Kontaktverbot
+
+(1) Das Bundeskriminalamt kann zur Abwehr einer Gefahr oder zur
+Verhütung von Straftaten nach § 4a Absatz 1 Satz 2 einer Person
+untersagen, sich ohne Erlaubnis des Bundeskriminalamtes von ihrem
+Wohn- oder Aufenthaltsort oder aus einem bestimmten Bereich zu
+entfernen oder sich an bestimmten Orten aufzuhalten
+(Aufenthaltsvorgabe), wenn
+
+1.  bestimmte Tatsachen die Annahme rechtfertigen, dass die betroffene
+    Person innerhalb eines übersehbaren Zeitraums auf eine zumindest ihrer
+    Art nach konkretisierte Weise eine Straftat nach § 4a Absatz 1 Satz 2
+    begehen wird oder
+
+
+2.  das individuelle Verhalten der betroffenen Person die konkrete
+    Wahrscheinlichkeit begründet, dass sie innerhalb eines übersehbaren
+    Zeitraums eine Straftat nach § 4a Absatz 1 Satz 2 begehen wird.
+
+
+
+
+(2) Unter den Voraussetzungen des Absatzes 1 kann das
+Bundeskriminalamt zur Abwehr einer Gefahr oder zur Verhütung von
+Straftaten nach § 4a Absatz 1 Satz 2 einer Person auch den Kontakt mit
+bestimmten Personen oder Personen einer bestimmten Gruppe untersagen
+(Kontaktverbot).
+
+(3) Maßnahmen nach den Absätzen 1 und 2 dürfen nur auf Antrag der
+zuständigen Abteilungsleitung oder deren Vertretung durch das Gericht
+angeordnet werden. Bei Gefahr im Verzug kann die Anordnung durch die
+zuständige Abteilungsleitung oder deren Vertretung getroffen werden.
+In diesem Fall ist die gerichtliche Entscheidung unverzüglich
+nachzuholen. Soweit die Anordnung nicht binnen drei Tagen durch das
+Gericht bestätigt wird, tritt sie außer Kraft.
+
+(4) Im Antrag sind anzugeben:
+
+1.  die Person, gegen die sich die Maßnahme richtet, mit Name und
+    Anschrift,
+
+
+2.  Art, Umfang und Dauer der Maßnahme, einschließlich
+
+    a)  im Falle der Aufenthaltsvorgabe nach Absatz 1 einer Bezeichnung der
+        Orte nach Absatz 1, von denen sich die Person ohne Erlaubnis des
+        Bundeskriminalamtes nicht entfernen oder an denen sich die Person ohne
+        Erlaubnis des Bundeskriminalamtes nicht aufhalten darf,
+
+
+    b)  im Falle des Kontaktverbots nach Absatz 2 der Personen oder Gruppe,
+        mit denen oder mit der der betroffenen Person der Kontakt untersagt
+        ist, soweit möglich, mit Name und Anschrift,
+
+
+
+
+
+3.  der Sachverhalt sowie
+
+
+4.  eine Begründung.
+
+
+
+
+(5) Die Anordnung ergeht schriftlich. In ihr sind anzugeben:
+
+1.  die Person, gegen die sich die Maßnahme richtet, mit Name und
+    Anschrift,
+
+
+2.  Art, Umfang und Dauer der Maßnahme, einschließlich
+
+    a)  im Falle der Aufenthaltsvorgabe nach Absatz 1 einer Bezeichnung der
+        Orte nach Absatz 1, von denen sich die Person ohne Erlaubnis des
+        Bundeskriminalamtes nicht entfernen oder an denen sich die Person ohne
+        Erlaubnis des Bundeskriminalamtes nicht aufhalten darf,
+
+
+    b)  im Falle des Kontaktverbots nach Absatz 2 der Personen oder Gruppe,
+        mit denen oder mit der der betroffenen Person der Kontakt untersagt
+        ist, soweit möglich, mit Name und Anschrift,
+
+
+
+
+
+3.  die wesentlichen Gründe.
+
+
+
+
+(6) Aufenthaltsvorgaben und Kontaktverbote sind auf den zur Abwehr der
+Gefahr oder zur Verhütung von Straftaten nach § 4a Absatz 1 Satz 2
+erforderlichen Umfang zu beschränken. Sie sind auf höchstens drei
+Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als drei
+Monate ist möglich, soweit ihre Voraussetzungen fortbestehen. Liegen
+die Voraussetzungen für die Aufenthaltsvorgabe oder das Kontaktverbot
+nicht mehr vor, ist die Maßnahme unverzüglich zu beenden.
+
+(7) Die Vorschriften des Versammlungsrechts bleiben unberührt.
+
+
+#### § 20z Elektronische Aufenthaltsüberwachung
+
+(1) Das Bundeskriminalamt kann eine Person dazu verpflichten, ein
+technisches Mittel, mit dem der Aufenthaltsort dieser Person
+elektronisch überwacht werden kann, ständig in betriebsbereitem
+Zustand am Körper bei sich zu führen und dessen Funktionsfähigkeit
+nicht zu beeinträchtigen, wenn
+
+1.  bestimmte Tatsachen die Annahme rechtfertigen, dass diese Person
+    innerhalb eines übersehbaren Zeitraums auf eine zumindest ihrer Art
+    nach konkretisierte Weise eine Straftat nach § 4a Absatz 1 Satz 2
+    begehen wird, oder
+
+
+2.  deren individuelles Verhalten eine konkrete Wahrscheinlichkeit dafür
+    begründet, dass sie innerhalb eines übersehbaren Zeitraums eine
+    Straftat nach § 4a Absatz 1 Satz 2 begehen wird,
+
+
+
+um diese Person durch die Überwachung und die Datenverwendung von der
+Begehung dieser Straftaten abzuhalten.
+
+(2) Das Bundeskriminalamt verarbeitet mit Hilfe der von der
+betroffenen Person mitgeführten technischen Mittel automatisiert Daten
+über deren Aufenthaltsort sowie über etwaige Beeinträchtigungen der
+Datenerhebung. Soweit es technisch möglich ist, ist sicherzustellen,
+dass innerhalb der Wohnung der betroffenen Person keine über den
+Umstand ihrer Anwesenheit hinausgehenden Aufenthaltsdaten erhoben
+werden. Die Daten dürfen ohne Einwilligung der betroffenen Person nur
+verwendet werden, soweit dies erforderlich ist für die folgenden
+Zwecke:
+
+1.  zur Verhütung oder zur Verfolgung von Straftaten nach § 4a Absatz 1
+    Satz 2,
+
+
+2.  zur Feststellung von Verstößen gegen Aufenthaltsvorgaben nach § 20y
+    Absatz 1 und Kontaktverbote nach § 20y Absatz 2,
+
+
+3.  zur Verfolgung einer Straftat nach § 39,
+
+
+4.  zur Abwehr einer erheblichen gegenwärtigen Gefahr für Leib, Leben oder
+    Freiheit einer dritten Person,
+
+
+5.  zur Aufrechterhaltung der Funktionsfähigkeit der technischen Mittel.
+
+
+
+Zur Einhaltung der Zweckbindung nach Satz 3 hat die Verarbeitung der
+Daten automatisiert zu erfolgen und es sind die Daten gegen unbefugte
+Kenntnisnahme besonders zu sichern. Die in Satz 1 genannten Daten sind
+spätestens zwei Monate nach ihrer Erhebung zu löschen, soweit sie
+nicht für die in Satz 3 genannten Zwecke verwendet werden. Bei jedem
+Abruf der Daten sind zumindest der Zeitpunkt, die abgerufenen Daten
+und der Bearbeiter zu protokollieren. Die Protokolldaten dürfen nur
+für die Kontrolle der Zulässigkeit der Abrufe verwendet werden und
+sind nach zwölf Monaten zu löschen. Werden innerhalb der Wohnung der
+betroffenen Person über den Umstand ihrer Anwesenheit hinausgehende
+Aufenthaltsdaten erhoben, dürfen diese nicht verwendet werden und sind
+unverzüglich nach Kenntnisnahme zu löschen. Die Tatsache ihrer
+Kenntnisnahme und Löschung ist zu dokumentieren. Die Dokumentation
+darf ausschließlich für Zwecke der Datenschutzkontrolle verwendet
+werden. Sie ist nach Abschluss der Datenschutzkontrolle zu löschen.
+
+(3) Die zuständigen Polizeibehörden des Bundes und der Länder sowie
+sonstige öffentliche Stellen übermitteln dem Bundeskriminalamt
+personenbezogene Daten über die betroffene Person, soweit dies zur
+Durchführung der Maßnahme nach den Absätzen 1 und 2 erforderlich ist.
+Das Bundeskriminalamt kann zu diesem Zwecke auch bei anderen Stellen
+personenbezogene Daten über die betroffene Person erheben.
+
+(4) Zur Durchführung der Maßnahme nach Absatz 1 hat das
+Bundeskriminalamt
+
+1.  Daten des Aufenthaltsortes der betroffenen Person an die zuständigen
+    Polizei- und Strafverfolgungsbehörden weiterzugeben, wenn dies zur
+    Verhütung oder zur Verfolgung einer Straftat nach § 4a Absatz 1 Satz 2
+    erforderlich ist,
+
+
+2.  Daten des Aufenthaltsortes der betroffenen Person an die zuständigen
+    Polizeibehörden weiterzugeben, sofern dies zur Durchsetzung von
+    Maßnahmen nach Absatz 2 Satz 3 Nummer 2 erforderlich ist,
+
+
+3.  Daten des Aufenthaltsortes der betroffenen Person an die zuständige
+    Strafverfolgungsbehörde zur Verfolgung einer Straftat nach § 39
+    weiterzugeben,
+
+
+4.  Daten des Aufenthaltsortes der betroffenen Person an zuständige
+    Polizeibehörden weiterzugeben, sofern dies zur Abwehr einer
+    erheblichen gegenwärtigen Gefahr im Sinne von Absatz 2 Satz 3 Nummer 4
+    erforderlich ist,
+
+
+5.  eingehende Systemmeldungen über Verstöße nach Absatz 2 Satz 3 Nummer 2
+    entgegenzunehmen und zu bewerten,
+
+
+6.  die Ursache einer Meldung zu ermitteln; hierzu kann das
+    Bundeskriminalamt Kontakt mit der betroffenen Person aufnehmen, sie
+    befragen, sie auf den Verstoß hinweisen und ihr mitteilen, wie sie
+    dessen Beendigung bewirken kann,
+
+
+7.  eine Überprüfung der bei der betroffenen Person vorhandenen
+    technischen Geräte auf ihre Funktionsfähigkeit oder Manipulation und
+    die zu der Behebung einer Funktionsbeeinträchtigung erforderlichen
+    Maßnahmen, insbesondere den Austausch der technischen Mittel oder von
+    Teilen davon, einzuleiten,
+
+
+8.  Anfragen der betroffenen Person zum Umgang mit den technischen Mitteln
+    zu beantworten.
+
+
+
+
+(5) Maßnahmen nach Absatz 1 dürfen nur auf Antrag der zuständigen
+Abteilungsleitung oder deren Vertretung durch das Gericht angeordnet
+werden. Bei Gefahr im Verzug kann die Anordnung durch die zuständige
+Abteilungsleitung oder deren Vertretung getroffen werden. In diesem
+Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen.
+Soweit die Anordnung nicht binnen drei Tagen durch das Gericht
+bestätigt wird, tritt sie außer Kraft.
+
+(6) Im Antrag sind anzugeben:
+
+1.  die Person, gegen die sich die Maßnahme richtet, mit Name und
+    Anschrift,
+
+
+2.  Art, Umfang und Dauer der Maßnahme,
+
+
+3.  die Angabe, ob gegenüber der Person, gegen die sich die Maßnahme
+    richtet, eine Aufenthaltsvorgabe oder ein Kontaktverbot besteht,
+
+
+4.  der Sachverhalt sowie
+
+
+5.  eine Begründung.
+
+
+
+
+(7) Die Anordnung ergeht schriftlich. In ihr sind anzugeben:
+
+1.  die Person, gegen die sich die Maßnahme richtet, mit Name und
+    Anschrift,
+
+
+2.  Art, Umfang und Dauer der Maßnahme sowie
+
+
+3.  die wesentlichen Gründe.
+
+
+
+
+(8) Die Anordnung ist auf höchstens drei Monate zu befristen. Eine
+Verlängerung um jeweils nicht mehr als drei Monate ist möglich, soweit
+die Anordnungsvoraussetzungen fortbestehen. Liegen die Voraussetzungen
+der Anordnung nicht mehr vor, ist die Maßnahme unverzüglich zu
+beenden.
+
+
 ### Unterabschnitt 4 - Schutz von Mitgliedern der Verfassungsorgane
 
 
@@ -2580,9 +3002,54 @@ verhindern. § 40 Abs. 1 und 2, die §§ 41 und 42 Abs. 1 Satz 1 und Abs.
 
 #### § 22 Erhebung personenbezogener Daten
 
-Das Bundeskriminalamt kann personenbezogene Daten erheben, soweit dies
-zur Erfüllung seiner Aufgaben nach § 5 erforderlich ist. § 21 Abs. 3
-und 4 des Bundespolizeigesetzes gilt entsprechend.
+(1) Das Bundeskriminalamt kann personenbezogene Daten erheben, soweit
+dies zur Erfüllung seiner Aufgaben nach § 5 erforderlich ist. § 21
+Absatz 3 und 4 des Bundespolizeigesetzes gilt entsprechend.
+
+(2) Soweit dies für die Aufgabenwahrnehmung nach § 5 des
+Bundeskriminalamtgesetzes erforderlich ist, darf von demjenigen, der
+geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt,
+Auskunft über die nach den §§ 95 und 111 des
+Telekommunikationsgesetzes erhobenen Daten verlangt werden (§ 113
+Absatz 1 Satz 1 des Telekommunikationsgesetzes). Bezieht sich das
+Auskunftsverlangen nach Satz 1 auf Daten, mittels derer der Zugriff
+auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten
+oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§
+113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft
+nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die
+Nutzung der Daten vorliegen.
+
+(3) Die Auskunft nach Absatz 2 darf auch anhand einer zu einem
+bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
+werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes).
+
+(4) Auskunftsverlangen nach Absatz 2 Satz 2 dürfen nur auf Antrag des
+Präsidenten des Bundeskriminalamtes oder seines Vertreters durch das
+Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung
+durch den Präsidenten des Bundeskriminalamtes oder seinen Vertreter
+getroffen werden. In diesem Fall ist die gerichtliche Entscheidung
+unverzüglich nachzuholen. Die Sätze 1 bis 3 finden keine Anwendung,
+wenn der Betroffene vom Auskunftsverlangen bereits Kenntnis hat oder
+haben muss oder wenn die Nutzung der Daten bereits durch eine
+gerichtliche Entscheidung gestattet wird. Das Vorliegen der
+Voraussetzungen nach Satz 4 ist aktenkundig zu machen. § 20v Absatz 2
+gilt entsprechend.
+
+(5) Die betroffene Person ist in den Fällen des Absatzes 2 Satz 2 und
+des Absatzes 3 über die Beauskunftung zu benachrichtigen. Die
+Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der
+Auskunft nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende
+schutzwürdige Belange Dritter oder der betroffenen Person selbst
+entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt
+oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu
+machen.
+
+(6) Auf Grund eines Auskunftsverlangens nach Absatz 2 oder 3 hat
+derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder
+daran mitwirkt, die zur Auskunftserteilung erforderlichen Daten
+unverzüglich zu übermitteln. Für die Entschädigung der Diensteanbieter
+ist § 23 des Justizvergütungs- und -entschädigungsgesetzes
+entsprechend anzuwenden.
 
 
 #### § 23 Besondere Mittel der Datenerhebung
@@ -3059,7 +3526,7 @@ unerläßlich ist.
 
 (5) Anstelle der Vernichtung nach Absatz 2 Satz 2 sind die Akten an
 das zuständige Archiv abzugeben, sofern diesen Unterlagen bleibender
-Wert im Sinne des § 3 des Bundesarchivgesetzes zukommt.
+Wert im Sinne des § 1 Nummer 10 des Bundesarchivgesetzes zukommt.
 
 (6) § 32 Abs. 6 bis 8 gilt entsprechend.
 
@@ -3153,4 +3620,29 @@ des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses
 (Artikel 10 des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1
 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13
 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
+
+
+## Abschnitt 4 - Strafvorschriften
+
+
+
+### § 39 Strafvorschriften
+
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
+bestraft, wer
+
+1.  einer vollstreckbaren gerichtlichen Anordnung nach § 20y Absatz 3 Satz
+    1 oder einer vollziehbaren Anordnung nach § 20y Absatz 3 Satz 2
+    zuwiderhandelt und dadurch den Zweck der Anordnung gefährdet oder
+
+
+2.  einer vollstreckbaren gerichtlichen Anordnung nach § 20z Absatz 5 Satz
+    1 oder einer vollziehbaren Anordnung nach § 20z Absatz 5 Satz 2
+    zuwiderhandelt und dadurch die kontinuierliche Feststellung seines
+    Aufenthaltsortes durch das Bundeskriminalamt verhindert.
+
+
+
+
+(2) Die Tat wird nur auf Antrag des Bundeskriminalamtes verfolgt.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1526
 
 Zuletzt geändert durch
-:   Art. 2 V v. 24.11.2008 I 2232
+:   Art. 9 Abs. 4 G v. 3.12.2015 I 2178
 
 
 ## Eingangsformel
@@ -280,7 +280,7 @@ nachfolgenden Vorschriften eingehalten sind.
 grundsätzlich nur zugelassen, wenn im Freihafen vorhandene Anlagen
 sonst nicht wirtschaftlich ausgenutzt werden können und der Freihafen
 durch die Lagerung seinem Zweck nicht entfremdet wird. Für die
-Zulassung ist das von der Oberfinanzdirektion dafür bestimmte
+Zulassung ist das von der Generalzolldirektion dafür bestimmte
 Hauptzollamt zuständig. Der Antrag auf Zulassung ist vom Lagerhalter
 schriftlich zu stellen. Die Zulassung wird schriftlich erteilt.
 
@@ -317,7 +317,7 @@ nachfolgenden Vorschriften eingehalten sind.
 
 (2) Die Freihafen-Veredelung bedarf einer Bewilligung; sie wird nur
 erteilt, wenn der Freihafen dadurch seinem Zweck nicht entfremdet
-wird. Für die Bewilligung ist die von der Oberfinanzdirektion dafür
+wird. Für die Bewilligung ist die von der Generalzolldirektion dafür
 bestimmte Zollstelle zuständig. Der Antrag auf Bewilligung ist vom
 Inhaber des Freihafenbetriebs schriftlich zu stellen. Die Bewilligung
 wird schriftlich erteilt; sie kann jederzeit widerrufen werden. In der

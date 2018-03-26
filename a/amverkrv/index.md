@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2150
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.2.2011 I 314
+:   Art. 3 V v. 19.12.2014 I 2371
 
 
 ## Erster Abschnitt - Freigabe aus der Apothekenpflicht
@@ -501,7 +501,7 @@ Stoffe oder Zubereitungen in Wochenbettpackungen als
 Fertigarzneimittel
 Milchsäure bis 15% ad us. vet.
 - zur Behandlung der Varroatose der Bienen -
-Minzöl, ätherisches
+Minzöl, ätherisches,
 auch mit Zusatz von bis zu 5 % Ethanol 96 % Ph. Eur., als
 Fertigarzneimittel
 Mischungen aus Dichlordifluormethan und Trichlorfluormethan
@@ -578,6 +578,7 @@ Talkum
 Tamponadestreifen, imprägniert mit weißem Vaselin
 Tannin-Eiweiß-Tabletten als Fertigarzneimittel
 Thymianöl, ätherisches
+Thymol zur Anwendung bei Bienen
 Ton, weißer
 Troxerutin bis zu einer maximalen Tagesdosis von 300 mg
 Vaselin, weißes oder gelbes

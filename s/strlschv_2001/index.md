@@ -15,9 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1714 (2002 I 1459)
 
-Zuletzt geändert durch
-:   Art. 5 Abs. 7 G v. 24.2.2012 I 212
+Zuletzt geändert nach maßgabe des art. 10 durch
+:   Art. 6 G v. 27.1.2017 I 114, 1222
 
+Stand: Bek. v. 16.6.2017 I 1676 ist berücksichtigt
 
 ## Teil 1 - Allgemeine Vorschriften
 
@@ -1361,7 +1362,7 @@ Absatz 1 dieser Verordnung bedarf, wer folgende Stoffe befördert:
 
 
 Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des §
-23 Absatz 2 des Atomgesetzes.
+23d Satz 3 des Atomgesetzes.
 
 (1a) (weggefallen)
 
@@ -2170,7 +2171,7 @@ von Amts wegen erfolgen, wenn für Einzelpersonen der Bevölkerung nur
 eine effektive Dosis im Bereich von 10 Mikrosievert im Kalenderjahr
 auftreten kann. Für Anlagen des Bundes zur Sicherstellung und zur
 Endlagerung radioaktiver Abfälle nach dem Atomgesetz kann über die
-Freigabe die nach § 23 Abs. 1 Nr. 2 des Atomgesetzes zuständige
+Freigabe die nach § 23d Satz 1 Nummer 2 des Atomgesetzes zuständige
 Überwachungsbehörde entscheiden.
 
 
@@ -3983,13 +3984,37 @@ mitzuteilen.
 
 ##### § 67 Strahlungsmessgeräte
 
-(1) Zur Messung der Personendosis, der Ortsdosis, der
-Ortsdosisleistung, der Oberflächenkontamination, der Aktivität von
-Luft und Wasser und bei einer Freimessung nach § 29 Abs. 3 aufgrund
-der Vorschriften dieser Verordnung sind, sofern geeichte
-Strahlungsmessgeräte nicht vorgeschrieben sind, andere geeignete
+(1) Messgeräte für Photonenstrahlung der in § 1 Absatz 1 Nummer 13 der
+Mess- und Eichverordnung bezeichneten Art müssen dem Mess- und
+Eichgesetz entsprechen, wenn sie für nachfolgende Zwecke verwendet
+werden:
+
+1.  für die physikalische Strahlenschutzkontrolle mittels Messung
+
+    a)  der Personendosis nach § 41 Absatz 1 Satz 1, Absatz 3 Satz 5 oder
+        Absatz 5 Satz 1 oder
+
+
+    b)  der Ortsdosis oder Ortsdosisleistung nach § 41 Absatz 1 Satz 2 Nummer
+        1 oder
+
+
+
+
+
+2.  für Messungen zur Abgrenzung von Strahlenschutzbereichen oder zur
+    Festlegung von Aufenthaltszeiten von Personen in
+    Strahlenschutzbereichen.
+
+
+
+Zur Messung der Personendosis, der Ortsdosis, der Ortsdosisleistung,
+der Oberflächenkontamination, der Aktivität von Luft und Wasser und
+bei einer Freimessung nach § 29 Absatz 3 aufgrund der Vorschriften
+dieser Verordnung sind, sofern nicht nach Satz 1 Nummer 1 Messgeräte
+nach dem Mess- und Eichgesetz vorgeschrieben sind, andere geeignete
 Strahlungsmessgeräte zu verwenden. Es ist dafür zu sorgen, dass die
-Strahlungsmessgeräte
+Strahlungsmessgeräte nach den Sätzen 1 und 2
 
 1.  den Anforderungen des Messzwecks genügen,
 
@@ -4003,8 +4028,8 @@ Strahlungsmessgeräte
 
 
 (2) Der Zeitpunkt und das Ergebnis der Funktionsprüfung und Wartung
-nach Absatz 1 Satz 2 Nr. 3 sind aufzuzeichnen. Die Aufzeichnungen sind
-zehn Jahre ab dem Zeitpunkt der Funktionsprüfung oder Wartung
+nach Absatz 1 Satz 3 Nummer 3 sind aufzuzeichnen. Die Aufzeichnungen
+sind zehn Jahre ab dem Zeitpunkt der Funktionsprüfung oder Wartung
 aufzubewahren und auf Verlangen der zuständigen Behörde vorzulegen
 oder bei einer von ihr zu bestimmenden Stelle zu hinterlegen.
 
@@ -4459,7 +4484,9 @@ erfassen und bei Änderungen die Erfassung zu aktualisieren. Besitzt
 ein anderer als der nach § 9a Abs. 1 des Atomgesetzes Verpflichtete
 die Abfälle, so hat der Besitzer bei Änderungen der erfassten Angaben
 diese Änderungen nach Anlage X Teil A und B zu erfassen und die
-erfassten Angaben dem Abfallverursacher bereitzustellen.
+erfassten Angaben dem nach § 9a Absatz 1 des Atomgesetzes, auch in
+Verbindung mit § 2 Absatz 2 des Entsorgungsübergangsgesetzes, zur
+Entsorgung Verpflichteten bereitzustellen.
 
 (2) Die erfassten Angaben sind in einem von dem nach § 9a Abs. 1 des
 Atomgesetzes Verpflichteten einzurichtenden elektronischen
@@ -4482,22 +4509,21 @@ ein Jahr bereitzuhalten.
 (1) Die zuständige Behörde oder eine von ihr bestimmte Stelle kann die
 Art der Behandlung und Verpackung radioaktiver Abfälle vor deren
 Ablieferung anordnen und einen Nachweis über die Einhaltung dieser
-Anordnung verlangen. Die nach dem Atomgesetz für die Sicherstellung
-und Endlagerung radioaktiver Abfälle zuständige Behörde legt alle
-sicherheitstechnischen Anforderungen an Abfallgebinde, die für die
-Endlagerung bestimmt sind, sowie die Vorgaben für die Behandlung der
-darin enthaltenen Abfälle fest und stellt die Endlagerfähigkeit der
-nach diesen Anforderungen und Vorgaben hergestellten Abfallgebinde
-fest.
+Anordnung verlangen. Der Dritte nach § 9a Absatz 3 Satz 2 zweiter
+Halbsatz des Atomgesetzes legt alle sicherheitstechnischen
+Anforderungen an Abfallgebinde, die für die Endlagerung bestimmt sind,
+sowie die Vorgaben für die Behandlung der darin enthaltenen Abfälle
+fest und stellt die Endlagerfähigkeit der nach diesen Anforderungen
+und Vorgaben hergestellten Abfallgebinde fest.
 
 (2) Bei der Behandlung und Verpackung radioaktiver Abfälle zur
 Herstellung endlagerfähiger Abfallgebinde sind Verfahren anzuwenden,
-deren Anwendung das Bundesamt für Strahlenschutz zugestimmt hat.
-Sofern nach § 76 Abs. 4 an Landessammelstellen abgelieferte
-radioaktive Abfälle nach Absatz 1 Satz 2 behandelt und verpackt
-wurden, trägt der Bund die Kosten, die sich aus einer nachträglichen
-Änderung der Anforderungen und Vorgaben ergeben. § 72 Satz 4 und 5
-gilt entsprechend.
+deren Anwendung der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz
+des Atomgesetzes zugestimmt hat. Sofern nach § 76 Abs. 4 an
+Landessammelstellen abgelieferte radioaktive Abfälle nach Absatz 1
+Satz 2 behandelt und verpackt wurden, trägt der Bund die Kosten, die
+sich aus einer nachträglichen Änderung der Anforderungen und Vorgaben
+ergeben. § 72 Satz 4 und 5 gilt entsprechend.
 
 (3) Abfallbehälter oder sonstige Einheiten sind mit einer
 Kennzeichnung nach Anlage X Teil B zu versehen. § 72 Satz 4 und 5 gilt
@@ -4631,7 +4657,8 @@ abzuliefernden radioaktiven Abfälle vom Ablieferungspflichtigen
 zwischenzulagern; die zwischengelagerten radioaktiven Abfälle werden
 nach Inbetriebnahme dieser Anlagen von deren Betreiber abgerufen. Die
 Zwischenlagerung kann auch von mehreren Ablieferungspflichtigen
-gemeinsam oder durch Dritte erfolgen.
+gemeinsam oder durch Dritte erfolgen. § 2 des
+Entsorgungsübergangsgesetzes bleibt unberührt.
 
 
 ##### § 79 Umgehungsverbot
@@ -5872,7 +5899,7 @@ Der Zusatz von radioaktiven Stoffen bei der Herstellung von
 4.  Futtermitteln im Sinne des Lebensmittel- und Futtermittelgesetzbuches,
 
 
-5.  Tabakerzeugnissen im Sinne des Vorläufigen Tabakgesetzes,
+5.  Erzeugnissen im Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes,
 
 
 6.  Gasglühstrümpfen, soweit diese nicht zur Beleuchtung öffentlicher
@@ -7170,8 +7197,9 @@ Anwendungsbereich dieser Verordnung anfallen.
 
 (6) (weggefallen)
 
+(zu §§ 8, 12, 17, 21)
 
-#### Anlage I (zu §§ 8, 12, 17, 21) Genehmigungsfreie Tätigkeiten
+#### Anlage I Genehmigungsfreie Tätigkeiten
 
 (Fundstelle: BGBl. I 2001, 1766;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7241,8 +7269,9 @@ deren
 
 
 
+(zu §§ 9, 14, 107)
 
-#### Anlage II (zu §§ 9, 14, 107) Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
+#### Anlage II Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1767
 
@@ -7329,8 +7358,10 @@ Abs. 2
 
 
 
+(zu §§ 3, 8, 10, 18, 20, 29, 43, 44, 45, 50, 53, 65, 66, 68, 70, 71,
+105, 106, 107, 117)
 
-#### Anlage III (zu §§ 3, 8, 10, 18, 20, 29, 43, 44, 45, 50, 53, 65, 66, 68, 70, 71, 105, 106, 107, 117) Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte der Oberflächenkontamination, Liste der Radionuklide im radioaktiven Gleichgewicht
+#### Anlage III Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte der Oberflächenkontamination, Liste der Radionuklide im radioaktiven Gleichgewicht
 
 (Fundstelle: BGBl. I 2001, 1768 - 1801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7566,7 +7597,9 @@ der Oberflächenkontamination
         1
         in Bq
 
-    *   Oberflächenkontamination
+    *   Oberflä-
+        chenkonta-
+        mination
         in Bq/cm
         2
 
@@ -29832,8 +29865,9 @@ Freigabe zugrunde gelegt werden:
 
 
 
+(zu § 29)
 
-#### Anlage IV (zu § 29) Festlegungen zur Freigabe
+#### Anlage IV Festlegungen zur Freigabe
 
 (Fundstelle: BGBl. I 2001, 1802 - 1803;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30167,8 +30201,9 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
+(zu § 25)
 
-#### Anlage V (zu § 25) Voraussetzungen für die Bauartzulassung von Vorrichtungen
+#### Anlage V Voraussetzungen für die Bauartzulassung von Vorrichtungen
 
 (Fundstelle: BGBl. I 2001, 1804;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30260,8 +30295,9 @@ normalen Betriebsbedingungen nicht überschreiten.
 
 
 
+(zu §§ 3, 47, 49, 55, 95, 117)
 
-#### Anlage VI (zu §§ 3, 47, 49, 55, 95, 117) Dosimetrische Größen, Gewebe- und Strahlungs-Wichtungsfaktoren
+#### Anlage VI Dosimetrische Größen, Gewebe- und Strahlungs-Wichtungsfaktoren
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1805 - 1807
 
@@ -30682,8 +30718,9 @@ T
     für dieses Organ oder Gewebe und ein Wichtungsfaktor von 0,025 für die
     mittlere Organdosis der restlichen Organe oder Gewebe gesetzt werden.
 [^BJNR171410001BJNE012400305_002]: 
+(zu §§ 29 und 47)
 
-#### Anlage VII (zu §§ 29 und 47) Annahmen bei der Ermittlung der Strahlenexposition
+#### Anlage VII Annahmen bei der Ermittlung der Strahlenexposition
 
 (Fundstelle: BGBl. I 2001, 1808 - 1825;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -38157,8 +38194,9 @@ Anlage VII Teil D Nr. 1.1 und 2)
 
 
 
+(zu §§ 61, 62, 63)
 
-#### Anlage VIII (zu §§ 61, 62, 63) Ärztliche Bescheinigung nach §§ 60, 61 StrlSchV
+#### Anlage VIII Ärztliche Bescheinigung nach §§ 60, 61 StrlSchV
 
 (Fundstelle: BGBl. I 2001, 1826;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -38211,17 +38249,24 @@ Nächste Beurteilung oder Untersuchung:
 Ort, Datum           Unterschrift         Stempel mit Anschrift des
 Arztes nach § 64 Abs. 1 Satz 1
 
+(zu § 68)
 
-#### Anlage IX (zu § 68) Strahlenzeichen
+#### Anlage IX Strahlenzeichen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1827
 
-... (Strahlenzeichen nicht darstellbar)
-Kennzeichen: schwarz
-Untergrund:  gelb
+
+*    *        ![bgbl1_2001_j1827_0010.jpg](bgbl1_2001_j1827_0010.jpg)
+
+*    *   Kennzeichen: schwarz
+        Untergrund: gelb
 
 
-#### Anlage X (zu §§ 72 bis 79) Radioaktive Abfälle: Benennung, Buchführung, Transportmeldung
+
+
+(zu §§ 72 bis 79)
+
+#### Anlage X Radioaktive Abfälle: Benennung, Buchführung, Transportmeldung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 1828 - 1831;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39162,8 +39207,9 @@ angegeben.
 
     Für die Erfassung durch den Verursacher ist der Buchstabe E zu
     verwenden. Buchstaben für andere Erfasser werden auf Anfrage vom
-    Bundesamt für Strahlenschutz festgelegt. Vom Bundesamt für
-    Strahlenschutz wird auch die Kennbuchstabenkombination BBB festgelegt.
+    Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes
+    festgelegt. Vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des
+    Atomgesetzes wird auch die Kennbuchstabenkombination BBB festgelegt.
 
     *
         *
@@ -39210,7 +39256,8 @@ angegeben.
     sind, erfolgt nach folgendem einheitlichen System 6):
 
     die Kennbuchstabenkombination des Verursachers gemäß Festlegung durch
-    das Bundesamt für Strahlenschutz,
+    das Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des
+    Atomgesetzes,
 
     laufende Nummer (siebenstellig).
 
@@ -39735,7 +39782,8 @@ angegeben.
 
 
         9)  Endlagergerechte Bezeichnung oder Klassifizierung gemäß Festlegung
-            durch das Bundesamt für Strahlenschutz.
+            durch den Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des
+            Atomgesetzes.
 
 
         10) Vorbehaltlich der Festlegungen und Randbedingungen des
@@ -39801,8 +39849,9 @@ zu enthalten:
 
 
 
+(zu §§ 93, 95, 96)
 
-#### Anlage XI (zu §§ 93, 95, 96) Arbeitsfelder, bei denen erheblich erhöhte Expositionen durch natürliche terrestrische Strahlungsquellen auftreten können
+#### Anlage XI Arbeitsfelder, bei denen erheblich erhöhte Expositionen durch natürliche terrestrische Strahlungsquellen auftreten können
 
 (Fundstelle: BGBl. I 2001, 1832;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39865,8 +39914,9 @@ Arbeiten in
 
 
 
+(zu §§ 97 bis 102)
 
-#### Anlage XII (zu §§ 97 bis 102) Verwertung und Beseitigung überwachungsbedürftiger Rückstände
+#### Anlage XII Verwertung und Beseitigung überwachungsbedürftiger Rückstände
 
 (Fundstelle: BGBl. I 2001, 1833 - 1834;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -40191,8 +40241,9 @@ verwenden. Im Fall des § 98 Abs. 2 Satz 2 sind die Dosiskoeffizienten
 aus der Zusammenstellung im Bundesanzeiger Nr. 160a und b vom 28.
 August 2001 Teil I und III zu verwenden.
 
+(zu §§ 51 und 53)
 
-#### Anlage XIII (zu §§ 51 und 53) Information der Bevölkerung
+#### Anlage XIII Information der Bevölkerung
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1835
 
@@ -40316,8 +40367,9 @@ Die Information muss sich erstrecken auf:
 
 
 
+(zu § 48 Abs. 4))
 
-#### Anlage XIV (zu § 48 Abs. 4)) Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
+#### Anlage XIV Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 1836;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -40363,8 +40415,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu §§ 70, 70a und 71)
 
-#### Anlage XV (zu §§ 70, 70a und 71) Standarderfassungsblatt für hochradioaktive Strahlenquellen (HRQ)
+#### Anlage XV Standarderfassungsblatt für hochradioaktive Strahlenquellen (HRQ)
 
 (... nicht darstellbares Standarderfassungsblatt;
 Fundstelle: BGBl. I 2005, 2404;

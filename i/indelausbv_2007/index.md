@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1678
 
+Zuletzt geändert durch
+:   Art. 2 V v. 28.6.2013 I 2201
+
 Die Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des
 Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
 abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
@@ -56,7 +59,8 @@ Die Ausbildungsberufe
     Systeme,
 
 
-5.  Systeminformatiker/Systeminformatikerin,
+5.  Elektroniker für Informations- und Systemtechnik und Elektronikerin
+    für Informations- und Systemtechnik,
 
 
 6.  Elektroniker für luftfahrttechnische Systeme/Elektronikerin für
@@ -83,18 +87,17 @@ Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt
 werden, die insbesondere selbstständiges Planen, Durchführen und
 Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang
 einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den
-Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18, 21 und 22, 25
-und 26 sowie 29 und 30 nachzuweisen.
+Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18, 21 und 22 sowie
+25 und 26 nachzuweisen.
 
 (2) Die gemeinsamen Kernqualifikationen nach § 7 Abs. 1 Nr. 1 bis 11,
 § 11 Abs. 1 Nr. 1 bis 11, § 15 Abs. 1 Nr. 1 bis 11, § 19 Abs. 1 Nr. 1
-bis 11, § 23 Abs. 1 Nr. 1 bis 11 und § 27 Abs. 1 Nr. 1 bis 11 und die
-berufspezifischen Fachqualifikationen nach § 7 Abs. 1 Nr. 12 bis 17, §
-11 Abs. 1 Nr. 12 bis 17, § 15 Abs. 1 Nr. 12 bis 17, § 19 Abs. 1 Nr. 12
-bis 17, § 23 Abs. 1 Nr. 12 bis 17 und § 27 Abs. 1 Nr. 12 bis 17 haben
-jeweils einen Umfang von 21 Monaten und werden verteilt über die
-gesamte Ausbildungszeit integriert auch unter Berücksichtigung des
-Nachhaltigkeitsaspekts vermittelt.
+bis 11, § 23 Abs. 1 Nr. 1 bis 11 und die berufspezifischen
+Fachqualifikationen nach § 7 Abs. 1 Nr. 12 bis 17, § 11 Abs. 1 Nr. 12
+bis 17, § 15 Abs. 1 Nr. 12 bis 17, § 19 Abs. 1 Nr. 12 bis 17, § 23
+Abs. 1 Nr. 12 bis 17 haben jeweils einen Umfang von 21 Monaten und
+werden verteilt über die gesamte Ausbildungszeit integriert auch unter
+Berücksichtigung des Nachhaltigkeitsaspekts vermittelt.
 
 (3) Im Rahmen der berufsspezifischen Fachqualifikationen ist die
 berufliche Handlungskompetenz in einem Einsatzgebiet durch
@@ -1211,7 +1214,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
-## Teil 6 - Vorschriften für den Ausbildungsberuf Systeminformatiker/ Systeminformatikerin
+## Teil 6 - Vorschriften für den Ausbildungsberuf Elektroniker für Informations- und Systemtechnik und Elektronikerin für Informations- und Systemtechnik
 
 
 
@@ -1481,273 +1484,12 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
-## Teil 7 - Vorschriften für den Ausbildungsberuf Elektroniker für luftfahrttechnische Systeme/Elektronikerin für luftfahrttechnische Systeme
+## Teil 7 - (weggefallen)
 
 
 
-### § 27 Ausbildungsberufsbild
+### (XXXX)§§ 27 bis 30 (weggefallen)
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
-
-1.  Berufsbildung, Arbeits- und Tarifrecht,
-
-
-2.  Aufbau und Organisation des Ausbildungsbetriebes,
-
-
-3.  Sicherheit und Gesundheitsschutz bei der Arbeit,
-
-
-4.  Umweltschutz,
-
-
-5.  Betriebliche und technische Kommunikation,
-
-
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
-
-
-7.  Montieren und Anschließen elektrischer Betriebsmittel,
-
-
-8.  Messen und Analysieren von elektrischen Funktionen und Systemen,
-
-
-9.  Beurteilen der Sicherheit von elektrischen Anlagen und
-    Betriebsmitteln,
-
-
-10. Installieren und Konfigurieren von IT-Systemen,
-
-
-11. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
-
-
-12. Technische Auftragsanalyse, Lösungsentwicklung,
-
-
-13. Einbauen und Installieren von Komponenten und Teilsystemen der
-    Avionik,
-
-
-14. Prüfen und Testen von Systemen der Avionik,
-
-
-15. Inbetriebnehmen von Systemen der Avionik,
-
-
-16. Instandhalten,
-
-
-17. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
-
-
-
-
-(2) Die Qualifikationen nach Absatz 1 sind in einem der folgenden
-Einsatzgebiete anzuwenden und zu vertiefen:
-
-1.  Fluggeräteproduktion,
-
-
-2.  Fluggerätinstandhaltung,
-
-
-3.  Fluggerätüberholung,
-
-
-4.  Flugtechnische Ausrüstungen,
-
-
-5.  Raumfahrtsysteme.
-
-
-
-Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
-Absatz 1 vermittelt werden können.
-
-
-### § 28 Ausbildungsrahmenplan
-
-Die in § 27 Abs. 1 genannten Qualifikationen (Ausbildungsberufsbild)
-sollen nach der in Anlage 1 und Anlage 7 enthaltenen Anleitung zur
-sachlichen und zeitlichen Gliederung der Berufsausbildung
-(Ausbildungsrahmenplan) vermittelt werden. Eine von dem
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
-
-
-### § 29 Teil 1 der Abschlussprüfung
-
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
-
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 7
-für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
-
-(3) Der Prüfling soll zeigen, dass er
-
-1.  technische Unterlagen auswerten, technische Parameter bestimmen,
-    Arbeitsabläufe planen und abstimmen, Material und Werkzeug
-    disponieren, Fachausdrücke, auch in englischer Sprache, anwenden,
-
-
-2.  Teilsysteme montieren, demontieren, verdrahten, verbinden und
-    konfigurieren, Sicherheitsregeln, Unfallverhütungsvorschriften und
-    Umweltschutzbestimmungen einhalten,
-
-
-3.  die Sicherheit von elektrischen Anlagen und Betriebsmitteln
-    beurteilen, elektrische Schutzmaßnahmen prüfen,
-
-
-4.  elektrische Systeme analysieren und Funktionen prüfen, Fehler suchen
-    und beseitigen,
-
-
-5.  Produkte in Betrieb nehmen, übergeben und erläutern,
-    Auftragsdurchführung dokumentieren, technische Unterlagen,
-    einschließlich Prüfprotokolle, erstellen
-
-
-
-kann. Diese Anforderungen sollen an einem funktionsfähigen Teilsystem
-aus der Luftfahrttechnik nachgewiesen werden.
-
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
-Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
-Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
-zeitlichen Umfang von höchstens 90 Minuten haben.
-
-
-### § 30 Teil 2 der Abschlussprüfung
-
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-und der Anlage 7 aufgeführten Qualifikationen sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
-
-(2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
-
-1.  Arbeitsauftrag,
-
-
-2.  Systementwurf,
-
-
-3.  Funktions- und Systemanalyse sowie
-
-
-4.  Wirtschafts- und Sozialkunde.
-
-
-
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
-technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
-der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
-Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
-berücksichtigen.
-
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
-
-1.  Arbeitsaufträge analysieren, Informationen aus Unterlagen beschaffen,
-    technische und organisatorische Schnittstellen klären,
-    Lösungsvarianten unter technischen, betriebswirtschaftlichen und
-    ökologischen Gesichtspunkten bewerten und auswählen,
-
-
-2.  Teilaufgaben festlegen, Auftragsablauf planen und abstimmen,
-    Planungsunterlagen erstellen, Arbeitsabläufe und Zuständigkeiten am
-    Einsatzort berücksichtigen,
-
-
-3.  Aufträge durchführen, Funktion und Sicherheit prüfen und
-    dokumentieren, Normen und Spezifikationen zur Qualität und Sicherheit
-    der Produkte beachten sowie Ursachen von Fehlern und Mängeln
-    systematisch suchen und beheben,
-
-
-4.  Produkte frei- und übergeben, Fachauskünfte, auch unter Verwendung
-    englischer Fachausdrücke, erteilen, Abnahmeprotokolle anfertigen,
-    Arbeitsergebnisse und Leistungen dokumentieren und bewerten,
-    Leistungen abrechnen und Geräte oder Systemdaten und -unterlagen
-    dokumentieren
-
-
-
-kann. Zum Nachweis kommen insbesondere das Herstellen einer
-Komponente, das Integrieren von Geräten oder Systemen oder das
-Instandhalten von Teilsystemen oder Systemen der Luftfahrttechnik in
-Betracht.
-
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
-
-1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird
-    auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrages geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung
-    bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
-
-
-2.  in 14 Stunden eine praktische Aufgabe vorbereiten, durchführen,
-    nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren
-    sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten
-    führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden;
-    durch Beobachtungen der Durchführung, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet
-    werden.
-
-
-
-
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
-
-(6) Der Prüfling soll im Prüfungsbereich Systementwurf in der
-Prüfungszeit von höchstens 120 Minuten nach vorgegebenen Anforderungen
-Einrichtungen und Schaltungen zur Prüfung luftfahrttechnischer Systeme
-entwerfen. Dabei soll der Prüfling zeigen, dass er eine technische
-Problemanalyse durchführen und unter Berücksichtigung von Vorschriften
-und technischen Regelwerken, Wirtschaftlichkeit und Betriebsabläufen
-Prüfverfahren- und Diagnosesysteme auswählen und einsetzen, Tests und
-Prüfvorgänge unter Berücksichtigung technischer Spezifikationen und
-Systemvorschriften festlegen sowie Prüfabläufe unter Beachtung von
-Richtlinien zur Qualitäts- und Prozesssicherung festlegen,
-Schaltungsunterlagen auswerten sowie Standardsoftware anwenden kann.
-
-(7) Der Prüfling soll im Prüfungsbereich Funktions- und Systemanalyse
-in der Prüfungszeit von höchstens 120 Minuten ein luftfahrttechnisches
-Teilsystem oder System analysieren. Dabei soll der Prüfling zeigen,
-dass er technische Unterlagen, auch in englischer Sprache, auswerten,
-funktionelle Zusammenhänge in flugtechnischen Systemen analysieren,
-Signale an Schnittstellen funktionell zuordnen, Fehlerursachen
-bestimmen, elektromagnetische Verträglichkeit beurteilen und
-elektrische Schutzmaßnahmen bewerten kann.
-
-(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 8 - Gemeinsame Bestehensregelungen, Übergangs- und Schlussbestimmungen
@@ -1810,8 +1552,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
+(zu den §§ 8, 12, 16, 20 und 24)
 
-### Anlage 1 (zu den §§ 8, 12, 16, 20, 24 und 28) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Elektroberufen
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Elektroberufen
 
 (Fundstelle: BGBl. I 2007, 1691 - 1694)
 Gemeinsame Kernqualifikationen ****
@@ -1842,8 +1585,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 1,
         § 15 Abs. 1 Nr. 1,
         § 19 Abs. 1 Nr. 1,
-        § 23 Abs. 1 Nr. 1,
-        § 27 Abs. 1 Nr. 1)
+        § 23 Abs. 1 Nr. 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -1874,8 +1616,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 2,
         § 15 Abs. 1 Nr. 2,
         § 19 Abs. 1 Nr. 2,
-        § 23 Abs. 1 Nr. 2,
-        § 27 Abs. 1 Nr. 2)
+        § 23 Abs. 1 Nr. 2)
 
     *
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
@@ -1906,8 +1647,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 3,
         § 15 Abs. 1 Nr. 3,
         § 19 Abs. 1 Nr. 3,
-        § 23 Abs. 1 Nr. 3,
-        § 27 Abs. 1 Nr. 3)
+        § 23 Abs. 1 Nr. 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -1940,8 +1680,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 4,
         § 15 Abs. 1 Nr. 4,
         § 19 Abs. 1 Nr. 4,
-        § 23 Abs. 1 Nr. 4,
-        § 27 Abs. 1 Nr. 4)
+        § 23 Abs. 1 Nr. 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -1973,8 +1712,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 5,
         § 15 Abs. 1 Nr. 5,
         § 19 Abs. 1 Nr. 5,
-        § 23 Abs. 1 Nr. 5,
-        § 27 Abs. 1 Nr. 5)
+        § 23 Abs. 1 Nr. 5)
 
     *
         a)  Informationsquellen und Informationen recherchieren und beschaffen,
@@ -2029,8 +1767,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 6,
         § 15 Abs. 1 Nr. 6,
         § 19 Abs. 1 Nr. 6,
-        § 23 Abs. 1 Nr. 6,
-        § 27 Abs. 1 Nr. 6)
+        § 23 Abs. 1 Nr. 6)
 
     *
         a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
@@ -2095,8 +1832,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 7,
         § 15 Abs. 1 Nr. 7,
         § 19 Abs. 1 Nr. 7,
-        § 23 Abs. 1 Nr. 7,
-        § 27 Abs. 1 Nr. 7)
+        § 23 Abs. 1 Nr. 7)
 
     *
         a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
@@ -2149,8 +1885,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 8,
         § 15 Abs. 1 Nr. 8,
         § 19 Abs. 1 Nr. 8,
-        § 23 Abs. 1 Nr. 8,
-        § 27 Abs. 1 Nr. 8)
+        § 23 Abs. 1 Nr. 8)
 
     *
         a)  Messverfahren und Messgeräte auswählen
@@ -2194,8 +1929,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 9,
         § 15 Abs. 1 Nr. 9,
         § 19 Abs. 1 Nr. 9,
-        § 23 Abs. 1 Nr. 9,
-        § 27 Abs. 1 Nr. 9)
+        § 23 Abs. 1 Nr. 9)
 
     *
         a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
@@ -2245,8 +1979,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 10,
         § 15 Abs. 1 Nr. 10,
         § 19 Abs. 1 Nr. 10,
-        § 23 Abs. 1 Nr. 10,
-        § 27 Abs. 1 Nr. 10)
+        § 23 Abs. 1 Nr. 10)
 
     *
         a)  Hard- und Softwarekomponenten auswählen
@@ -2273,8 +2006,7 @@ Gemeinsame Kernqualifikationen ****
         § 11 Abs. 1 Nr. 11,
         § 15 Abs. 1 Nr. 11,
         § 19 Abs. 1 Nr. 11,
-        § 23 Abs. 1 Nr. 11,
-        § 27 Abs. 1 Nr. 11)
+        § 23 Abs. 1 Nr. 11)
 
     *
         a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
@@ -2306,8 +2038,9 @@ Gemeinsame Kernqualifikationen ****
 
 
 
+(zu § 8)
 
-### Anlage 2 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Gebäude- und Infrastruktursysteme/zur Elektronikerin für Gebäude- und Infrastruktursysteme
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Gebäude- und Infrastruktursysteme/zur Elektronikerin für Gebäude- und Infrastruktursysteme
 
 (Fundstelle: BGBl. I 2007, 1695 - 1705)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -3905,8 +3638,9 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+(zu § 12)
 
-### Anlage 3 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Betriebstechnik/zur Elektronikerin für Betriebstechnik
+### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Betriebstechnik/zur Elektronikerin für Betriebstechnik
 
 (Fundstelle: BGBl. I 2007, 1706 - 1717)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -5539,10 +5273,11 @@ Fachqualifikationen**
 *    *
 
 
+   (zu § 16)
 
-### Anlage 4 (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Automatisierungstechnik/zur Elektronikerin für Automatisierungstechnik
+### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Automatisierungstechnik/zur Elektronikerin für Automatisierungstechnik
 
-   (Fundstelle: BGBl. I 2007, 1718 - 1728)
+(Fundstelle: BGBl. I 2007, 1718 - 1728)
 **Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen**
 
@@ -7118,8 +6853,9 @@ Fachqualifikationen**
 
 
 
+(zu § 20)
 
-### Anlage 5 (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Geräte und Systeme/zur Elektronikerin für Geräte und Systeme
+### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Geräte und Systeme/zur Elektronikerin für Geräte und Systeme
 
 (Fundstelle: BGBl. I 2007, 1729 - 1739)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -8548,8 +8284,9 @@ Fachqualifikationen**
 
 
 
+(zu § 24)
 
-### Anlage 6 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Systeminformatiker/zur Systeminformatikerin
+### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Informations- und Systemtechnik und zur Elektronikerin für Informations- und Systemtechnik
 
 (Fundstelle: BGBl. I 2007, 1740 - 1749)
 **Teil A: Sachliche Gliederung der berufsspezifischen
@@ -9931,1530 +9668,6 @@ Fachqualifikationen**
 
 
         k)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf und im eigenen Arbeitsbereich beitragen
-
-
-
-
-    *   10 bis 12
-
-
-
-
-### Anlage 7 (zu § 28) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für luftfahrttechnische Systeme/zur Elektronikerin für luftfahrttechnische Systeme
-
-(Fundstelle: BGBl. I 2007, 1750 - 1760)
-Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen ****
-
-
-*    *   Berufs-
-        bild-
-        position
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-
-*    *   12
-
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 27 Abs. 1 Nr. 12)
-
-    *
-        a)  Auftragsanforderungen, insbesondere geforderte Funktionalitäten und
-            technische Umgebungsbedingungen, analysieren
-
-
-        b)  Prozessschritte unter Beachtung arbeitsorganisatorischer,
-            technologischer, wirtschaftlicher und sicherheitstechnischer
-            Gesichtspunkte planen
-
-
-        c)  Tests und Prüfvorgänge unter Berücksichtigung technischer
-            Spezifikationen und Systemvorschriften festlegen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren
-        von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        a)  Eigenschaften der eingesetzten Werkstoffe beurteilen sowie
-            Bearbeitungsverfahren auswählen
-
-
-        b)  Prüf- und Messmittel anwenden
-
-
-        c)  Oberflächenqualität durch Sichtprüfen beurteilen
-
-
-        d)  Werkstücke zur Identifizierung kennzeichnen
-
-
-        e)  Bauteile aus Leichtmetallblechen umformen
-
-
-        f)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen
-            montieren und anschließen
-
-
-        g)  mechanische Verbindungen herstellen und sichern
-
-
-        h)  Leitungen konfektionieren
-
-
-        i)  Kabelbäume anfertigen, prüfen und einbauen
-
-
-        j)  Energie-, Signal- und Datenleitungen verlegen, verbinden und
-            anschließen
-
-
-        k)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie
-            ein- und auslöten
-
-
-        l)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik
-            zusammenbauen, verdrahten und installieren
-
-
-        m)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und
-            Regelungstechnik installieren und justieren
-
-
-        n)  Baugruppen, Geräte und Teilsysteme nach Unterlagen einbauen
-
-
-        o)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler
-            korrigieren und Änderungen dokumentieren
-
-
-        p)  Software-updates durchführen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        a)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der
-            Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
-
-
-        b)  Funktionen von analogen und digitalen Baugruppen und Geräten prüfen
-
-
-        c)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und
-            einstellen
-
-
-        d)  elektromechanische Baugruppen prüfen und einstellen
-
-
-        e)  elektrische Größen in Antennenanlagen prüfen und messen
-
-
-        f)  Sensoren und Wandler für nichtelektrische Größen prüfen, messen und
-            einstellen
-
-
-        g)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
-
-
-        h)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und
-            einstellen
-
-
-        i)  Prüf- und Messergebnisse dokumentieren und auswerten
-
-
-        j)  gerätetechnische Prüfungen durchführen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        a)  Einfluss von technischen Komponenten des Luftverkehrssystems auf die
-            Sicherheit des Flugbetriebes beurteilen
-
-
-        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes,
-            dem konstruktiven Aufbau und dem Antrieb beschreiben
-
-
-        c)  Rumpf, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der
-            Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung
-            prüfen
-
-
-        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen
-            sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme,
-            Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb
-            nehmen
-
-
-        g)  funktionelle Zusammenhänge und technische Lösungen von Informations-
-            und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für
-            Navigation, Flugführung, Instrumentierung, Datenübertragung sowie
-            Radarsysteme, den technischen Unterlagen entnehmen und prüfen
-
-
-        h)  Baugruppen und Geräte der Informations- und Funktechnik,
-            einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
-
-
-
-
-
-*    *   16
-
-    *   Instandhalten
-        (§ 27 Abs. 1 Nr. 16)
-
-    *
-        a)  Geräte und Anlagen inspizieren
-
-
-        b)  Geräte und Anlagen zur Aufrechterhaltung von Funktionsfähigkeit und
-            Sicherheit nach Wartungsplänen warten
-
-
-        c)  Fehler in Geräten oder Anlagenteilen, insbesondere durch Austausch der
-            fehlerhaften Baugruppe, beheben
-
-
-        d)  Ursachen für mechanische und elektrische Fehler in Baugruppen, Geräten
-            und Anlagen durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe
-            von Serviceunterlagen systematisch eingrenzen, erkennen und beheben
-            sowie durchgeführte Arbeiten dokumentieren
-
-
-        e)  Geräte und Anlagen nach Unterlagen und Anweisung erweitern und ändern
-
-
-        f)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von
-            Baugruppen, Geräten und Anlagen einarbeiten
-
-
-
-
-
-*    *   17
-
-    *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
-        (§ 27 Abs. 1 Nr. 17)
-
-    *
-        a)  Aufträge annehmen
-
-
-        b)  Informationen beschaffen und bewerten, Dokumentationen, auch in
-            englischer Sprache, nutzen und bearbeiten, technologische
-            Entwicklungen feststellen, sicherheitsrelevante Unterlagen
-            berücksichtigen
-
-
-        c)  Ausgangszustand analysieren, technische und organisatorische
-            Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele
-            festlegen, Teilaufgaben definieren, technische Unterlagen erstellen
-            und an der Kostenplanung mitwirken
-
-
-        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
-            abstimmen, Planungsunterlagen erstellen
-
-
-        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und
-            Umweltmanagements durchführen, Einhaltung von Terminen verfolgen
-
-
-        f)  physische und psychische Einflüsse bei der Arbeit sowie Einflüsse des
-            Arbeitsumfeldes auf den Menschen sowie auf das Arbeitsergebnis
-            berücksichtigen
-
-
-        g)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte
-            und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln
-            systematisch suchen, beseitigen und dokumentieren
-
-
-        h)  Auftragsablauf dokumentieren, Leistungen abrechnen, Abrechnungsdaten
-            erstellen, Nachkalkulation durchführen
-
-
-        i)  Systeme frei- und übergeben, Abnahmeprotokolle anfertigen, Produkte
-            und Dienstleistungen erläutern, Fachauskünfte, auch in englischer
-            Sprache, erteilen
-
-
-        j)  Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
-
-
-        k)  Soll-Ist-Vergleich mit den Planungsdaten durchführen,
-            Arbeitsergebnisse und -durchführung bewerten
-
-
-        l)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf und im eigenen Arbeitsbereich beitragen
-
-
-
-
-
-
-Teil B: Zeitliche Gliederung ****
-
-
-*    *   Berufs-
-        bild-
-        position
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
-
-    *   Zeitrahmen in
-        Monaten
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   **Abschnitt 1**
-
-
-*    *   1
-
-    *   Berufsbildung, Arbeits-
-        und Tarifrecht
-        (§ 27 Abs. 1 Nr. 1)
-
-    *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
-
-
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
-
-
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
-
-
-        d)  wesentliche Teile des Arbeitsvertrages nennen
-
-
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
-
-
-
-
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
-
-*    *   2
-
-    *   Aufbau und Organisation
-        des Ausbildungsbetriebes
-        (§ 27 Abs. 1 Nr. 2)
-
-    *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
-
-
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
-
-
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
-
-
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
-
-
-
-
-
-*    *   3
-
-    *   Sicherheit und Gesund-
-        heitsschutz bei der Arbeit
-        (§ 27 Abs. 1 Nr. 3)
-
-    *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
-
-
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
-
-
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
-
-
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
-
-
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
-
-
-
-
-
-*    *   4
-
-    *   Umweltschutz
-        (§ 27 Abs. 1 Nr. 4)
-
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
-
-
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
-
-
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
-
-
-
-
-
-*    *   **Abschnitt 2**
-
-
-*    *   **1. Ausbildungsjahr**
-
-
-*    *   Zeitrahmen 1
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
-
-
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
-            und erstellen sowie Skizzen anfertigen
-
-
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
-            und zielorientiert führen
-
-
-        j)  Konflikte im Team lösen
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
-
-
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
-
-
-
-
-
-*    *   7
-
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
-
-    *
-        a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
-            Bearbeitung anpassen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        a)  Eigenschaften der eingesetzten Werkstoffe beurteilen sowie
-            Bearbeitungsverfahren auswählen
-
-
-        b)  Prüf- und Messmittel anwenden
-
-
-        c)  Oberflächenqualität durch Sichtprüfen beurteilen
-
-
-        d)  Werkstücke zur Identifizierung kennzeichnen
-
-
-        e)  Bauteile aus Leichtmetallblechen umformen
-
-
-        g)  mechanische Verbindungen herstellen und sichern
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        c)  Rumpf, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der
-            Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung
-            prüfen
-
-
-
-
-
-*    *   16
-
-    *   Instandhalten
-        (§ 27 Abs. 1 Nr. 16)
-
-    *
-        a)  Geräte und Anlagen inspizieren
-
-
-
-
-
-*    *   Zeitrahmen 2
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
-            und erstellen sowie Skizzen anfertigen
-
-
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
-
-
-
-
-    *   2 bis 4
-
-
-*    *   7
-
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
-
-    *
-        b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
-            unterschiedlichen Anschlusstechniken verbinden
-
-
-        c)  Leitungswege und Gerätemontageorte unter Beachtung der
-            elektromagnetischen Verträglichkeit festlegen
-
-
-        d)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und
-            montieren
-
-
-        e)  Leitungen installieren
-
-
-
-
-
-*    *   9
-
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
-        (§ 27 Abs. 1 Nr. 9)
-
-    *
-        d)  Leitungen und deren Schutzeinrichtungen sowie sonstige Betriebsmittel,
-            insbesondere hinsichtlich Strombelastbarkeit, beurteilen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        h)  Leitungen konfektionieren
-
-
-        i)  Kabelbäume anfertigen, prüfen und einbauen
-
-
-
-
-
-*    *   Zeitrahmen 3
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
-            und erstellen sowie Skizzen anfertigen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
-            Fachbegriffe anwenden
-
-
-
-
-    *   4 bis 6
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
-
-
-
-
-
-*    *   7
-
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
-
-    *
-        b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
-            unterschiedlichen Anschlusstechniken verbinden
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        a)  Messverfahren und Messgeräte auswählen
-
-
-        b)  elektrische Größen messen, bewerten und berechnen
-
-
-        c)  Kenndaten und Funktion von Baugruppen prüfen
-
-
-        d)  Steuerschaltungen analysieren
-
-
-        f)  systematische Fehlersuche durchführen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        b)  Funktionen von analogen und digitalen Baugruppen und Geräten prüfen
-
-
-        c)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und
-            einstellen
-
-
-        d)  elektromechanische Baugruppen prüfen und einstellen
-
-
-        i)  Prüf- und Messergebnisse dokumentieren und auswerten
-
-
-
-
-
-*    *   Zeitrahmen 4
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
-
-
-
-
-    *   0,5 bis 1,5
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
-            grafische Benutzeroberflächen einrichten
-
-
-
-
-
-*    *   10
-
-    *   Installieren und Konfigurieren von IT-Systemen
-        (§ 27 Abs. 1 Nr. 10)
-
-    *
-        a)  Hard- und Softwarekomponenten auswählen
-
-
-        b)  Betriebssysteme und Anwendungsprogramme installieren und konfigurieren
-
-
-        c)  IT-Systeme in Netzwerke einbinden
-
-
-        d)  Tools und Testprogramme einsetzen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        p)  Software-updates durchführen
-
-
-
-
-
-*    *   **2. Ausbildungsjahr, 1. Halbjahr**
-
-
-*    *   Zeitrahmen 5
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
-
-
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen sowie unterschiedliche Lerntechniken anwenden
-
-
-
-
-
-*    *   7
-
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
-
-    *
-        f)  elektrische Geräte herstellen oder elektrische Anlagen errichten,
-            Geräte oder Anlagen in Betrieb nehmen
-
-
-        g)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
-            Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren von elektrischen Funktionen
-        und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        e)  Signale verfolgen und an Schnittstellen prüfen
-
-
-
-
-
-*    *   9
-
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
-        (§ 27 Abs. 1 Nr. 9)
-
-    *
-        a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
-            beurteilen
-
-
-        b)  Isolationswiderstände messen und beurteilen
-
-
-        c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
-
-
-        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
-            Umgebungsbedingungen und der Zusatzfestlegungen für Räume besonderer
-            Art beurteilen
-
-
-        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte,
-            Betriebsmittel und Anlagen ergeben, beurteilen und durch
-            Schutzmaßnahmen die sichere Nutzung gewährleisten
-
-
-        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter
-            Fehlerbedingungen, insbesondere durch Abschaltung mit
-            Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
-
-
-        h)  elektrische Sicherheit ortsveränderlicher Betriebsmittel beurteilen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        j)  Energie-, Signal- und Datenleitungen verlegen, verbinden und
-            anschließen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        j)  gerätetechnische Prüfungen durchführen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-
-
-
-*    *   Zeitrahmen 6
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
-
-
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
-            erarbeiten, Gesprächsergebnisse schriftlich fixieren
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        f)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen
-            montieren und anschließen
-
-
-        k)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie
-            ein- und auslöten
-
-
-        l)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik
-            zusammenbauen, verdrahten und installieren
-
-
-        n)  Baugruppen, Geräte und Teilsysteme nach Unterlagen einbauen
-
-
-        o)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler
-            korrigieren und Änderungen dokumentieren
-
-
-
-
-
-*    *   **2. Ausbildungsjahr, 2. Halbjahr**
-
-
-*    *   Zeitrahmen 7
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
-            Fachbegriffe anwenden
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
-            anwenden
-
-
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        g)  Sensoren und Aktoren prüfen und einstellen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        a)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der
-            Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
-
-
-        f)  Sensoren und Wandler für nichtelektrische Größen prüfen, messen und
-            einstellen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        a)  Einfluss von technischen Komponenten des Luftverkehrssystems auf die
-            Sicherheit des Flugbetriebes beurteilen
-
-
-        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes,
-            dem konstruktiven Aufbau und dem Antrieb beschreiben
-
-
-
-
-
-*    *   Zeitrahmen 8
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
-
-
-
-
-    *   2 bis 4
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        h)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und
-            einstellen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen
-            sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme,
-            Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb
-            nehmen
-
-
-
-
-
-*    *   **3. und 4. Ausbildungsjahr**
-
-
-*    *   Zeitrahmen 9
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
-            und zielorientiert führen
-
-
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
-            erarbeiten, Gesprächsergebnisse schriftlich fixieren
-
-
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
-
-
-        j)  Konflikte im Team lösen
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
-            berücksichtigen
-
-
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
-
-
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
-
-
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
-
-
-        l)  interne und externe Leistungserbringung vergleichen
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        h)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und
-            bewerten
-
-
-
-
-
-*    *   11
-
-    *   Beraten und Betreuen von Kunden, Erbringen von
-        Serviceleistungen
-        (§ 27 Abs. 1 Nr. 11)
-
-    *
-        a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
-            entwickeln und Realisierungsvarianten anbieten
-
-
-        b)  auf Wartungsarbeiten und -intervalle hinweisen
-
-
-        c)  Störungsmeldungen aufnehmen
-
-
-        d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
-            Auftragsabwicklung Lösungsvarianten aufzeigen
-
-
-
-
-
-*    *   12
-
-    *   Technische Auftragsanalyse, Lösungsentwicklung
-        (§ 27 Abs. 1 Nr. 12)
-
-    *
-        a)  Auftragsanforderungen, insbesondere geforderte Funktionalitäten und
-            technische Umgebungsbedingungen, analysieren
-
-
-        b)  Prozessschritte unter Beachtung arbeitsorganisatorischer,
-            technologischer, wirtschaftlicher und sicherheitstechnischer
-            Gesichtspunkte planen
-
-
-        c)  Tests und Prüfvorgänge unter Berücksichtigung technischer
-            Spezifikationen und Systemvorschriften festlegen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        m)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und
-            Regelungstechnik installieren und justieren
-
-
-
-
-
-*    *   16
-
-    *   Instandhalten
-        (§ 27 Abs. 1 Nr. 16)
-
-    *
-        b)  Geräte und Anlagen zur Aufrechterhaltung von Funktionsfähigkeit und
-            Sicherheit nach Wartungsplänen warten
-
-
-        c)  Fehler in Geräten oder Anlagenteilen, insbesondere durch Austausch der
-            fehlerhaften Baugruppe, beheben
-
-
-        d)  Ursachen für mechanische und elektrische Fehler in Baugruppen, Geräten
-            und Anlagen durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe
-            von Serviceunterlagen systematisch eingrenzen, erkennen und beheben
-            sowie durchgeführte Arbeiten dokumentieren
-
-
-        e)  Geräte und Anlagen nach Unterlagen und Anweisung erweitern und ändern
-
-
-        f)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von
-            Baugruppen, Geräten und Anlagen einarbeiten
-
-
-
-
-
-*    *   Zeitrahmen 10
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
-
-
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
-
-
-
-
-    *   3 bis 5
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
-            und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
-            anwenden
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        i)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
-            Datenprotokolle interpretieren
-
-
-
-
-
-*    *   9
-
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
-        (§ 27 Abs. 1 Nr. 9)
-
-    *
-        i)  Brandschutzbestimmungen beim Errichten und Betreiben elektrischer
-            Geräte und Anlagen beurteilen
-
-
-
-
-
-*    *   11
-
-    *   Beraten und Betreuen
-        von Kunden, Erbringen
-        von Serviceleistungen
-        (§ 27 Abs. 1 Nr. 11)
-
-    *
-        e)  Leistungsmerkmale erläutern, in die Bedienung einweisen, auf Gefahren
-            sowie auf Sicherheitsregeln und Vorschriften hinweisen
-
-
-        f)  technische Unterstützung leisten
-
-
-        g)  Informationsaustausch zu den Kunden organisieren
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        e)  elektrische Größen in Antennenanlagen prüfen und messen
-
-
-        g)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        g)  funktionelle Zusammenhänge und technische Lösungen von Informations-
-            und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für
-            Navigation, Flugführung, Instrumentierung, Datenübertragung sowie
-            Radarsysteme, den technischen Unterlagen entnehmen und prüfen
-
-
-        h)  Baugruppen und Geräte der Informations- und Funktechnik,
-            einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
-
-
-
-
-
-*    *   Zeitrahmen 11
-
-
-*    *   17
-
-    *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
-        (§ 27 Abs. 1 Nr. 17)
-
-    *
-        a)  Aufträge annehmen
-
-
-        b)  Informationen beschaffen und bewerten, Dokumentationen, auch in
-            englischer Sprache, nutzen und bearbeiten, technologische
-            Entwicklungen feststellen, sicherheitsrelevante Unterlagen
-            berücksichtigen
-
-
-        c)  Ausgangszustand analysieren, technische und organisatorische
-            Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele
-            festlegen, Teilaufgaben definieren, technische Unterlagen erstellen
-            und an der Kostenplanung mitwirken
-
-
-        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
-            abstimmen, Planungsunterlagen erstellen
-
-
-        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und
-            Umweltmanagements durchführen, Einhaltung von Terminen verfolgen
-
-
-        f)  physische und psychische Einflüsse bei der Arbeit sowie Einflüsse des
-            Arbeitsumfeldes auf den Menschen sowie auf das Arbeitsergebnis
-            berücksichtigen
-
-
-        g)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte
-            und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln
-            systematisch suchen, beseitigen und dokumentieren
-
-
-        h)  Auftragsablauf dokumentieren, Leistungen abrechnen, Abrechnungsdaten
-            erstellen, Nachkalkulation durchführen
-
-
-        i)  Systeme frei- und übergeben, Abnahmeprotokolle anfertigen, Produkte
-            und Dienstleistungen erläutern, Fachauskünfte, auch in englischer
-            Sprache, erteilen
-
-
-        j)  Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
-
-
-        k)  Soll-Ist-Vergleich mit den Planungsdaten durchführen,
-            Arbeitsergebnisse und -durchführung bewerten
-
-
-        l)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 

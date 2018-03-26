@@ -1,5 +1,6 @@
+Besatzungsvorschriften
 ---
-Title: Besatzungsvorschriften (Anhang XI zur Binnenschiffsuntersuchungsordnung)
+Title: (Anhang XI zur Binnenschiffsuntersuchungsordnung)
 jurabk: BinSchUO2008Anh XI
 layout: default
 origslug: binschuo2008anh_xi
@@ -7,7 +8,7 @@ slug: binschuo2008anh_xi
 
 ---
 
-# Besatzungsvorschriften (Anhang XI zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh XI)
+# (Anhang XI zur Binnenschiffsuntersuchungsordnung) (BinSchUO2008Anh XI)
 
 Ausfertigungsdatum
 :   2008-12-06
@@ -17,6 +18,18 @@ Fundstelle
 
 Geändert durch
 :   Art. 12 Nr. 11 V v. 16.12.2011 II 1300
+
+Änderung durch
+:   Art. 1 Nr. 22 V v. 20.12.2012 I 2802 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 Nr. 13 V v. 30.5.2014 I 610 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 539 V v. 31.8.2015 I 1474 (Nr. 35) ist berücksichtigt
+
+Änderung durch
+:   Art. 1 Nr. 10 V v. 16.12.2016 I 2948 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -168,6 +181,16 @@ Kapitel 3
     *   Besatzung der Fahrgastschiffe
 
 
+*    *   3.08a
+
+    *   Mindestbesatzung auf Personenfähren
+
+
+*    *   3.08b
+
+    *   Mindestbesatzung auf Wagenfähren
+
+
 *    *   3.09
 
     *   Sonstige Wasserfahrzeuge
@@ -199,6 +222,11 @@ Kapitel 3
         Einbau von Fahrtenschreibern an Bord
 
 
+*    *   Anlage 2
+
+    *   Prüfung zum Erwerb der Qualifikation „Matrosen-Motorwart“
+
+
 
 
 ## Kapitel 1 - Allgemeines
@@ -208,10 +236,9 @@ Kapitel 3
 
 Die Besatzung, die sich während der Fahrt an Bord befinden muss,
 bestimmt sich nach Kapitel 3 oder nach der Schiffspersonalverordnung-
-Rhein und wird von der Zentralstelle
-Schiffsuntersuchungskommission/Schiffseichamt in eine
-Fahrtauglichkeitsbescheinigung oder in die Bescheinigung über die
-Besatzung nach Anhang V eingetragen. Die Eintragungen in mehrere
+Rhein und wird von der Generaldirektion Wasserstraßen und Schifffahrt
+in eine Fahrtauglichkeitsbescheinigung oder in die Bescheinigung über
+die Besatzung nach Anhang V eingetragen. Die Eintragungen in mehrere
 dieser Urkunden sind zulässig. Sie müssen für die jeweils befahrenen
 Wasserstraßen gelten und an Bord mitgeführt werden.
 
@@ -374,12 +401,12 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 1.  Die Besatzung, die sich während der Fahrt – mit Ausnahme der Fahrt auf
     dem Rhein – an Bord befinden muss, bestimmt sich nach den §§ 3.02 bis
-    3\.12 und wird von der Zentralstelle Schiffsuntersuchungskommission/
-    Schiffseichamt in eine Fahrtauglichkeitsbescheinigung oder in die
-    Bescheinigung über die Besatzung nach Anhang V eingetragen. Der
-    Schiffsführer, Eigentümer oder Ausrüster kann an Stelle der Besatzung
-    nach diesem Kapitel die Besatzung nach der Schiffspersonalverordnung-
-    Rhein wählen. In diesem Fall müssen alle Bestimmungen der
+    3\.12 und wird von der Generaldirektion Wasserstraßen und Schifffahrt
+    in eine Fahrtauglichkeitsbescheinigung oder in die Bescheinigung über
+    die Besatzung nach Anhang V eingetragen. Der Schiffsführer, Eigentümer
+    oder Ausrüster kann an Stelle der Besatzung nach diesem Kapitel die
+    Besatzung nach der Schiffspersonalverordnung-Rhein wählen. In diesem
+    Fall müssen die Bestimmungen nach Teil II Kapitel 2 und 3 der
     Schiffspersonalverordnung-Rhein mit folgenden Ausnahmen eingehalten
     werden:
 
@@ -400,8 +427,9 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 
 2.  Für Fahrgastschiffe, die zur Beförderung von nicht mehr als zwölf
-    Fahrgästen verwendet werden, sowie für Fähren gilt für die Fahrt auf
-    dem Rhein § 3.19 der Schiffspersonalverordnung-Rhein.
+    Fahrgästen verwendet werden, gilt für die Fahrt auf dem Rhein § 3.19
+    der Schiffspersonalverordnung-Rhein. Für Fähren gelten die §§ 3.08a,
+    3\.08b und § 3.12 entsprechend.
 
 
 3.  Für die Besatzung nach den §§ 3.02 bis 3.12 gelten die §§ 3.03 bis
@@ -421,12 +449,12 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
         Resolution der UNECE umgesetzt hat,
 
 
-    c)  kann das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+    c)  kann das Bundesministerium für Verkehr und digitale Infrastruktur
         Schifferdienstbücher für Inhaber aus anderen Staaten auf ausländischen
         Fahrzeugen anerkennen, wenn sie für die jeweilige Funktion eine
         gleichwertige Qualifikation bescheinigen; dies gilt nur, soweit
-        Gegenseitigkeit gewährleistet ist; das Bundesministerium für Verkehr,
-        Bau und Stadtentwicklung gibt dies im Verkehrsblatt bekannt.
+        Gegenseitigkeit gewährleistet ist; das Bundesministerium für Verkehr
+        und digitale Infrastruktur gibt dies im Verkehrsblatt bekannt.
 
 
 
@@ -457,79 +485,150 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 
 
-### § 3.02 Begriffsbetimmungen
+### § 3.02 Mitglieder der Besatzung, Befähigung
 
 
-1.  In diesem Kapitel ist
-
-    a)  Steuermann
-        ein Angehöriger der Decksmannschaft, der mindestens zwei Jahre als
-        Matrose oder Matrosen-Motorwart in der Binnenschifffahrt gefahren ist;
+1.  Mitglieder der Besatzung können sein: Decksmann, Schiffsjunge,
+    Matrose, Matrosen-Motorwart, Bootsmann, Steuermann, Schiffsführer,
+    Maschinist, Fährjunge, Fährgehilfe, Fährführer.
 
 
-    b)  Matrosen-Motorwart
-        ein Angehöriger der Decksmannschaft mit Grundkenntnissen in der
-        Motorenkunde und einer Fahrzeit von mindestens einem Jahr als Matrose
-        und mindestens einem Jahr auf Wasserfahrzeugen mit Antriebsmaschine in
-        der Binnenschifffahrt oder in der Seeschifffahrt;
+2.  Die Mitglieder der Besatzung müssen folgende Voraussetzungen für die
+    Befähigung erfüllen:
+
+    a)  beim Decksmann
+
+        ein Mindestalter von 16 Jahren;
 
 
-    c)  Matrose
-        ein Angehöriger der Decksmannschaft, der entweder die
-        Lehrabschlussprüfung für Binnenschiffer bestanden hat oder der nach
-        vollendetem 14. Lebensjahr mindestens drei Jahre in der
-        Decksmannschaft eines See- oder Binnenschiffs gefahren ist, davon
-        mindestens sechs Monate auf Binnengewässern; Fahrzeiten nach
-        vollendetem 20. Lebensjahr werden auf die dreijährige Fahrzeit doppelt
-        angerechnet, jedoch nicht auf die sechsmonatige Fahrzeit auf
-        Binnengewässern;
+    b)  beim Schiffsjungen
+
+        ein Mindestalter von 15 Jahren und ein vertraglich geregeltes
+        Ausbildungsverhältnis mit Besuch einer Schifferberufsschule;
 
 
-    d)  Schiffsjunge
-        ein Angehöriger der Decksmannschaft, der mindestens 15 Jahre alt ist,
-        nicht mehr der Vollzeitschulpflicht unterliegt und nachweislich in
-        einem ordnungsmäßigen Berufsausbildungsverhältnis steht;
+    c)  beim Matrosen
+
+        aa) ein Mindestalter von 17 Jahren und
+
+            aaa) ein erfolgreicher Abschluss des Ausbildungsverhältnisses nach
+                Buchstabe b oder
 
 
-    e)  Maschinist
-        ein Angehöriger des Maschinenpersonals, der mindestens 18 Jahre alt
-        ist und die zur Bedienung der Maschinenanlage erforderlichen
-        Kenntnisse besitzt;
-
-
-    f)  Heizer
-        ein Angehöriger des Maschinenpersonals, der mindestens 18 Jahre alt
-        ist;
-
-
-    g)  Flößer
-        eine floßfahrtkundige Person, die mindestens 18 Jahre alt ist;
-
-
-    h)  Fährgehilfe
-        ein Angehöriger der Fährbesatzung, der mindestens 17 Jahre alt ist und
-        nach vollendetem 14. Lebensjahr mindestens zwei Jahre entweder im
-        Fährdienst tätig gewesen ist oder der Decksmannschaft eines See- oder
-        Binnenschiffes angehört hat;
-
-
-    i)  Fährjunge
-        ein Angehöriger der Fährbesatzung, der mindestens 15 Jahre alt ist.
+            bbb) eine andere mit Erfolg abgelegte, von der zuständigen Behörde
+                anerkannte Prüfung nach dem Berufsqualifikationsfeststellungsgesetz
+                oder
 
 
 
 
 
+        bb) ein Mindestalter von 19 Jahren und eine Fahrzeit von drei Jahren als
+            Angehöriger der Decksmannschaft eines See- oder Binnenschiffs; davon
+            mindestens sechs Monate in der Binnenschifffahrt. Fahrzeiten nach dem
+            20\. Lebensjahr werden auf die dreijährige Fahrzeit doppelt
+            angerechnet, jedoch nicht auf die vorgeschriebene Fahrzeit in der
+            Binnenschifffahrt;
 
 
-2.  Der Schiffsführer hat den Nachweis, dass ein zur Besatzung gehörender
+
+
+
+    d)  beim Matrosen-Motorwart
+
+        aa) eine mit Erfolg abgelegte Prüfung zum/zur staatlich anerkannten
+            Binnenschiffer/-in oder
+
+
+        bb) die Qualifikation zum Matrosen und eine andere mit Erfolg abgelegte,
+            von der Generaldirektion Wasserstraßen und Schifffahrt anerkannte
+            Prüfung nach den Anforderungen der Anlage 2 oder
+
+
+        cc) die Qualifikation zum Matrosen und eine Fahrzeit von einem weiteren
+            Jahr auf einem Binnenschiff mit Maschinenantrieb und Grundkenntnissen
+            in der Motorenkunde;
+
+
+
+
+
+    e)  beim Bootsmann
+
+        aa) eine mit Erfolg abgelegte Prüfung zum/zur staatlich anerkannten
+            Binnenschiffer/-in, wenn diese Ausbildung eine Fahrzeit in der
+            Binnenschifffahrt von einem Jahr einschließt oder
+
+
+        bb) die Qualifikation zum Matrosen und eine Fahrzeit von einem weiteren
+            Jahr;
+
+
+
+
+
+    f)  beim Steuermann
+
+        aa) die Qualifikation zum Matrosen und weitere zwei Jahre Fahrzeit in der
+            Binnenschifffahrt oder
+
+
+        bb) die Qualifikation zum Matrosen-Motorwart oder Bootsmann und ein
+            weiteres Jahr Fahrzeit in der Binnenschifffahrt;
+
+
+
+
+
+    g)  beim Schiffsführer
+
+        das nach der Binnenschifferpatentverordnung erforderliche Patent;
+
+
+    h)  beim Maschinisten
+
+        ein Mindestalter von 18 Jahren und die zur Bedienung der
+        Maschinenanlage erforderlichen Kenntnisse;
+
+
+    i)  beim Fährjungen
+
+        ein Mindestalter von 15 Jahren;
+
+
+    j)  beim Fährgehilfen
+
+        ein Mindestalter von 17 Jahren und einer Fahrzeit von einem Jahr im
+        Fährdienst oder als Mitglied einer Decksmannschaft auf einem See- oder
+        Binnenschiff;
+
+
+    k)  beim Fährführer
+
+        die nach der Binnenschifferpatentverordnung erforderliche
+        Fahrerlaubnis.
+
+
+
+
+
+3.  Der Schiffsführer hat den Nachweis, dass ein zur Besatzung gehörender
     Schiffsjunge in einem ordnungsmäßigen Berufsausbildungsverhältnis
-    steht, an Bord mitzuführen und den zuständigen Angehörigen der Wasser-
-    und Schifffahrtsdirektion, des Wasser- und Schifffahrtsamtes oder der
-    Wasserschutzpolizei auf Verlangen zur Prüfung auszuhändigen. Ein
-    Schiffsjunge ohne Fahrzeiterfordernis, der als Besatzungsmitglied
-    vorgeschrieben ist, kann durch einen Angehörigen der Decksmannschaft
-    ersetzt werden, der mindestens 17 Jahre alt ist.
+    steht, an Bord mitzuführen und den zuständigen Bediensteten der
+    Generaldirektion Wasserstraßen und Schifffahrt, des Wasserstraßen- und
+    Schifffahrtsamtes oder der Wasserschutzpolizei auf Verlangen zur
+    Prüfung auszuhändigen. Ein Schiffsjunge ohne Fahrzeiterfordernis, der
+    als Besatzungsmitglied vorgeschrieben ist, kann durch einen
+    Angehörigen der Decksmannschaft ersetzt werden, der mindestens 17
+    Jahre alt ist. Die Qualifikation des Schiffsjungen ist gleichzusetzen
+    mit der Qualifikation des Leichtmatrosen nach § 3.02 Nummer 1 der
+    Schiffspersonalverordnung-Rhein.
+
+
+4.  180 effektive Fahrtage in der Binnenschifffahrt gelten als ein Jahr
+    Fahrzeit. Innerhalb von 365 aufeinanderfolgenden Tagen können
+    höchstens 180 Fahrtage angerechnet werden. 250 Fahrtage in der See-,
+    Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
 
 
@@ -1009,11 +1108,10 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 
 
-7.  Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt kann
-    auf Antrag zulassen, dass Güterschleppkähne mit einer Tragfähigkeit
-    bis 330 t auf Strecken bis 20 km in der Betriebsform A im
-    Pendelverkehr nur mit dem Schiffsführer besetzt sind. Diese Zulassung
-    ist an Bord mitzuführen.
+7.  Die Generaldirektion Wasserstraßen und Schifffahrt kann auf Antrag
+    zulassen, dass Güterschleppkähne mit einer Tragfähigkeit bis 330 t auf
+    Strecken bis 20 km in der Betriebsform A im Pendelverkehr nur mit dem
+    Schiffsführer besetzt sind. Diese Zulassung ist an Bord mitzuführen.
 
 
 
@@ -1057,7 +1155,7 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 
 
-    f)  die Geräte nach Nummer 5 entweder durch Schall- oder durch
+    f)  die Geräte nach Buchstabe e entweder durch Schall- oder durch
         Sichtzeichen Alarm geben und so beschaffen sind, dass sie während des
         Betriebs der Antriebsanlage wirksam sind und unter allen Umständen die
         Aufmerksamkeit des Schiffsführers auf sich lenken,
@@ -1226,7 +1324,7 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 *    *   4
 
-    *   über 1000 bis 1350 t
+    *   über 1 000 bis 1 350 t
 
     *   Schiffsführer
 
@@ -1239,15 +1337,15 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     *   2
 
 
-*    *   Schiffsführer
+*    *   Steuermann
 
-    *   -
+    *   –
 
-    *   -
+    *   –
 
-    *   -
+    *   –
 
-    *   -
+    *   –
 
 
 *    *   Matrosen
@@ -1269,7 +1367,7 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
     *   1
 
-    *   -
+    *   –
 
 
 *    *   5
@@ -1372,9 +1470,9 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 
 8.  Für die Fahrt auf der Elbe und ihren Nebenflüssen kann die
-    Zentralstelle Schiffsuntersu-chungskommission/Schiffseichamt auf
-    Antrag zulassen, dass auf einem Schiff mit einer Tragfähigkeit bis 120
-    t der Schiffsjunge entfällt, wenn in der Betriebsform A
+    Generaldirektion Wasserstraßen und Schifffahrt auf Antrag zulassen,
+    dass auf einem Schiff mit einer Tragfähigkeit bis 120 t der
+    Schiffsjunge entfällt, wenn in der Betriebsform A
 
     a)  der Schiffsführer geistig und körperlich geeignet ist, die
         Mehrverantwortung zu tragen und
@@ -1423,7 +1521,7 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
         im Steuerstand Alarmgeräte ausgelöst werden,
 
 
-    c)  die Geräte nach Nummer 2 entweder durch Schall- oder durch
+    c)  die Geräte nach Buchstabe b entweder durch Schall- oder durch
         Sichtzeichen Alarm geben und so beschaffen sind, dass sie während des
         Betriebs der Antriebsanlagen wirksam sind und unter allen Umständen
         die Aufmerksamkeit des Schiffsführers auf sich lenken,
@@ -1717,8 +1815,8 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
         aus bedient werden können,
 
 
-    c)  alle Geräte nach Nummer 2 durch Schall- und Sichtzeichen Alarm geben
-        können und so beschaffen sind, dass sie während des Betriebs der
+    c)  alle Geräte nach Buchstabe b durch Schall- und Sichtzeichen Alarm
+        geben können und so beschaffen sind, dass sie während des Betriebs der
         Antriebsanlage wirksam sind und unter allen Umständen die
         Aufmerksamkeit des Rudergängers auf sich lenken,
 
@@ -1803,7 +1901,7 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 
 
-    f)  die Geräte nach Nummer 5 entweder durch Schall- oder Sichtzeichen
+    f)  die Geräte nach Buchstabe e entweder durch Schall- oder Sichtzeichen
         Alarm geben und so beschaffen sind, dass sie während des Betriebs der
         Antriebsanlagen wirksam sind und unter allen Umständen die
         Aufmerksamkeit des Schiffsführers auf sich lenken,
@@ -2328,10 +2426,10 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 4.  Sind eine oder mehrere der in Nummer 1 genannten Voraussetzungen nicht
     erfüllt, so erhöht sich in allen Betriebsformen die Besatzung in den
     Stufen 1 bis 3 um einen Schiffsjungen, in den Stufen 4 bis 7 um einen
-    Matrosen. Die Zentralstelle Schiffsunter-
-    suchungskommission/Schiffseichamt kann die Qualifikation des
-    zusätzlichen Besatzungsmitgliedes abweichend von Satz 1 festsetzen,
-    wenn dies aus technischen oder Sicherheitsgründen notwendig ist.
+    Matrosen. Die Generaldirektion Wasserstraßen und Schifffahrt kann die
+    Qualifikation des zusätzlichen Besatzungsmitgliedes abweichend von
+    Satz 1 festsetzen, wenn dies aus technischen oder Sicherheitsgründen
+    notwendig ist.
 
 
 5.  Auf der Lahn wird bei einer zulässigen Anzahl der Fahrgäste bis zu 250
@@ -2348,9 +2446,291 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 
 
-    Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt
-    vermerkt die für die-sen Fall zulässige Besatzungsverminderung im
-    Schiffsattest.
+    Die Generaldirektion Wasserstraßen und Schifffahrt vermerkt die für
+    diesen Fall zulässige Besatzungsverminderung im Schiffsattest.
+
+
+
+
+
+### § 3.08a Mindestbesatzung auf Personenfähren
+
+
+1.  Die Mindestbesatzung einer Personenfähre beträgt:
+
+    *        *   Stufe
+
+        *   Zulässige Anzahl
+            der Fahrgäste
+
+        *   Besatzung
+
+
+    *        *   1
+
+        *   bis 35
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   2
+
+        *   36 – 250
+            Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährjunge
+
+        *   1
+
+
+    *        *   3
+
+        *   251 – 600
+            Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährgehilfe
+
+        *   1
+
+
+    *        *   4
+
+        *   601 – 1 000
+            Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährgehilfe
+
+        *   1
+
+
+    *        *   Fährjunge
+
+        *   1
+
+
+    *        *   5
+
+        *   über 1 000
+            Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährgehilfe
+
+        *   2
+
+
+    *        *   Fährjunge
+
+        *   1
+
+
+
+
+
+2.  Die nach Nummer 1 vorgeschriebene Mindestbesatzung setzt die
+    Ausrüstung nach Standard S1 nach § 2.01 voraus. Die Anforderungen an
+    die Ausrüstung nach Satz 1 gilt nicht für eine seil- oder
+    kettengebundene Fähre oder eine Kahnfähre.
+
+
+3.  Die Mindestbesatzung nach Nummer 1 für eine Fähre der Stufe 2 kann um
+    den Fährjungen vermindert werden, wenn
+
+    a)  die Fahrzeit zwischen zwei Fährstellen 10 Minuten nicht übersteigt,
+
+
+    b)  die Fähre neben den Anforderungen
+        nach Nummer 2                          über eine betriebssichere
+        Sprechfunkanlage verfügt und
+
+
+    c)  sichergestellt ist, dass das Festmachen an der Fährstelle kein
+        Verlassen des Steuerstandes erfordert.
+
+
+
+    Verfügt eine Fähre nur über eine Hauptantriebsmaschine, muss der Anker
+    bei schlechter Zugänglichkeit der Ankereinrichtung vom Steuerhaus
+    fernbetätigt setzbar sein.
+
+
+4.  Erfüllt eine Fähre die in Nummer 2 Satz 1, auch in Verbindung mit Satz
+    2, genannten Voraussetzungen nicht, bestimmt sich die Mindestbesatzung
+    nach der nächsthöheren Stufe. Bei einer Fähre der Stufe 5 erhöht sich
+    die Mindestbesatzung um einen Fährgehilfen.
+
+
+
+
+
+### § 3.08b Mindestbesatzung von Wagenfähren
+
+
+1.  Die Mindestbesatzung einer Wagenfähre beträgt:
+
+    *        *   Stufe
+
+        *   Zulässige Tragfähigkeit
+            oder Anzahl
+            der Fahrgäste
+
+        *   Besatzung
+
+
+    *        *   1
+
+        *   bis 45 t
+            bis 250 Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährjunge
+
+        *   1
+
+
+    *        *   2
+
+        *   bis 135 t
+            bis 250 Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährjunge
+
+        *   1
+
+
+    *        *   3
+
+        *   bis 270 t
+            251 – 600 Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährgehilfe
+
+        *   1
+
+
+    *        *   4
+
+        *   mehr als 270 t
+            601 – 1 000 Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährgehilfe
+
+        *   1
+
+
+    *        *   Fährjunge
+
+        *   1
+
+
+    *        *   5
+
+        *   mehr als 270 t
+            über 1 000 Personen
+
+        *   Fährführer
+
+        *   1
+
+
+    *        *   Fährgehilfe
+
+        *   2
+
+
+    *        *   Fährjunge
+
+        *   1
+
+
+
+
+    Dabei ist die jeweilige Stufe nach den für die Fähre ungünstigeren
+    Grenzwerten der Tragfähigkeit oder der Anzahl der Fahrgäste zu
+    bestimmen.
+
+
+2.  Die nach Nummer 1 vorgeschriebene Mindestbesatzung setzt die
+    Ausrüstung nach Standard S1 nach § 2.01 voraus. Die Anforderungen an
+    die Ausrüstung nach Satz 1 gilt nicht für eine seil- oder
+    kettengebundene Fähre. Eine Fähre der Stufen 2 bis 5 muss zudem über
+    eine Vorrichtung verfügen, durch die das Festmachen der Fähre an der
+    Fährstelle ohne Verlassen des Steuerstandes möglich ist.
+
+
+3.  Die Mindestbesatzung nach Nummer 1 für eine Fähre der Stufe 1 kann um
+    den Fährjungen vermindert werden, wenn
+
+    a)  die Fahrzeit zwischen zwei Fährstellen 10 Minuten nicht übersteigt,
+
+
+    b)  die Fähre neben den Anforderungen nach Nummer 2 über eine
+        betriebssichere Sprechfunkanlage verfügt und
+
+
+    c)  sichergestellt ist, dass das Festmachen der Fähre an der Fährstelle
+        kein Verlassen des Steuerstandes erfordert.
+
+
+
+
+
+4.  Zusätzlich zu den in Nummer 2 genannten Voraussetzungen müssen bei
+    einer Fähre der Stufen 3 bis 5 die Landeklappen und Schlagbäume vom
+    Steuerstand aus fernbetätigt bedient werden können. Eine Fähre der
+    Stufe 4 oder 5 muss über mindestens zwei getrennte Maschinenräume
+    verfügen. Die Generaldirektion Wasserstraßen und Schifffahrt kann eine
+    von Satz 1 abweichende Lage der Bedieneinrichtungen von Landeklappen
+    und Schlagbäumen zulassen, wenn eine Einrichtung für interne
+    Sprechverbindungen zwischen Steuerstand und Ort der Bedieneinrichtung
+    vorhanden ist.
+
+
+5.  Erfüllt eine Fähre die in Nummer 2 Satz 1, auch in Verbindung mit Satz
+    2, und Satz 3 sowie Nummer 4 genannten Voraussetzungen nicht, ist die
+    Mindestbesatzung nach der Tabelle in Nummer 1 um die nächsthöhere
+    Stufe anzuwenden. Bei einer Fähre der Stufe 5 erhöht sich die
+    Mindestbesatzung um einen Fährgehilfen.
 
 
 
@@ -2358,12 +2738,10 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 
 ### § 3.09 Sonstige Wasserfahrzeuge
 
-Für Wasserfahrzeuge, die nicht unter die §§ 3.05 bis 3.08 fallen (z.
-B. Fähren, schwimmende Geräte), setzt die
-Schiffsuntersuchungskommission oder die Zentralstelle
-Schiffsuntersuchungskommission/Schiffseichamt Art und Umfang der
-Besatzung jeweils entsprechend der Größe, Bauart und Ausrüstung des
-Fahrzeugs fest.
+Die Schiffsuntersuchungskommission setzt für Fahrzeuge, die nicht
+unter die §§ 3.05 bis 3.08b fallen, die erforderliche Besatzung, die
+sich während der Fahrt an Bord befinden muss, unter Berücksichtigung
+ihrer Größe, Bauart, Einrichtung und Zweckbestimmung, fest.
 
 
 ### § 3.10 Abweichungen
@@ -2381,21 +2759,21 @@ Fahrzeugs fest.
 
 
 2.  Bei allen Schiffen kann die Schiffsuntersuchungskommission oder die
-    Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt eine
-    höhere Besatzungsstärke festsetzen, wenn nach Größe, Bauart,
-    Ausrüstung und Zweckbestimmung des Schiffes anzunehmen ist, dass die
-    Besatzung nach den §§ 3.05 bis 3.08 nicht unter allen Umständen zu
-    seinem sicheren Betrieb ausreicht.
+    Generaldirektion Wasserstraßen und Schifffahrt eine höhere
+    Besatzungsstärke festsetzen, wenn nach Größe, Bauart, Ausrüstung und
+    Zweckbestimmung des Schiffes anzunehmen ist, dass die Besatzung nach
+    den §§ 3.05 bis 3.08 nicht unter allen Umständen zu seinem sicheren
+    Betrieb ausreicht.
 
 
 3.  Bei einem Schleppboot, das nach dem Schiffsattest oder Schiffszeugnis
     nur zur Fahrt in Häfen, auf Reeden oder auf kurzen Strecken bestimmt
-    ist, kann die Schiffsuntersuchungskommission oder die Zentralstelle
-    Schiffsuntersuchungskommission/ Schiffseichamt eine andere Besatzung
-    festsetzen, wenn die Umstände dies erfordern oder zulassen. Satz 1
-    gilt nicht für Schleppboote, die zum Bugsieren oder zum Assistieren
-    von Seeschiffen auf den Wasserstraßen der Zonen 1, 2 oder 3 zugelassen
-    und verwendet werden.
+    ist, kann die Schiffsuntersuchungskommission oder die Generaldirektion
+    Wasserstraßen und Schifffahrt eine andere Besatzung festsetzen, wenn
+    die Umstände dies erfordern oder zulassen. Satz 1 gilt nicht für
+    Schleppboote, die zum Bugsieren oder zum Assistieren von Seeschiffen
+    auf den Wasserstraßen der Zonen 1, 2 oder 3 zugelassen und verwendet
+    werden.
 
 
 
@@ -2404,14 +2782,14 @@ Fahrzeugs fest.
 ### § 3.11 Ausnahmebewilligung
 
 
-1   Die Schiffsuntersuchungskommission oder die Zentralstelle
-    Schiffsuntersuchungskom-mission/Schiffseichamt kann für die
-    Betriebsform A die Besatzung eines Wasserfahrzeugs auf Antrag durch
-    schriftliche Ausnahmebewilligung für eine Fahrt zum Bestimmungsort um
-    eine Person, die nicht der Schiffsführer sein darf, herabsetzen, wenn
-    es dem Schiffsführer trotz glaubhaft gemachter Bemühungen nicht
-    möglich ist, die Besat-zung zu vervollständigen, und wenn auf dem
-    Fahrzeug neben dem Schiffsführer noch ein Matrose vorhanden ist.
+1   Die Schiffsuntersuchungskommission oder die Generaldirektion
+    Wasserstraßen und Schifffahrt kann für die Betriebsform A die
+    Besatzung eines Wasserfahrzeugs auf Antrag durch schriftliche
+    Ausnahmebewilligung für eine Fahrt zum Bestimmungsort um eine Person,
+    die nicht der Schiffsführer sein darf, herabsetzen, wenn es dem
+    Schiffsführer trotz glaubhaft gemachter Bemühungen nicht möglich ist,
+    die Besat-zung zu vervollständigen, und wenn auf dem Fahrzeug neben
+    dem Schiffsführer noch ein Matrose vorhanden ist.
 
 
 2.  Auf einem Schiff, dessen Besatzung größer ist als ein Schiffsführer
@@ -2437,16 +2815,10 @@ Fahrzeugs fest.
     oder ein Matrosen-Motorwart angehört.
 
 
-2.  Gehören der Besatzung eines Wasserfahrzeugs unabhängig von der
-    Betriebsform mehr als sechs Mitglieder an, so darf kein
-    Besatzungsmitglied mit den allgemeinen Küchenarbeiten beauftragt
-    werden.
-
-
-3.  Ein Wasserfahrzeug, auf dem durch unvorhergesehene Umstände (z. B.
+2.  Ein Wasserfahrzeug, auf dem durch unvorhergesehene Umstände (z. B.
     Krankheit, Unfall, behördliche Anordnung) höchstens ein Mitglied der
     Besatzung während der Fahrt ausfällt, kann seine Fahrt bis zum
-    nächsten Lade- oder Löschplatz - ein Fahrgastschiff bis zur
+    nächsten Lade- oder Löschplatz - Fahrgastschiffe und Fähren bis zur
     Tagesendstation - fortsetzen, wenn auf dem Wasserfahrzeug neben einem
     Inhaber des Schifferpatents für die betreffende Strecke noch ein
     weiteres Mitglied der Besatzung vorhanden ist.
@@ -2655,6 +3027,546 @@ Fahrzeugs fest.
     des Gerätes zu unterweisen und eine Bedienungsanleitung ist zum
     Verbleib an Bord auszuhändigen. Dies ist in der Bescheinigung über den
     Einbau zu vermerken.
+
+
+
+
+
+### Anlage 2 Prüfung zum Erwerb der Qualifikation „Matrosen-Motorwart“
+
+
+*    *   ## Teil 1
+
+
+
+*    *   ## **Ausbildungs- und Prüfungsinhalte**
+
+
+
+
+
+0.  **Arbeitsschutz und Unfallverhütung (UVV)**
+
+
+1.  **Wichtige Werkstoffe im Schiffbau**
+
+
+2.  **Physikalische Grundlagen des Maschinenbaus**
+
+    a)  Technische Grundmaße nach DIN 1301
+
+
+    b)  Kräfte
+
+
+    c)  Arbeit und Energie
+
+
+    d)  Leistung und Wirkungsgrad
+
+
+    e)  Wärme
+
+
+
+
+
+3.  **Grundlagen der Mechanik**
+
+    a)  Bewegung
+
+
+    b)  Hebel
+
+
+    c)  Rollen
+
+
+    d)  Goldene Regel der Mechanik bei Anwendung von Hebel und Rollen
+
+
+
+
+
+4.  **Fachausdrücke und Formeln im Schiffsmaschinenbau**
+
+    a)  Zylinder
+
+
+    b)  Triebwerk
+
+
+    c)  Drücke
+
+
+    d)  Kraft- und Schmierstoffe
+
+
+    e)  Verbräuche
+
+
+    f)  Nutzeffekt
+
+
+
+
+
+5.  **Lösbare und nicht lösbare Verbindungen**
+
+    a)  Schraubenverbindung
+
+
+    b)  Stift- und Bolzenverbindungen
+
+
+    c)  Nabenverbindung
+
+
+    d)  Rohrverbindungen
+
+
+    e)  Nietverbindungen
+
+
+
+
+
+6.  **Maschinenelemente**
+
+    a)  Lager
+
+
+    b)  Kupplungen
+
+
+    c)  Schiffsgetriebe mit und ohne Wellenachsenversetzung
+
+
+    d)  Armaturen
+
+
+
+
+
+7.  **Pumpen und Verdichter**
+
+    a)  Pumpen und Verdichter
+
+
+    b)  Saug-, Druck- und Förderhöhe
+
+
+    c)  Pumpenarten
+
+
+    d)  Verdichter
+
+
+
+
+
+8.  **Hydraulik**
+
+    a)  Physikalische Grundlagen
+
+
+    b)  Hydraulische Kraftübertragung
+
+
+    c)  Grundaufbau und Bauelemente der Hydraulikanlage
+
+
+
+
+
+9.  **Schiffsantriebsmaschinen**
+
+    a)  Kolbendampfmaschinen und Dampfturbinen
+
+
+    b)  Diesel- und Ottomotoren mit und ohne Aufladung – speziell –
+
+
+    c)  Flüssiggasantrieb
+
+
+    d)  Gasturbinen
+
+
+    e)  Kombinierte Antriebsmaschinen
+
+
+    f)  Antriebsmaschinen mit Brennstoffzelle
+
+
+    g)  Ka Me Wa Verstellpropeller
+
+
+    h)  Festpropeller
+
+
+    i)  Schottel
+
+
+    j)  Jet
+
+
+    k)  Voithschneider
+
+
+
+
+
+10. **Zum Betreiben eines Diesel-/Ottomotors notwendige Systeme und
+    Betriebsstoffe**
+
+    a)  Kraftstoffsysteme der Antriebsmaschinen
+
+
+    b)  Schmiersysteme
+
+
+    c)  Kühlwassersysteme der Antriebsmaschinen
+
+
+    d)  Anlasssysteme der Antriebsmaschinen
+
+
+    e)  Anlassen mit Druckluft
+
+
+    f)  Anlassen mit elektrischem Anlasser
+
+
+    g)  Frischluftversorgungssysteme der Antriebsmaschinen
+
+
+    h)  Kontroll- und Überwachungsmaßnahmen
+
+
+    i)  Kraftübertragung
+
+
+
+
+
+11. **Decks- und Arbeitsmaschinen, Ausrüstung und Einrichtungen zur
+    Sicherheit und zum Betreiben von Schiffen**
+
+    a)  Winden
+
+
+    b)  Hebezeuge
+
+
+    c)  Ausrüstungen zum Laden und Löschen von Gütern
+
+
+    d)  Einrichtungen zum Bewegen von Masten, Ladeluken, Steuerhäusern oder
+        hydraulischen Kupplungssystemen in der Schubschifffahrt
+
+
+    e)  Ruderanlagen, Rudermaschinen
+
+
+    f)  Feuerlösch- und Lenzanlagen
+
+
+    g)  Trimm-, Kühl- und Heizungsanlagen
+
+
+    h)  Wohn- und Sanitätseinrichtungen
+
+
+    i)  Verhalten im Notfall (z. B. Schnellschluss Kraftstoff, Brandklappen
+        usw.)
+
+
+
+
+
+12. **Die Bedeutung der Überwachung der Einsatzbereitschaft von Maschinen,
+    Systemen, Einrichtungen und Ausrüstungen an Bord**
+
+    a)  Überwachung der Betriebsparameter
+
+
+    b)  Kontrolle auf Auffälligkeiten
+
+
+    c)  Folge des Anstiegs/Abfalls von Druck oder Temperatur in einem
+        System/einer Anlage bzw. Maschine auf andere Systeme, Anlagen oder
+        Maschinen
+
+
+    d)  Betriebsüberwachung und Wirtschaftlichkeit
+
+
+    e)  Notwendigkeit von Ordnung und Sauberkeit zur Durchführung von
+        Kontroll-/Wartungsarbeiten
+
+
+
+
+
+13. **Elektrotechnik**
+
+    a)  allgemeine Grundlagen
+
+
+    b)  Akkumulatoren, Arten, Einsatzbereiche
+
+
+    c)  Schaltung von Akkumulatoren
+
+
+    d)  elektrische Maschinen
+
+
+    e)  Bordnetze
+
+
+    f)  Notstromanlagen zur Sicherheit von Schiff, Besatzung, Navigation und
+        Kommunikation
+
+
+    g)  Anschluss von Verbrauchern 400 V Drehstromnetz
+
+
+    h)  Berührungsschutz/Schutzmaßnahmen
+
+
+    i)  Stromwandlung
+
+
+
+
+
+14. **Gewässerschutz und Abfallbeseitigung gemäß Kapitel 28 der
+    BinSchStrO**
+
+    a)  Begriffsbestimmung – Allgemein
+
+
+    b)  Begriffsbestimmungen – Ladungsbereich
+
+
+    c)  allgemeine Sorgfaltspflicht
+
+
+    d)  Sorgfaltspflicht beim Bunkern
+
+
+    e)  Verbot der Einbringung und Einleitung
+
+
+    f)  Sammlung und Behandlung der Abfälle an Bord
+
+
+    g)  Ölkontrollbuch, Abgabe an Sammelstellen
+
+
+    h)  Bilgenentölungsboote
+
+
+    i)  Anstrich und Außenreinigung der Fahrzeuge
+
+
+
+
+
+
+
+
+*    *   Teil 2
+
+
+*    *   ## **Prüfung**
+
+
+
+
+Durch die Prüfung ist festzustellen, ob der Prüfling befähigt ist den
+Anforderungen des Matrosen-Motorwarts zu entsprechen.
+
+1.  **Zulassung zur Prüfung**
+
+    (1) Zur Prüfung ist zuzulassen, wer eine mindestens dreijährige
+    Fahrzeit als Angehöriger einer Decksmannschaft eines See- oder
+    Binnenschiffs, davon mindestens sechs Monate auf Binnengewässern, und
+    den Besuch eines erforderlichen Vorbereitungslehrgangs nach Nummer 3
+    nachweist.
+
+    (2) Gesellen und Gesellinnen des Metallhandwerks, Fachrichtung
+    Motoren- und Elektrotechnik sind abweichend von Satz 1 zuzulassen,
+    sofern die nachgewiesene Fahrzeit den Anforderungen des § 3.02 Nummer
+    2 Buchstabe c Doppelbuchstabe bb entspricht.
+
+
+2.  **Antrag**
+
+    Der Antrag auf Zulassung zur Prüfung ist schriftlich an die zuständige
+    Behörde zu richten. Dem Antrag sind beizufügen:
+
+    1.  der Nachweis über die Fahrzeit und
+
+        der Nachweis über die Teilnahme am Vorbereitungslehrgang oder
+
+
+    2.  der Nachweis über die Ausbildung im Metallhandwerk.
+
+
+
+
+    Über die Zulassung zur Prüfung entscheidet die zuständige Behörde.
+
+
+3.  **Vorbereitungslehrgang**
+
+    (1) Der Vorbereitungslehrgang dient der Vermittlung der notwendigen
+    Grundlagen für die Aufnahme einer praktischen Tätigkeit als Matrosen-
+    Motorwart. Die Dauer des Lehrgangs soll insgesamt mindestens drei
+    Wochen mit mindestens 120 Stunden betragen.
+
+    (2) Der Lehrgang bedarf der Anerkennung durch die zuständige Behörde.
+    Die Anerkennung ist zu erteilen, wenn der Veranstalter des Lehrgangs
+    nachweist, dass im Lehrgang die Grundprinzipien der in der Anlage 2
+    (Anhang XI) dieser Verordnung aufgeführten Themen vermittelt werden.
+    Der Nachweis ist insbesondere durch die Darstellung der zeitlichen und
+    inhaltlichen Gliederung des Lehrgangs, der beabsichtigen Art und Weise
+    der Vermittlung der Inhalte, der sachlichen Voraussetzung und der
+    Qualifikation der Lehrkräfte zu erbringen. Die Anerkennung ist auf
+    fünf Jahre befristet.
+
+    (3) Über die Anerkennung wird eine Urkunde mit einer
+    Anerkennungsnummer ausgestellt. Bei Wegfall der für die Anerkennung
+    maßgeblichen Gründe ist die Anerkennung zurückzunehmen.
+
+
+4.  **Prüfung**
+
+    (1) Die Prüfung besteht aus einem praktischen und einem theoretischen
+    Teil.
+
+    (2) Im praktischen Teil werden die vom Matrosen-Motorwart
+    erforderlichen Kenntnisse zur selbständigen Ausübung der Tätigkeit
+    geprüft. Im Zusammenhang mit dem Erwerb der Fertigkeiten, Kenntnissen
+    und Fähigkeiten soll die praktische Umsetzung der maßgeblichen
+    berufsbezogenen Vorschriften erfolgen.
+
+    (3) Im theoretischen Teil hat der Prüfling anhand
+    inhaltsübergreifender Fragestellungen seine beruflichen Kenntnisse
+    nachzuweisen. Die schriftliche Arbeit soll nicht länger als 60 Minuten
+    dauern. Sie kann durch eine mündliche Prüfung ergänzt werden, wenn
+    diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung
+    der Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll je
+    Prüfling nicht länger als 30 Minuten dauern.
+
+
+5.  **Prüfungsausschuss**
+
+    (1) Die Prüfung wird vor einem Prüfungsausschuss, der durch die
+    zuständige Behörde bestellt wird, abgelegt.
+
+    (2) Der Prüfungsausschuss besteht aus drei Mitgliedern; diese werden
+    von der zuständigen Behörde für die Dauer von drei Jahren berufen. Für
+    jedes Mitglied ist mindestens eine stellvertretende Person zu
+    benennen. An den Entscheidungen des Prüfungsausschusses müssen alle
+    Ausschussmitglieder mitwirken. Der Vorsitz des Prüfungsausschusses
+    wird von den Mitgliedern des Prüfungsausschusses gewählt.
+
+    (3) Die Beschlüsse des Prüfungsausschusses werden mit Stimmenmehrheit
+    gefasst. Die Ergebnisse der einzelnen Prüfungsleistungen sind in einer
+    Niederschrift des Prüfungsausschusses auszuweisen.
+
+    (4) Die zuständige Behörde führt die Aufsicht über den
+    Prüfungsausschuss. Sie ist berechtigt, Beauftragte zur Prüfung zu
+    entsenden. Sie kann Mitglieder des Prüfungsausschusses, die sich als
+    Prüfer einer erheblichen Pflichtverletzung schuldig gemacht haben,
+    abberufen.
+
+    (5) Die Tätigkeit im Prüfungsausschuss ist ehrenamtlich. Für bare
+    Auslagen und für Zeitversäumnis ist, soweit eine Entschädigung nicht
+    von anderer Seite gewährt wird, eine angemessene Entschädigung zu
+    zahlen, deren Höhe sich nach dem Bundesreisekostengesetz bestimmt.
+
+
+6.  **Prüfungsverfahren**
+
+    (1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet
+    die Prüfung und setzt die Prüfungstermine in Absprache mit der
+    zuständigen Behörde fest. Die zuständige Behörde gibt die
+    Prüfungstermine bekannt und bereitet die Prüfung vor. Die Prüflinge
+    sind mit einer Frist von mindestens vier Wochen zu laden.
+
+    (2) Versäumt der Prüfling ohne ausreichende Entschuldigung die
+    Teilnahme an der Prüfung ganz oder teilweise, so gilt die gesamte
+    Prüfung als nicht bestanden. Bei ordnungswidrigem Verhalten während
+    der Prüfung, insbesondere bei Täuschungsversuchen, kann der Prüfling
+    von der weiteren Teilnahme an der Prüfung ausgeschlossen werden. Die
+    Prüfung gilt in diesem Fall als nicht bestanden. Die Entscheidung
+    trifft das den Vorsitz führende Mitglied des Prüfungsausschusses.
+
+
+7.  **Bewerten und Bestehen der Prüfung**
+
+    (1) Die Leistungen in den Prüfungsteilen sind gesondert zu bewerten.
+
+    (2) Für die Bewertung der Leistungen in den Prüfungsteilen ist die
+    nachfolgende Notenskala anzuwenden. Die einzelnen Leistungen in den
+    Prüfungsteilen sind mit einer der folgenden Noten gemäß der verbalen
+    Darstellung des Leistungsniveaus in Bezug auf die Anforderungen zu
+    bewerten.
+
+    Note 1 = sehr gut: eine den Anforderungen in besonderem Maße entsprechende Leistung,
+
+
+    Note 2 = gut: eine den Anforderungen voll entsprechende Leistung,
+
+
+    Note 3 = befriedigend: eine den Anforderungen im Allgemeinen entsprechende Leistung,
+
+
+    Note 4 = ausreichend: eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen entspricht,
+
+
+    Note 5 = mangelhaft: eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass notwendige Grundlagen für die berufliche
+        Handlungsfähigkeit vorhanden sind,
+
+
+    Note 6 = ungenügend: eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundlagen für die berufliche Handlungsfähigkeit fehlen.
+
+
+
+
+    (3) Die Prüfung ist bestanden, wenn in jedem der Prüfungsbereiche des
+    praktischen und theoretischen Teils der Prüfung mindestens
+    ausreichende Leistungen erbracht worden sind. Wird eine der Leistungen
+    der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung
+    insgesamt nicht bestanden.
+
+    (4) Über das Ergebnis der Prüfung ist dem Prüfling ein Prüfungszeugnis
+    auszustellen.
+
+
+8.  **Gebühren für die Prüfung**
+
+    (1) Die für die Abnahme der Prüfung entstehenden Gebühren für
+    Prüfungsausschuss und Verwaltung sind zu gleichen Teilen von allen
+    teilnehmenden Prüflingen zu erstatten.
+
+    (2) Die Gebühren sind nach Maßgabe der
+    Binnenschifffahrtskostenverordnung zu erheben. Durch Anmeldung zur
+    Prüfung erklärt sich der Gebührenschuldner zur Begleichung der
+    tatsächlich entstehenden Gebühren bereit.
+
+    (3) Die Vorlage des Gebührenbescheids erfolgt mit Zustellung der
+    Ladung. Dieser ist mindestens zwei Wochen vor Prüfung zu begleichen,
+    andernfalls wird die Teilnahme an der Prüfung untersagt. Der Prüfling
+    bleibt weiterhin Gebührenschuldner.
 
 
 

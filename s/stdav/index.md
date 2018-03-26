@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3021
 
+Geändert durch
+:   Art. 3 V v. 12.7.2017 I 2360
+
 
 
 ## Eingangsformel

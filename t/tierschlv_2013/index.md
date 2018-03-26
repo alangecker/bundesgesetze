@@ -904,8 +904,9 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 12 Absatz 3 und 10)
 
-### Anlage 1 (zu § 12 Absatz 3 und 10) Abweichende und zusätzliche Bestimmungen zu den zulässigen Betäubungsverfahren nach Anhang I der Verordnung (EG) Nr. 1099/2009
+### Anlage 1 Abweichende und zusätzliche Bestimmungen zu den zulässigen Betäubungsverfahren nach Anhang I der Verordnung (EG) Nr. 1099/2009
 
 (Fundstelle: BGBl. I 2012, 2989 - 2992)
 
@@ -1035,7 +1036,6 @@ Der Bundesrat hat zugestimmt.
 
 
 **4.** **Genickbruch**
-
     Abweichend von Anhang I Kapitel I Tabelle 1 Nummer 5 der Verordnung
     (EG) Nr. 1099/2009 darf der Genickbruch bei Geflügel nur außerhalb von
     Schlachthöfen im Falle der Nottötung nach Artikel 2 Buchstabe d der
@@ -1346,9 +1346,10 @@ Der Bundesrat hat zugestimmt.
 
 
 **9.** **Betäubungsverfahren für Fische**
-
     Für die Betäubung von Fischen sind folgende Verfahren zulässig:
 
+
+*
     9.1 Elektrobetäubung,
 
 
@@ -1367,8 +1368,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 12 Absatz 6)
 
-### Anlage 2 (zu § 12 Absatz 6) Höchstdauer zwischen Betäuben und Entblutungsschnitt
+### Anlage 2 Höchstdauer zwischen Betäuben und Entblutungsschnitt
 
 (Fundstelle: BGBl. I 2012, 2993)
 

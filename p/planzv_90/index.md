@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 58
 
-Geändert durch
-:   Art. 2 G v 22.7.2011 I 1509
+Zuletzt geändert durch
+:   Art. 3 G v. 4.5.2017 I 1057
 
 
 
@@ -105,7 +105,7 @@ folgenden dritten Kalendermonats in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage Anlage zur Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts (Planzeichenverordnung 1990 - PlanzV 90) vom 18. Dezember 1990
+## Anlage
 
 (Inhalt: Nicht erfasster Anlagenband,
 Fundstelle: Anlagenband zum BGBl. I Nr. 3 v. 22. Januar 1991;

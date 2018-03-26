@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Verwendung von Extraktionslösungsmitteln und anderen technischen
-  Hilfsstoffen bei der Herstellung von Lebensmitteln
+Title: Verordnung über die Verwendung von Extraktionslösungsmitteln bei der Herstellung
+  von Lebensmitteln
 jurabk: ELV
 layout: default
 origslug: elv
@@ -8,7 +8,7 @@ slug: elv
 
 ---
 
-# Verordnung über die Verwendung von Extraktionslösungsmitteln und anderen technischen Hilfsstoffen bei der Herstellung von Lebensmitteln (ELV)
+# Verordnung über die Verwendung von Extraktionslösungsmitteln bei der Herstellung von Lebensmitteln (ELV)
 
 Ausfertigungsdatum
 :   1991-11-08
@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1991, 2100
 
 Zuletzt geändert durch
-:   Art. 4 V v. 13.12.2011 I 2720
+:   Art. 1 V v. 27.9.2017 I 3518
+
+Neufassung durch
+:   Bek. v. 7.3.2018 I 366 (Nr. 10) noch nicht berücksichtigt
 
 
 ## Eingangsformel
@@ -44,18 +47,21 @@ aus dem Enderzeugnis wieder entfernt werden, die jedoch
 unbeabsichtigte, aber technisch unvermeidbare Rückstände oder
 Umwandlungsprodukte in den Lebensmitteln hinterlassen können.
 
-(2) Diese Verordnung gilt nicht für die Herstellung von Zusatzstoffen,
-naturidentischen Aromastoffen und Vitaminen.
+(2) Diese Verordnung gilt nicht für die Herstellung von
+Lebensmittelzusatzstoffen, Vitaminen und sonstigen Stoffen, die
+Lebensmitteln zu ernährungsphysiologischen Zwecken zugesetzt werden.
 
-(3) Die Zusatzstoff-Verkehrsverordnung ist auf
-Extraktionslösungsmittel nicht anzuwenden.
+(3) (weggefallen)
 
 
 ## § 2 Zugelassene Stoffe
 
-(1) Stoffe im Sinne des § 2 Abs. 3 Satz 3 Nr. 1 des Lebensmittel- und
-Futtermittelgesetzbuches, die als Extraktionslösungsmittel verwendet
-werden, werden den Lebensmittel-Zusatzstoffen gleichgestellt.
+(1) Stoffe im Sinne des Artikels 3 Absatz 2 Buchstabe b der Verordnung
+(EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16.
+Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom
+31\.12.2008, S. 16) in der jeweils geltenden Fassung, die als
+Extraktionslösungsmittel verwendet werden, werden den
+Lebensmittelzusatzstoffen gleichgestellt.
 
 (2) Als Extraktionslösungsmittel werden zugelassen:
 
@@ -63,7 +69,7 @@ werden, werden den Lebensmittel-Zusatzstoffen gleichgestellt.
     a)  destilliertes und demineralisiertes Wasser,
 
 
-    b)  Trinkwasser, dem Zusatzstoffe zur Regulierung der Azidität oder
+    b)  Wasser, dem Lebensmittelzusatzstoffe zur Regulierung der Azidität oder
         Alkalität zugesetzt wurden,
 
 
@@ -90,28 +96,18 @@ werden, werden den Lebensmittel-Zusatzstoffen gleichgestellt.
 
 
 
-(3) Ferner dürfen Trinkwasser, Ethanol und andere Lebensmittel, die
+(3) Ferner dürfen Wasser, Ethanol und andere Lebensmittel, die
 Lösungsmitteleigenschaften haben, als Extraktionslösungsmittel
 verwendet werden.
 
 
-## § 2a Technische Hilfsstoffe
-
-Die in Anlage 5 aufgeführten Stoffe sind für die dort genannten
-Lebensmittel zu den dort bezeichneten Verwendungszwecken zugelassen.
-
-
 ## § 3 Höchstmengen
 
-(1) Die in den Anlagen 2 und 3 aufgeführten Stoffe dürfen als
+Die in den Anlagen 2 und 3 aufgeführten Stoffe dürfen als
 Extraktionslösungsmittel bei dem gewerbsmäßigen Herstellen von
 Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu
 werden, nur so verwendet werden, daß ihre Restgehalte in den
 Lebensmitteln die dort festgesetzten Höchstmengen nicht überschreiten.
-
-(2) Der Gehalt an den in Anlage 5 aufgeführten Stoffen darf die dort
-festgesetzten Höchstmengen in den genannten Lebensmitteln nicht
-überschreiten.
 
 
 ## § 4 Reinheitsanforderungen
@@ -123,12 +119,7 @@ werden, nur verwendet werden, wenn sie den Reinheitsanforderungen
 gemäß Anlage 4 entsprechen. Das gleiche gilt für Ethanol.
 
 
-## § 5
-
-(weggefallen)
-
-
-## § 6 Kennzeichnung
+## § 5 Kennzeichnung
 
 (1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe sowie Ethanol
 dürfen, sofern sie zur Verwendung als Extraktionslösungsmittel
@@ -166,32 +157,24 @@ unverwischbar anzubringen. Bei den Angaben nach Absatz 1 Nr. 3, 4 und
 unberührt.
 
 
-## § 6a (weggefallen)
+## § 6 Straftaten und Ordnungswidrigkeiten
 
--
+(1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 oder § 4 Satz
+1 Stoffe als Extraktionslösungsmittel verwendet.
 
-
-## § 7 Straftaten und Ordnungswidrigkeiten
-
-(1) (weggefallen)
-
-(2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Abs. 1 oder §
-4 Satz 1 Stoffe als Extraktionslösungsmittel oder entgegen § 3 Abs. 2
-Stoffe der Anlage 5 verwendet.
-
-(3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht,
+(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 60 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
-(4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
+(3) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig
 
 1.  entgegen § 4 Satz 2 Ethanol verwendet oder
 
 
-2.  entgegen § 6 Abs. 1 in Verbindung mit Abs. 2 Satz 1 Stoffe als
+2.  entgegen § 5 Absatz 1 in Verbindung mit Abs. 2 Satz 1 Stoffe als
     Extraktionslösungsmittel in den Verkehr bringt, die nicht oder nicht
     in der vorgeschriebenen Weise gekennzeichnet sind.
 
@@ -199,20 +182,12 @@ oder fahrlässig
 
 
 
-## § 8 Übergangsregelung
+## § 6a (weggefallen)
 
-(1) Bis zum 26. April 1999 dürfen Lebensmittel nach den bis zum 9.
-Dezember 1998 geltenden Vorschriften hergestellt, behandelt oder
-gekennzeichnet und auch danach bis zum Abbau der Vorräte in den
-Verkehr gebracht werden.
-
-(2) Bis zum Ablauf des 14. August 2008 dürfen Aromen und andere
-Lebensmittel nach den bis zum 14. Februar 2008 geltenden Vorschriften
-gekennzeichnet oder in den Verkehr gebracht werden und danach noch bis
-zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
+-
 
 
-## § 9 Inkrafttreten
+## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -221,8 +196,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Abs. 2 Nr. 1 Buchstabe c)
 
-## Anlage 1 (zu § 2 Abs. 2 Nr. 1 Buchstabe c) Allgemein verwendbare Extraktionslösungsmittel
+## Anlage 1 Allgemein verwendbare Extraktionslösungsmittel
 
 Fundstelle des Originaltextes: BGBl. I 1991, 2102;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -235,8 +211,9 @@ Aceton; darf nicht bei der Raffinierung von Oliventresteröl verwendet
 werden
 Distickstoffmonoxid
 
+(zu § 2 Abs. 2 Nr. 2 und § 3)
 
-## Anlage 2 (zu § 2 Abs. 2 Nr. 2 und § 3) Beschränkt verwendbare Extraktionslösungsmittel
+## Anlage 2 Beschränkt verwendbare Extraktionslösungsmittel
 
 (Fundstelle: BGBl. I 1993, 2304;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -346,28 +323,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Dimethylether
 
-    *   Herstellung von entfetteten tierischen Proteinerzeugnissen
+    *   Herstellung von entfetteten Proteinerzeugnissen, einschließlich
+        Gelatine
+        3
 
-    *   0,009 mg/kg
-        im entfetteten Proteinerzeugnis
+    *   0,009 mg/kg in entfetteten
+        tierischen Proteinerzeugnissen, einschließlich Gelatine
+
+
+*    *   Herstellung von Kollagen
+        4                         und Kollagenderivaten, ausgenommen Gelatine
+
+    *   3 mg/kg in Kollagen und Kollagenderivaten, ausgenommen Gelatine
 
 
 
 
 1)  Erzeugnis, das hauptsächlich aus aliphatischen gesättigten
     Kohlenwasserstoffen mit 6 Kohlenstoffatomen besteht und zwischen
-    64 Grad C und
-    70 Grad C destilliert. Die gleichzeitige Verwendung mit
-    Ethylmethylketon ist nicht zulässig.
+    64 °C und
+    70 °C destilliert. Die gleichzeitige Verwendung mit Ethylmethylketon
+    ist nicht zulässig.
 
 
 2)  Die gleichzeitige Verwendung mit Hexan ist nicht zulässig.
 
 
+3)  Erzeugnis im Sinne des Artikels 2 Nummer 3 in Verbindung mit Anhang I
+    Nummer 7.7. der Verordnung (EG) Nr. 853/2004 des Europäischen
+    Parlaments und des Rates vom 29. April 2004 mit spezifischen
+    Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139
+    vom 30.4.2004, S. 55).
+
+
+4)  Erzeugnis im Sinne des Artikels 2 Nummer 3 in Verbindung mit Anhang I
+    Nummer 7.8. der Verordnung (EG) Nr. 853/2004.
 
 
 
-## Anlage 3 (zu § 2 Abs. 2 Nr. 3 und § 3) Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
+
+(zu § 2 Abs. 2 Nr. 3 und § 3)
+
+## Anlage 3 Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
 
 (Fundstelle: BGBl. I 1991, 2103;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -452,8 +449,9 @@ Abs. 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.
 
 
 
+(zu § 4 Satz 1 und 2)
 
-## Anlage 4 (zu § 4 Satz 1 und 2) Reinheitskriterien für Extraktionslösungsmittel
+## Anlage 4 Reinheitskriterien für Extraktionslösungsmittel
 
 
 *    *   Stoff
@@ -475,71 +473,4 @@ Abs. 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.
 Extraktionslösungsmittel dürfen auch keine toxikologisch bedenklichen
 Mengen anderer Stoffe enthalten. In einem Kilogramm Ethylmethylketon
 darf der Gehalt an n-Hexan nicht mehr als 50 Milligramm betragen.
-
-
-## Anlage 5 (zu § 2a und § 3 Abs. 2) Technische Hilfsstoffe
-
-(Fundstelle des Originaltextes: BGBl. I 1998, 302)
-
-
-*    *   Zusatzstoff
-
-    *   Verwendungszweck
-
-    *   Lebensmittel
-
-    *   Höchstmenge
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   Kaliumpermanganat
-
-    *   Bleichmittel
-
-    *   Stärke
-
-    *   50 mg in 1 kg, berechnet als Mangandioxid
-
-
-*    *   Natriumhypochlorit
-
-    *   Bleichmittel
-
-    *   Stärke
-        Schale von
-        Walnüssen
-
-    *   qs \*)
-        500 mg in 1 kg
-        Nüsse, berechnet als gebundenes Chlor
-
-
-*    *   Wasserstoffperoxid
-
-    *   Bleichmittel
-
-    *   Stärke
-        Gelatine
-        Fischmarinaden
-
-    *   qs \*)
-
-
-*    *
-        \*) qs = quantum satis im Sinne des § 7 Abs. 2 der Zusatzstoff-
-            Zulassungsverordnung.
-
-
-
-
-
-
 

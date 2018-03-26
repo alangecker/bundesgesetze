@@ -15,8 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 1300 (Anlageband)
 
-Geändert durch
-:   Anlage 1 iVm Art. 1 V v. 21.6.2012 II 618
+Zuletzt geändert durch
+:   Art. 33 Nr. 3 V v. 2.6.2016 I 1257
+
+Änderung durch
+:   Art. 1 iVm Anlage 1 bis 4 V v. 17.6.2016 II 698, 718 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 iVm Anlage 1 V v. 30.3.2017 II 322 (Nr. 8) mWv 1.8.2016 textlich nachgewiesen, dokumentarisch noch nicht abschließend
+
+Änderung durch
+:   Art. 1 iVm Anlage 1 V v. 27.9.2017 II 1282 (Nr. 25) mWv 1.12.2017 noch nicht berücksichtigt
 
 
 ## Inhaltsverzeichnis
@@ -273,6 +282,43 @@ Geändert durch
 *    *   § 4.01
 
     *   Verweis auf die Bestimmungen des ADN
+
+
+*    *
+    *
+
+*    *   Kapitel 4a
+        Ergänzende Bestimmungen
+        über die Sachkunde der Besatzungsmitglieder
+        **von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen**
+
+
+*    *
+    *
+
+*    *   § 4a.01
+
+    *   Sachkunde und Einweisung
+
+
+*    *   § 4a.02
+
+    *   Bescheinigung
+
+
+*    *   § 4a.03
+
+    *   Lehrgang und Prüfung
+
+
+*    *   § 4a.04
+
+    *   Gültigkeit und Verlängerung der Bescheinigung
+
+
+*    *   § 4a.05
+
+    *   Zuständigkeit
 
 
 *    *
@@ -671,6 +717,12 @@ Geändert durch
     *   Anrechnung von Fahrzeiten
 
 
+*    *   § 9.05
+
+    *   Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als
+        Brennstoff
+
+
 *    *
     *
 
@@ -808,23 +860,21 @@ Geändert durch
 *    *
     *
 
-*    *
-    *
+*    *   E: Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als
+        Brennstoff nutzen
 
-*    *
-    *
 
-*    *
-    *
+*    *   E1
 
-*    *
-    *
+    *   Muster der Sachkundebescheinigung für die Nutzung von Flüssigerdgas
+        (LNG) als Brennstoff
 
-*    *
-    *
 
-*    *
-    *
+*    *   E2
+
+    *   Programm der Lehrgänge für Besatzungsmitglieder von Fahrzeugen, die
+        Flüssigerdgas (LNG) als Brennstoff nutzen
+
 
 
 
@@ -836,7 +886,7 @@ Geändert durch
 
 #### § 1.01 Begriffsbestimmungen
 
-   In dieser Verordnung gelten als
+In dieser Verordnung gelten als
 Fahrzeugarten
 
 
@@ -1019,6 +1069,10 @@ Andere Begriffe
     Anhang II § 2.01 der Binnenschiffsuntersuchungsordnung geregelt ist.
 
 
+39. ¸¸Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur
+    von -161° C verflüssigt wurde.
+
+
 
 
 
@@ -1183,7 +1237,12 @@ Befähigung erfüllen:
 
 
         -   eine andere mit Erfolg abgelegte, von der zuständigen Behörde
-            anerkannte Matrosenprüfung;
+            anerkannte Matrosenprüfung oder
+
+
+        -   eine Befähigung zum Matrosen im Sinne einer Verwaltungsvereinbarung
+            über die gegenseitige Anerkennung der durch Berufsausbildung
+            erworbenen Befähigung zum Matrosen;
 
 
 
@@ -1237,7 +1296,12 @@ Befähigung erfüllen:
 
 
         -   eine andere mit Erfolg abgelegte, von der zuständigen Behörde
-            anerkannte Matrosenprüfung;
+            anerkannte Matrosenprüfung oder
+
+
+        -   eine Befähigung zum Matrosen im Sinne einer Verwaltungsvereinbarung
+            über die gegenseitige Anerkennung der durch Berufsausbildung
+            erworbenen Befähigung zum Matrosen;
 
 
 
@@ -1831,7 +1895,15 @@ Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
     (ENI) oder dessen amtlicher Schiffsnummer zu versehen ist, muss von
     einer zuständigen Behörde eines Rheinuferstaates oder Belgiens
     aufgrund der Vorlage einer gültigen Fahrtauglichkeitsbescheinigung
-    ausgestellt sein.
+    ausgestellt sein. Auf Schiffen, die über ein gemäß Anhang II Anlage O
+    der Binnenschiffsuntersuchungsordnung auf dem Rhein anerkanntes
+    Gemeinschaftszeugnis verfügen, kann statt des von einer zuständigen
+    Behörde eines Rheinuferstaates oder Belgiens ausgestellten Bordbuches
+    ein von einer zuständigen Behörde eines Drittstaates ausgestelltes und
+    von der ZKR anerkanntes Bordbuch mitgeführt werden. Anerkannte
+    Bordbücher sind in mindestens einer der Amtssprachen der ZKR zu
+    führen. Die zuständigen Behörden für die Ausstellung von auf dem Rhein
+    gültigen Bordbüchern ergeben sich aus Anlage A1a.
 
 
 2.  Alle nachfolgenden Bordbücher können von allen zuständigen Behörden
@@ -4745,11 +4817,109 @@ niederländischen „Binnenvaart wet“ (Staatsblad 2007 Nummer 498).
 ### Kapitel 4 - Ergänzende Bestimmungen für das Sicherheitspersonal auf Schiffen, die gefährliche Güter befördern
 
 
+### Kapitel 4a - Ergänzende Bestimmungen über die Sachkunde der Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+
+
 #### § 4.01 Verweis auf die Bestimmungen des ADN
 
 Auf Schiffen, die gefährliche Güter befördern, muss eine Person gemäß
 7\.1.3.15 und 7.2.3.15 des ADN Inhaber einer Sachkundigenbescheinigung
 nach dem Muster des Abschnitts 8.6.2 des ADN sein.
+
+
+#### § 4a.01 Sachkunde und Einweisung
+
+
+1.  Der Schiffsführer und am Bunkervorgang beteiligte Besatzungsmitglieder
+    von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen, müssen
+    über Sachkunde im Umgang mit Flüssigerdgas als Brennstoff verfügen.
+
+
+2.  Ein Besatzungsmitglied darf seine Tätigkeit an Bord erst aufnehmen,
+    nachdem es vom Schiffsführer in den Umgang mit Flüssigerdgas (LNG) als
+    Brennstoff auf dem betreffenden Fahrzeug, insbesondere bezüglich des
+    Bunkervorgangs, eingewiesen worden ist.
+
+
+
+
+
+#### § 4a.02 Bescheinigung
+
+Die betroffenen Besatzungsmitglieder weisen ihre Sachkunde durch eine
+Bescheinigung nach dem Muster der Anlage E1 nach. Die Bescheinigung
+wird erteilt, wenn der Kandidat die Anforderungen der §§ 4a.03 und
+4a.04 erfüllt.
+
+
+#### § 4a.03 Lehrgang und Prüfung
+
+Der Lehrgang zur Sachkunde besteht aus einem theoretischen und einem
+praktischen Teil und wird mit einer Prüfung abgeschlossen. Der
+theoretische Teil des Lehrgangs umfasst die in Anlage E2 Teil A
+aufgeführten Themen. Der praktische Teil des Lehrgangs betrifft die
+Umsetzung des theoretischen Wissens in der Praxis an Bord eines
+Fahrzeugs, das Flüssigerdgas (LNG) als Brennstoff nutzt, und/oder an
+einer dafür geeigneten Landanlage. Er umfasst die in Anlage E2 Teil B
+aufgeführten Themen. Die Prüfung besteht aus einem theoretischen und
+einem praktischen Teil. Sie umfasst alle in Anlage E2 Teil A und Teil
+B genannten Themen. Die Prüfung ist bestanden, wenn der Kandidat in
+jedem der beiden Prüfungsteile ausreichende Kenntnisse und Fähigkeiten
+unter Beweis gestellt hat. Der praktische Teil der Prüfung wird an
+Bord eines Fahrzeugs und/oder an Land abgenommen.
+
+
+#### § 4a.04 Gültigkeit und Verlängerung der Bescheinigung
+
+
+1.  Die Bescheinigung hat eine Gültigkeitsdauer von fünf Jahren.
+
+
+2.  Auf Antrag des Inhabers wird die gültige Bescheinigung nach dem Muster
+    der Anlage E1 von der zuständigen Behörde um fünf Jahre ab
+    Antragstellung verlängert, wenn der Inhaber
+
+    a)  folgende Fahrzeit auf einem Fahrzeug, das Flüssigerdgas (LNG) als
+        Brennstoff nutzt, nachweisen kann:
+
+        –   für die zurückliegenden fünf Jahre mindestens 180 Tage oder
+
+
+        –   für das zurückliegende Jahr mindestens 90 Tage
+
+
+
+        oder, wenn dies nicht der Fall ist,
+
+
+    b)  an einem Auffrischungslehrgang mit Prüfung teilnimmt. Für die Inhalte
+        des Auffrischungslehrgangs und der Prüfung gilt § 4a.03 entsprechend,
+        wobei der Lehrgangs- und Prüfungsumfang reduziert wird.
+
+
+
+
+
+
+
+
+#### § 4a.05 Zuständigkeit
+
+Zuständig für die Durchführung von anerkannten Lehrgängen und
+Auffrischungslehrgängen, für die Abnahme von Prüfungen und für die
+Ausstellung der Bescheinigungen nach dem Muster der Anlage E1 sind
+anerkannte Ausbildungsstätten. Die Anerkennung von Lehrgängen,
+Auffrischungslehrgängen und Ausbildungsstätten erfolgt durch die
+zuständigen Behörden aufgrund der von der ZKR festgelegten
+einheitlichen Kriterien. Die zuständige Behörde kann sich die
+Ausstellung oder Verlängerung der Bescheinigungen vorbehalten.
+Zuständig für die Verlängerung von Bescheinigungen aufgrund von
+Fahrzeit ist jede zuständige Behörde. Die zuständigen Behörden
+informieren die ZKR über jede Entscheidung über die Anerkennung einer
+Ausbildungsstätte oder über die Aufhebung oder Suspendierung einer
+solchen Anerkennung. Das Verzeichnis der anerkannten
+Ausbildungsstätten und Lehrgänge wird von der ZKR elektronisch
+veröffentlicht.
 
 
 ### Kapitel 5 - Ergänzende Bestimmungen für das Sicherheitspersonal auf Fahrgastschiffen
@@ -5159,19 +5329,19 @@ Strecke sowie die Bedingungen für den Erwerb der Patente.
     Streckenabschnitte erteilt; wird es für einzelne Streckenabschnitte
     erteilt, gilt es auch für die Fahrt unterhalb der Spyck’schen Fähre
     (km 857,40) und auf der Strecke zwischen Basel (Mittlere Rheinbrücke
-    km 166,64) und den Schleusen Iffezheim (km 335,92); die als
+    km 166,53) und den Schleusen Iffezheim (km 335,92); die als
     gleichwertig anerkannten Schiffsführerzeugnisse gelten auf den in §
     7\.05 beschriebenen Strecken nur, wenn deren Inhaber ein
     Streckenzeugnis nach dem Muster der Anlage D3 besitzen.
 
 
 3.  Für die Fahrt unterhalb der Spyck’schen Fähre (km 857,40) und auf der
-    Strecke zwischen Basel (Mittlere Rheinbrücke - km 166,64) und den
+    Strecke zwischen Basel (Mittlere Rheinbrücke – km 166,53) und den
     Schleusen Iffezheim (km 335,92) genügt
 
     a)  anstelle des Patentes nach § 7.01 ein Schifferpatent nach Anhang I der
-        Richtlinie 91/672/EWG oder ein auf Grund der Richtlinie 96/50/EG
-        erteiltes Schifferpatent;
+        Richtlinie 91/672/EWG des Rates oder ein auf Grund der Richtlinie
+        96/50/EG des Rates erteiltes Schifferpatent;
 
 
     b)  anstelle der Patente nach den §§ 7.02 bis 7.04 ein anderes von der
@@ -6492,13 +6662,54 @@ Verordnung geleistet wurden, werden nach Maßgabe der bisherigen
 Vorschriften angerechnet.
 
 
-#### Anlage A1 (Muster) Bordbuch
+#### § 9.05 Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
+
+Besatzungsmitglieder von Fahrzeugen, die vor dem 1. Juli 2016 mit der
+Nutzung von Flüssigerdgas (LNG) als Brennstoff begonnen haben,
+erhalten von den zuständigen Behörden eine Bescheinigung gemäß §
+4a.02, wenn sie aufgrund einer Empfehlung der ZKR nach Anhang II §
+2\.19 der Binnenschiffsuntersuchungsordnung geschult wurden und
+mindestens 90 Tage Fahrzeit auf derartigen Schiffen nachweisen können.
+
+(Muster)
+
+#### Anlage A1 Bordbuch
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 35 - 37)
 
 
 
-#### Anlage A2 (Muster) Schifferdienstbuch
+#### Anlage A1a Zuständige Behörden für die Ausstellung von auf dem Rhein gültigen Bordbüchern
+
+(Fundstelle: BGBl. II 2016, S. 718)
+
+
+*    *   **Staat**
+
+    *   **Behörde**
+
+    *   **Ausstellungszeitraum**
+
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+
+   Die Liste der zuständigen Behörden wird von der ZKR auf der Website
+www.ccr-zkr.org bekannt gemacht.
+
+(Muster)
+
+#### Anlage A2 Schifferdienstbuch
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 38 - 59)
 
@@ -6701,68 +6912,22 @@ einzuhalten:
 
 
 
+(Muster)
 
-#### Anlage A4 (Muster) Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 3.12 Nr. 2 bis 6
+#### Anlage A4 Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 3.12 Nr. 2 bis 6
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 62)
 
 
 
-#### Anlage A5 (Muster) Als gleichwertig anerkannte im Ausland ausgestellte Schifferdienstbücher
+#### Anlage A5 Als gleichwertig anerkannte im Ausland ausgestellte Schifferdienstbücher
 
-(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 63)
+(Fundstelle: BGBl. II 2017, 324)
 
-
-*    *   **Staat**
-
-    *   **Zuständige ausstellende Behörde**
-
-    *   **Beschluss**
-
-
-*    *   **Tschechische Republik**
-
-    *   2000-I-26
-
-
-*    *   Státní plavební správa Praha
-
-    *   Jankovcova 4
-        170 00 Praha 7
-
-    *   Tel: 234 637 111
-        Fax: 266 710 545
-        pobocka@spspraha.cz
-
-
-*    *
-    *
-    *
-
-*    *   Státní plavební správa Děčín
-
-    *   Labská 694/21
-        405 01 Děčín 1
-
-    *   Tel: 412 557 411
-        Fax: 412 557 410
-        pobocka@spsdecin.cz
-
-
-*    *
-    *
-    *
-
-*    *   Státní plavební správa Přerov
-
-    *   Seifertova 33
-        750 02 Přerov
-
-    *   Tel: 581 284 254
-        Fax: 581 284 256
-        pobocka@spsprerov.cz
-
-
+Die Liste der als gleichwertig anerkannten im Ausland ausgestellten
+Schifferdienstbücher und der dazu gehörigen Informationen über die
+ausstellenden Behörden werden von der ZKR auf der Website *www.ccr-
+zkr.org*              bekannt gemacht.
 
 
 #### Anlage B1 Mindestanforderungen an die Tauglichkeit
@@ -6890,62 +7055,80 @@ einzuhalten:
 
 
 
+(Muster)
 
-#### Anlage B2 (Muster) Ärztliches Zeugnis über die Untersuchung der Tauglichkeit in der Rheinschifffahrt
+#### Anlage B2 Ärztliches Zeugnis über die Untersuchung der Tauglichkeit in der Rheinschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 65 - 66)
 
 
+(Muster)
 
-#### Anlage B3 (Muster) Bescheid zur Tauglichkeit
+#### Anlage B3 Bescheid zur Tauglichkeit
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 67)
 
 
+(Muster)
 
-#### Anlage C1 (Muster) Bescheinigung Sachkundiger für Fahrgastschifffahrt
+#### Anlage C1 Bescheinigung Sachkundiger für Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 68)
 
 
+(Muster)
 
-#### Anlage C2 (Muster) Bescheinigung Ersthelfer in der Fahrgastschifffahrt
+#### Anlage C2 Bescheinigung Ersthelfer in der Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 69)
 
 
+(Muster)
 
-#### Anlage C3 (Muster) Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt
+#### Anlage C3 Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 70)
 
 
+(Muster)
 
-#### Anlage C4 (Muster) Bescheinigungsbuch für die Fahrgastschifffahrt
+#### Anlage C4 Bescheinigungsbuch für die Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 71 - 80)
 
 
+(Muster)
 
-#### Anlage D1 (Muster) Rheinpatent
+#### Anlage D1 Rheinpatent
 
-(Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 81)
+(Fundstelle: BGBl. II 2016, S. 708)
 
+[^bjnr130030011bjne009501305_01_BJNR130030011BJNE009501305]
+Rheinpatent
+## (85 mm x 54 mm – Grundfarbe blau)
 
+![bgbl2_2016_j0708_0010.jpg](bgbl2_2016_j0708_0010.jpg)![bgbl2_2016_j0708_0020.jpg](bgbl2_2016_j0708_0020.jpg)
+    gültig ab 1.7.2015 bei Ausstellung/Verlängerung von Rheinpatenten.
+    Bereits bestehende Kontingente mit dem bisherigen Logo können
+    aufgebraucht werden.
+[^bjnr130030011bjne009501305_01_BJNR130030011BJNE009501305]: 
+(Muster)
 
-#### Anlage D2 (Muster) Vorläufiges Rheinpatent
+#### Anlage D2 Vorläufiges Rheinpatent
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 82)
 
 
+(Muster)
 
-#### Anlage D3 (Muster) Streckenzeugnis
+#### Anlage D3 Streckenzeugnis
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 83)
 
 
+(Muster)
 
-#### Anlage D4 (Muster) Radarpatent
+#### Anlage D4 Radarpatent
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 84)
 
@@ -6953,394 +7136,22 @@ einzuhalten:
 
 #### Anlage D5 Als gleichwertig anerkannte Schiffsführerzeugnisse
 
-**I.** **Schiffsführerzeugnisse der Mitgliedstaaten**
-
-
-*    *   Staat
-
-    *   Name des als
-        gleichwertig
-        anerkannten
-        Zeugnisses
-
-    *   Zusätzliche Bedingungen
-
-    *   Zuständige ausstellende Behörde(n)
-
-    *   Muster des als
-        gleichwertig
-        anerkannten
-        Zeugnisses
-
-
-*    *   D
-
-    *   Schifferpatent A
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein für die Fahrt
-            auf der Strecke zwischen den Schleusen Iffezheim (km 335,92) und der
-            Spyck’schen Fähre (km 857,40) gültig,
-
-
-
-
-    *   Wasser- und Schifffahrtsdirektion Nord
-        und Wasser- und Schifffahrtsdirektion
-        Nordwest
-
-    *   Muster
-
-
-*    *   D
-
-    *   Schifferpatent B
-
-    *   Wasser- und Schifffahrtsdirektion
-        Nord, Nordwest, Mitte, West, Südwest,
-        Süd und Ost
-
-
-*    *   NL
-
-    *   Groot vaarbewijs A
-        voor de binnenvaart
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein für die Fahrt
-            auf der Strecke zwischen den Schleusen Iffezheim (km 335,92) und der
-            Spyck’schen Fähre (km 857,40) gültig,
-
-
-        –   der Inhaber muss mindestens 21 Jahre alt sein,
-
-
-
-
-    *   CCV, afdeling binnenvaart
-        P.C. Boutenslaan 1
-        Postbus 1970
-        2280 DV Rijswijk
-
-    *   Muster
-
-
-*    *   NL
-
-    *   Groot vaarbewijs B
-        voor de binnenvaart
-
-
-*    *   NL
-
-    *   Groot vaarbewijs I
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein für die Fahrt
-            auf der Strecke zwischen den Schleusen Iffezheim (km 335,92) und der
-            Spyck’schen Fähre (km 857,40) gültig,
-
-
-        –   der Inhaber muss mindestens 21 Jahre alt sein,
-
-
-        –   der Inhaber ist nur bis zum 50. Lebensjahr zur Fahrt auf dem Rhein
-            berechtigt,
-
-
-
-
-    *   bis zum 1. März 2001
-        durch den KOFS ausgestellt
-
-    *   Muster
-
-
-*    *   NL
-
-    *   Groot vaarbewijs II
-
-
-*    *   B
-
-    *   Schiffsführer-
-        zeugnis/ Vaarbewijs A
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein für die Fahrt
-            auf der Strecke zwischen den Schleusen Iffezheim (km 335,92) und der
-            Spyck’schen Fähre (km 857,40) gültig,
-
-
-        –   der Inhaber muss mindestens 21 Jahre alt sein,
-
-
-        –   der Inhaber muss bei Erreichen des 50. Lebensjahres einen Bescheid zur
-            Tauglichkeit nach dem Muster der Anlage B3 der Verordnung über das
-            Schiffspersonal auf dem Rhein vorlegen, der nach Maßgabe der genannten
-            Regelung zu erneuern ist,
-
-
-
-
-    *   S.P.F. Mobilité et
-        Transports/F.O.D.
-        Mobiliteit en vervoer
-        Direction Générale
-        Transport Terrestre/
-        Directoraat-Generaal
-        Vervoer Te Land
-        City Atrium
-        Rue du Progrès 56
-        B-1210 Brüssel
-
-    *   Muster
-
-
-*    *   B
-
-    *   Schiffsführer-
-        zeugnis/ Vaarbewijs B
-
-
-*    *   BG
-
-    *   Schifferpatent für die Binnenschifffahrt
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein auf der
-            Strecke zwischen den Schleusen Iffezheim (Rhein-km 335,92) und der
-            Spyck’schen Fähre (Rhein-km 857,40) gültig,
-
-
-        –   der Inhaber muss bei Vollendung des 50. Lebensjahres einen Bescheid
-            zur Tauglichkeit gemäß dem Muster B3 der Verordnung über das
-            Schiffspersonal auf dem Rhein vorlegen, der nach Maßgabe der genannten
-            Verordnung zu erneuern ist,
-
-
-
-
-    *   Bulgarian Maritime Administration (BMA)
-        Ruse 7000
-        20 Pristanistna St.
-        stw\_rs@marad.bg
-        Tel.: +359 82 815 815
-        Fax: +359 82 824 009
-
-    *   Muster
-
-
-
-**II.** **Schiffsführerzeugnisse von Drittstaaten**
-
-*    *   Staat
-
-    *   Name des als
-        gleichwertig
-        anerkannten
-        Zeugnisses
-
-    *   Zusätzliche Bedingungen
-
-    *   Zuständige ausstellende Behörde(n)
-
-    *   Muster des als
-        gleichwertig
-        anerkannten
-        Zeugnisses
-
-
-*    *   RO
-
-    *   Schiffsführer-
-        zeugnis A
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein für die Fahrt
-            auf der Strecke zwischen den Schleusen Iffezheim (km 335,92) und der
-            Spyck’schen Fähre (km 857,40) gültig,
-
-
-        –   der Inhaber muss mindestens 21 Jahre alt sein,
-
-
-        –   der Inhaber muss bei Vollendung des 50. Lebensjahres einen Bescheid
-            zur Tauglichkeit nach dem Muster der Anlage B3 der Verordnung über das
-            Schiffspersonal auf dem Rhein vorlegen, der nach Maßgabe der genannten
-            Regelung zu erneuern ist,
-
-
-
-
-    *   Rumänische Seeschifffahrtsbehörde,
-        Constanta Port No. 1,
-        900900 Constanta,
-        Rumänien
-
-        Tel.: +40 241/616.129;
-
-
-        *   +40 241/60.2229
-
-
-
-
-        Fax: +40 241/616.229;
-
-
-        *   +40 241/60.1996
-
-
-
-        Email: rna@rna.ro
-
-    *   Muster
-
-
-*    *   RO
-
-    *   Schiffsführer-
-        zeugnis B
-
-    *   Muster
-
-
-*    *
-    *
-
-*    *
-    *
-
-*    *   CZ
-
-    *   Kapitänszeugnis
-        Klasse I
-
-    *
-        –   das Zeugnis ist auf der Strecke zwischen den Schleusen Iffezheim
-            (Rhein-km 335,92) und der Spyck’schen Fähre (Rhein-km 857,40) nur in
-            Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage D3 der
-            Verordnung über das Schiffspersonal auf dem Rhein gültig,
-
-
-        –   der Inhaber muss bei Vollendung des 50. Lebensjahres einen Bescheid
-            zur Tauglichkeit nach dem Muster der Anlage B3 der Verordnung über das
-            Schiffspersonal auf dem Rhein vorlegen, der nach Maßgabe der genannten
-            Regelung zu erneuern ist,
-
-
-
-
-    *   Státní plavební správa,
-        Jankovcova 4
-        Praha 7
-        170 04
-        République tchèque
-        Tel.: +420 234 637 240
-        kuzminski@spspraha.cz
-        bimka@spsprha.cz
-
-    *   Muster
-
-
-*    *
-
-*    *   HU
-
-    *   Schiffsführer-
-        zeugnis der Klasse A
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein für die Fahrt
-            auf der Strecke zwischen den Schleusen Iffezheim (km 335,92) und der
-            Spyck’schen Fähre (km 857,40) gültig,
-
-
-        –   der Inhaber muss bei Vollendung des 50. Lebensjahres einen Bescheid
-            zur Tauglichkeit nach dem Muster der Anlage B3 der Verordnung über das
-            Schiffspersonal auf dem Rhein vorlegen, der nach Maßgabe der genannten
-            Regelung zu erneuern ist,
-
-
-
-
-    *   Nemzeti Közlekedési Hatóság /
-        Zuständige ausstellende Behörde
-        Stratégiai és Módszertani Igazgatóság /
-        Direktion Strategie und Methodologie
-        Hajózási és Légiközlekedési Főosztály /
-        Abteilung Schifffahrt und zivile Luftfahrt
-        Postanschrift:
-        1389 Budapest 62 Pf. 102
-        Adresse:
-        1066 Budapest,
-        Teréz körút 62
-        Ungarn
-        Tel.: +36 1 815 9646
-        Fax: +36 1 815 9659
-        E-Mail: hajozaslegikozlekedesfoo.smi@nkh.gov.hu
-
-    *   Muster
-
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-*    *   HU
-
-    *   Schiffsführer-
-        zeugnis der Klasse B
-
-    *
-        –   nur in Verbindung mit einem Streckenzeugnis nach dem Muster der Anlage
-            D3 der Verordnung über das Schiffspersonal auf dem Rhein für die Fahrt
-            auf der Strecke zwischen den Schleusen Iffezheim (km 335,92) und der
-            Spyck’schen Fähre (km 857,40) gültig,
-
-
-        –   der Inhaber muss bei Vollendung des 50. Lebensjahres einen Bescheid
-            zur Tauglichkeit nach dem Muster der Anlage B3 der Verordnung über das
-            Schiffspersonal auf dem Rhein vorlegen, der nach Maßgabe der genannten
-            Regelung zu erneuern ist,
-
-
-
-
-    *   Muster
-
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-
+(Fundstelle: BGBl. II 2017, 324)
+
+Die Liste der als gleichwertig anerkannten Schiffsführerzeugnisse und
+der dazu gehörigen Informationen über die aus stellenden Behörden und
+die Muster werden von der ZKR auf der Website *www.ccr-zkr.org*
+bekannt gemacht.
 
 
 #### Anlage D6 Als gleichwertig anerkannte Befähigungszeugnisse für die Radarfahrt
 
-   (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 98 - 101)
+(Fundstelle: BGBl. II 2017, 324)
 
+Die Liste der als gleichwertig anerkannten Befähigungszeugnisse für
+die Radarfahrt und der dazu gehörigen Informationen über die
+ausstellenden Behörden und die Muster werden von der ZKR auf der
+Website *www.ccr-zkr.org*              bekannt gemacht.
 
 
 #### Anlage D7 Prüfungsprogramm für den Erwerb eines Patentes für den Rhein
@@ -8567,6 +8378,276 @@ einzuhalten:
 
     *   Verhalten bei besonderen Vorkommnissen (z. B. gefährliche
         Verkehrssituationen oder Ausfall von Geräten).
+
+
+
+
+
+#### Anlage E1 Muster der Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
+
+(Fundstelle: BGBl. II 2016, S. 705)
+
+(Format A6 hoch, Farbe: gelb)
+![bgbl2_2016_j0705_0010.jpg](bgbl2_2016_j0705_0010.jpg)![bgbl2_2016_j0705_0020.jpg](bgbl2_2016_j0705_0020.jpg)
+
+#### Anlage E2 Programm der Lehrgänge für Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+
+(Fundstelle: BGBl. II 2016, S. 706 - 707)
+
+
+**A.** **Theoretischer Teil des Lehrgangs**
+
+    Der theoretische Teil des Lehrgangs umfasst folgende Themen:
+
+    **1.** **Gesetzgebung**
+
+
+    1.1 Gesetzgebung in Bezug auf Fahrzeuge, die Flüssigerdgas als Brennstoff
+        nutzen (ADN, RheinSchPV, Anhang II der BinSchUO, Richtlinie 2006/87/EG
+        und ggf. neue Entwicklungen)
+
+
+    1.2 Vorschriften der Klassifikationsgesellschaft
+
+
+    1.3 Relevante Gesetzgebung für Gesundheit und Sicherheit
+
+
+    1.4 Relevante lokale Vorschriften und Genehmigungen (insbesondere in den
+        Hafengebieten)
+
+
+    **2.** **Einführung zu Flüssigerdgas (LNG)**
+
+
+    2.1 Definition für Flüssigerdgas (LNG), kritische Temperaturen, Gefahren
+        im Zusammenhang mit Flüssigerdgas (LNG), atmosphärische Bedingungen
+
+
+    2.2 Zusammensetzungen und Eigenschaften von Flüssigerdgas,
+        Qualitätszertifikate für Flüssigerdgas (LNG)
+
+
+    2.3 SDBl (Sicherheitsdatenblatt): Physikalische und Produkteigenschaften
+
+
+    2.4 Umwelteigenschaften
+
+
+    **3.** **Sicherheit**
+
+
+    3.1 Gefahren und Risiken
+
+
+    3.2 Risikobewertung
+
+
+    3.3 Risikomanagement
+
+
+    3.4 Sicherheitsrolle an Bord (einschließlich Sicherheitsplan und
+        Sicherheitsanweisungen)
+
+
+    3.5 Gefährdete Bereiche
+
+
+    3.6 Brandschutz
+
+
+    3.7 Verwendung von persönlicher Schutzausrüstung
+
+
+    **4.** **Technische Aspekte des LNG-Systems**
+
+
+    4.1 Allgemeine Anordnung und Betriebshandbuch
+
+
+    4.2 Erläuterung der Wirkungsweise von Flüssigerdgas
+
+
+    4.3 LNG-Bunkersystem
+
+
+    4.4 Bilgenlenzsystem und Auffangschalen
+
+
+    4.5 LNG-Behältersystem
+
+
+    4.6 Gasaufbereitungssystem
+
+
+    4.7 LNG-Leitungssystem
+
+
+    4.8 Gasversorgungssystem
+
+
+    4.9 Maschinenräume
+
+
+    4.10 Belüftungssystem
+
+
+    4.11 Temperaturen und Drücke (Lesen eines Druck- und
+        Temperaturverteilungsplans)
+
+
+    4.12 Ventile (insbesondere Hauptgasbrennstoffventil)
+
+
+    4.13 Überdruckventile
+
+
+    4.14 Kontroll-, Überwachungs- und Sicherheitssysteme
+
+
+    4.15 Alarme und Gasdetektion
+
+
+    **5.** **Wartung und Prüfung des LNG-Systems**
+
+
+    5.1 Tägliche Instandhaltung
+
+
+    5.2 Wöchentliche Instandhaltung
+
+
+    5.3 Regelmäßige wiederkehrende Instandhaltung
+
+
+    5.4 Fehler
+
+
+    5.5 Dokumentation der Instandhaltungsarbeiten
+
+
+    **6.** **Bunkern von Flüssigerdgas**
+
+
+    6.1 Kennzeichen gemäß RheinSchPV
+
+
+    6.2 Liege- und Festmachbedingungen für das Bunkern
+
+
+    6.3 Verfahren für das Bunkern von Flüssigerdgas (LNG)
+
+
+    6.4 Gasentleerung und Spülung des LNG-Systems
+
+
+    6.5 Einschlägige Prüflisten und Auslieferungszertifikat
+
+
+    6.6 Sicherheitsmaßnahmen beim Bunkern und Evakuierungsverfahren
+
+
+    **7.** **Vorbereitung des LNG-Systems für Instandhaltungsarbeiten des
+        Fahrzeugs**
+
+
+    7.1 Gasentleerung und Spülung des LNG-Systems vor dem Werftaufenthalt
+
+
+    7.2 Inertisierung des LNG-Systems
+
+
+    7.3 Verfahren zum Entleeren des LNG-Lagertanks
+
+
+    7.4 Erste Befüllung des LNG-Lagertanks (Abkühlung)
+
+
+    7.5 Inbetriebnahme nach dem Werftaufenthalt
+
+
+    **8.** **Notfallszenarien**
+
+
+    8.1 Notfallmaßnahmen und Sicherheitsrolle an Bord (einschließlich
+        Sicherheitsplan und Sicherheitsanweisungen)
+
+
+    8.2 Verschüttung von Flüssigerdgas (LNG) auf dem Deck
+
+
+    8.3 Hautkontakt mit Flüssigerdgas (LNG)
+
+
+    8.4 Verschüttung von Flüssigerdgas (LNG) in geschlossenen Räumen (z. B. in
+        den Maschinenräumen)
+
+
+    8.5 Verschüttung von Flüssigerdgas (LNG) oder Erdgas in den Räumen
+        zwischen den Barrieren (doppelwandiger Tank, doppelwandige Leitung)
+
+
+    8.6 Brand in der Nähe des LNG-Lagertanks
+
+
+    8.7 Brand in den Maschinenräumen
+
+
+    8.8 Spezifische Gefahren beim Transport von Gefahrgütern
+
+
+    8.9 Festfahren / Kollision des Fahrzeugs
+
+
+    8.10 Notfallmaßnahmen der einsatzfähigen Wache
+
+
+    8.11 Notfallmaßnahmen während der Fernüberwachung
+
+
+
+
+
+**B.** **Praktischer Teil des Lehrgangs**
+
+    Der praktische Teil des Lehrgangs umfasst die folgenden Themen:
+
+    1.  Vertrautmachen mit dem Inhalt des Managementsystems des Schiffs,
+        insbesondere der Teile zum LNG-System
+
+
+    2.  Kontrolle des Sicherheitsbewusstseins und der Verwendung der
+        Sicherheitsausrüstung für Flüssigerdgas (LNG)
+
+
+    3.  Kontrolle der Kenntnisse der entsprechenden Bordunterlagen
+        (Sicherheitsrolle und Betriebshandbuch)
+
+
+    4.  Kenntnisse der Ventile (insbesondere Hauptgasbrennstoffventil)
+
+
+    5.  Kenntnisse der Kontroll-, Überwachungs- und Sicherheitssysteme
+
+
+    6.  Kenntnisse der Verfahren zur Instandhaltung und Kontrolle des LNG-
+        Systems
+
+
+    7.  Kenntnisse des Bunkerverfahrens und Vertrautmachen mit dem
+        Bunkerverfahren
+
+
+    8.  Kenntnisse der Instandhaltungsverfahren für Werftaufenthalte
+
+
+    9.  Kenntnisse zu den Notfallszenarien
+
+
+    10. Brandbekämpfung
+
+
+
 
 
 

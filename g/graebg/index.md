@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 16.1.2012 I 98
 
+Zuletzt geändert durch
+:   Art. 9 G v. 23.7.2013 I 2586
+
 
 ## § 1 Anwendungsbereich
 
@@ -392,7 +395,7 @@ Aufwendungen bleiben unberührt.
 (1) Für Amtshandlungen, die bei Durchführung dieses Gesetzes mit
 Ausnahme des § 7 erforderlich werden, werden Gebühren und Auslagen
 nicht erhoben. Dies gilt auch für Gerichtskosten, Beurkundungs- und
-Beglaubigungskosten nach der Kostenordnung.
+Beglaubigungskosten nach dem Gerichts- und Notarkostengesetz.
 
 (2) Die Wahrnehmung der Aufgaben nach diesem Gesetz gilt nicht als
 gewerbliche Tätigkeit im Sinne des § 2 Absatz 3 des
