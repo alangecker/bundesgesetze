@@ -269,7 +269,7 @@ Anlage 4 genannter fachlicher Geltungsbereich eröffnet ist.
 Diese Verordnung tritt am 1. März 2018 in Kraft und am 31. Dezember
 2019 außer Kraft.
 
-(zu § 1 Abatz 1)
+(zu § 1 Absatz 1)
 
 ## Anlage 1 Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 3. November 2017
 
